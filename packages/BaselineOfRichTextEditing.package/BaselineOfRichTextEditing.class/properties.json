@@ -1,15 +1,14 @@
 {
-	"category" : "ToDo-Core",
+	"category" : "BaselineOfRichTextEditing",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"todos",
-		"currentTodo" ],
-	"name" : "ToDoTool",
+		 ],
+	"name" : "BaselineOfRichTextEditing",
 	"pools" : [
 		 ],
-	"super" : "Model",
+	"super" : "BaselineOf",
 	"type" : "normal" }
