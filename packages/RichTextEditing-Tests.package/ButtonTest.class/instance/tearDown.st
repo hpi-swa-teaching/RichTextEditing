@@ -1,4 +1,4 @@
 as yet unclassified
 tearDown
 
-	editor abandon.
+	self subject abandon.

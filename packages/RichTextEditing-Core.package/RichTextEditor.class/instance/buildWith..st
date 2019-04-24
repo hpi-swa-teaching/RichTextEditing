@@ -8,7 +8,8 @@ buildWith: aBuilder
 		label: 'Rich Text Editor';
 		children: {
 			self buildTextFieldWith: aBuilder.
-			self buildSaveButtonWith: aBuilder}.
+			self buildSaveButtonWith: aBuilder.
+			self buildLoadButtonWith: aBuilder}.
 			
 	^ aBuilder build: windowSpec
 		

@@ -2,8 +2,10 @@
 	"class" : {
 		"open" : "ls 4/24/2019 17:22" },
 	"instance" : {
-		"buildSaveButtonWith:" : "ls 4/24/2019 17:54",
-		"buildTextFieldWith:" : "ls 4/24/2019 17:50",
-		"buildWith:" : "ls 4/24/2019 17:45",
+		"buildLoadButtonWith:" : "ls 4/24/2019 19:18",
+		"buildSaveButtonWith:" : "ls 4/24/2019 19:19",
+		"buildTextFieldWith:" : "ls 4/24/2019 19:20",
+		"buildWith:" : "ls 4/24/2019 17:57",
 		"initialize" : "ls 4/21/2019 10:02",
+		"loadTextFromImage" : "ls 4/24/2019 17:57",
 		"saveTextInImage" : "ls 4/24/2019 17:55" } }

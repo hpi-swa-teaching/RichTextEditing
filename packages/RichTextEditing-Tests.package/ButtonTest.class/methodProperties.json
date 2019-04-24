@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "ls 4/24/2019 18:10",
+		"tearDown" : "ls 4/24/2019 18:04",
+		"testLoadButtonExists" : "ls 4/24/2019 19:21",
+		"testSaveButtonExists" : "ls 4/24/2019 19:22",
+		"testSaveButtonLetsChooseName" : "ls 4/24/2019 19:24",
+		"testSaveButtonSavesInImage" : "ls 4/24/2019 19:08" } }
