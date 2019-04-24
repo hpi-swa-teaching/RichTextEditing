@@ -1,6 +1,8 @@
 {
 	"class" : {
-		"open" : "ls 4/24/2019 17:22" },
+		"getSubmorphsOf:withClass:" : "MB 4/24/2019 21:09",
+		"newBuildWithToolBuilder:" : "MB 4/24/2019 21:08",
+		"open" : "MB 4/24/2019 21:09" },
 	"instance" : {
 		"buildLoadButtonWith:" : "ls 4/24/2019 19:18",
 		"buildSaveButtonWith:" : "ls 4/24/2019 19:19",
@@ -10,4 +12,6 @@
 		"loadTextFromImage" : "ls 4/24/2019 17:57",
 		"saveTextInImage" : "ls 4/24/2019 20:31",
 		"saver" : "ls 4/24/2019 20:16",
-		"saver:" : "ls 4/24/2019 20:16" } }
+		"saver:" : "ls 4/24/2019 20:16",
+		"textView" : "MB 4/24/2019 21:06",
+		"textView:" : "MB 4/24/2019 21:06" } }

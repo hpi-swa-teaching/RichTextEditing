@@ -1,4 +1,3 @@
 instance creation
 open
-
-	^ (self new buildWith: ToolBuilder default) openInWorld
+	^ (self newBuildWithToolBuilder: ToolBuilder default) openInWorld
