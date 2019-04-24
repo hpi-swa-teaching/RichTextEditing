@@ -1,14 +1,14 @@
 {
 	"category" : "RichTextEditing-Core",
 	"classinstvars" : [
-		 ],
+		"current" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"saver" ],
-	"name" : "RichTextEditor",
+		"saves" ],
+	"name" : "RichTextEditorSaver",
 	"pools" : [
 		 ],
-	"super" : "Model",
+	"super" : "Object",
 	"type" : "normal" }

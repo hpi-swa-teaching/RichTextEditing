@@ -3,4 +3,4 @@ initialize
 
 	super initialize.
 	
-	self saver: RichTextEditorSaver current.
+	self saves: Dictionary new.
