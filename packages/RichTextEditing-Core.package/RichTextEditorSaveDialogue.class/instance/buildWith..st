@@ -1,16 +1,15 @@
-toolbuilder
+as yet unclassified
 buildWith: aBuilder
 
 	| windowSpec |
 	windowSpec := aBuilder pluggableWindowSpec new.
 	windowSpec
 		model: self;
-		label: 'Rich Text Editor';
+		label: 'Save text under name ...';
 		children: {
-			self buildTextFieldWith: aBuilder.
+			self buildNameFieldWith: aBuilder.
 			self buildSaveButtonWith: aBuilder.
-			self buildLoadButtonWith: aBuilder.
-			self buildSaveDialogueWith: aBuilder}.
+			self buildCancelButtonWith: aBuilder}.
 			
 	^ aBuilder build: windowSpec
 		

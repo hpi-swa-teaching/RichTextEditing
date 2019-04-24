@@ -1,4 +1,4 @@
 as yet unclassified
 saveTextInImage
 
-	^ nil
+	DialogWindow new openInWorld.
