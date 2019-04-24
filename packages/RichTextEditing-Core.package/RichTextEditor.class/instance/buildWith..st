@@ -7,7 +7,8 @@ buildWith: aBuilder
 		model: self;
 		label: 'Rich Text Editor';
 		children: {
-			self buildTextFieldWith: aBuilder}.
+			self buildTextFieldWith: aBuilder.
+			self buildSaveButtonWith: aBuilder}.
 			
 	^ aBuilder build: windowSpec
 		
