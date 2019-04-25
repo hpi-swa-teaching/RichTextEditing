@@ -3,5 +3,4 @@ testSaveButtonLetsChooseName
 	"No known way for us to implement this right now"
 	| button |
 	button := self subject findByLabel: 'Save in image'.
-	button click.
 	self assert: true.
