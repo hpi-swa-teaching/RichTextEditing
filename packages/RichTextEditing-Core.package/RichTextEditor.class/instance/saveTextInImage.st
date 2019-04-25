@@ -2,5 +2,6 @@ saving and loading
 saveTextInImage
 
 	| name |
-	(name := self dialog: 'Save as...') = '' ifFalse: [
+	name := UIManager default request: 'Save as...'.
+	name = '' ifFalse: [
 		self saver addSave: self text underName: name].

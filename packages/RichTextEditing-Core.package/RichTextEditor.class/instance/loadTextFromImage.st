@@ -1,7 +1,9 @@
 saving and loading
 loadTextFromImage
 
-	| name |
-	(name := self dialog: 'Load from...') = '' ifFalse: [
-		self text: (self saver loadSaveFromName: name).
+	| chosen names |
+	names := self saver saveNames.
+	chosen := UIManager default chooseFrom: names values: names title: 'Load from...'.
+	chosen ifNotNil: [
+		self text: (self saver loadSaveFromName: chosen).
 		self changed: #text].
