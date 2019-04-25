@@ -1,4 +1,7 @@
-as yet unclassified
+saving and loading
 loadTextFromImage
 
-	^ nil
+	| name |
+	(name := self dialog: 'Load from...') = '' ifFalse: [
+		self text: (self saver loadSaveFromName: name).
+		self changed].

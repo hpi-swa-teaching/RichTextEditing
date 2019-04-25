@@ -1,4 +1,6 @@
-as yet unclassified
+saving and loading
 saveTextInImage
 
-	DialogWindow new openInWorld.
+	| name |
+	(name := self dialog: 'Save as...') = '' ifFalse: [
+		self saver addSave: self text underName: name].

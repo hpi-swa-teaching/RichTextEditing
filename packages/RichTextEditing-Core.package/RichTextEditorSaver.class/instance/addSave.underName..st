@@ -1,4 +1,4 @@
 as yet unclassified
-addSave: aMorph underName: aName
+addSave: anObject underName: aName
 
-	self saves at: aName asSymbol put: aMorph veryDeepCopy.
+	self saves at: aName asSymbol put: anObject.

@@ -9,8 +9,7 @@ buildWith: aBuilder
 		children: {
 			self buildTextFieldWith: aBuilder.
 			self buildSaveButtonWith: aBuilder.
-			self buildLoadButtonWith: aBuilder.
-			self buildSaveDialogueWith: aBuilder}.
+			self buildLoadButtonWith: aBuilder}.
 			
 	^ aBuilder build: windowSpec
 		
