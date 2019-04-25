@@ -4,16 +4,13 @@ baseline: spec
 	spec
 		for: #'common'
 		do: [
-			spec
-				project: 'Morphic-Testing-Framework' with: [
-					spec
-						loads: #('tests');
-						repository: 'github://hpi-swa-teaching/Morphic-Testing-Framework:master/packages'];
-					yourself.
+			spec project: 'MTF' with: [
+				spec
+					baseline: 'Project12';
+					repository: 'github://hpi-swa-teaching/Morphic-Testing-Framework:master/packages'].
 			spec
 				package: 'RichTextEditing-Core';
-				package: 'RichTextEditing-Tests' with: [
-					spec requires: #('RichTextEditing-Core')]
+				package: 'RichTextEditing-Tests' with: [spec requires: #('RichTextEditing-Core' 'MTF')]
 				yourself.
 			spec
 				group: 'default' with: #('RichTextEditing-Core');
