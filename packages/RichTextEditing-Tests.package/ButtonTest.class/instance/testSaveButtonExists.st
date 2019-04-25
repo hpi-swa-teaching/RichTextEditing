@@ -1,4 +1,4 @@
 as yet unclassified
 testSaveButtonExists
 
-	self assert: (self subject findByName: 'Save button') morphs notEmpty.
+	self assert: (self subject findByLabel: 'Save in image') morphs notEmpty.

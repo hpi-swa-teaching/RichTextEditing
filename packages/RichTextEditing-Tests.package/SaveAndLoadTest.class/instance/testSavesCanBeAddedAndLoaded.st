@@ -1,8 +1,8 @@
 as yet unclassified
 testSavesCanBeAddedAndLoaded
 
-	| saveName saveMorph |
-	saveName := 'Test name'.
-	saveMorph := Morph new.
-	self saver addSave: saveMorph underName: saveName.
-	self assert: (self saver loadSaveFromName: saveName) equals: saveMorph.
+	| saveName saveText |
+	saveName := 'Testname'.
+	saveText := Text fromString: 'this is a test'.
+	self saver addSave: saveText underName: saveName.
+	self assert: (self saver loadSaveFromName: saveName) equals: saveText.
