@@ -6,11 +6,11 @@
 	"instance" : {
 		"buildLoadButtonWith:" : "ls 4/25/2019 15:00",
 		"buildSaveButtonWith:" : "ls 4/25/2019 15:00",
-		"buildTextFieldWith:" : "ls 4/29/2019 12:40",
+		"buildTextFieldWith:" : "ls 4/29/2019 12:53",
 		"buildWith:" : "ls 4/25/2019 13:27",
 		"dialog:" : "ls 4/25/2019 14:10",
 		"initialize" : "ls 4/25/2019 14:56",
-		"loadTextFromImage" : "ls 4/25/2019 18:48",
+		"loadTextFromImage" : "ls 4/29/2019 12:58",
 		"saveTextInImage" : "ls 4/25/2019 18:32",
 		"saver" : "ls 4/24/2019 20:16",
 		"saver:" : "ls 4/24/2019 20:16",
