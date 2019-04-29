@@ -6,4 +6,5 @@ buildTextFieldWith: aBuilder
 		frame: (0 @ 0.1 corner: 1 @ 1);
 		getText: #text;
 		setText: #text:;
+		editText: #text:;
 		yourself
