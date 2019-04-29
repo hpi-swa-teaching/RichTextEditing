@@ -1,5 +1,5 @@
 OrderedDictionary {
 	'packages\/RichTextEditing-Core.package' : #SquotCypressCodeSerializer,
-	'packages\/RichTextEditing-Tests.package' : #SquotCypressCodeSerializer,
-	'packages\/BaselineOfRichTextEditing.package' : #SquotCypressCodeSerializer
+	'packages\/BaselineOfRichTextEditing.package' : #SquotCypressCodeSerializer,
+	'packages\/RichTextEditing-Tests.package' : #SquotCypressCodeSerializer
 }

@@ -5,5 +5,4 @@ loadTextFromImage
 	names := self saver saveNames.
 	chosen := UIManager default chooseFrom: names values: names title: 'Load from...'.
 	chosen ifNotNil: [
-		self text: (self saver loadSaveFromName: chosen).
-		self changed: #text].
+		self text: (self saver loadSaveFromName: chosen)].
