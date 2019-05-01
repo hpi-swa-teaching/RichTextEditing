@@ -2,8 +2,9 @@
 	"class" : {
 		"getSubmorphsOf:withClass:" : "MB 4/24/2019 21:09",
 		"initialize" : "ls 4/30/2019 11:30",
-		"newBuildWithToolBuilder:" : "MB 4/24/2019 21:08",
-		"open" : "ls 4/29/2019 15:46" },
+		"newBuildWithToolBuilder:" : "MB 5/1/2019 14:17",
+		"open" : "ls 4/29/2019 15:46",
+		"openAndGetRTE" : "MB 5/1/2019 14:18" },
 	"instance" : {
 		"buildLoadButtonWith:" : "ls 4/25/2019 15:00",
 		"buildSaveButtonWith:" : "ls 4/25/2019 15:00",
@@ -16,6 +17,4 @@
 		"saver" : "ls 4/24/2019 20:16",
 		"saver:" : "ls 4/24/2019 20:16",
 		"text" : "ls 4/25/2019 13:48",
-		"text:" : "ls 4/29/2019 13:28",
-		"textView" : "MB 4/24/2019 21:06",
-		"textView:" : "MB 4/24/2019 21:06" } }
+		"text:" : "ls 4/29/2019 13:28" } }

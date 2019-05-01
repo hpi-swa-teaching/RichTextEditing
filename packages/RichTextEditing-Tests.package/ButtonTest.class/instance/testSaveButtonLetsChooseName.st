@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testSaveButtonLetsChooseName
 	"No known way for us to implement this right now"
 	| button |
