@@ -9,7 +9,9 @@ buildWith: aBuilder
 		children: {
 			self buildTextFieldWith: aBuilder.
 			self buildSaveButtonWith: aBuilder.
-			self buildLoadButtonWith: aBuilder}.
+			self buildLoadButtonWith: aBuilder.
+			self buildUndoButtonWith: aBuilder.
+			self buildRedoButtonWith: aBuilder}.
 			
 	^ aBuilder build: windowSpec
 		
