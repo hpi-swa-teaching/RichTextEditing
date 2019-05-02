@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"editor" : "ls 5/2/2019 11:58",
+		"editor:" : "ls 5/2/2019 11:58",
+		"editorView" : "ls 5/2/2019 12:30",
+		"loadButtonExists" : "ls 5/2/2019 12:31",
+		"saveButtonExists" : "ls 5/2/2019 12:31",
+		"saveButtonLetsChooseNameAndSavesInImage" : "ls 5/2/2019 12:31",
+		"savedTextDoesntChange" : "ls 5/2/2019 14:08",
+		"setUp" : "ls 5/2/2019 11:59",
+		"tearDown" : "ls 5/2/2019 13:11",
+		"testSaveProgressInImage" : "ls 5/2/2019 12:24" } }

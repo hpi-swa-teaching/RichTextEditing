@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "ls 5/2/2019 11:17",
+		"tearDown" : "ls 5/2/2019 11:17",
+		"testLoadButtonExists" : "ls 5/2/2019 11:15",
+		"testLoadButtonLetsChoosePreviousAndLoadsFromImage" : "ls 5/2/2019 11:15" } }

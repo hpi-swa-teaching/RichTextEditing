@@ -1,16 +1,14 @@
 {
-	"category" : "RichTextEditing-Core",
+	"category" : "RichTextEditing-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"saver",
-		"text",
-		"textView" ],
-	"name" : "RichTextEditor",
+		 ],
+	"name" : "LoadButtonTest",
 	"pools" : [
 		 ],
-	"super" : "StringHolder",
+	"super" : "MTFTestCase",
 	"type" : "normal" }

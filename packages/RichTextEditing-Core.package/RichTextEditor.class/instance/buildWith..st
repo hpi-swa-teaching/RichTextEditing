@@ -1,7 +1,7 @@
 toolbuilder
 buildWith: aBuilder
 
-	| windowSpec |
+	| windowSpec result |
 	windowSpec := aBuilder pluggableWindowSpec new.
 	windowSpec
 		model: self;
@@ -12,6 +12,8 @@ buildWith: aBuilder
 			self buildLoadButtonWith: aBuilder.
 			self buildUndoButtonWith: aBuilder.
 			self buildRedoButtonWith: aBuilder}.
+	result := aBuilder build: windowSpec.
+	self textView: (aBuilder widgetAt: 'textView').
 			
-	^ aBuilder build: windowSpec
+	^ result
 		

@@ -1,0 +1,4 @@
+tests
+editorView
+
+	^ self subject
