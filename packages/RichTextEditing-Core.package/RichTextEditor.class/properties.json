@@ -12,5 +12,5 @@
 	"name" : "RichTextEditor",
 	"pools" : [
 		 ],
-	"super" : "Model",
+	"super" : "StringHolder",
 	"type" : "normal" }
