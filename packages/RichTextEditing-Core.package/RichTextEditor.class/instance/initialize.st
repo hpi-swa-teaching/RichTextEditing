@@ -3,6 +3,4 @@ initialize
 
 	super initialize.
 	
-	self
-		saver: RichTextEditorSaver current;
-		text: ''.
+	self text: ''.

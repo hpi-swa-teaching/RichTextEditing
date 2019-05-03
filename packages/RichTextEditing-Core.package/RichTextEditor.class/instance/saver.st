@@ -1,3 +1,3 @@
-accessing
+saving and loading
 saver
-	^ saver
+	^ self class saverClass current

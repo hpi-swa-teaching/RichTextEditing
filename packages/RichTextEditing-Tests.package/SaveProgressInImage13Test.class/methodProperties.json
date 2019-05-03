@@ -2,13 +2,22 @@
 	"class" : {
 		 },
 	"instance" : {
+		"anotherText" : "ls 5/3/2019 17:47",
+		"anotherText:" : "ls 5/3/2019 17:47",
 		"editor" : "ls 5/2/2019 11:58",
 		"editor:" : "ls 5/2/2019 11:58",
 		"editorView" : "ls 5/2/2019 12:30",
+		"enterSaveNameInDialog:" : "ls 5/3/2019 18:10",
 		"loadButtonExists" : "ls 5/2/2019 12:31",
+		"loadButtonLetsChoosePreviouslySavedText" : "ls 5/3/2019 18:24",
+		"loadedTextIsInsertedIntoEditor" : "ls 5/3/2019 18:05",
 		"saveButtonExists" : "ls 5/2/2019 12:31",
-		"saveButtonLetsChooseNameAndSavesInImage" : "ls 5/2/2019 12:31",
-		"savedTextDoesntChange" : "ls 5/2/2019 14:08",
-		"setUp" : "ls 5/2/2019 11:59",
-		"tearDown" : "ls 5/2/2019 13:11",
-		"testSaveProgressInImage" : "ls 5/2/2019 12:24" } }
+		"saveButtonLetsChooseNameAndSavesInImage" : "ls 5/3/2019 18:02",
+		"saveName" : "ls 5/3/2019 17:32",
+		"saveName:" : "ls 5/3/2019 17:32",
+		"savedTextDoesntChange" : "ls 5/3/2019 17:47",
+		"setUp" : "ls 5/3/2019 17:47",
+		"tearDown" : "ls 5/3/2019 17:24",
+		"testSaveProgressInImage" : "ls 5/3/2019 18:03",
+		"text" : "ls 5/3/2019 17:47",
+		"text:" : "ls 5/3/2019 17:47" } }

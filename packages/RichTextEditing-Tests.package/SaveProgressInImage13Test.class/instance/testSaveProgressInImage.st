@@ -7,3 +7,5 @@ testSaveProgressInImage
 	self assert: self savedTextDoesntChange.
 	
 	self assert: self loadButtonExists.
+	self assert: self loadButtonLetsChoosePreviouslySavedText.
+	self assert: self loadedTextIsInsertedIntoEditor.

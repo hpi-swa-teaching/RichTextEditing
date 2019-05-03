@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"saver",
 		"text",
 		"textView" ],
 	"name" : "RichTextEditor",

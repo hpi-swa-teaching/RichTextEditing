@@ -1,4 +1,3 @@
-toolbuilder
+accessing
 editor
-
 	^ self textView textMorph editor
