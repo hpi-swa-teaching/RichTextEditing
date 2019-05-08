@@ -1,5 +1,7 @@
-toolbuilder
+un-/redo
 redo
 
 	self editor redo.
-	self changed: #text.
+	
+	self	changed: #text;
+		unacceptedEdits.

@@ -6,12 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"editor",
 		"saveName",
 		"text",
 		"anotherText" ],
 	"name" : "SaveProgressInImage13Test",
 	"pools" : [
 		 ],
-	"super" : "MTFTestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

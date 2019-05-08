@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "LoadButtonTest",
+		"editor" ],
+	"name" : "RichTextEditorTestCase",
 	"pools" : [
 		 ],
 	"super" : "MTFTestCase",

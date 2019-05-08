@@ -7,7 +7,6 @@ buildTextFieldWith: aBuilder
 		frame: (0 @ 0.1 corner: 1 @ 1);
 		readOnly: false;
 		getText: #text;
-		setText: #text:;
+		setText: #saveText:;
 		editText: #text:;
-		menu: #menu;
 		yourself

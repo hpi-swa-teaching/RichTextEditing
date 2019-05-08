@@ -1,4 +1,4 @@
-as yet unclassified
+singleton
 current
 
 	current isNil ifTrue: [^ current := self new].
