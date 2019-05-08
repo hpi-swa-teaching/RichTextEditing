@@ -1,6 +1,7 @@
 un-/redo
 undo
 
-	self editor undo;
-		changed: #text;
+	self editor undo.
+	
+	self changed: #text;
 		unacceptedEdits.

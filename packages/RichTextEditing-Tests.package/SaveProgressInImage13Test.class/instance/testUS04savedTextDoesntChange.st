@@ -1,9 +1,9 @@
 running
 testUS04savedTextDoesntChange
 	
-	self editor text: self text.
+	self editor setText: self text.
 	self enterSaveNameInDialog: [self editor saveTextInImage].
-	self editor text: self anotherText.
+	self editor setText: self anotherText.
 	
 	self enterSaveNameInDialog: [self editor loadTextFromImage].
 		
