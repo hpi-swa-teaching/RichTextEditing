@@ -5,5 +5,5 @@ getSubmorphsOf: aMorph withClass: aClass
 	 foundSubmorphs addAll: (aMorph submorphs select: [:submorph |  submorph class = aClass ]).
 	  
 	 aMorph submorphsDo: [:submorph | foundSubmorphs addAll:(
-	   RichTextEditor getSubmorphsOf: submorph withClass: aClass )].
+	   RichTextEditorModel getSubmorphsOf: submorph withClass: aClass )].
 	 ^ foundSubmorphs

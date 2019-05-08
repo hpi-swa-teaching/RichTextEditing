@@ -6,7 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"editor" ],
+		"editor",
+		"saveName",
+		"text",
+		"anotherText" ],
 	"name" : "SaveProgressInImage13Test",
 	"pools" : [
 		 ],

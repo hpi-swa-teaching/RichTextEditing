@@ -1,4 +1,4 @@
 running
 tearDown
 
-	RichTextEditorSaver reset.
+	self saver class reset.

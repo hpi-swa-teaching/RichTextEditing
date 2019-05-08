@@ -1,4 +1,4 @@
-tests
+accessing
 editorView
 
 	^ self subject

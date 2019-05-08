@@ -1,3 +1,3 @@
 accessing
 saver
-	^ saver
+	^ RichTextEditorModel saverClass current

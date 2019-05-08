@@ -1,4 +1,4 @@
 as yet unclassified
 setUp
 
-	self wantsToTest: RichTextEditor open.
+	self wantsToTest: RichTextEditorModel open.

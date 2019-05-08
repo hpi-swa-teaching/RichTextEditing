@@ -1,11 +1,8 @@
-tests
+running
 saveButtonLetsChooseNameAndSavesInImage
-	| button saveName |
+
+	| button |
 	button := self editorView findByLabel: 'Save in image'.
-	saveName := 'This is a test save'.
-	
-	[button click]
-		on: ProvideAnswerNotification
-		do: [:notification | notification resume: saveName].
-	
-	^ RichTextEditorSaver current saves includesKey: saveName
+	self enterSaveNameInDialog: [button click].
+
+	^ self editor saves includesKey: self saveName

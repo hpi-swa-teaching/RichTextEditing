@@ -2,4 +2,4 @@ running
 tearDown
 
 	self editorView abandon.
-	RichTextEditorSaver reset.
+	self editor resetSaver.

@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "RichTextEditor",
+		"text",
+		"textView" ],
+	"name" : "RichTextEditorModel",
 	"pools" : [
 		 ],
-	"super" : "TextEditor",
+	"super" : "StringHolder",
 	"type" : "normal" }

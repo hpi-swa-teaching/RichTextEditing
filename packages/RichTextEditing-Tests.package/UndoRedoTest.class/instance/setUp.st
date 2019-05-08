@@ -1,4 +1,4 @@
 running
 setUp
-	self rte: RichTextEditor openAndGetRTE.
+	self rte: RichTextEditorModel openAndGetRTE.
 	self wantsToTest: self rte dependencies first.

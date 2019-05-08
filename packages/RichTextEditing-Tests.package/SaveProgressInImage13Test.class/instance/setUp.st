@@ -1,5 +1,11 @@
 running
 setUp
 	
-	self editor: RichTextEditor new.
-	self wantsToTest: (ToolBuilder open: editor).
+	self
+		editor: RichTextEditorModel new;
+		saveName: 'This is a test save';
+		
+		text: 'This is a test text.' asText;
+		anotherText: 'This is another test text.' asText;
+		
+		wantsToTest: (ToolBuilder open: editor).
