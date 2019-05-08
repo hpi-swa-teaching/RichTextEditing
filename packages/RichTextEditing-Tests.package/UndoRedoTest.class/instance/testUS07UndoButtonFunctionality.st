@@ -1,5 +1,5 @@
 tests
-testUndoButtonFunctionality
+testUS07UndoButtonFunctionality
 
 	| testString beginningText undoButton |
 	beginningText := self rte text.

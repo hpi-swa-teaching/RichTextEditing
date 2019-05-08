@@ -1,5 +1,5 @@
 running
-savedTextDoesntChange
+testUS04savedTextDoesntChange
 	
 	self editor text: self text.
 	self enterSaveNameInDialog: [self editor saveTextInImage].
@@ -7,4 +7,4 @@ savedTextDoesntChange
 	
 	self enterSaveNameInDialog: [self editor loadTextFromImage].
 		
-	^ text ~~ self editor text
+	self assert: (text ~~ self editor text)

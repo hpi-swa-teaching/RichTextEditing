@@ -5,9 +5,9 @@
 		"rte" : "MB 4/24/2019 21:40",
 		"rte:" : "MB 4/24/2019 21:40",
 		"setUp" : "ls 5/8/2019 16:51",
-		"testRedoButtonExists" : "ls 5/2/2019 11:16",
-		"testRedoButtonFunctionality" : "MB 5/1/2019 14:52",
-		"testRedoKeyboardShortcut" : "MB 5/1/2019 14:55",
-		"testUndoButtonExists" : "ls 5/2/2019 11:16",
-		"testUndoButtonFunctionality" : "ls 5/8/2019 16:31",
-		"testUndoKeyboardShortcut" : "MB 5/1/2019 14:55" } }
+		"testUS07RedoButtonExists" : "SR 5/8/2019 17:24",
+		"testUS07RedoButtonFunctionality" : "SR 5/8/2019 17:24",
+		"testUS07RedoKeyboardShortcut" : "SR 5/8/2019 17:24",
+		"testUS07UndoButtonExists" : "SR 5/8/2019 17:23",
+		"testUS07UndoButtonFunctionality" : "SR 5/8/2019 17:24",
+		"testUS07UndoKeyboardShortcut" : "SR 5/8/2019 17:23" } }
