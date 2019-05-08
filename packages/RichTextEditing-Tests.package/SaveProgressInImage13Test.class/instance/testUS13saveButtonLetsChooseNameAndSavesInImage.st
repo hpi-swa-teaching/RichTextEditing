@@ -1,5 +1,5 @@
 running
-testUS04saveButtonLetsChooseNameAndSavesInImage
+testUS13saveButtonLetsChooseNameAndSavesInImage
 
 	| button |
 	button := self editorView findByLabel: 'Save in image'.

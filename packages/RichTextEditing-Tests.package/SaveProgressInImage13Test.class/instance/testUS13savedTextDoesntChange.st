@@ -1,5 +1,5 @@
 running
-testUS04savedTextDoesntChange
+testUS13savedTextDoesntChange
 	
 	self editor text: self text.
 	self enterSaveNameInDialog: [self editor saveTextInImage].

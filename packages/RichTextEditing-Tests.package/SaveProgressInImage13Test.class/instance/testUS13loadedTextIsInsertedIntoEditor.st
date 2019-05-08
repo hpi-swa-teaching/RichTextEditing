@@ -1,5 +1,5 @@
 running
-testUS04loadedTextIsInsertedIntoEditor
+testUS13loadedTextIsInsertedIntoEditor
 
 	self editor text: self text.
 	self enterSaveNameInDialog: [self editor saveTextInImage].

@@ -1,5 +1,5 @@
 running
-testUS04loadButtonLetsChoosePreviouslySavedText
+testUS13loadButtonLetsChoosePreviouslySavedText
 "Not finished yet, have to find a way to test that dialog result (which is unavailable) is valid without testing that the loaded text is now in the editor, because that's another test"
 
 	| button |
