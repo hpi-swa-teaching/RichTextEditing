@@ -1,10 +1,8 @@
 tests
 testUS09createNewParagraph
- 
-	self editor setText: 'Example text'.
-	self editorView sendKey: (Character cr) asString.
-	self assert: (self editor text == 'Example text¶
-	').
-	
-	
-	
+"new line with enter"
+	self enterStringOntoTextField: 'hallo'.
+	self enterStringOntoTextField: '
+'.
+	self assert: (self editor text = 'hallo¶
+' asText).

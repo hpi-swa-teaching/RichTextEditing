@@ -1,5 +1,6 @@
 as yet unclassified
 tearDown
 
-	self subject abandon.
+	self editor noUnacceptedEdits.
+	self editorView abandon.
 	self editor resetSaver.
