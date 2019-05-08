@@ -1,4 +1,4 @@
 as yet unclassified
-testLoadButtonExists
+testUS13LoadButtonExists
 
 	self assert: (self subject findByLabel: 'Load from image') morphs notEmpty.

@@ -1,5 +1,5 @@
 tests
-testSavesCanBeAddedAndLoaded
+testUS13SavesCanBeAddedAndLoaded
 
 	| saveName saveText |
 	saveName := 'Testname'.
