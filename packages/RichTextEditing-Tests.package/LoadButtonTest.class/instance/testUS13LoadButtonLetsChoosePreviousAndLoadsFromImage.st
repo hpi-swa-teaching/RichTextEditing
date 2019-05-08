@@ -1,5 +1,6 @@
 as yet unclassified
 testUS13LoadButtonLetsChoosePreviousAndLoadsFromImage
+
 	| button saveName answer |
 	button := self subject findByLabel: 'Save in image'.
 	saveName := 'testSaveButtonLetsChooseNameAndSavesInImage'.

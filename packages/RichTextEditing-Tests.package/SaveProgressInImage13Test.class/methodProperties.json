@@ -2,14 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"anotherText" : "ls 5/3/2019 17:47",
-		"anotherText:" : "ls 5/3/2019 17:47",
-		"editor" : "ls 5/2/2019 11:58",
-		"editor:" : "ls 5/2/2019 11:58",
+		"anotherText" : "SR 5/8/2019 17:52",
+		"anotherText:" : "SR 5/8/2019 17:52",
+		"editor" : "SR 5/8/2019 17:52",
+		"editor:" : "SR 5/8/2019 17:52",
 		"editorView" : "ls 5/2/2019 12:30",
 		"enterSaveNameInDialog:" : "ls 5/3/2019 18:10",
-		"saveName" : "ls 5/3/2019 17:32",
-		"saveName:" : "ls 5/3/2019 17:32",
+		"saveName" : "SR 5/8/2019 17:53",
+		"saveName:" : "SR 5/8/2019 17:53",
 		"setUp" : "ls 5/8/2019 16:51",
 		"tearDown" : "ls 5/3/2019 17:24",
 		"testUS04loadButtonExists" : "SR 5/8/2019 17:32",
@@ -18,5 +18,5 @@
 		"testUS04saveButtonExists" : "SR 5/8/2019 17:27",
 		"testUS04saveButtonLetsChooseNameAndSavesInImage" : "SR 5/8/2019 17:29",
 		"testUS04savedTextDoesntChange" : "SR 5/8/2019 17:31",
-		"text" : "ls 5/3/2019 17:47",
-		"text:" : "ls 5/3/2019 17:47" } }
+		"text" : "SR 5/8/2019 17:53",
+		"text:" : "SR 5/8/2019 17:53" } }
