@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"editor",
 		"text" ],
 	"name" : "Paragraphs9Test",
 	"pools" : [
 		 ],
-	"super" : "MTFTestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }
