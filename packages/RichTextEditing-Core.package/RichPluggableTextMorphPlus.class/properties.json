@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RichPluggableTextMorphPlus",
+	"pools" : [
+		 ],
+	"super" : "PluggableTextMorphPlus",
+	"type" : "normal" }

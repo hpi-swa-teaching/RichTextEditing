@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RichTextMorphForEditView",
+	"pools" : [
+		 ],
+	"super" : "TextMorphForEditView",
+	"type" : "normal" }
