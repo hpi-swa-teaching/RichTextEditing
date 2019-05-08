@@ -1,4 +1,4 @@
-as yet unclassified
+singleton
 reset
 
 	current := nil.

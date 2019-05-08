@@ -2,9 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"rte" : "SR 5/8/2019 17:54",
-		"rte:" : "SR 5/8/2019 17:54",
-		"setUp" : "SR 5/8/2019 17:54",
+		"setUp" : "ls 5/8/2019 20:26",
 		"testUS07RedoButtonExists" : "SR 5/8/2019 17:24",
 		"testUS07RedoButtonFunctionality" : "SR 5/8/2019 17:24",
 		"testUS07RedoKeyboardShortcut" : "SR 5/8/2019 17:24",

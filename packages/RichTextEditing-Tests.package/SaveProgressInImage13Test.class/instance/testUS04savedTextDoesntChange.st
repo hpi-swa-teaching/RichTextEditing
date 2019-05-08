@@ -7,4 +7,4 @@ testUS04savedTextDoesntChange
 	
 	self enterSaveNameInDialog: [self editor loadTextFromImage].
 		
-	self assert: (text ~~ self editor text)
+	self assert: (self text ~~ self editor text)

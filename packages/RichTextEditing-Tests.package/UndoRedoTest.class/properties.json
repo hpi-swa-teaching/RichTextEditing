@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"rte" ],
+		 ],
 	"name" : "UndoRedoTest",
 	"pools" : [
 		 ],
-	"super" : "MTFTestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

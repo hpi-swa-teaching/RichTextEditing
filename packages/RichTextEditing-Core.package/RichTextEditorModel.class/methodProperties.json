@@ -1,11 +1,8 @@
 {
 	"class" : {
-		"getSubmorphsOf:withClass:" : "ls 5/8/2019 16:51",
 		"initialize" : "ls 4/30/2019 11:30",
-		"newBuildWithToolBuilder:" : "MB 5/1/2019 14:17",
-		"open" : "ls 4/29/2019 15:46",
-		"openAndGetRTE" : "MB 5/1/2019 14:18",
-		"saverClass" : "ls 5/3/2019 17:11" },
+		"open" : "ls 5/8/2019 20:28",
+		"saverClass" : "ls 5/8/2019 20:28" },
 	"instance" : {
 		"buildLoadButtonWith:" : "ls 4/25/2019 15:00",
 		"buildRedoButtonWith:" : "ls 5/2/2019 14:42",
