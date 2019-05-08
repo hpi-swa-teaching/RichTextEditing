@@ -5,4 +5,4 @@ saveTextInImage
 	name := UIManager default request: 'Save as...'.
 	name = '' ifFalse: [
 		self saver addSave: self text underName: name.
-		self changed: #text].
+		self noUnacceptedEdits].
