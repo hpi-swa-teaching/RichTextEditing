@@ -1,0 +1,15 @@
+{
+	"category" : "RichTextEditing-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"editor",
+		"text" ],
+	"name" : "Paragraphs9Test",
+	"pools" : [
+		 ],
+	"super" : "MTFTestCase",
+	"type" : "normal" }
