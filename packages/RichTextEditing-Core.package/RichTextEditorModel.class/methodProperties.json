@@ -14,7 +14,7 @@
 		"initialize" : "ls 5/3/2019 17:10",
 		"loadTextFromImage" : "ls 5/8/2019 19:10",
 		"noUnacceptedEdits" : "ls 5/8/2019 19:09",
-		"redo" : "ls 5/8/2019 19:33",
+		"redo" : "ls 5/8/2019 19:31",
 		"resetSaver" : "ls 5/3/2019 17:25",
 		"saveText:" : "ls 5/8/2019 19:26",
 		"saveTextInImage" : "ls 5/8/2019 19:09",
@@ -25,4 +25,4 @@
 		"textView" : "ls 5/2/2019 14:36",
 		"textView:" : "ls 5/2/2019 14:37",
 		"unacceptedEdits" : "ls 5/8/2019 19:10",
-		"undo" : "ls 5/8/2019 19:33" } }
+		"undo" : "ls 5/8/2019 19:31" } }
