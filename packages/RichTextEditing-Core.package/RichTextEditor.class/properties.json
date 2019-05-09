@@ -10,5 +10,5 @@
 	"name" : "RichTextEditor",
 	"pools" : [
 		 ],
-	"super" : "TextEditor",
+	"super" : "SmalltalkEditor",
 	"type" : "normal" }

@@ -1,7 +1,10 @@
 {
 	"class" : {
-		 },
+		"cmdActions" : "MB 5/9/2019 09:45",
+		"shiftCmdActions" : "MB 5/9/2019 09:45",
+		"shiftedYellowButtonMenu" : "MB 5/9/2019 09:46",
+		"yellowButtonMenu" : "MB 5/9/2019 09:46" },
 	"instance" : {
 		"crWithIndent:" : "MB 5/8/2019 17:59",
 		"getParagraphCharacter" : "MB 5/8/2019 17:49",
-		"paragraph:" : "MB 5/8/2019 17:50" } }
+		"paragraph:" : "MB 5/9/2019 09:42" } }
