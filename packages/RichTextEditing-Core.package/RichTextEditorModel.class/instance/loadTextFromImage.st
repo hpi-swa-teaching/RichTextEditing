@@ -5,5 +5,5 @@ loadTextFromImage
 	names := self saver saveNames.
 	chosen := UIManager default chooseFrom: names values: names title: 'Load from...'.
 	chosen ifNotNil: [
-		self text: (self saver loadSaveFromName: chosen).
+		self setText: (self saver loadSaveFromName: chosen).
 		self noUnacceptedEdits].
