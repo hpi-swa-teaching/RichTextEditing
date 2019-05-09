@@ -1,7 +1,7 @@
-as yet unclassified
+testing
 testUS23TriangleDisappearsAfterSuccesfulSave
 
 	self enterStringOntoTextField: 'Test text'.
-	self enterString: 'Save name' inDialog: [self editor saveTextInImage].
+	self enterStringInSaveDialog: 'Save name'.
 	
-	self assert: self editor hasUnacceptedEdits not.
+	self assert: self triangleIsNotVisible.
