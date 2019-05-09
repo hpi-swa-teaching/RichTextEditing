@@ -1,11 +1,8 @@
 as yet unclassified
 testUS23TriangleReappearsWhenEditing
 
-	self enterStringOntoTextField: 'YASSSS
-'.
-	self enterStringOntoTextField: ' Jadda'.
-	
+	self enterStringOntoTextField: 'Start writing text.'.
 	self enterString: 'Save name' inDialog: [self editor saveTextInImage].
+	self enterStringOntoTextField: ' Continue to write text.'.
 	
-	Transcript showln: self editor text.
-	self assert: self editorView hasUnacceptedEdits not.
+	self assert: self editor hasUnacceptedEdits.
