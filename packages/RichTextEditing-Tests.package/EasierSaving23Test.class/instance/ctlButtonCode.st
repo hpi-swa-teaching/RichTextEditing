@@ -1,4 +1,0 @@
-helper
-ctlButtonCode
-
-	^ 64
