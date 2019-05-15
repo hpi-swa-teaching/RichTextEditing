@@ -4,4 +4,4 @@ testUS23WhenTriangleIsVisibleCtrlSCanBePressedForSaveDialog
 	self enterStringOntoTextField: 'Test text'.
 	self assert: self triangleIsVisible.
 	
-	self assertSaveDialogPopsUpOnCtrlS.
+	self should: [self simulateCtrlS] raise: ProvideAnswerNotification.

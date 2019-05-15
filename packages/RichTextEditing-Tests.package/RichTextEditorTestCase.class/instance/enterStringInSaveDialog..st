@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 enterStringInSaveDialog: aString
 
 	^ self enterString: aString inDialog: [self editor saveTextInImage]

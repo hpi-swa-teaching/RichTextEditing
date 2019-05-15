@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 enterStringOntoTextField: aString
 
-	(MTFMorphWrapper newWith: {self editor textView}) sendKeys: aString.
+	self textViewWrapper sendKeys: aString.
