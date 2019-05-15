@@ -1,6 +1,6 @@
-as yet unclassified
+resources
 setUp
 
 	super setUp.
 	self	editor: RichTextEditorModel new;
-		wantsToTest: (ToolBuilder open: self editor).
+			wantsToTest: (ToolBuilder open: self editor).

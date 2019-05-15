@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 enterString: aString inDialog: aBlock
 
 	^ aBlock

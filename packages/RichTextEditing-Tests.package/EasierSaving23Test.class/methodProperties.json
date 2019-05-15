@@ -2,12 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"assertSaveDialogPopsUpOnCtrlS" : "ls 5/10/2019 01:43",
 		"enterNothingInSaveDialog" : "ls 5/10/2019 01:37",
-		"simulateCtrlS" : "ls 5/15/2019 15:59",
+		"getCtrlButtonCode" : "MB 5/15/2019 19:11",
+		"getSKey" : "MB 5/15/2019 19:12",
+		"simulateCtrlS" : "MB 5/15/2019 19:13",
 		"testUS23TriangleDisappearsAfterSuccesfulSave" : "ls 5/10/2019 01:36",
 		"testUS23TriangleIsStillVisibleWhenSaveDialogIsCancelled" : "ls 5/10/2019 01:37",
 		"testUS23TriangleReappearsWhenEditing" : "ls 5/10/2019 01:40",
-		"testUS23WhenTriangleIsVisibleCtrlSCanBePressedForSaveDialog" : "ls 5/10/2019 01:43",
-		"triangleIsNotVisible" : "ls 5/10/2019 00:53",
+		"testUS23WhenTriangleIsVisibleCtrlSCanBePressedForSaveDialog" : "MB 5/15/2019 18:01",
+		"triangleIsNotVisible" : "MB 5/15/2019 19:04",
 		"triangleIsVisible" : "ls 5/10/2019 00:53" } }

@@ -2,8 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"pressShiftEnter" : "AG 5/8/2019 19:39",
-		"testUS09createNewLine" : "ls 5/15/2019 15:38",
-		"testUS09createNewParagraph" : "ls 5/15/2019 15:38",
+		"getCRKeyCode" : "MB 5/15/2019 19:15",
+		"getShiftButtonCode" : "MB 5/15/2019 19:15",
+		"pressShiftEnter" : "MB 5/15/2019 19:15",
+		"testUS09createNewLine" : "MB 5/15/2019 19:34",
+		"testUS09createNewParagraph" : "MB 5/15/2019 19:36",
 		"text" : "AG 5/8/2019 19:08",
 		"text:" : "AG 5/8/2019 19:08" } }

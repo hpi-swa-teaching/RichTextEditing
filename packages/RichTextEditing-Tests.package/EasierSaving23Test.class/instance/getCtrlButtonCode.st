@@ -1,0 +1,4 @@
+helper
+getCtrlButtonCode
+
+	^ 64

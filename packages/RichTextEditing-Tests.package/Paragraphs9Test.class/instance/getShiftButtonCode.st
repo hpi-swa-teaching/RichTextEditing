@@ -1,0 +1,4 @@
+helper
+getShiftButtonCode
+
+	^ 8
