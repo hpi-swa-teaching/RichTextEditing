@@ -1,4 +1,5 @@
 testing
 setUp
 
-	self listView: self editor listView.
+	super setUp.
+	"self listView: self editor listView."

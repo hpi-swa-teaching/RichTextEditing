@@ -1,4 +1,4 @@
 helper
 simulateCtrlS
 
-	self simulateKeyboardEventWithButtons: self getCtrlButtonCode andKeyValue: self getSKey.
+	self simulateKeyboardEventWithButtons: self ctrlButtonCode andKeyValue: self sKeyValue.

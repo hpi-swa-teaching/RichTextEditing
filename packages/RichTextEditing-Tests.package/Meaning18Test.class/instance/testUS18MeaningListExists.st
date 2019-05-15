@@ -1,4 +1,4 @@
 testing
 testUS18MeaningListExists
 
-	self assert: (self editorView findByName: 'Meaning List') morphs notEmpty.
+	self assert: (self editorView findByLabel: 'Style') morphs notEmpty.

@@ -4,7 +4,8 @@
 	"instance" : {
 		"testUS07RedoButtonExists" : "SR 5/8/2019 17:24",
 		"testUS07RedoButtonRedoesChanges" : "ls 5/15/2019 19:33",
-		"testUS07RedoKeyboardShortcut" : "ls 5/15/2019 19:31",
+		"testUS07RedoKeyboardShortcut" : "ls 5/15/2019 20:01",
 		"testUS07UndoButtonExists" : "SR 5/8/2019 17:23",
-		"testUS07UndoButtonUndoesChanges" : "ls 5/15/2019 19:33",
-		"testUS07UndoKeyboardShortcut" : "ls 5/15/2019 19:31" } }
+		"testUS07UndoButtonUndoesChanges" : "ls 5/15/2019 19:52",
+		"testUS07UndoChangesText" : "ls 5/15/2019 20:03",
+		"testUS07UndoKeyboardShortcut" : "ls 5/15/2019 19:57" } }

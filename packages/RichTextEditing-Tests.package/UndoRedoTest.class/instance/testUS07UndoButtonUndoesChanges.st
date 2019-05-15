@@ -2,8 +2,8 @@ tests
 testUS07UndoButtonUndoesChanges
 
 	| button |
-	button := self editorView findByLabel: 'Undo'.
 	self enterStringOntoTextField: 'Test'.
+	button := self editorView findByLabel: 'Undo'.
 	
 	button click.
 	
