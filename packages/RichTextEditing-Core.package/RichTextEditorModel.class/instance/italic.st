@@ -4,6 +4,5 @@ italic
 	(self hasEmphasis: #italic)
 		ifTrue: [ self removeItalic]
 		ifFalse: [ self addItalic].
-	self changed: #text;
-		unacceptedEdits.
+	self textChanged.
 	
