@@ -3,10 +3,13 @@ openStyleMenu
 
 	| menu |
 	menu := MenuMorph new. 
-	menu 
-		target: self;
-		add: 'bold' action: #bold;
-		add: 'italic' action: #italic;
-		add: 'underlined' action: #underlined.
+	self class emphasisCode keysDo:
+		[:emphasis | menu 
+			target: self;
+			addItem:[:item|
+			item
+				contents: ((self hasEmphasis: emphasis) ifTrue: ['<yes>'] ifFalse: ['<no>']), (emphasis asString) translated;
+				target: self;
+				selector: emphasis]].
 	
 	menu openAsTool.
