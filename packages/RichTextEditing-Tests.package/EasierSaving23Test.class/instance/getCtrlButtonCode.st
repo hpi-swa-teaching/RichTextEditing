@@ -1,4 +1,0 @@
-helper
-getCtrlButtonCode
-
-	^ 64

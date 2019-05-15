@@ -1,4 +1,0 @@
-helper
-getSKey
-
-	^ $s asInteger.

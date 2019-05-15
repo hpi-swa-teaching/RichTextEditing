@@ -1,4 +1,8 @@
 tests
 testUS07UndoKeyboardShortcut
-	"TODO don't know how to implement"
-	self assert: false.
+
+	self enterStringOntoTextField: 'Test'.
+	self simulateKeyboardEventWithButtons: self ctrlButtonCode andKeyValue: $z asciiValue.
+	
+	self assert: self editor text = ''.
+	
