@@ -1,7 +1,8 @@
 testing
 testUS18SelectionTypesCanBeSelected
 
-	| list |
-	list := self listView.
-	self assert: 'Text is selected'.
-	list isSelectable.
+	| menu |
+	menu := self editor openStyleMenu.
+	
+	self assert: menu submorphs notEmpty.
+	menu submorphsDo: [:each | self assert: each isEnabled].

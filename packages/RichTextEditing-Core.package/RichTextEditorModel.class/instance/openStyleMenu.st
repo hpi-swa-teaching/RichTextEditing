@@ -10,3 +10,4 @@ openStyleMenu
 		add: 'underlined' action: #underlined.
 	
 	menu openAsTool.
+	^ menu
