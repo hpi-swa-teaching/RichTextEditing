@@ -1,4 +1,4 @@
 running
 testUS04saveButtonExists
 
-	self assert: (self editorView findByLabel: 'Save in image') morphs notEmpty
+	self assert: (self buttonWithLabelExists: 'Save in image').

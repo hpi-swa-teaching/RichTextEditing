@@ -1,4 +1,4 @@
-helper
+accessing
 ctrlShiftButtonCode
 
 	^ self ctrlButtonCode bitOr: self shiftButtonCode.
