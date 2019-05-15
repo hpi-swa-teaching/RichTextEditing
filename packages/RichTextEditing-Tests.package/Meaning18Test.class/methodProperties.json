@@ -6,7 +6,7 @@
 		"listView:" : "ls 5/15/2019 17:56",
 		"setUp" : "ls 5/15/2019 19:47",
 		"tearDown" : "ls 5/15/2019 19:48",
-		"testUS18MeaningListExists" : "ls 5/15/2019 19:47",
-		"testUS18SelectionTypesCanBeSelected" : "ls 5/15/2019 17:56",
+		"testUS18SelectionTypesCanBeSelected" : "lh 5/15/2019 21:31",
+		"testUS18StyleButtonExists" : "lh 5/15/2019 21:35",
 		"testUS18TextMeaningIsSelectedInList" : "ls 5/15/2019 18:02",
 		"testUS18selectionTypeIsAppliedToSelection" : "ls 5/15/2019 18:59" } }
