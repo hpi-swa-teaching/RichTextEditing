@@ -1,7 +1,4 @@
 helper
 pressEnter
 
-	self simulateKeyboardEventWithButtons: 0 andKeyValue: self getCRKeyCode.
-		
-
-	
+	self simulateKeyboardEventWithButtons: self noActiveButtonCode andKeyValue: self crKeyCode.

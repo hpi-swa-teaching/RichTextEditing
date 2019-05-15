@@ -1,4 +1,4 @@
 helper
-getCRKeyCode
+crKeyCode
 
 	^ Character cr asciiValue

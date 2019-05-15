@@ -1,7 +1,7 @@
 helper
 pressShiftEnter
 
-	self simulateKeyboardEventWithButtons: self getShiftButtonCode andKeyValue: self getCRKeyCode.
+	self simulateKeyboardEventWithButtons: self shiftButtonCode andKeyValue: self crKeyCode.
 		
 
 	

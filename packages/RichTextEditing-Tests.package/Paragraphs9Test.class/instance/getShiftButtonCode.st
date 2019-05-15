@@ -1,4 +1,0 @@
-helper
-getShiftButtonCode
-
-	^ 8

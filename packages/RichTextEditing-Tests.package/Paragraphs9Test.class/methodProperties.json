@@ -2,10 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"getCRKeyCode" : "MB 5/15/2019 19:15",
-		"getShiftButtonCode" : "MB 5/15/2019 19:15",
-		"pressEnter" : "MB 5/15/2019 20:11",
-		"pressShiftEnter" : "MB 5/15/2019 19:15",
+		"crKeyCode" : "MB 5/15/2019 20:53",
+		"noActiveButtonCode" : "MB 5/15/2019 20:54",
+		"pressEnter" : "MB 5/15/2019 20:55",
+		"pressShiftEnter" : "MB 5/15/2019 20:54",
+		"shiftButtonCode" : "MB 5/15/2019 20:53",
 		"testUS09createNewLine" : "MB 5/15/2019 20:45",
 		"testUS09createNewParagraph" : "MB 5/15/2019 20:18",
 		"text" : "AG 5/8/2019 19:08",
