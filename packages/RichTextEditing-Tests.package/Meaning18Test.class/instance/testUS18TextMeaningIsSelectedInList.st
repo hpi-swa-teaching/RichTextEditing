@@ -1,7 +1,12 @@
 testing
 testUS18TextMeaningIsSelectedInList
 
-	| get meaning |
-	get text.
-	get text meaning.
-	self assert: meaning is selected in list.
+	| text selectionInterval |
+	text := self editor text.
+	self enterStringOntoTextField: 'test'.
+	self textEditor selectFrom: 1 to: 2.
+	
+	selectionInterval := self textEditor selectionInterval.
+	self editor bold.
+	
+	self assertBoldIsSelectedInList.

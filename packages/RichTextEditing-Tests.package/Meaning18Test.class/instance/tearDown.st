@@ -1,5 +1,5 @@
 testing
 tearDown
 
-	self listView: nil.
+	self menu abandon.
 	super tearDown.

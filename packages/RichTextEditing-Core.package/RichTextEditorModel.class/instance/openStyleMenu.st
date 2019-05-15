@@ -11,5 +11,5 @@ openStyleMenu
 				contents: ((self hasEmphasis: emphasis) ifTrue: ['<yes>'] ifFalse: ['<no>']), (emphasis asString) translated;
 				target: self;
 				selector: emphasis]].
-	
 	menu openAsTool.
+	^ menu
