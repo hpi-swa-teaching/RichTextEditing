@@ -5,7 +5,7 @@ buildWith: aBuilder
 	windowSpec := aBuilder pluggableWindowSpec new.
 	windowSpec
 		model: self;
-		label: 'Rich Text Editor';
+		label: #label;
 		children: {
 			self buildTextFieldWith: aBuilder.
 			self buildSaveButtonWith: aBuilder.

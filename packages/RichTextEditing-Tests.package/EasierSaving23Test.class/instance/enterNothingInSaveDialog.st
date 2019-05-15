@@ -1,0 +1,4 @@
+helper
+enterNothingInSaveDialog
+
+	self enterStringInSaveDialog: ''.

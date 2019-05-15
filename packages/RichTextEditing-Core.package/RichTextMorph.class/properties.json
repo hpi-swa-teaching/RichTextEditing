@@ -6,11 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"text",
-		"textView",
-		"label" ],
-	"name" : "RichTextEditorModel",
+		 ],
+	"name" : "RichTextMorph",
 	"pools" : [
 		 ],
-	"super" : "StringHolder",
+	"super" : "TextMorphForEditView",
 	"type" : "normal" }
