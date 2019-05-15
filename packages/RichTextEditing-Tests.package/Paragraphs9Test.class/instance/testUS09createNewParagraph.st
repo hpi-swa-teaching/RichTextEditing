@@ -1,7 +1,7 @@
 tests
 testUS09createNewParagraph
-"new line with enter"
+
+	"new line / paragraph with enter"
 	self enterStringOntoTextField: 'hallo'.
-	self enterStringOntoTextField: String cr.
-	self assert: (self editor text = 'hallo¶
-' asText).
+	self pressEnter.
+	self assert: (self editor text = ('hallo¶', String cr) asText).

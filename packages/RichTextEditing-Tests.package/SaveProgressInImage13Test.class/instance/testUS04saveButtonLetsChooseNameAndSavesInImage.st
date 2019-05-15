@@ -5,4 +5,4 @@ testUS04saveButtonLetsChooseNameAndSavesInImage
 	button := self editorView findByLabel: 'Save in image'.
 	self enterSaveNameInDialog: [button click].
 
-	self assert: (self editor saves includesKey: self saveName)
+	self assert: (self editorSavesIncludeKey: self saveName).

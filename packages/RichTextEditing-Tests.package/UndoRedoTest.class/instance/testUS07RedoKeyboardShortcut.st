@@ -1,3 +1,11 @@
 tests
 testUS07RedoKeyboardShortcut
-	"TODO don't know how to implement"
+	
+	| text |
+	text := 'test text'.
+	
+	self enterStringOntoTextField: text.
+	self editor undo.
+	self simulateKeyboardEventWithButtons: self ctrlShiftButtonCode andKeyValue: $z asciiValue.
+	
+	self assert: self editor text = text.

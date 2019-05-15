@@ -1,4 +1,4 @@
 helper
 triangleIsNotVisible
 
-	^ self editor hasUnacceptedEdits not
+	^ self triangleIsVisible not

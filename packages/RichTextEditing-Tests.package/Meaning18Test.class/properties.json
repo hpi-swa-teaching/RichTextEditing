@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"saver" ],
-	"name" : "SaveAndLoadTest",
+		"listView" ],
+	"name" : "Meaning18Test",
 	"pools" : [
 		 ],
 	"super" : "RichTextEditorTestCase",
