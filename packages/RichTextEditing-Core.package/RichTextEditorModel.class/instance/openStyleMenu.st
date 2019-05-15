@@ -5,7 +5,7 @@ openStyleMenu
 	menu := MenuMorph new. 
 	menu 
 		target: self;
-		add: 'bold' action: #bold;
+		add: 'bold' asText action: #bold;
 		add: 'italic' action: #italic;
 		add: 'underlined' action: #underlined.
 	
