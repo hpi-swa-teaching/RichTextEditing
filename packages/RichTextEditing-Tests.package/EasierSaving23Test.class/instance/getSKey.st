@@ -1,0 +1,4 @@
+helper
+getSKey
+
+	^ $s asInteger.

@@ -1,7 +1,7 @@
 utilities
 simulateKeyboardEventWithButtons: aButtonValue andKeyValue: aKeyValue
 
-	self editor textView handleEvent: (
+	self textView handleEvent: (
 		KeyboardEvent new
 			setType: #keystroke
 			buttons: aButtonValue

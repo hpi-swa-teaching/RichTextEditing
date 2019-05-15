@@ -1,8 +1,8 @@
 tests
 testUS09createNewLine
-"new line with shift enter"
+
+	"new line with shift enter"
 	self enterStringOntoTextField: 'hallo'.
-	self enterStringOntoTextField: String cr.
-	self assert: (self editor text = 'hallo
-' asText).
+	self pressShiftEnter.
+	self assert: (self editor text = ('hallo', String cr) asText).
 	

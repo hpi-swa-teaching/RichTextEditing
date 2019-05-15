@@ -1,4 +1,5 @@
 accessing
 textViewWrapper
 
-	^ textViewWrapper
+	^ MTFMorphWrapper newWith: {self textView}
+	
