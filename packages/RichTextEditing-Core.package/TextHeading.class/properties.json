@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "RichTextMorphForEditView",
+	"name" : "TextHeading",
 	"pools" : [
 		 ],
-	"super" : "TextMorphForEditView",
+	"super" : "TextAttribute",
 	"type" : "normal" }
