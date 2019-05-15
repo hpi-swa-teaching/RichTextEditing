@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"listView" : "ls 5/15/2019 17:56",
+		"listView:" : "ls 5/15/2019 17:56",
+		"setUp" : "ls 5/15/2019 17:57",
+		"tearDown" : "ls 5/15/2019 17:57",
+		"testUS18MeaningListExists" : "ls 5/15/2019 17:44",
+		"testUS18SelectionTypesCanBeSelected" : "ls 5/15/2019 17:56",
+		"testUS18TextMeaningIsSelectedInList" : "ls 5/15/2019 18:02",
+		"testUS18selectionTypeIsAppliedToSelection" : "ls 5/15/2019 18:59" } }
