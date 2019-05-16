@@ -2,6 +2,6 @@ textStyle
 italic
 
 	(self hasEmphasis: #italic)
-		ifTrue: [ self removeItalic]
-		ifFalse: [ self addItalic].
+		ifTrue: [ self removeAttribute: TextEmphasis italic]
+		ifFalse: [ self addAttribute: TextEmphasis italic].
 	

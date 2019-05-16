@@ -1,18 +1,16 @@
 {
 	"category" : "RichTextEditing-Core",
 	"classinstvars" : [
-		"emphasisCode",
-		"headingCode" ],
+		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
 		"text",
 		"textView",
-		"label",
-		"menu" ],
-	"name" : "RichTextEditorModel",
+		"label" ],
+	"name" : "TextFootnote",
 	"pools" : [
 		 ],
-	"super" : "StringHolder",
+	"super" : "TextAttribute",
 	"type" : "normal" }

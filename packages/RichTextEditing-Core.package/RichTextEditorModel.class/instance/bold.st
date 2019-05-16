@@ -2,8 +2,8 @@ textStyle
 bold
 
 	(self hasEmphasis: #bold)
-		ifTrue: [ self removeBold]
-		ifFalse: [ self addBold].
+		ifTrue: [ self removeAttribute: TextEmphasis bold]
+		ifFalse: [ self addAttribute: TextEmphasis bold].
 		
 	
 	

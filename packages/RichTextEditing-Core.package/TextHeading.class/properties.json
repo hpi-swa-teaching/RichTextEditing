@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"emphasisCode",
+		"setMode" ],
 	"name" : "TextHeading",
 	"pools" : [
 		 ],
