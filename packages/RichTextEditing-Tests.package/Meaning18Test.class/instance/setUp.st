@@ -2,4 +2,4 @@ testing
 setUp
 
 	super setUp.
-	"self listView: self editor listView."
+	self menu: self editor openStyleMenu.
