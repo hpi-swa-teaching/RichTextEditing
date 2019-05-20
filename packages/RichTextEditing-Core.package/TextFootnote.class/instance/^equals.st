@@ -1,4 +1,5 @@
 testing
-= other 
+= other
+
 	^ (other class == self class) 
 		and: [other isFootnote]

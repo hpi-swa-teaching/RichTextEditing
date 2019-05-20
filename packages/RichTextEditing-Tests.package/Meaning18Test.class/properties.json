@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"menu" ],
+	"name" : "Meaning18Test",
+	"pools" : [
+		 ],
+	"super" : "RichTextEditorTestCase",
+	"type" : "normal" }

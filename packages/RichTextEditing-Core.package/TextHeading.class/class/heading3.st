@@ -1,4 +1,4 @@
 as yet unclassified
 heading3
 
-	^self new emphasisCode: 13
+	^ self new emphasisCode: 13

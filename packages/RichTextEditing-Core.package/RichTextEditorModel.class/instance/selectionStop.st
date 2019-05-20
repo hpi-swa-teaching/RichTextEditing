@@ -1,4 +1,4 @@
 accessing
 selectionStop
 
-	^self editor selectionInterval stop
+	^ self editor selectionInterval stop

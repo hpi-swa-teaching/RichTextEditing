@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buttonWithLabelExists:" : "MB 5/15/2019 20:27",
+		"ctrlButtonCode" : "MB 5/15/2019 21:04",
+		"ctrlShiftButtonCode" : "MB 5/15/2019 21:04",
+		"editor" : "ls 5/8/2019 19:54",
+		"editor:" : "ls 5/8/2019 19:54",
+		"editorView" : "ls 5/8/2019 19:54",
+		"enterString:inDialog:" : "ls 5/8/2019 21:03",
+		"enterStringInSaveDialog:" : "ls 5/9/2019 10:42",
+		"enterStringOntoTextField:" : "MB 5/15/2019 17:57",
+		"setUp" : "MB 5/15/2019 20:17",
+		"shiftButtonCode" : "MB 5/15/2019 21:06",
+		"simulateKeyboardEventWithButtons:andKeyValue:" : "MB 5/15/2019 19:09",
+		"tearDown" : "ls 5/9/2019 10:40",
+		"textEditor" : "ls 5/15/2019 22:15",
+		"textView" : "MB 5/15/2019 19:06",
+		"textViewWrapper" : "MB 5/15/2019 19:08" } }

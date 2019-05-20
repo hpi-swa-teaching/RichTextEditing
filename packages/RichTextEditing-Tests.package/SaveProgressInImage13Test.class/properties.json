@@ -1,0 +1,16 @@
+{
+	"category" : "RichTextEditing-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"saveName",
+		"text",
+		"anotherText" ],
+	"name" : "SaveProgressInImage13Test",
+	"pools" : [
+		 ],
+	"super" : "RichTextEditorTestCase",
+	"type" : "normal" }

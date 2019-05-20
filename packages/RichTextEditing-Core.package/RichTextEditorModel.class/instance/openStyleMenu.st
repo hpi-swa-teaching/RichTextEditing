@@ -33,3 +33,4 @@ openStyleMenu
 				selector: heading]].
 	
 	self menu openAsTool.
+	^ self menu

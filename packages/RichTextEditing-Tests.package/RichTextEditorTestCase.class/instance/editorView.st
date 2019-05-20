@@ -1,0 +1,4 @@
+accessing
+editorView
+
+	^ self subject
