@@ -1,4 +1,0 @@
-helper
-noActiveButtonCode
-
-	^ 0

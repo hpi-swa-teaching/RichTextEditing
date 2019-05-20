@@ -1,4 +1,0 @@
-resources
-shiftButtonCode
-
-	^ 8

@@ -1,4 +1,0 @@
-accessing
-editorView
-
-	^ self subject
