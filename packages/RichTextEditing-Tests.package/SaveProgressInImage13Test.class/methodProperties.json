@@ -11,7 +11,7 @@
 		"saveName:" : "SR 5/8/2019 17:53",
 		"setUp" : "lh 5/15/2019 17:27",
 		"testUS04loadButtonExists" : "MB 5/15/2019 20:29",
-		"testUS04loadedTextIsInsertedIntoEditor" : "ls 5/19/2019 21:06",
+		"testUS04loadedTextIsInsertedIntoEditor" : "ls 5/21/2019 11:57",
 		"testUS04saveButtonExists" : "MB 5/15/2019 20:30",
 		"testUS04saveButtonLetsChooseNameAndSavesInImage" : "MB 5/15/2019 20:39",
 		"testUS04savedTextDoesntChange" : "ls 5/19/2019 19:05",
