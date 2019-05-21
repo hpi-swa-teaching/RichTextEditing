@@ -6,7 +6,7 @@
 		"open" : "MB 5/9/2019 09:37",
 		"saverClass" : "ls 5/8/2019 20:28" },
 	"instance" : {
-		"addAttribute:" : "AG 5/16/2019 09:37",
+		"addAttribute:" : "ls 5/21/2019 11:39",
 		"bold" : "AG 5/15/2019 22:12",
 		"buildLoadButtonWith:" : "ls 4/25/2019 15:00",
 		"buildRedoButtonWith:" : "ls 5/2/2019 14:42",
@@ -33,8 +33,8 @@
 		"menu:" : "AG 5/15/2019 22:31",
 		"noUnacceptedEdits" : "ls 5/8/2019 19:09",
 		"openStyleMenu" : "ls 5/20/2019 17:20",
-		"redo" : "ls 5/8/2019 21:42",
-		"removeAttribute:" : "AG 5/16/2019 09:37",
+		"redo" : "ls 5/21/2019 11:41",
+		"removeAttribute:" : "ls 5/21/2019 11:39",
 		"resetSaver" : "ls 5/3/2019 17:25",
 		"saveText:" : "ls 5/8/2019 19:26",
 		"saveTextInImage" : "ls 5/8/2019 19:09",
@@ -46,8 +46,9 @@
 		"setText:" : "ls 5/8/2019 21:35",
 		"text" : "ls 5/11/2019 12:24",
 		"text:" : "ls 5/11/2019 12:24",
+		"textChanged" : "ls 5/21/2019 11:41",
 		"textView" : "ls 5/11/2019 12:24",
 		"textView:" : "ls 5/11/2019 12:24",
 		"unacceptedEdits" : "ls 5/8/2019 19:10",
 		"underlined" : "AG 5/15/2019 22:13",
-		"undo" : "ls 5/8/2019 21:42" } }
+		"undo" : "ls 5/21/2019 11:41" } }

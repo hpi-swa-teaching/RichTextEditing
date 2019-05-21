@@ -1,4 +1,4 @@
-as yet unclassified
+edits-triangle
 hasUnacceptedEdits
 
 	^ self textView hasUnacceptedEdits
