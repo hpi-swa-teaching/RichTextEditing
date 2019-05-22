@@ -6,4 +6,4 @@ testUS18selectionTypeIsAppliedToSelection
 	
 	self clickHeading1Option.
 	
-	self assert: (self editor hasHeading: #heading1).
+	self assert: (self editorModel hasHeading: #heading1).

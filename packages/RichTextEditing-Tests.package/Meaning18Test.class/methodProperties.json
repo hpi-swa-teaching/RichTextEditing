@@ -4,12 +4,7 @@
 	"instance" : {
 		"assertHeading1IsSelectedInList" : "ls 5/20/2019 17:54",
 		"clickHeading1Option" : "ls 5/20/2019 17:55",
-		"menu" : "ls 5/15/2019 22:48",
-		"menu:" : "ls 5/15/2019 22:48",
-		"menuItemsDo:" : "ls 5/22/2019 16:50",
-		"setUp" : "ls 5/15/2019 22:48",
-		"tearDown" : "ls 5/21/2019 11:55",
-		"testUS18SelectionTypesCanBeSelected" : "ls 5/20/2019 17:45",
+		"testUS18SelectionTypesCanBeSelected" : "MB 5/22/2019 17:55",
 		"testUS18StyleButtonExists" : "lh 5/15/2019 21:35",
-		"testUS18TextMeaningIsSelectedInList" : "ls 5/20/2019 17:17",
-		"testUS18selectionTypeIsAppliedToSelection" : "ls 5/20/2019 18:05" } }
+		"testUS18TextMeaningIsSelectedInList" : "MB 5/22/2019 18:04",
+		"testUS18selectionTypeIsAppliedToSelection" : "MB 5/22/2019 18:04" } }

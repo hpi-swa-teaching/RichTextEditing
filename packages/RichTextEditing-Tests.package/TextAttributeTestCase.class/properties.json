@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "Meaning18Test",
+		"menu" ],
+	"name" : "TextAttributeTestCase",
 	"pools" : [
 		 ],
-	"super" : "TextAttributeTestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

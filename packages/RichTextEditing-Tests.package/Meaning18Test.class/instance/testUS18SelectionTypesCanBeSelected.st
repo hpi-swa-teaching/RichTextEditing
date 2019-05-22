@@ -2,7 +2,7 @@ testing
 testUS18SelectionTypesCanBeSelected
 
 	| menu |
-	menu := self editor openStyleMenu.
+	menu := self editorModel openStyleMenu.
 	
 	self assert: menu submorphs notEmpty.
 	self menuItemsDo: [:each | self assert: each isEnabled].
