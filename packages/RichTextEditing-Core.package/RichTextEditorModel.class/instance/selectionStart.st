@@ -1,6 +1,6 @@
 accessing
 selectionStart
 
-	^ self editor selectionInterval start
+	^ self editor selectionInterval first
 	
 	
