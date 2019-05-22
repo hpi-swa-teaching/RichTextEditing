@@ -32,5 +32,5 @@ openStyleMenu
 				target: self;
 				selector: heading]].
 	
-	self menu openAsTool.
+	self openMenu.
 	^ self menu
