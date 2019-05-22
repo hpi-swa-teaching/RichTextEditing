@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 menuItemsDo: aBlock
 
 		self menu items do: aBlock.

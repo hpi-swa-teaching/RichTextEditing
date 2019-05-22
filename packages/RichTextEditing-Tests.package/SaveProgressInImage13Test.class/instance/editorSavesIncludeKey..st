@@ -1,4 +1,4 @@
 accessing
 editorSavesIncludeKey: aKey
 
-	^ self editorModel saves includesKey: aKey
+	^ self editor saves includesKey: aKey

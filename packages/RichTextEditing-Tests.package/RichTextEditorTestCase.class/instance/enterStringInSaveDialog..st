@@ -1,4 +1,4 @@
 utilities
 enterStringInSaveDialog: aString
 
-	^ self enterString: aString inDialog: [self editorModel saveTextInImage]
+	^ self enterString: aString inDialog: [self editor saveTextInImage]

@@ -1,4 +1,4 @@
 accessing
 textView
 
-	^ self editorModel textView
+	^ self editor textView

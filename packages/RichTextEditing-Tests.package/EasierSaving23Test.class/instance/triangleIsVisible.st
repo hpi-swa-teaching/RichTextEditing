@@ -1,4 +1,4 @@
 helper
 triangleIsVisible
 
-	^ self editorModel hasUnacceptedEdits
+	^ self editor hasUnacceptedEdits

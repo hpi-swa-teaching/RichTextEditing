@@ -4,7 +4,12 @@
 	"instance" : {
 		"assertHeading1IsSelectedInList" : "ls 5/20/2019 17:54",
 		"clickHeading1Option" : "ls 5/22/2019 18:33",
+		"menu" : "ls 5/15/2019 22:48",
+		"menu:" : "ls 5/15/2019 22:48",
+		"menuItemsDo:" : "ls 5/22/2019 16:50",
+		"setUp" : "AG 5/22/2019 18:41",
+		"tearDown" : "ls 5/21/2019 11:55",
 		"testUS18SelectionTypesCanBeSelected" : "ls 5/22/2019 17:13",
-		"testUS18StyleButtonExists" : "ls 5/22/2019 17:12",
+		"testUS18StyleButtonExists" : "AG 5/22/2019 18:39",
 		"testUS18TextMeaningIsSelectedInList" : "ls 5/22/2019 18:35",
 		"testUS18selectionTypeIsAppliedToSelection" : "ls 5/22/2019 18:32" } }
