@@ -8,6 +8,7 @@ buildWith: aBuilder
 		label: #label;
 		children: {
 			self buildTextFieldWith: aBuilder.
+			self buildSaveAsButtonWith: aBuilder.
 			self buildSaveButtonWith: aBuilder.
 			self buildLoadButtonWith: aBuilder.
 			self buildUndoButtonWith: aBuilder.

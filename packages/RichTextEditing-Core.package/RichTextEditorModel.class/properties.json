@@ -9,7 +9,8 @@
 		"text",
 		"textView",
 		"label",
-		"menu" ],
+		"menu",
+		"currentSaveName" ],
 	"name" : "RichTextEditorModel",
 	"pools" : [
 		 ],
