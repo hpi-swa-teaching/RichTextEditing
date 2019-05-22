@@ -1,7 +1,7 @@
 resources
 tearDown
 
-	self editor noUnacceptedEdits;
+	self editorModel noUnacceptedEdits;
 		resetSaver.
 	self editorView abandon.
 	super tearDown.

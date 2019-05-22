@@ -5,7 +5,7 @@ simulateKeyboardEventWithButtons: aButtonValue andKeyValue: aKeyValue
 		KeyboardEvent new
 			setType: #keystroke
 			buttons: aButtonValue
-			position: self editor textView center
+			position: self editorModel textView center
 			keyValue: aKeyValue
 			hand: HandMorph new
 			stamp: Time millisecondClockValue).

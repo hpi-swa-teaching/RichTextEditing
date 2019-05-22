@@ -6,4 +6,4 @@ loadTextFromImage
 		loadName := self saveName] ifFalse: [
 		loadName := 1].
 	
-	self enterString: loadName inDialog: [self editor loadTextFromImage].
+	self enterString: loadName inDialog: [self editorModel loadTextFromImage].

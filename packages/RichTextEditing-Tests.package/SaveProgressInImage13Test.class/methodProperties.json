@@ -4,9 +4,9 @@
 	"instance" : {
 		"anotherText" : "SR 5/8/2019 17:52",
 		"anotherText:" : "SR 5/8/2019 17:52",
-		"editorSavesIncludeKey:" : "MB 5/15/2019 20:39",
+		"editorSavesIncludeKey:" : "MB 5/22/2019 18:01",
 		"enterSaveNameInDialog:" : "ls 5/9/2019 10:41",
-		"loadTextFromImage" : "ls 5/22/2019 17:06",
+		"loadTextFromImage" : "MB 5/22/2019 18:01",
 		"saveName" : "SR 5/8/2019 17:53",
 		"saveName:" : "SR 5/8/2019 17:53",
 		"setUp" : "lh 5/15/2019 17:27",
@@ -14,6 +14,6 @@
 		"testUS04loadedTextIsInsertedIntoEditor" : "ls 5/21/2019 11:57",
 		"testUS04saveButtonExists" : "AG 5/22/2019 18:39",
 		"testUS04saveButtonLetsChooseNameAndSavesInImage" : "MB 5/15/2019 20:39",
-		"testUS04savedTextDoesntChange" : "ls 5/19/2019 19:05",
+		"testUS04savedTextDoesntChange" : "MB 5/22/2019 18:00",
 		"text" : "SR 5/8/2019 17:53",
 		"text:" : "SR 5/8/2019 17:53" } }
