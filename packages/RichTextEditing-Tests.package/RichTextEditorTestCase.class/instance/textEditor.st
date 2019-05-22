@@ -1,4 +1,4 @@
 accessing
 textEditor
 
-	^ self editor editor
+	^ self editorModel editor
