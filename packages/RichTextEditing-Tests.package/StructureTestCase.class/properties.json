@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"menu" ],
-	"name" : "TextAttributeTestCase",
+	"name" : "StructureTestCase",
 	"pools" : [
 		 ],
 	"super" : "RichTextEditorTestCase",

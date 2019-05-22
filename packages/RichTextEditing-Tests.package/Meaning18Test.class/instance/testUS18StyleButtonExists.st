@@ -1,4 +1,4 @@
 testing
 testUS18StyleButtonExists
 
-	self assert: (self buttonWithLabelExists: 'Style').
+	self assert: (self buttonWithLabelExists: 'Structure').

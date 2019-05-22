@@ -10,5 +10,5 @@
 	"name" : "ManageStyles29Test",
 	"pools" : [
 		 ],
-	"super" : "TextAttributeTestCase",
+	"super" : "StructureTestCase",
 	"type" : "normal" }
