@@ -1,5 +1,0 @@
-testing
-= other
-
-	^ (other class == self class) 
-		and: [other isFootnote]

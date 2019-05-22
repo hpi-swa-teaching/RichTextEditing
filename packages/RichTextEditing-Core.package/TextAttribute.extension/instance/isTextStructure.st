@@ -1,0 +1,4 @@
+*RichTextEditing-Core
+isTextStructure
+
+	^false
