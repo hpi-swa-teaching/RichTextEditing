@@ -3,5 +3,5 @@ initialize
 
 	super initialize.
 	
-	self text: '';
+	self text: '' asText;
 		label: 'Rich Text Editor'.

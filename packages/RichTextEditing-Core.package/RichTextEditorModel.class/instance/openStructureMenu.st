@@ -8,7 +8,7 @@ openStructureMenu
 			target: self;
 			addItem:[:item|
 			item
-				contents: ((self hasStructure: structure) ifTrue: ['<yes>'] ifFalse: ['<no>']), (structure asString) translated;
+				contents: (((self hasStructure: structure) and: [self isTextEmpty not]) ifTrue: ['<yes>'] ifFalse: ['<no>']), (structure asString) translated;
 				target: self;
 				selector: #toggleStructure:;
 				arguments: {structure}]].
