@@ -5,5 +5,6 @@ testUS18selectionTypeIsAppliedToSelection
 	self textEditor selectFrom: 1 to: 2.
 	
 	self clickHeading1Option.
-	
-	self assert: (self editorModel hasHeading: #heading1).
+
+	self assert: (self editorModel hasStructure: #heading1).
+

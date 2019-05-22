@@ -4,6 +4,6 @@ testUS07UndoChangesText
 	| text |
 	text := 'test'.
 	self enterStringOntoTextField: text.
-	self editor undo.
+	self editorModel undo.
 	
-	self deny: self editor text = text.
+	self deny: self editorModel text = text.

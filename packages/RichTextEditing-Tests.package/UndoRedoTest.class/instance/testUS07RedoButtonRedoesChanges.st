@@ -6,7 +6,7 @@ testUS07RedoButtonRedoesChanges
 	text := 'test text'.
 	
 	self enterStringOntoTextField: text.
-	self editor undo.
+	self editorModel undo.
 	button click.
 	
-	self assert: self editor text = text.
+	self assert: self editorModel text = text.

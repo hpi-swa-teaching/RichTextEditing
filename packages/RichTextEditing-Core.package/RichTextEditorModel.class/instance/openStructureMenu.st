@@ -1,5 +1,5 @@
-textStructure
-openStyleMenu
+user interface
+openStructureMenu
 
 	self menu: MenuMorph new. 
 	

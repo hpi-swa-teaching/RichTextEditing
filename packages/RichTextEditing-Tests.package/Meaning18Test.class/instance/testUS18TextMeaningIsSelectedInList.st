@@ -7,6 +7,8 @@ testUS18TextMeaningIsSelectedInList
 	self textEditor selectFrom: 1 to: 2.
 	
 	selectionInterval := self textEditor selectionInterval.
-	self editorModel heading1.
+
+	self editorModel toggleStructure: #heading1.
+
 	
 	self assertHeading1IsSelectedInList.

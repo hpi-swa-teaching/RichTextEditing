@@ -1,4 +1,4 @@
 running
 testUS04saveButtonExists
 
-	self assert: (self buttonWithLabelExists: 'Save in image').
+	self assert: (self buttonWithLabelExists: 'Save').

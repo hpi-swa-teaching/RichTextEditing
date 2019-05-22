@@ -3,7 +3,7 @@ buildRedoButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new
 		model: self;
-		frame: (0.6 @ 0 corner: 0.8 @ 0.1);
+		frame: (0.42 @ 0 corner: 0.56 @ 0.1);
 		label: 'Redo';
 		action: #redo;
 		yourself
