@@ -1,4 +1,4 @@
 tests
 testUS07UndoButtonExists
 
-	self assert: (self subject findByLabel: 'Undo') morphs notEmpty.
+	self assert: (self buttonWithLabelExists: 'Undo').
