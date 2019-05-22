@@ -6,10 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"text",
-		"textView",
-		"label" ],
-	"name" : "TextFootnote",
+		"structureIdentifier" ],
+	"name" : "TextStructure",
 	"pools" : [
 		 ],
 	"super" : "TextAttribute",
