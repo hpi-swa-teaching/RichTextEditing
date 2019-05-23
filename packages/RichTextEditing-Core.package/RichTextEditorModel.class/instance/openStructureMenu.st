@@ -13,5 +13,5 @@ openStructureMenu
 				selector: #toggleStructure:;
 				arguments: {structure}]].
 	
-	self menu openAsTool.
+	self openMenu.
 	^ self menu
