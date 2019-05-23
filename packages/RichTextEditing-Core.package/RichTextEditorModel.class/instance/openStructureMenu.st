@@ -3,7 +3,7 @@ openStructureMenu
 
 	self menu: MenuMorph new. 
 	
-	self class textStructures do:
+	self textStructures do:
 		[:structure | self menu 
 			target: self;
 			addItem:[:item|
