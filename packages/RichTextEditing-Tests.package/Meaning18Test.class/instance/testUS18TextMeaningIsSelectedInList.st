@@ -7,5 +7,5 @@ testUS18TextMeaningIsSelectedInList
 	self textEditor selectFrom: 1 to: 2.
 
 	self editorModel toggleStructure: #heading1.	
-	self menu: self editorModel openStructureMenu.
+	self updateMenu.
 	self assertHeading1IsSelectedInList.
