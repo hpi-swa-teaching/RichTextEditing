@@ -1,4 +1,0 @@
-*RichTextEditing-Core
-foo
-
-	^ 'bar'
