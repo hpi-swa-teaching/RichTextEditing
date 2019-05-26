@@ -1,4 +1,4 @@
 as yet unclassified
 getParagraphCharacter
 	
-	^ '¶' asCharacter
+	^ Character value: 182
