@@ -1,0 +1,4 @@
+baseline
+initializeCharacterScanner
+
+	CharacterScanner addRichTextEditorStopConditions.
