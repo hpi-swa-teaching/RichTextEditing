@@ -1,4 +1,4 @@
-textStructure
+text structure
 chooseStructureToRemove
 
 	| chosen |

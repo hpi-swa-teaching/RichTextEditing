@@ -2,12 +2,14 @@
 	"class" : {
 		"openWith:" : "lh 5/29/2019 18:50" },
 	"instance" : {
+		"addNewStructure" : "lh 5/29/2019 19:35",
 		"buildAddStructureButtonWith:" : "lh 5/29/2019 18:54",
-		"buildRemoveStructureButtonWith:" : "lh 5/29/2019 18:54",
+		"buildRemoveStructureButtonWith:" : "lh 5/29/2019 19:24",
 		"buildStructureFieldWith:" : "lh 5/29/2019 18:26",
 		"buildStyleFieldWith:" : "lh 5/29/2019 18:26",
 		"buildTextPreviewFieldWith:" : "lh 5/29/2019 17:44",
-		"buildWith:" : "lh 5/29/2019 18:54",
+		"buildWith:" : "lh 5/29/2019 19:02",
+		"removeStructure" : "lh 5/29/2019 19:34",
 		"richTextEditor" : "lh 5/29/2019 18:33",
 		"richTextEditor:" : "lh 5/29/2019 18:33",
 		"textStructures" : "lh 5/29/2019 18:35",

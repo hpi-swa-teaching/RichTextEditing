@@ -1,10 +1,10 @@
-as yet unclassified
+toolbuilder
 buildWith: aBuilder
 
 	| windowSpec |
 	windowSpec := aBuilder pluggableWindowSpec new.
 	windowSpec
-		model: self;
+		model: self richTextEditor;
 		label: 'Structure Editor';
 		children: {
 			self buildStructureFieldWith: aBuilder.

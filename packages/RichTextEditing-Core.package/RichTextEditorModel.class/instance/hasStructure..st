@@ -1,4 +1,4 @@
-textStructure
+text structure
 hasStructure: aSymbol
 
 	^ (self editor text runs copyFrom: self selectionStart to: self selectionStop) allSatisfy:

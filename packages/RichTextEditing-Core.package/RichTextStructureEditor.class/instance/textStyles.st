@@ -1,4 +1,4 @@
-as yet unclassified
+text structures
 textStyles
 
 	^ self richTextEditor class textStyles

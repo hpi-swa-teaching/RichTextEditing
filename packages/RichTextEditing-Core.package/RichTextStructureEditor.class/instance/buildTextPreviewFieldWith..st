@@ -1,4 +1,4 @@
-as yet unclassified
+toolbuilder
 buildTextPreviewFieldWith: aBuilder
 
 	^ aBuilder pluggableTextSpec new

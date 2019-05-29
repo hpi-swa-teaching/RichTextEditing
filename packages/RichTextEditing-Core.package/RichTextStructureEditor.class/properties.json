@@ -1,7 +1,7 @@
 {
 	"category" : "RichTextEditing-Core",
 	"classinstvars" : [
-		 ],
+		"current" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",

@@ -1,4 +1,4 @@
-as yet unclassified
+toolbuilder
 buildStyleFieldWith: aBuilder
 
 	^ aBuilder pluggableMultiSelectionListSpec new

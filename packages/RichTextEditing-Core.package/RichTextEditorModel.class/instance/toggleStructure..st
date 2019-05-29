@@ -1,4 +1,4 @@
-textStructure
+text structure
 toggleStructure: aSymbol
 
 	(self isIntervalEmpty)
