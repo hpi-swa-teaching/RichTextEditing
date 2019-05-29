@@ -1,6 +1,6 @@
 toolbuilder
 buildStructureFieldWith: aBuilder
-
+ 
 	^ aBuilder pluggableListSpec new
 		name: 'structureField';
 		model: self;
