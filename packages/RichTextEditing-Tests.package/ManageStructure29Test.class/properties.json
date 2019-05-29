@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ManageStructure29Test",
+	"pools" : [
+		 ],
+	"super" : "StructureTestCase",
+	"type" : "normal" }

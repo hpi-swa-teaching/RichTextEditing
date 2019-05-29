@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "ManageStyles29Test",
+		"scanner",
+		"text" ],
+	"name" : "ParagraphFormatting25Test",
 	"pools" : [
 		 ],
-	"super" : "StructureTestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

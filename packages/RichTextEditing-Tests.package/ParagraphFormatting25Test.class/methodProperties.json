@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"getFirstTextLine" : "MB 5/29/2019 19:41",
+		"getSecoondTextLine" : "MB 5/29/2019 19:42",
+		"scanner" : "MB 5/29/2019 18:00",
+		"scanner:" : "MB 5/29/2019 18:00",
+		"setUp" : "MB 5/29/2019 19:41",
+		"testUS25ExtraSpacingForParagraph" : "MB 5/29/2019 19:42",
+		"testUS25NoVisibleParagraphSymbol" : "MB 5/29/2019 19:46",
+		"testUS25ParagraphSymbolDisplayedAsNewline" : "MB 5/29/2019 19:47",
+		"text" : "MB 5/29/2019 18:00",
+		"text:" : "MB 5/29/2019 18:00" } }
