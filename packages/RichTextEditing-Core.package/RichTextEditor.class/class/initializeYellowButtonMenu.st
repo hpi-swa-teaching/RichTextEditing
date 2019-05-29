@@ -1,4 +1,4 @@
 keyboard shortcut tables
 initializeYellowButtonMenu
 
-	yellowButtonMenu := MenuMorph fromArray: StringHolder yellowButtonMenuItems.
+	yellowButtonMenu := MenuMorph fromArray: StringHolder yellowButtonMenuItems

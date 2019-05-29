@@ -6,4 +6,4 @@ initialize
 		unsetBold;
 		unsetItalic;
 		unsetUnderlined;
-		unsetStruckOut.
+		unsetStruckOut

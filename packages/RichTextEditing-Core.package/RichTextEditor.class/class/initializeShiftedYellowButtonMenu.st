@@ -1,4 +1,4 @@
 keyboard shortcut tables
 initializeShiftedYellowButtonMenu
 
-	shiftedYellowButtonMenu := MenuMorph fromArray: StringHolder yellowButtonMenuItems.
+	shiftedYellowButtonMenu := MenuMorph fromArray: StringHolder yellowButtonMenuItems

@@ -4,4 +4,4 @@ initialize
 	self initializeCmdKeyShortcuts.
 	self initializeShiftCmdKeyShortcuts.
 	self initializeYellowButtonMenu.
-	self initializeShiftedYellowButtonMenu.
+	self initializeShiftedYellowButtonMenu

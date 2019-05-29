@@ -8,4 +8,4 @@ saveTextInImageWithNamePrompt
 		self
 			setCurrentSave: name;
 			noUnacceptedEdits
-		].
+		]

@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 paragraph: aKeyboardEvent
 	"Append a paragraph character to the stream of characters."
 	

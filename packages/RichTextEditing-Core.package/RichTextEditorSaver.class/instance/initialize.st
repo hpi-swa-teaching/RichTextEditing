@@ -2,5 +2,4 @@ initialize-release
 initialize
 
 	super initialize.
-	
-	self saves: Dictionary new.
+	self saves: Dictionary new

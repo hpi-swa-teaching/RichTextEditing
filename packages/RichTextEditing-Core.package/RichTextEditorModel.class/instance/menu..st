@@ -1,4 +1,4 @@
 accessing
 menu: anObject
 
-	menu := anObject.
+	menu := anObject

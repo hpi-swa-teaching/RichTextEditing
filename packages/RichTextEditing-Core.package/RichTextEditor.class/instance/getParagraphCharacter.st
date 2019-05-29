@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 getParagraphCharacter
 	
 	^ Character value: 182

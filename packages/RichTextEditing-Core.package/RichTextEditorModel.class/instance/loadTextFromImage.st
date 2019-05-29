@@ -9,4 +9,4 @@ loadTextFromImage
 			setText: (self saver loadSaveFromName: chosen);
 			setCurrentSave: chosen;
 			noUnacceptedEdits
-		].
+		]

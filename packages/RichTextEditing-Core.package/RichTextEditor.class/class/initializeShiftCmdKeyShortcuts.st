@@ -1,4 +1,4 @@
 keyboard shortcut tables
 initializeShiftCmdKeyShortcuts
 
-	super initializeShiftCmdKeyShortcuts.
+	super initializeShiftCmdKeyShortcuts

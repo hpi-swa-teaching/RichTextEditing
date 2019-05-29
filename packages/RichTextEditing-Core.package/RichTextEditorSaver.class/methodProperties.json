@@ -1,12 +1,12 @@
 {
 	"class" : {
 		"current" : "ls 4/24/2019 20:29",
-		"reset" : "ls 4/25/2019 15:18" },
+		"reset" : "AG 5/29/2019 18:40" },
 	"instance" : {
-		"addSave:underName:" : "ls 5/2/2019 14:09",
-		"initialize" : "ls 4/24/2019 19:44",
-		"loadSaveFromName:" : "ls 5/2/2019 14:09",
-		"reset" : "ls 5/3/2019 17:26",
+		"addSave:underName:" : "AG 5/29/2019 18:34",
+		"initialize" : "AG 5/29/2019 18:40",
+		"loadSaveFromName:" : "AG 5/29/2019 18:34",
+		"reset" : "AG 5/29/2019 18:34",
 		"saveNames" : "ls 4/25/2019 18:43",
 		"saves" : "ls 5/20/2019 17:13",
 		"saves:" : "ls 5/20/2019 17:13" } }

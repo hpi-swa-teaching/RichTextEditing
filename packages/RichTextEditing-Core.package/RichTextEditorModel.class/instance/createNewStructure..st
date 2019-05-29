@@ -1,4 +1,4 @@
 textStructure
 createNewStructure: aSymbol
 
-	self textStructures add: aSymbol.
+	self textStructures add: aSymbol

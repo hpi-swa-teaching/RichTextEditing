@@ -9,7 +9,6 @@ toggleStructure: aSymbol
 				ifTrue: [self removeAttribute: (TextStructure newWith: aSymbol)]
 				ifFalse: [self addAttribute: (TextStructure newWith: aSymbol)].
 			self editor closeTypeIn.
-		].
-		
+		]
 	
 	

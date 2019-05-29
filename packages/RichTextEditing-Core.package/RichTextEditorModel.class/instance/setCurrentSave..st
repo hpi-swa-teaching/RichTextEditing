@@ -3,4 +3,4 @@ setCurrentSave: aString
 
 	self
 		setLabel: aString;
-		currentSaveName: aString.
+		currentSaveName: aString

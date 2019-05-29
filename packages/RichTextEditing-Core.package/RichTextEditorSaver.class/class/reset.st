@@ -1,4 +1,4 @@
 singleton
 reset
 
-	current := nil.
+	current := nil

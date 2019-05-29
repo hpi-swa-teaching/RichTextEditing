@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 crWithIndent: aKeyboardEvent
 
 	^ self paragraph: aKeyboardEvent

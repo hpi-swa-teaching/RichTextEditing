@@ -8,4 +8,4 @@ emphasizeScanner: aScanner
 	self isUnderlined ifTrue: [code := code bitOr: 4].
 	self isStruckOut ifTrue: [code := code bitOr: 16].
 
-	aScanner addEmphasis: code.
+	aScanner addEmphasis: code

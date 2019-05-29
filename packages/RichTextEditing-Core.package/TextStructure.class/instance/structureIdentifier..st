@@ -1,4 +1,4 @@
 accessing
 structureIdentifier: aSymbol
 
-	structureIdentifier := aSymbol.
+	structureIdentifier := aSymbol

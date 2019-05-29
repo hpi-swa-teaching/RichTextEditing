@@ -2,4 +2,4 @@ accessing
 setText: aText
 
 	self text: aText;
-		changed: #text.
+		changed: #text

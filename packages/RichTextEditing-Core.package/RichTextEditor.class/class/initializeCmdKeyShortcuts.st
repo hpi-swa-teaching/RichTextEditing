@@ -1,4 +1,4 @@
 keyboard shortcut tables
 initializeCmdKeyShortcuts
 
-	super initializeCmdKeyShortcuts.
+	super initializeCmdKeyShortcuts
