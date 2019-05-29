@@ -1,4 +1,4 @@
 accessing
 buttonWithLabelExists: aLabel
 
-	^ (self editorView findByLabel: aLabel) morphs notEmpty.
+	^ (self editorView findByLabel: aLabel) morphs notEmpty

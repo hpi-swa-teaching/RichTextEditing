@@ -1,4 +1,4 @@
 helper
 sKeyValue
 
-	^ $s asciiValue.
+	^ $s asciiValue
