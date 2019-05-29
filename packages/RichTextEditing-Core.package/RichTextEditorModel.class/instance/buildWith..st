@@ -15,7 +15,8 @@ buildWith: aBuilder
 			self buildRedoButtonWith: aBuilder.
 			self buildStructureButtonWith: aBuilder.
 			self buildAddStructureButtonWith: aBuilder.
-			self buildRemoveStructureButtonWith: aBuilder.}.
+			self buildRemoveStructureButtonWith: aBuilder.
+			self buildManageStructuresButtonWith: aBuilder.}.
 	result := aBuilder build: windowSpec.
 	self textView: (aBuilder widgetAt: 'textView').
 			

@@ -1,7 +1,8 @@
 {
 	"category" : "RichTextEditing-Core",
 	"classinstvars" : [
-		"textStructures" ],
+		"textStructures",
+		"textStyles" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",

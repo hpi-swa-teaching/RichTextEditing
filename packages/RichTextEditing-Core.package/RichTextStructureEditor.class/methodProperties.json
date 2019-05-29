@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"open" : "lh 5/29/2019 18:45",
+		"openWith:" : "lh 5/29/2019 18:50" },
+	"instance" : {
+		"buildAddStructureButtonNewWith:" : "lh 5/29/2019 17:45",
+		"buildRemoveStructureButtonNewWith:" : "lh 5/29/2019 17:45",
+		"buildStructureFieldWith:" : "lh 5/29/2019 18:26",
+		"buildStyleFieldWith:" : "lh 5/29/2019 18:26",
+		"buildTextPreviewFieldWith:" : "lh 5/29/2019 17:44",
+		"buildWith:" : "lh 5/29/2019 17:58",
+		"richTextEditor" : "lh 5/29/2019 18:33",
+		"richTextEditor:" : "lh 5/29/2019 18:33",
+		"textStructures" : "lh 5/29/2019 18:35",
+		"textStyles" : "lh 5/29/2019 18:35" } }

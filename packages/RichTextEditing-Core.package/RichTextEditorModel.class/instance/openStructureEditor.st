@@ -1,0 +1,4 @@
+textStructure
+openStructureEditor
+
+	RichTextStructureEditor openWith: self

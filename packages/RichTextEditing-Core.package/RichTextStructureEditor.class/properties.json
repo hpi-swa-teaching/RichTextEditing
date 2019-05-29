@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"richTextEditor" ],
+	"name" : "RichTextStructureEditor",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }
