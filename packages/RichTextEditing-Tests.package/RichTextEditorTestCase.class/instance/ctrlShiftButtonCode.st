@@ -1,4 +1,4 @@
 accessing
 ctrlShiftButtonCode
 
-	^ self ctrlButtonCode bitOr: self shiftButtonCode.
+	^ self ctrlButtonCode bitOr: self shiftButtonCode
