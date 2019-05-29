@@ -1,8 +1,7 @@
 textStructure
 chooseStructureToRemove
 
-	| structures chosen |
-	structures := self class textStructures.
-	chosen := UIManager default chooseFrom: structures values: structures title: 'Remove:'.
+	| chosen |
+	chosen := UIManager default chooseFrom: self textStructures values: self textStructures title: 'Remove:'.
 	chosen ifNotNil: [
 		self removeStructure: chosen].
