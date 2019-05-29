@@ -1,0 +1,4 @@
+accessing
+setBold
+
+	bold := true

@@ -6,7 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"structureIdentifier" ],
+		"structureIdentifier",
+		"bold",
+		"italic",
+		"underlined",
+		"struckOut" ],
 	"name" : "TextStructure",
 	"pools" : [
 		 ],

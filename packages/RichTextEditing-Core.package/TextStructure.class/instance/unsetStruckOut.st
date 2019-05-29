@@ -1,0 +1,4 @@
+accessing
+unsetStruckOut
+
+	struckOut := false

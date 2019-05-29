@@ -1,0 +1,4 @@
+accessing
+unsetItalic
+
+	italic := false

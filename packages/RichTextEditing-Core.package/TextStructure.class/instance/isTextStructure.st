@@ -1,4 +1,4 @@
-as yet unclassified
+text structure
 isTextStructure
 
-	 ^true
+	 ^ true

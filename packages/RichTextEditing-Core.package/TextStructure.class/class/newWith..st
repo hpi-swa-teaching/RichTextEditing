@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 newWith: aSymbol
 
-	^self new structureIdentifier: aSymbol
+	^ self new structureIdentifier: aSymbol

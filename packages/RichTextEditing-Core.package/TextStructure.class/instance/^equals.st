@@ -1,4 +1,4 @@
-as yet unclassified
+text structure
 = other
 
 	^ (other class == self class) 

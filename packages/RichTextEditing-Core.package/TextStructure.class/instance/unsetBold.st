@@ -1,0 +1,4 @@
+accessing
+unsetBold
+
+	bold := false

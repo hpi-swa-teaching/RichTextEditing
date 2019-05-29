@@ -1,0 +1,4 @@
+accessing
+setItalic
+
+	italic := true

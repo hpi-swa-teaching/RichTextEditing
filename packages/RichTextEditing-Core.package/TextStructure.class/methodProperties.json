@@ -1,8 +1,22 @@
 {
 	"class" : {
-		"newWith:" : "AG 5/22/2019 17:49" },
+		"newWith:" : "ls 5/29/2019 17:49" },
 	"instance" : {
 		"=" : "AG 5/22/2019 18:10",
-		"isTextStructure" : "AG 5/22/2019 17:26",
-		"structureIdentifier" : "AG 5/22/2019 17:31",
-		"structureIdentifier:" : "AG 5/22/2019 17:31" } }
+		"emphasizeScanner:" : "ls 5/29/2019 18:16",
+		"initialize" : "ls 5/29/2019 18:17",
+		"isBold" : "ls 5/29/2019 17:55",
+		"isItalic" : "ls 5/29/2019 17:57",
+		"isStruckOut" : "ls 5/29/2019 17:55",
+		"isTextStructure" : "ls 5/29/2019 17:41",
+		"isUnderlined" : "ls 5/29/2019 17:56",
+		"setBold" : "ls 5/29/2019 17:55",
+		"setItalic" : "ls 5/29/2019 17:58",
+		"setStruckOut" : "ls 5/29/2019 17:56",
+		"setUnderlined" : "ls 5/29/2019 17:57",
+		"structureIdentifier" : "ls 5/29/2019 17:41",
+		"structureIdentifier:" : "AG 5/22/2019 17:31",
+		"unsetBold" : "ls 5/29/2019 17:55",
+		"unsetItalic" : "ls 5/29/2019 17:58",
+		"unsetStruckOut" : "ls 5/29/2019 17:56",
+		"unsetUnderlined" : "ls 5/29/2019 17:57" } }
