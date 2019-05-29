@@ -2,8 +2,4 @@ saving and loading
 saveText: aText
 
 	self text: aText.
-	"If currentSaveName is empty just perform saveTextInImage which is the same the behavior of the Save as... button."
-	self currentSaveName = '' ifTrue: [
-			self saveTextInImage]
-		ifFalse:[
-			self saveTextInImageWithCurrentSaveName].
+	self saveText.

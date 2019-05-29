@@ -5,5 +5,5 @@ buildSaveAsButtonWith: aBuilder
 		model: self;
 		frame: (0 @ 0 corner: 0.125 @ 0.1);
 		label: 'Save as...';
-		action: #saveTextInImage;
+		action: #saveTextInImageWithNamePrompt;
 		yourself
