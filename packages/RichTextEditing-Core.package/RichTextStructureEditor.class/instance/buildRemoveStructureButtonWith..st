@@ -1,5 +1,5 @@
 as yet unclassified
-buildRemoveStructureButtonNewWith: aBuilder
+buildRemoveStructureButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new
 		model: self;

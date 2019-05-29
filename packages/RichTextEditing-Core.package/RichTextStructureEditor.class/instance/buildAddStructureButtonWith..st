@@ -1,5 +1,5 @@
 as yet unclassified
-buildAddStructureButtonNewWith: aBuilder
+buildAddStructureButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new
 		model: self;
