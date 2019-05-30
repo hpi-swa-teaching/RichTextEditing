@@ -11,7 +11,8 @@
 		"textView",
 		"label",
 		"menu",
-		"currentSaveName" ],
+		"currentSaveName",
+		"selectedStylesPerStructure" ],
 	"name" : "RichTextEditorModel",
 	"pools" : [
 		 ],
