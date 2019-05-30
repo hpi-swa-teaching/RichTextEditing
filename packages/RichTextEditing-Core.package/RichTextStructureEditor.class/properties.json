@@ -9,8 +9,7 @@
 		"richTextEditor",
 		"structureList",
 		"styleList",
-		"currentStructure",
-		"selectedStylesPerStructure" ],
+		"currentStructure" ],
 	"name" : "RichTextStructureEditor",
 	"pools" : [
 		 ],

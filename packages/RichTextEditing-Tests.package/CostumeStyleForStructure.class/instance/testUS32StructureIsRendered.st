@@ -1,5 +1,6 @@
 as yet unclassified
 testUS32StructureIsRendered
 
-	self editorText addAttribute: self combinedTextStructure from: self editorText first to: self editorText last.
+	self editorText addAttribute: self combinedTextStructure.
+	self editorModel textChanged.
 	self assert: self textHasCombinedStyle

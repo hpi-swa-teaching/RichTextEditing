@@ -2,5 +2,7 @@ as yet unclassified
 setUp
 	
 	super setUp.
-	self text: 'This is structured Text.'.
-	self editor setText: self text
+	
+	self enterStringOntoTextField: 'This is structured text'
+	"self text: 'This is structured Text.' asText.
+	self editorModel setText: self text" 

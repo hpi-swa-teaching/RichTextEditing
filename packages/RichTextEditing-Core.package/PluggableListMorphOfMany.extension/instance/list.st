@@ -1,0 +1,4 @@
+*RichTextEditing-Core
+list 
+
+	^list

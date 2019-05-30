@@ -1,9 +1,9 @@
 accessing
 testUS32CheckAllStylesAreAvailable
 		
-	| styleList |
+	| styleList essentialStyles |
 	styleList := self subject findByClass: PluggableListMorphOfMany.
-	
-	RichTextEditorModel textStyles allSatisfy: [:aStyle |
-		styleList asList contains: aStyle]  
+	essentialStyles := {#bold . #italic . #underlined}.
+
+	self assert: (essentialStyles allSatisfy: [:aStyle | styleList list includes: aStyle])
 	

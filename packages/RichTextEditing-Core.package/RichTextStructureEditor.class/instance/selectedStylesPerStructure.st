@@ -1,4 +1,4 @@
 accessing
 selectedStylesPerStructure
 
-	^ selectedStylesPerStructure
+	^ self richTextEditor selectedStylesPerStructure

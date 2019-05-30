@@ -5,4 +5,4 @@ combinedTextStructure
 			setBold;
 			setItalic;
 			setUnderlined;
-			setStruckOut.
+			setStruckOut

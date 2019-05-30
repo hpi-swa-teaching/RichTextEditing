@@ -3,8 +3,9 @@
 		 },
 	"instance" : {
 		"combinedEmphasisCode" : "MB 5/29/2019 22:04",
-		"combinedTextStructure" : "MB 5/29/2019 22:08",
-		"setUp" : "MB 5/29/2019 21:38",
-		"testUS32StructureIsRendered" : "MB 5/29/2019 22:12",
-		"testUS32StylesAreChoosable" : "MB 5/29/2019 22:13",
-		"textHasCombinedStyle" : "MB 5/29/2019 22:04" } }
+		"combinedTextStructure" : "AG 5/30/2019 12:18",
+		"setUp" : "AG 5/30/2019 12:17",
+		"testUS32StructureIsRendered" : "AG 5/30/2019 12:25",
+		"text" : "AG 5/30/2019 11:17",
+		"text:" : "AG 5/30/2019 11:17",
+		"textHasCombinedStyle" : "AG 5/30/2019 11:28" } }
