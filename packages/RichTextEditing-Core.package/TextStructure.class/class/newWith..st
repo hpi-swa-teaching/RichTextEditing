@@ -1,7 +1,0 @@
-instance creation
-newWith: aSymbol
-
-	| instance | 
-	instance := self new structureIdentifier: aSymbol.
-	
-	^ instance
