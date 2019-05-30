@@ -6,7 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"richTextEditor" ],
+		"richTextEditor",
+		"structureList",
+		"styleList",
+		"currentStructure",
+		"selectedStylesPerStructure" ],
 	"name" : "RichTextStructureEditor",
 	"pools" : [
 		 ],

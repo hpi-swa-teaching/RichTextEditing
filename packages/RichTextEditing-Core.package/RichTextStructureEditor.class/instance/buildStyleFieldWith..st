@@ -6,4 +6,6 @@ buildStyleFieldWith: aBuilder
 		model: self;
 		frame: (0.5 @ 0 corner: 1 @ 0.6);
 		list: #textStyles;
+		getSelectionList: #getStyleSelectionAt:;
+		setSelectionList: #styleSelectionAt:put:;
 		yourself

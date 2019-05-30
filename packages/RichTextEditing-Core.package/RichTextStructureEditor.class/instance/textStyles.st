@@ -1,4 +1,4 @@
-text structures
+text styles
 textStyles
 
 	^ self richTextEditor class textStyles
