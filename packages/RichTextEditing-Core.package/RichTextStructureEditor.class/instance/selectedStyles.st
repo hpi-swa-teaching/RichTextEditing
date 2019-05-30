@@ -1,3 +1,4 @@
-accessing
+text styles
 selectedStyles
-	^ selectedStyles
+	
+	^ self selectedStylesPerStructure at: self currentStructure ifAbsent: [^ Set new]

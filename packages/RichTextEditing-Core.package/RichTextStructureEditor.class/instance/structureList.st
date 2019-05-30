@@ -1,3 +1,4 @@
 accessing
 structureList
+
 	^ structureList

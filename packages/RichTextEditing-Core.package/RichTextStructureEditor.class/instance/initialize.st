@@ -1,6 +1,8 @@
 initialize-release
 initialize
 
-	self selectedStyles: #() asSet.
-	self styleList: self textStyles.
-	self structureList: self textStructures
+	self
+		styleList: self textStyles;
+		structureList: self textStructures;
+		
+		initializeStylesPerStructure.
