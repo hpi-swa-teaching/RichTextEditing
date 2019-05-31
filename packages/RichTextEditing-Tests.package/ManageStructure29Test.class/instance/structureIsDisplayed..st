@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 structureIsDisplayed: aStructureAsString
 	
 	self updateMenu.

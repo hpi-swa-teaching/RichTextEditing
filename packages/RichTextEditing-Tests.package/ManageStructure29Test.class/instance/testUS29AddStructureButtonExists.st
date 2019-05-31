@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testUS29AddStructureButtonExists
 
 	self buttonWithLabelExists: 'Add Structure'.

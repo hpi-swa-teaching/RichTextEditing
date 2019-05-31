@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testUS29RemoveStructureButtonExists
 
 	self buttonWithLabelExists: 'Remove Structure'.
