@@ -5,5 +5,5 @@ testUS32CheckAllStylesAreAvailable
 	styleList := self subject findByClass: PluggableListMorphOfMany.
 	essentialStyles := {#bold . #italic . #underlined . #struckOut}.
 
-	self assert: (essentialStyles allSatisfy: [:aStyle | styleList list includes: aStyle])
+	self assert: essentialStyles asSet equals: styleList list asSet
 	
