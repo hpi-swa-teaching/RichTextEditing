@@ -3,4 +3,6 @@ tearDown
 
 	self removeAllTextStructures.
 	self restoreTextStructures. 
-	super tearDown
+	self richTextEditorMorph abandon.
+	super tearDown.
+	

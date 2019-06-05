@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"oldStructures" ],
+		"oldStructures",
+		"structureEditor",
+		"richTextEditorMorph" ],
 	"name" : "ManageStructure29Test",
 	"pools" : [
 		 ],

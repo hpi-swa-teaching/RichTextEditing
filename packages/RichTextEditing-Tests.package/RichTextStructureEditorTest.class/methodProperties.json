@@ -2,7 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "AG 5/30/2019 11:15",
+		"editorModel" : "AG 6/5/2019 19:03",
+		"editorModel:" : "AG 6/5/2019 19:03",
+		"setUp" : "AG 6/5/2019 19:16",
 		"structureEditor" : "AG 5/30/2019 11:12",
 		"structureEditor:" : "AG 5/30/2019 11:13",
-		"testUS32CheckAllStylesAreAvailable" : "ls 6/5/2019 16:51" } }
+		"testUS32CheckAllStylesAreAvailable" : "AG 6/5/2019 19:11" } }

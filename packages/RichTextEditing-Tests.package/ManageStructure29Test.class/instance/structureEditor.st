@@ -1,0 +1,3 @@
+accessing
+structureEditor
+	^ structureEditor

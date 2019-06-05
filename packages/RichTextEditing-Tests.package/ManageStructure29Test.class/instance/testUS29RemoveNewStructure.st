@@ -2,7 +2,7 @@ testing
 testUS29RemoveNewStructure
 
 	| removeStructureButton |
-	removeStructureButton := self editorView findByLabel: 'Remove Structure'.
+	removeStructureButton := self editorView findByLabel: '-'.
 	self editorModel createNewStructure: self newStructureName asSymbol.
 	
 	self enterStructureNameInRemoveDialog: [removeStructureButton click].
