@@ -8,9 +8,9 @@ SmalltalkCISpec {
     }
   ],
   
-  #testing : [
+  #testing : {
     #coverage : {
       #packages : [ 'RichTextEditing-Core' ]
     }
-  ]
+  }
 }
