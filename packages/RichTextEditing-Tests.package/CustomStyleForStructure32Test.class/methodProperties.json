@@ -4,6 +4,8 @@
 	"instance" : {
 		"combinedEmphasisCode" : "MB 5/29/2019 22:04",
 		"combinedTextStructure" : "AG 5/30/2019 12:33",
+		"emphasisCodeNoStyle" : "AG 6/5/2019 18:40",
 		"setUp" : "AG 5/30/2019 12:32",
-		"testUS32StructureIsRendered" : "AG 5/30/2019 12:32",
-		"textHasCombinedStyle" : "AG 5/30/2019 11:28" } }
+		"testUS32StructureIsRendered" : "AG 6/5/2019 18:39",
+		"textHasCombinedStyle" : "AG 5/30/2019 11:28",
+		"textHasNoStyle" : "AG 6/5/2019 18:40" } }
