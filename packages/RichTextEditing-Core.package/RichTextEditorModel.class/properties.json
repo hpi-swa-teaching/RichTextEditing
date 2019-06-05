@@ -1,7 +1,7 @@
 {
 	"category" : "RichTextEditing-Core",
 	"classinstvars" : [
-		"textStructures",
+		"initialTextStructures",
 		"textStyles" ],
 	"classvars" : [
 		 ],
@@ -12,6 +12,7 @@
 		"label",
 		"menu",
 		"currentSaveName",
+		"textStructures",
 		"selectedStylesPerStructure",
 		"realTextStructures" ],
 	"name" : "RichTextEditorModel",

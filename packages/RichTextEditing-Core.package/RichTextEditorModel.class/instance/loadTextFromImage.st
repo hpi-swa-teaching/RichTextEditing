@@ -7,6 +7,7 @@ loadTextFromImage
 	chosen ifNotNil: [
 		self
 			setText: (self saver loadSaveFromName: chosen);
+			loadTextStructures: (self saver loadStructuresFromName: chosen);
 			setCurrentSave: chosen;
 			noUnacceptedEdits
 		]

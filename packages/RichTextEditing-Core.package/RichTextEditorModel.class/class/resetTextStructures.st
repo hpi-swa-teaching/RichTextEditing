@@ -1,4 +1,0 @@
-constants
-resetTextStructures
-
-	textStructures := nil

@@ -1,4 +1,4 @@
-text structure
+accessing
 textStructures
 
-	^ self class textStructures
+	^ textStructures
