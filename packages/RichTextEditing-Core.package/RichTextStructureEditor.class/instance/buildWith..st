@@ -9,5 +9,7 @@ buildWith: aBuilder
 		children: {
 			self buildStructureFieldWith: aBuilder.
 			self buildStyleFieldWith: aBuilder.
-			self buildTextPreviewFieldWith: aBuilder.}.
+			self buildTextPreviewFieldWith: aBuilder.
+			self buildAddStructureButtonWith: aBuilder.
+			self buildRemoveStructureButtonWith: aBuilder.}.
 	^ aBuilder build: windowSpec
