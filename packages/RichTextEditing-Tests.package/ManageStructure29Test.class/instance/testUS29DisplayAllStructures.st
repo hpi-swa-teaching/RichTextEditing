@@ -1,4 +1,4 @@
-tests
+testing
 testUS29DisplayAllStructures
 	
 	self restoreTextStructures.

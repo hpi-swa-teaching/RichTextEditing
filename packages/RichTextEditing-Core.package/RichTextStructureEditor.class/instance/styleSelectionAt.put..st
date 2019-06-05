@@ -7,4 +7,5 @@ styleSelectionAt: anInteger put: aBoolean
 			ifTrue: [ self selectedStyles copyWith: target ]
 			ifFalse: [ self selectedStyles copyWithout: target ]).
 	
-	self richTextEditor updateStyle: self currentStructure
+	self richTextEditor updateStyle: self currentStructure.
+	self updateLoremIpsum

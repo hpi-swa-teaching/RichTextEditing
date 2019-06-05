@@ -1,4 +1,4 @@
-tests
+testing
 testUS29AddNewStructure
 	
 	|  addStructureButton |

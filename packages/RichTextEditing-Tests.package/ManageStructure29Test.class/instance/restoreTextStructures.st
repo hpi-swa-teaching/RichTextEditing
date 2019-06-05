@@ -1,4 +1,4 @@
-resources
+setup and teardown
 restoreTextStructures
 
 	self oldStructures do: [:each |

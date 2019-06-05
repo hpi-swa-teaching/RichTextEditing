@@ -1,4 +1,4 @@
-helper
+testing
 newStructureName
 
 	^ 'someTestingStructure'
