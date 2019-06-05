@@ -10,7 +10,7 @@ SmalltalkCISpec {
   
   #testing : [
     #coverage : {
-      #packages : [ 'RichTextEditing-Core' ]
+      #packages : [ 'RichTextEditing.*' ]
     }
   ]
 }
