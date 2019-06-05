@@ -2,6 +2,7 @@ text structure
 removeStructure: aSymbol
 
 	self textStructures remove: aSymbol ifAbsent: [Error].
-	self	selectedStylesPerStructure removeKey: aSymbol
+	self selectedStylesPerStructure removeKey: aSymbol.
+	self realTextStructures remove: (self findRealStructure: aSymbol) ifAbsent: [Error]
 
 	

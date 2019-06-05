@@ -2,6 +2,5 @@ testing
 mayBeExtended
 
 	(self isExtendable)
-		ifTrue: [^ true].
-	^ false
-		
+		ifTrue: [^ true]
+		ifFalse: [^ false]

@@ -1,8 +1,8 @@
-as yet unclassified
+testing
 allStructuresAreDisplayed
 
 	| structures |
-	structures := RichTextEditorModel textStructures.
+	structures := self editorModel textStructures.
 	^ (structures allSatisfy: [:structure | self structureIsDisplayed: structure asString]) 
 	
 	
