@@ -1,7 +1,7 @@
 toolbuilder
 buildWith: aBuilder
 
-	| windowSpec |
+	| windowSpec result |
 	windowSpec := aBuilder pluggableWindowSpec new.
 	windowSpec
 		model: self;
@@ -11,5 +11,8 @@ buildWith: aBuilder
 			self buildStyleFieldWith: aBuilder.
 			self buildTextPreviewFieldWith: aBuilder.
 			self buildAddStructureButtonWith: aBuilder.
-			self buildRemoveStructureButtonWith: aBuilder.}.
+			self buildRemoveStructureButtonWith: aBuilder}.
+		result := aBuilder build: windowSpec.
+		self textPreview: (aBuilder widgetAt: 'textPreview').
+		
 	^ aBuilder build: windowSpec

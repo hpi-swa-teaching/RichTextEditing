@@ -1,0 +1,6 @@
+text structure
+hasStructure: aSymbol forText: aText from: start to: end
+
+	^ (aText runs copyFrom: start to: end) allSatisfy:
+		[:attributes | attributes anySatisfy:
+			[:attribute | attribute isTextStructure ifTrue: [attribute structureIdentifier = aSymbol] ifFalse: [false]]]

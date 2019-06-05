@@ -9,14 +9,10 @@
 		"oldStructures:" : "ls 5/31/2019 15:06",
 		"removeAllTextStructures" : "ls 5/31/2019 15:13",
 		"restoreTextStructures" : "ls 5/31/2019 14:56",
-		"richTextEditorMorph" : "AG 6/5/2019 19:26",
-		"richTextEditorMorph:" : "AG 6/5/2019 19:26",
-		"setUp" : "AG 6/5/2019 19:26",
-		"structureEditor" : "AG 6/5/2019 19:15",
-		"structureEditor:" : "AG 6/5/2019 19:15",
+		"setUp" : "ls 6/6/2019 00:19",
 		"structureIsDisplayed:" : "ls 5/23/2019 16:49",
 		"structureIsNotDisplayed:" : "ls 5/23/2019 16:49",
-		"tearDown" : "AG 6/5/2019 19:26",
-		"testUS29AddNewStructure" : "AG 6/5/2019 19:16",
+		"tearDown" : "ls 6/6/2019 00:21",
+		"testUS29AddNewStructure" : "ls 6/6/2019 00:36",
 		"testUS29DisplayAllStructures" : "ls 5/31/2019 14:57",
-		"testUS29RemoveNewStructure" : "AG 6/5/2019 19:01" } }
+		"testUS29RemoveNewStructure" : "ls 6/6/2019 00:36" } }
