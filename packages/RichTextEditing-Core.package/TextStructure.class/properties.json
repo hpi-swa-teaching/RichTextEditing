@@ -10,7 +10,8 @@
 		"bold",
 		"italic",
 		"underlined",
-		"struckOut" ],
+		"struckOut",
+		"extendable" ],
 	"name" : "TextStructure",
 	"pools" : [
 		 ],

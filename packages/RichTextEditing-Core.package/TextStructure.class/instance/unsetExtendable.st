@@ -1,0 +1,4 @@
+accessing
+unsetExtendable
+
+	extendable := false

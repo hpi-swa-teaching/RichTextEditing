@@ -12,8 +12,7 @@
 		"label",
 		"menu",
 		"currentSaveName",
-		"selectedStylesPerStructure",
-		"realTextStructures" ],
+		"selectedStylesPerStructure" ],
 	"name" : "RichTextEditorModel",
 	"pools" : [
 		 ],

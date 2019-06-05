@@ -1,6 +1,6 @@
 constants
 textStyles
 
-	textStyles ifNil: [textStyles := {#bold .  #italic . #underlined . #struckOut} asOrderedCollection].
+	textStyles ifNil: [textStyles := {#bold .  #italic . #underlined . #struckOut . #extendable} asOrderedCollection].
 	^ textStyles
 	

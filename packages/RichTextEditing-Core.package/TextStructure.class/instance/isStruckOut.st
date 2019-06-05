@@ -1,4 +1,4 @@
-accessing
+testing
 isStruckOut
 
 	^ struckOut

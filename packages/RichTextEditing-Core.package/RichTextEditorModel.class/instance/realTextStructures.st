@@ -1,4 +1,0 @@
-accessing
-realTextStructures
-
-	^ realTextStructures

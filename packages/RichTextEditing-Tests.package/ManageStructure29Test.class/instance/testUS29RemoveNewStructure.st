@@ -1,7 +1,7 @@
-testing
+as yet unclassified
 testUS29RemoveNewStructure
 
-	| removeStructureButton |
+	|  removeStructureButton |
 	removeStructureButton := self editorView findByLabel: 'Remove Structure'.
 	self editorModel createNewStructure: self newStructureName asSymbol.
 	

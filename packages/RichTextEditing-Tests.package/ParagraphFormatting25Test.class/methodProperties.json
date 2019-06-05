@@ -3,12 +3,12 @@
 		 },
 	"instance" : {
 		"getFirstTextLine" : "MB 5/29/2019 19:41",
-		"getSecondTextLine" : "lh 6/5/2019 16:49",
+		"getSecoondTextLine" : "AG 5/29/2019 22:21",
 		"scanner" : "MB 5/29/2019 18:00",
 		"scanner:" : "MB 5/29/2019 18:00",
 		"setUp" : "MB 5/29/2019 19:41",
-		"testUS25ExtraSpacingForParagraph" : "lh 6/5/2019 16:52",
-		"testUS25NoVisibleParagraphSymbol" : "lh 6/5/2019 16:51",
-		"testUS25ParagraphSymbolDisplayedAsNewline" : "lh 6/5/2019 16:51",
+		"testUS25ExtraSpacingForParagraph" : "MB 5/29/2019 19:42",
+		"testUS25NoVisibleParagraphSymbol" : "MB 5/29/2019 19:46",
+		"testUS25ParagraphSymbolDisplayedAsNewline" : "MB 5/29/2019 19:47",
 		"text" : "MB 5/29/2019 18:00",
 		"text:" : "MB 5/29/2019 18:00" } }
