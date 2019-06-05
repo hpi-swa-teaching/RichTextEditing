@@ -1,4 +1,4 @@
-testing
+tests
 testUS23TriangleDisappearsAfterSuccesfulSave
 
 	self enterStringOntoTextField: 'Test text'.

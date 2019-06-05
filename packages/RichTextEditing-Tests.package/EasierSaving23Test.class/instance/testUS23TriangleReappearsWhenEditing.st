@@ -1,4 +1,4 @@
-testing
+tests
 testUS23TriangleReappearsWhenEditing
 
 	self enterStringOntoTextField: 'Start writing text.'.

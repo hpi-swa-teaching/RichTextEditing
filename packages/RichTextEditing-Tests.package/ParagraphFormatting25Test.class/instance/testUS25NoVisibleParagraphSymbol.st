@@ -1,4 +1,4 @@
-accessing
+tests
 testUS25NoVisibleParagraphSymbol
 	
 	| textLine1 textLine2 |
