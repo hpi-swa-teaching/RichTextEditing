@@ -1,4 +1,4 @@
-testing
+helper
 allStructuresAreDisplayed
 
 	| structures |

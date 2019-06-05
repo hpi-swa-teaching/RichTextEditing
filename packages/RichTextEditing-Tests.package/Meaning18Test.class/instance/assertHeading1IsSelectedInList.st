@@ -1,4 +1,4 @@
-testing
+helper
 assertHeading1IsSelectedInList
 	
 	self menuItemsDo: [:each | each contents = 'heading1' ifTrue: [

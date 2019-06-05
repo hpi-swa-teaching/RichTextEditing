@@ -1,4 +1,4 @@
-as yet unclassified
+helper
 textIsBold
 
 	^ (1 to: self editorText size) allSatisfy: [:index |

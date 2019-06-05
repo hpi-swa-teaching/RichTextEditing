@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 menuItemsDo: aBlock
 
 		self menuItems do: aBlock.

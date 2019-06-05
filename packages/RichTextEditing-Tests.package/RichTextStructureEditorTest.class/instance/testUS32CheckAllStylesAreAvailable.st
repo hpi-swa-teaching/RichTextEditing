@@ -1,4 +1,4 @@
-accessing
+tests
 testUS32CheckAllStylesAreAvailable
 		
 	| styleList essentialStyles |

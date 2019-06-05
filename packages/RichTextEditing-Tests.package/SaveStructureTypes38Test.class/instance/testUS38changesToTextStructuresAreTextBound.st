@@ -1,4 +1,4 @@
-testing
+tests
 testUS38changesToTextStructuresAreTextBound
 
 	self deny: (self editorModel textStructures includes: self structureSymbol).

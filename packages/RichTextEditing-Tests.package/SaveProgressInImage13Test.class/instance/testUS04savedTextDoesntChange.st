@@ -1,4 +1,4 @@
-running
+tests
 testUS04savedTextDoesntChange
 	
 	self editorModel setText: self text.

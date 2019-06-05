@@ -1,4 +1,4 @@
-testing
+helper
 structureIsNotDisplayed: aStructureAsString
 	
 	self updateMenu.

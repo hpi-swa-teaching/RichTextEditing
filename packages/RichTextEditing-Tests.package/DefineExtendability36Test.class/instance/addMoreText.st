@@ -1,4 +1,4 @@
-as yet unclassified
+helper
 addMoreText
 
 	self enterStringOntoTextField: 'More text'

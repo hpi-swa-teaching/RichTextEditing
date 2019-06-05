@@ -1,4 +1,4 @@
-testing
+resources
 setUp
 
 	super setUp.

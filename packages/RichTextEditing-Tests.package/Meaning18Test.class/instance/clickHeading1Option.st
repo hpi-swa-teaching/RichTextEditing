@@ -1,4 +1,4 @@
-testing
+tests
 clickHeading1Option
 
 	self menuItemsDo: [:each | each contents = 'heading1' ifTrue: [

@@ -1,4 +1,4 @@
-running
+tests
 testUS24saveButtonSavesInImage
 
 	| button button2|

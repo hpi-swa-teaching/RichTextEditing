@@ -1,9 +1,9 @@
 tests
-testUS36StructureIsExtendable
+testUS36StructureIsNotExtendable
 
 	self textEditor selectFrom: 1 to: self editorText size.
-	self editorModel addAttribute: self extendableBoldTextStructure.
+	self editorModel addAttribute: self boldTextStructure.
 	self textView textMorph releaseParagraph.
 	self addMoreText.
 	
-	self assert: self textIsBold
+	self deny: self textIsBold

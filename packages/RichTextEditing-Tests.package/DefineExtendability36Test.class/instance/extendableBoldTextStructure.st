@@ -1,4 +1,8 @@
-as yet unclassified
+helper
 extendableBoldTextStructure
-
-	^ TextStructure newWith: #test withEmphasis: #(#extendable #bold) asSet
+	
+	| extendableBoldStructure |
+	extendableBoldStructure := TextStructure newWith: #test withEmphasis: self extendableBoldSet.
+	extendableBoldStructure updateStyles: self extendableBoldSet.
+	
+	^ extendableBoldStructure
