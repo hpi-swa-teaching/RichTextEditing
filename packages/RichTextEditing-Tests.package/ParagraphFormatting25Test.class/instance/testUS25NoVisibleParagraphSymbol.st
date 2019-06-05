@@ -3,6 +3,6 @@ testUS25NoVisibleParagraphSymbol
 	
 	| textLine1 textLine2 |
 	textLine1 := self getFirstTextLine.
-	textLine2 := self getSecoondTextLine.
+	textLine2 := self getSecondTextLine.
 	
-	self assert: ((textLine1 last == textLine2 last) not)
+	self deny: textLine1 last = textLine2 last
