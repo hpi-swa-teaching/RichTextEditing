@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DefineExtendability36Test",
+	"pools" : [
+		 ],
+	"super" : "StructureTestCase",
+	"type" : "normal" }

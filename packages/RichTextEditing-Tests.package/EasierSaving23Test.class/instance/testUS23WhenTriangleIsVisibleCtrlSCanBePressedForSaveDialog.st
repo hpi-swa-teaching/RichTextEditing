@@ -1,4 +1,4 @@
-testing
+tests
 testUS23WhenTriangleIsVisibleCtrlSCanBePressedForSaveDialog
 
 	self enterStringOntoTextField: 'Test text'.

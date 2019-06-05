@@ -1,4 +1,4 @@
-accessing
+tests
 testUS25ParagraphSymbolDisplayedAsNewline
 	
 	| textLine1 textLine2 |

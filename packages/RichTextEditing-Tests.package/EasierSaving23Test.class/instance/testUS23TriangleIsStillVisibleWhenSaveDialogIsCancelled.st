@@ -1,4 +1,4 @@
-testing
+tests
 testUS23TriangleIsStillVisibleWhenSaveDialogIsCancelled
 
 	self enterStringOntoTextField: 'Write text'.
