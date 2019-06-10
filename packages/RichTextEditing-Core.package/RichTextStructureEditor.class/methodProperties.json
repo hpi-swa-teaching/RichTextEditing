@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"openWith:" : "lh 5/29/2019 22:39" },
+		"openWith:" : "MB 6/10/2019 18:21" },
 	"instance" : {
 		"addNewStructure" : "lh 5/30/2019 10:50",
 		"buildAddStructureButtonWith:" : "lh 5/29/2019 18:54",
@@ -33,5 +33,5 @@
 		"textPreview" : "ls 6/5/2019 22:38",
 		"textPreview:" : "ls 6/5/2019 22:38",
 		"textStructures" : "ls 6/5/2019 17:42",
-		"textStyles" : "lh 5/29/2019 18:35",
+		"textStyles" : "MB 6/10/2019 18:26",
 		"updateLoremIpsum" : "ls 6/5/2019 22:24" } }

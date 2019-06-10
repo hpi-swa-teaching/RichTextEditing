@@ -1,4 +1,4 @@
 accessing
-newLineCharacter
+paragraphCharacter
 
 	^ Character value: 182
