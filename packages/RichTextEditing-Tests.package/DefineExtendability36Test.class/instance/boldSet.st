@@ -1,0 +1,4 @@
+helper
+boldSet
+
+	^ #(#bold) asSet

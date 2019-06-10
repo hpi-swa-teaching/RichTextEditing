@@ -1,0 +1,4 @@
+accessing
+structureEditorView
+
+	^ self subject

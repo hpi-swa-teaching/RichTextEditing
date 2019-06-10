@@ -1,4 +1,4 @@
-running
+tests
 testUS04loadedTextIsInsertedIntoEditor
 
 	self editorModel setText: self text.

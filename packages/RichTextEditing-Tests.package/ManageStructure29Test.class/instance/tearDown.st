@@ -1,8 +1,8 @@
 setup and teardown
 tearDown
 
-	self removeAllTextStructures.
-	self restoreTextStructures. 
-	self richTextEditorMorph abandon.
+	self
+		removeAllTextStructures;
+		restoreTextStructures. 
 	super tearDown.
 	

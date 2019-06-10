@@ -1,4 +1,4 @@
-testing
+tests
 testUS18SelectionTypesCanBeSelected
 	
 	self assert: self menu submorphs notEmpty.

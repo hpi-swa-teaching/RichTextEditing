@@ -1,4 +1,4 @@
-as yet unclassified
+helper
 updateMenu
 
 	self menu: self editorModel openStructureMenu.

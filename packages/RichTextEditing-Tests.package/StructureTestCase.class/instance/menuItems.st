@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 menuItems
 
 	^ self menu items 

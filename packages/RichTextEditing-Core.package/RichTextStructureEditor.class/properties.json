@@ -9,7 +9,9 @@
 		"richTextEditor",
 		"structureList",
 		"styleList",
-		"currentStructure" ],
+		"currentStructure",
+		"loremIpsum",
+		"lastStructure" ],
 	"name" : "RichTextStructureEditor",
 	"pools" : [
 		 ],

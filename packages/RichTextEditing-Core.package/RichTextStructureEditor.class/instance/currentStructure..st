@@ -1,5 +1,7 @@
 accessing
-currentStructure: anObject
+currentStructure: aSymbol
 
-	currentStructure := anObject.
-	self changed: #allSelections
+	self lastStructure: self currentStructure.
+	currentStructure := aSymbol.
+	self changed: #allSelections;
+		updateLoremIpsum

@@ -1,4 +1,4 @@
-as yet unclassified
+helper
 textHasCombinedStyle
 
 	^ (1 to: self editorText size) allSatisfy: [:index |

@@ -4,8 +4,8 @@ setUp
 	super setUp.
 	self
 		structureSymbol: #thisIsATest;
-		saveName: 'test save'.
-	
+		saveName: 'test save'.	
+
 	self editorModel
 		createNewStructure: #thisIsATest;
 		removeStructure: #bold.

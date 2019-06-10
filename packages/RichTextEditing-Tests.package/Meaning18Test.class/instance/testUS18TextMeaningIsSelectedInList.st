@@ -1,4 +1,4 @@
-testing
+tests
 testUS18TextMeaningIsSelectedInList
 
 	| text |

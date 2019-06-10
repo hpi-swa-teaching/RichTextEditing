@@ -3,4 +3,5 @@ initialize
 
 	self
 		styleList: self textStyles;
-		structureList: self textStructures
+		structureList: self textStructures;
+		initializeLoremIpsum.
