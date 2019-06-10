@@ -5,4 +5,4 @@ testUS25ExtraSpacingForParagraph
 	textLine1 := self getFirstTextLine.
 	textLine2 := self getSecondTextLine.
 	
-	self assert: textLine1 bottom = (textLine2 bottom + 5)
+	self assert: textLine1 bottom equals: textLine2 bottom + self firstLineLength

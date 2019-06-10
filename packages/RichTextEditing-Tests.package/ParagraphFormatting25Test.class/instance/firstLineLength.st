@@ -1,0 +1,4 @@
+accessing
+firstLineLength
+
+	^ 5

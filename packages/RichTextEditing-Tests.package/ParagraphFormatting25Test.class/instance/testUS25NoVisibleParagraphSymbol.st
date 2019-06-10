@@ -5,4 +5,4 @@ testUS25NoVisibleParagraphSymbol
 	textLine1 := self getFirstTextLine.
 	textLine2 := self getSecondTextLine.
 	
-	self deny: textLine1 last = textLine2 last
+	self deny: textLine1 last equals: textLine2 last
