@@ -1,6 +1,7 @@
 as yet unclassified
 selectFrom: start to: stop
 
-	super selectFrom: start to: stop.
 	self model ifNotNil: 
-		[self model selectionChanged]
+		[(self model isIntervalEmpty)
+			ifFalse: [super selectFrom: start to: stop].
+		self model selectionChanged]
