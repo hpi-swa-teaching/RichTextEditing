@@ -3,6 +3,7 @@ tearDown
 
 	self
 		removeAllTextStructures;
-		restoreTextStructures. 
-	super tearDown.
+		restoreTextStructures.
+	self editorModel noUnacceptedEdits.
+	super tearDown
 	
