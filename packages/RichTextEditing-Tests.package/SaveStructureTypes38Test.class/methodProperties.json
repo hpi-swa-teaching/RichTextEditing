@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"saveName" : "ls 6/5/2019 18:23",
-		"saveName:" : "ls 6/5/2019 18:23",
-		"setUp" : "ls 6/5/2019 21:49",
-		"structureSymbol" : "ls 6/5/2019 18:26",
-		"structureSymbol:" : "ls 6/5/2019 18:26",
-		"testUS38changesToTextStructuresAreTextBound" : "ls 6/5/2019 21:50",
-		"testUS38textStructuresAreLoadedInWithText" : "ls 6/5/2019 21:50" } }
+		"boldStructureSymbol" : "MB 6/12/2019 18:05",
+		"removeStructure:andAddCostumStructure:" : "MB 6/12/2019 17:58",
+		"saveName" : "MB 6/12/2019 18:08",
+		"saveTextInImageAndOpenNewEditor" : "MB 6/12/2019 18:12",
+		"structureSymbol" : "MB 6/12/2019 18:31",
+		"testUS38changesToTextStructuresAreTextBound" : "MB 6/12/2019 18:31",
+		"testUS38textStructuresAreLoadedInWithText" : "MB 6/12/2019 18:31" } }

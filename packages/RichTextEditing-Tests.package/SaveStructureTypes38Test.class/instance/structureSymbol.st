@@ -1,4 +1,5 @@
-accessing
+testing
 structureSymbol
-
-	^ structureSymbol
+	
+		^#thisIsATest
+	

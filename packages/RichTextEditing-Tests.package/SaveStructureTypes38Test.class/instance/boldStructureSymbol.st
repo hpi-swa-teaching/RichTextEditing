@@ -1,0 +1,5 @@
+testing
+boldStructureSymbol
+	
+		^#bold
+	
