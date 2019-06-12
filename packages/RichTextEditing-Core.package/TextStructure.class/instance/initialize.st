@@ -7,4 +7,4 @@ initialize
 		unsetItalic;
 		unsetUnderlined;
 		unsetStruckOut;
-		setExtendable
+		unsetExtendable
