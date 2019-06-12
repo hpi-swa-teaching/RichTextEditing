@@ -3,6 +3,6 @@
 		 },
 	"instance" : {
 		"hasStructure:forText:" : "ls 6/6/2019 01:03",
-		"setUp" : "ls 6/6/2019 00:29",
 		"testUS43PreviewTextfieldExists" : "ls 6/6/2019 00:27",
-		"testUS43PreviewTextfieldHasSelectedStructureApplied" : "ls 6/6/2019 01:04" } }
+		"testUS43PreviewTextfieldHasSelectedStructureApplied" : "MB 6/12/2019 20:47",
+		"textPreviewLabel" : "MB 6/12/2019 20:29" } }

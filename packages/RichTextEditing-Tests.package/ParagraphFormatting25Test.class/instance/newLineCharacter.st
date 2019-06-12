@@ -1,0 +1,4 @@
+accessing
+newLineCharacter
+
+	^ Character cr
