@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addStructure" : "ls 6/12/2019 17:54",
+		"removeStructure" : "ls 6/12/2019 17:58",
+		"testUS47WhenStructureIsAddedTheTriangleShows" : "ls 6/12/2019 17:55",
+		"testUS47WhenStructureIsRemovedTheTriangleShows" : "ls 6/12/2019 17:55" } }
