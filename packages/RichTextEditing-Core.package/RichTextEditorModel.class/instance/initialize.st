@@ -7,4 +7,5 @@ initialize
 		label: 'Rich Text Editor';
 		textStructures: self class initialTextStructures;
 		initializeStylesPerStructure;
-		initializeRealStructures
+		initializeRealStructures.
+	self selectedStructures: Set new

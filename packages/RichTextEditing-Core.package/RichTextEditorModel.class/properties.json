@@ -14,7 +14,8 @@
 		"currentSaveName",
 		"textStructures",
 		"selectedStylesPerStructure",
-		"realTextStructures" ],
+		"realTextStructures",
+		"selectedStructures" ],
 	"name" : "RichTextEditorModel",
 	"pools" : [
 		 ],
