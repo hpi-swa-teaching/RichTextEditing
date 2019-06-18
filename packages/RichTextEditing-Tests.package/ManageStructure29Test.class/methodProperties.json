@@ -10,9 +10,9 @@
 		"removeAllTextStructures" : "ls 5/31/2019 15:13",
 		"restoreTextStructures" : "ls 5/31/2019 14:56",
 		"setUp" : "ls 6/6/2019 00:19",
-		"structureIsDisplayed:" : "AG 6/18/2019 16:10",
+		"structureIsDisplayed:" : "ls 6/18/2019 16:27",
 		"structureIsNotDisplayed:" : "AG 6/18/2019 16:00",
 		"tearDown" : "ls 6/12/2019 18:04",
-		"testUS29AddNewStructure" : "AG 6/18/2019 16:11",
-		"testUS29DisplayAllStructures" : "ls 5/31/2019 14:57",
-		"testUS29RemoveNewStructure" : "AG 6/18/2019 16:03" } }
+		"testUS29AddNewStructure" : "ls 6/18/2019 16:22",
+		"testUS29DisplayAllStructures" : "ls 6/18/2019 16:22",
+		"testUS29RemoveNewStructure" : "ls 6/18/2019 16:22" } }
