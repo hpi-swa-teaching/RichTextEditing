@@ -1,6 +1,6 @@
 as yet unclassified
 selectOptionBold
 
-	self editorModel selectedStructures: (self editorModel selectedStructures copyWith: #bold).
+	self editorModel structureSelectionAt: (self editorModel textStructures indexOf: #bold) put: true
 	
 	
