@@ -2,8 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"assertHeading1IsSelectedInList" : "ls 5/22/2019 21:18",
-		"clickHeading1Option" : "ls 5/20/2019 17:55",
-		"testUS18SelectionTypesCanBeSelected" : "ls 5/22/2019 17:13",
-		"testUS18TextMeaningIsSelectedInList" : "ls 5/23/2019 16:50",
-		"testUS18selectionTypeIsAppliedToSelection" : "MB 5/22/2019 18:04" } }
+		"menu" : "ls 6/18/2019 16:37",
+		"menuItemsDo:" : "ls 6/18/2019 16:39",
+		"testUS18TextMeaningIsSelectedInList" : "ls 6/18/2019 16:36",
+		"testUS18selectionTypeIsAppliedToSelection" : "ls 6/18/2019 16:48" } }

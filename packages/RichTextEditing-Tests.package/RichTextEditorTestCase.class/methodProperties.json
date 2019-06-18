@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"boldIsSelectedInList" : "ls 6/18/2019 16:36",
 		"buttonWithLabelExists:" : "AG 5/29/2019 22:21",
 		"ctrlButtonCode" : "MB 5/15/2019 21:04",
 		"ctrlShiftButtonCode" : "AG 5/29/2019 22:21",
@@ -15,6 +16,7 @@
 		"enterStringInSaveDialog:" : "ls 5/29/2019 17:20",
 		"enterStringOntoTextField:" : "MB 5/15/2019 17:57",
 		"openNewEditorModel" : "MB 6/12/2019 18:01",
+		"selectOptionBold" : "ls 6/18/2019 16:34",
 		"setUp" : "MB 6/12/2019 18:01",
 		"shiftButtonCode" : "MB 5/15/2019 21:06",
 		"simulateKeyboardEventWithButtons:andKeyValue:" : "MB 5/22/2019 17:55",

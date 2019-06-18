@@ -4,7 +4,6 @@ testUS18selectionTypeIsAppliedToSelection
 	self enterStringOntoTextField: 'test'.
 	self textEditor selectFrom: 1 to: 2.
 	
-	self clickHeading1Option.
+	self selectOptionBold.
 
-	self assert: (self editorModel hasStructure: #heading1).
-
+	self assert: (self editorModel hasStructure: #bold)
