@@ -4,4 +4,6 @@ removeStructure: aSymbol
 	self textStructures remove: aSymbol ifAbsent: [Error].
 	self selectedStylesPerStructure removeKey: aSymbol.
 	self realTextStructures remove: (self findRealStructure: aSymbol) ifAbsent: [Error].
-	self textChanged
+	self
+		textChanged;
+		structuresChanged
