@@ -1,4 +1,4 @@
-text structure
+as yet unclassified
 okToChange
 
 	^ true
