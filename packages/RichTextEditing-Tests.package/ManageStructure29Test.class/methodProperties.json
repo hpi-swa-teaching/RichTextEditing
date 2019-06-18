@@ -2,17 +2,17 @@
 	"class" : {
 		 },
 	"instance" : {
-		"allStructuresAreDisplayed" : "ls 6/5/2019 19:00",
+		"allStructuresAreDisplayed" : "AG 6/18/2019 16:05",
 		"enterStructureNameInRemoveDialog:" : "ls 5/31/2019 15:16",
-		"newStructureName" : "MB 5/22/2019 19:43",
+		"newStructureName" : "AG 6/18/2019 16:02",
 		"oldStructures" : "ls 5/31/2019 15:08",
 		"oldStructures:" : "ls 5/31/2019 15:06",
 		"removeAllTextStructures" : "ls 5/31/2019 15:13",
 		"restoreTextStructures" : "ls 5/31/2019 14:56",
 		"setUp" : "ls 6/6/2019 00:19",
-		"structureIsDisplayed:" : "ls 5/23/2019 16:49",
-		"structureIsNotDisplayed:" : "ls 5/23/2019 16:49",
+		"structureIsDisplayed:" : "AG 6/18/2019 16:10",
+		"structureIsNotDisplayed:" : "AG 6/18/2019 16:00",
 		"tearDown" : "ls 6/12/2019 18:04",
-		"testUS29AddNewStructure" : "ls 6/6/2019 00:36",
+		"testUS29AddNewStructure" : "AG 6/18/2019 16:11",
 		"testUS29DisplayAllStructures" : "ls 5/31/2019 14:57",
-		"testUS29RemoveNewStructure" : "ls 6/6/2019 00:36" } }
+		"testUS29RemoveNewStructure" : "AG 6/18/2019 16:03" } }

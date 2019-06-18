@@ -1,5 +1,7 @@
 testing
-structureIsDisplayed: aStructureAsString
+structureIsDisplayed: aSymbol
 	
-	self updateMenu.
-	^ self menuItems anySatisfy: [:item | item contents =  aStructureAsString]
+	| structureList |
+	structureList := self subject findByClass: PluggableListMorphOfMany.
+	
+	^structureList list includes: aSymbol
