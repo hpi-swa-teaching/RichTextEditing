@@ -3,6 +3,8 @@ testUS41ColorIsAssignedToStructure
 
 	self enterStringOntoTextField: 'test'.
 	
+	self deny: (self hasColor: Color green).
+	
 	self addColoredStructure.
 	self setGreenColor.
 	
