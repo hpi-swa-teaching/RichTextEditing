@@ -5,5 +5,3 @@ addAttribute: aTextAttribute
 	self
 		textChanged;
 		selectionChanged
-	
-	

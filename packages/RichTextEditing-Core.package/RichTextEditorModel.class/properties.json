@@ -15,7 +15,8 @@
 		"textStructures",
 		"selectedStylesPerStructure",
 		"realTextStructures",
-		"selectedStructures" ],
+		"selectedStructures",
+		"bufferedStructures" ],
 	"name" : "RichTextEditorModel",
 	"pools" : [
 		 ],

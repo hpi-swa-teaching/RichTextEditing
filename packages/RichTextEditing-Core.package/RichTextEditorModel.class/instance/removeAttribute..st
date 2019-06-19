@@ -5,6 +5,3 @@ removeAttribute: aTextAttribute
 	self
 		textChanged;
 		selectionChanged
-		
-	
-	

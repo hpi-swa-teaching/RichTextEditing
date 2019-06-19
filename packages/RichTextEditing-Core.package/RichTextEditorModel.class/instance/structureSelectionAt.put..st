@@ -3,12 +3,12 @@ structureSelectionAt: anIndex put: aBoolean
 
 	| target |
 	target := self textStructures at: anIndex.
-	self selectedStructures: (aBoolean
-			ifTrue: [ 
-				self selectedStructures copyWith: target.
-				self addAttribute: (self realStructureAt: anIndex)]
-			ifFalse: [ 
-				self selectedStructures copyWithout: target.
-				self removeAttribute: (self realStructureAt: anIndex)]).
-	self selectionChanged.
+	aBoolean ifTrue: [
+		self isIntervalEmpty ifTrue: [
+			self bufferedStructures add: target]
+		ifFalse: [
+			self addAttribute: (self realStructureAt: anIndex)]]
+	ifFalse: [ 
+		self removeAttribute: (self realStructureAt: anIndex)].
+	self selectionChanged
 	

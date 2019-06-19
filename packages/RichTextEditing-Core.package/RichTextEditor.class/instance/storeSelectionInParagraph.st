@@ -2,4 +2,4 @@ as yet unclassified
 storeSelectionInParagraph
 
 	super storeSelectionInParagraph.
-	self model ifNotNil: #selectionChanged
+	self model ifNotNil: #selectionChanged.
