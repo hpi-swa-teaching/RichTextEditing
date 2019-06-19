@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ColorTextStructures41Test",
+	"pools" : [
+		 ],
+	"super" : "StructureEditorTestCase",
+	"type" : "normal" }

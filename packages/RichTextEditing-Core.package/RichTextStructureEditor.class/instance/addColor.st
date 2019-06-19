@@ -4,6 +4,5 @@ addColor
 	self currentStructure ifNotNil:
 	[(NewColorPickerMorph
 		on: self
-		originalColor: Color black
-		setColorSelector: #setColor:
-		) openInWorld]
+		originalColor: self class defaultColor
+		setColorSelector: #setColor:) openInWorld]
