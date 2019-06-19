@@ -8,4 +8,4 @@ initialize
 		unsetUnderlined;
 		unsetStruckOut;
 		unsetExtendable;
-		color: Color black.
+		color: RichTextStructureEditor defaultColor

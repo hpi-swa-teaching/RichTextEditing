@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addColoredStructure" : "lh 6/19/2019 22:27",
+		"colorName" : "lh 6/19/2019 22:02",
+		"coloredStructure" : "lh 6/19/2019 21:13",
+		"coloredStructureName" : "lh 6/19/2019 21:22",
+		"hasColor:" : "lh 6/19/2019 22:43",
+		"setGreenColor" : "lh 6/19/2019 22:11",
+		"testUS41ColorCanBeReset" : "lh 6/19/2019 22:44",
+		"testUS41ColorIsAssignedToStructure" : "lh 6/19/2019 22:44" } }
