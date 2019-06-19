@@ -1,7 +1,5 @@
 testing
-structureIsDisplayed: aSymbol
+structureIsDisplayed: aStructureAsString
 	
-	| structureList |
-	structureList := self richTextEditorMorph findByName: 'structureList'.
-	
-	^ structureList list includes: aSymbol
+	self updateMenu.
+	^ self menuItems anySatisfy: [:item | item contents =  aStructureAsString]

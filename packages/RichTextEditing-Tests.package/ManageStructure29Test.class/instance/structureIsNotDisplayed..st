@@ -1,4 +1,5 @@
 testing
-structureIsNotDisplayed: aSymbol
+structureIsNotDisplayed: aStructureAsString
 	
-	^ (self structureIsDisplayed: aSymbol) not
+	self updateMenu.
+	^ self menuItems noneSatisfy: [:item | item contents =  aStructureAsString]

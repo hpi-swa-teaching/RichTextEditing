@@ -1,4 +1,4 @@
-testing
+as yet unclassified
 testUS44StructureListExists
 
-	self editorView findByName: 'structureList'
+	self editorView findByName: self structureListName

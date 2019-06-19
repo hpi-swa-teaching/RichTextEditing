@@ -1,5 +1,4 @@
-resources
-setUp
+helper
+updateMenu
 
-	super setUp.
 	self menu: self editorModel openStructureMenu.
