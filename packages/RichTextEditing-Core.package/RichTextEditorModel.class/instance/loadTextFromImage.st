@@ -1,13 +1,13 @@
 saving and loading
 loadTextFromImage
 
-	| chosen names |
+	| chosen names document |
 	names := self saver saveNames.
 	chosen := UIManager default chooseFrom: names values: names title: 'Load from...'.
 	chosen ifNotNil: [
+		document := self saver loadDocumentFromName: chosen.
 		self
-			setText: (self saver loadSaveFromName: chosen);
-			loadTextStructures: (self saver loadStructuresFromName: chosen);
+			setText: (document text);
+			loadTextStructures: (document textStructures);
 			setCurrentSave: chosen;
-			noUnacceptedEdits
-		]
+			noUnacceptedEdits].

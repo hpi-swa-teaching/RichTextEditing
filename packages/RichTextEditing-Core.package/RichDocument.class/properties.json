@@ -1,13 +1,14 @@
 {
 	"category" : "RichTextEditing-Core",
 	"classinstvars" : [
-		"current" ],
+		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"documents" ],
-	"name" : "RichTextEditorSaver",
+		"textStructures",
+		"text" ],
+	"name" : "RichDocument",
 	"pools" : [
 		 ],
 	"super" : "Object",

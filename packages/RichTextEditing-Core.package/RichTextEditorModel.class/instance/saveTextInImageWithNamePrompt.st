@@ -1,11 +1,11 @@
 saving and loading
 saveTextInImageWithNamePrompt
 
-	| name |
+	| name document |
 	name := UIManager default request: 'Save as...'.
 	name = '' ifFalse: [
-		self saver addSave: self text underName: name withStructures: self textStructures.
+		document := RichDocument fromText: self text withStructures: self textStructures.
+		self saver addSave: document underName: name.
 		self
 			setCurrentSave: name;
-			noUnacceptedEdits
-		]
+			noUnacceptedEdits].

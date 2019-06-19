@@ -1,4 +1,4 @@
 accessing
 reset
 
-	self class reset
+	self class reset.

@@ -3,5 +3,4 @@ initialize
 
 	super initialize.
 	self
-		saves: Dictionary new;
-		saveStructures: Dictionary new
+		documents: Dictionary new.

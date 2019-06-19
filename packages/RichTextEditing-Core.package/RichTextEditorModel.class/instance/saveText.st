@@ -3,4 +3,4 @@ saveText
 
 	self currentSaveName = ''
 		ifTrue: [self saveTextInImageWithNamePrompt]
-		ifFalse: [self saveTextInImageWithCurrentSaveName]
+		ifFalse: [self saveTextInImageWithCurrentSaveName].

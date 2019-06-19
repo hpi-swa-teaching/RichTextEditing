@@ -1,8 +1,9 @@
 tests
 testUnitSavesCanBeAddedAndLoaded
 
-	| saveName saveText |
+	| saveName saveText document|
 	saveName := 'Testname'.
 	saveText := Text fromString: 'this is a test'.
-	self saver addSave: saveText underName: saveName withStructures: Set new.
-	self assert: (self saver loadSaveFromName: saveName) equals: saveText.
+	document := RichDocument fromText: saveText withStructures: Set new.
+	self saver addSave: document underName: saveName.
+	self assert: (self saver loadDocumentFromName: saveName) text equals: saveText.

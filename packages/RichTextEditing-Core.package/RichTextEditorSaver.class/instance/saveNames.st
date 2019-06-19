@@ -1,4 +1,4 @@
 accessing
 saveNames
 
-	^ self saves keys
+	^ self documents keys
