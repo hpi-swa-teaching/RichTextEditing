@@ -4,6 +4,5 @@
 	"instance" : {
 		"menu" : "ls 6/18/2019 16:37",
 		"menuItemsDo:" : "ls 6/18/2019 16:39",
-		"testUS18StructureButtonExists" : "ls 5/22/2019 18:37",
 		"testUS18TextMeaningIsSelectedInList" : "ls 6/18/2019 16:36",
 		"testUS18selectionTypeIsAppliedToSelection" : "ls 6/18/2019 16:48" } }
