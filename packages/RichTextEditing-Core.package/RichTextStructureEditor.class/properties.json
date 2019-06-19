@@ -11,7 +11,8 @@
 		"styleList",
 		"currentStructure",
 		"loremIpsum",
-		"lastStructure" ],
+		"lastStructure",
+		"colorButton" ],
 	"name" : "RichTextStructureEditor",
 	"pools" : [
 		 ],
