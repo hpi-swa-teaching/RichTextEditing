@@ -14,7 +14,6 @@ buildWith: aBuilder
 			self buildColorButtonWith: aBuilder.
 			self buildRemoveStructureButtonWith: aBuilder}.
 		result := aBuilder build: windowSpec.
-		self colorButton: (aBuilder widgetAt: 'colorButton').
 		self textPreview: (aBuilder widgetAt: 'textPreview').
 		
 	^ aBuilder build: windowSpec

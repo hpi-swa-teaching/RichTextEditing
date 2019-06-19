@@ -1,5 +1,9 @@
 as yet unclassified
 addColor
 
-	(NewColorPickerMorph
-		on: self colorButton) openInWorld
+	self currentStructure ifNotNil:
+	[(NewColorPickerMorph
+		on: self
+		originalColor: Color black
+		setColorSelector: #setColor:
+		) openInWorld]

@@ -3,9 +3,11 @@
 		"newWith:withEmphasis:" : "ls 6/12/2019 18:59" },
 	"instance" : {
 		"=" : "AG 5/22/2019 18:10",
+		"color" : "AG 6/19/2019 19:03",
+		"color:" : "AG 6/19/2019 19:03",
 		"emphasisCode" : "ls 5/30/2019 12:26",
-		"emphasizeScanner:" : "ls 5/30/2019 12:26",
-		"initialize" : "ls 6/12/2019 18:54",
+		"emphasizeScanner:" : "AG 6/19/2019 19:07",
+		"initialize" : "AG 6/19/2019 19:08",
 		"isBold" : "ls 5/29/2019 17:55",
 		"isExtendable" : "lh 6/5/2019 17:47",
 		"isItalic" : "ls 5/29/2019 17:57",
@@ -25,4 +27,4 @@
 		"unsetItalic" : "ls 5/29/2019 17:58",
 		"unsetStruckOut" : "ls 5/29/2019 17:56",
 		"unsetUnderlined" : "ls 5/29/2019 17:57",
-		"updateStyles:" : "lh 6/5/2019 17:56" } }
+		"updateStyles:" : "AG 6/19/2019 19:09" } }

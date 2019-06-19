@@ -7,4 +7,5 @@ initialize
 		unsetItalic;
 		unsetUnderlined;
 		unsetStruckOut;
-		unsetExtendable
+		unsetExtendable;
+		color: Color black.
