@@ -1,4 +1,3 @@
 accessing
-textStructures: anObject
-
-	textStructures := anObject
+textStructures: t1 
+	textStructures := t1

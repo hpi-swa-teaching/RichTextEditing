@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addColoredStructure" : "lh 6/19/2019 22:27",
-		"coloredStructureName" : "lh 6/19/2019 21:22",
-		"hasColor:" : "lh 6/19/2019 22:43",
-		"setGreenColor" : "lh 6/19/2019 22:11",
-		"testUS41ColorCanBeReset" : "AG 6/19/2019 22:53",
-		"testUS41ColorIsAssignedToStructure" : "AG 6/19/2019 22:53" } }
+		"addColoredStructure" : "",
+		"coloredStructureName" : "",
+		"hasColor:" : "",
+		"setGreenColor" : "",
+		"testUS41ColorCanBeReset" : "",
+		"testUS41ColorIsAssignedToStructure" : "" } }

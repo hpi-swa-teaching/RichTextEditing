@@ -1,5 +1,4 @@
 emphasis
-emphasizeScanner: aScanner
-
-	aScanner addEmphasis: self emphasisCode.
-	aScanner textColor: self color.
+emphasizeScanner: t1 
+	t1 addEmphasis: self emphasisCode.
+	t1 textColor: self color

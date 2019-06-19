@@ -1,14 +1,16 @@
 text structure
-structureSelectionAt: anIndex put: aBoolean
-
-	| target |
-	target := self textStructures at: anIndex.
-	aBoolean ifTrue: [
-		self isIntervalEmpty ifTrue: [
-			self bufferedStructures add: target]
-		ifFalse: [
-			self addAttribute: (self realStructureAt: anIndex)]]
-	ifFalse: [ 
-		self removeAttribute: (self realStructureAt: anIndex)].
+structureSelectionAt: t1 put: t2 
+	| t3 |
+	t3 := self textStructures at: t1.
+	t2
+		ifTrue: [self isIntervalEmpty
+				ifTrue: [self bufferedStructures add: t3]
+				ifFalse: [self
+						addAttribute: (self realStructureAt: t1)]]
+		ifFalse: [self isIntervalEmpty
+				ifTrue: [self bufferedStructures
+						remove: t3
+						ifAbsent: []]
+				ifFalse: [self
+						removeAttribute: (self realStructureAt: t1)]].
 	self selectionChanged
-	

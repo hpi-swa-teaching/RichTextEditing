@@ -1,6 +1,4 @@
 initialize-release
 initialize
-
 	super initialize.
-	self
-		documents: Dictionary new.
+	self documents: Dictionary new

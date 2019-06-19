@@ -1,4 +1,3 @@
 accessing
-documents: anObject
-
-	documents := anObject
+documents: t1 
+	documents := t1

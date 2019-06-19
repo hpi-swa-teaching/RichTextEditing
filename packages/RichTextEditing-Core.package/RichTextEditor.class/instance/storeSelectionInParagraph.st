@@ -1,5 +1,9 @@
 as yet unclassified
-storeSelectionInParagraph
-
-	super storeSelectionInParagraph.
-	self model ifNotNil: #selectionChanged.
+iblyFrom: selectionPoint to: selectionPoint.
+	
+	(self bufferedStructures
+		collect: [:each | self findRealStructure: each]
+		thenSelect: [:each | each isExtendable])
+		do: [:each | self addAttribute: each].
+	
+	self editor unselect; setEmphasisHere

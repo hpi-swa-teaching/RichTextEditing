@@ -1,15 +1,12 @@
 as yet unclassified
 testUS41ColorCanBeReset
-
-	| resetButton |
+	| t1 |
 	self enterStringOntoTextField: 'test'.
-	
 	self addColoredStructure.
 	self setGreenColor.
-	
-	self deny: (self hasColor: RichTextStructureEditor defaultColor).
-	
-	resetButton := self structureEditorView findByLabel: 'Reset color'.
-	resetButton click.
-	
-	self assert: (self hasColor: RichTextStructureEditor defaultColor)
+	self
+		deny: (self hasColor: RichTextStructureEditor defaultColor).
+	t1 := self structureEditorView findByLabel: 'Reset color'.
+	t1 click.
+	self
+		assert: (self hasColor: RichTextStructureEditor defaultColor)

@@ -1,8 +1,6 @@
 as yet unclassified
-setColor: aColor
-	
-	(self richTextEditor findRealStructure: self currentStructure) color: aColor.
+setColor: t1 
+	(self richTextEditor findRealStructure: self currentStructure)
+		color: t1.
 	self updateLoremIpsum.
-	self richTextEditor 
-		unacceptedEdits;
-		textChanged.
+	self richTextEditor unacceptedEdits; textChanged

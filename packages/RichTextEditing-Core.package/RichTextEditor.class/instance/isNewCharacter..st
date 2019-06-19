@@ -5,7 +5,8 @@ isNewCharacter: aKeyboardEvent
 	character := aKeyboardEvent keyCharacter.
 	value := aKeyboardEvent keyValue.
 
-	^ character isAlphaNumeric or: [
+	^ aKeyboardEvent controlKeyPressed not and:
+	(character isAlphaNumeric or: [
 	character isSpecial] or: [
 	value = self spaceValue] or: [
-	value = self returnValue]
+	value = self returnValue])

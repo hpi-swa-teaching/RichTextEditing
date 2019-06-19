@@ -1,4 +1,5 @@
 saving and loading
-loadDocumentFromName: aName
-
-	^ (self documents at: aName asSymbol ifAbsent: [self error: 'Name not found']) copy
+loadDocumentFromName: t1 
+	^ (self documents
+		at: t1 asSymbol
+		ifAbsent: [self error: 'Name not found']) copy

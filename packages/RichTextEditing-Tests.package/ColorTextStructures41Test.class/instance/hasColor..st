@@ -1,6 +1,6 @@
 as yet unclassified
-hasColor: aColor
-
-	^ (self editorText runs copyFrom: 0 to: self editorText size) allSatisfy: 
-		[:attributes | attributes anySatisfy: 
-			[:attribute | attribute isTextStructure ifTrue: [attribute color = aColor] ifFalse: [false]]]
+hasColor: t1 
+	^ (self editorText runs copyFrom: 0 to: self editorText size)
+		allSatisfy: [:t2 | t2
+				anySatisfy: [:t3 | t3 isTextStructure
+						and: [t3 color = t1]]]
