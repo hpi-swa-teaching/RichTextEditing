@@ -1,5 +1,5 @@
 as yet unclassified
-iblyFrom: selectionPoint to: selectionPoint.
+iblyFrom: selectionPoint to: anotherSelectionPoint.
 	
 	(self bufferedStructures
 		collect: [:each | self findRealStructure: each]
