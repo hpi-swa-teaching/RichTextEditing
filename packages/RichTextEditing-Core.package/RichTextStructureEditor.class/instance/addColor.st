@@ -3,5 +3,5 @@ addColor
 	self currentStructure
 		ifNotNil: [(NewColorPickerMorph
 				on: self
-				originalColor: self class defaultColor
+				originalColor: (self richTextEditor findRealStructure: self currentStructure) color
 				setColorSelector: #setColor:) openInWorld]
