@@ -1,6 +1,7 @@
 as yet unclassified
 moveCaretToMidOfText
 	
-	self moveCaretToBeginningOfText;
+	self
+		moveCaretToBeginningOfText;
 		moveCaretMulipleTimesRight: self middleTextOffset;
 		caretPosition: self middleTextOffset.

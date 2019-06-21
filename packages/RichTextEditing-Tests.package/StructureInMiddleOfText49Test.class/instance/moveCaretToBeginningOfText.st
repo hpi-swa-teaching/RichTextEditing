@@ -1,5 +1,6 @@
 as yet unclassified
 moveCaretToBeginningOfText
 	
-	self moveCaretMulipleTimesLeft: self editorText size;
-		caretPosition: 1.
+	self
+		moveCaretMulipleTimesLeft: self editorText size;
+		caretPosition: 1

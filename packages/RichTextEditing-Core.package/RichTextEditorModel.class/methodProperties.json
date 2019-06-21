@@ -7,7 +7,7 @@
 		"saverClass" : "ls 5/8/2019 20:28",
 		"textStyles" : "lh 6/5/2019 17:46" },
 	"instance" : {
-		"addAttribute:" : "ls 6/20/2019 00:46",
+		"addAttribute:" : "ls 6/21/2019 16:59",
 		"addNewStructure" : "ls 6/12/2019 17:53",
 		"applyBufferedStructures" : "AG 6/21/2019 14:01",
 		"bufferedStructures" : "ls 6/19/2019 17:30",
@@ -28,8 +28,9 @@
 		"currentSaveName:" : "MB 5/22/2019 21:14",
 		"editor" : "ls 5/11/2019 12:23",
 		"flushStructures" : "ls 6/5/2019 18:05",
-		"getStructureSelectionAt:" : "",
-		"getTextAndStructuresAsDocument" : "",
+		"getStructureSelectionAt:" : "ls 6/21/2019 17:02",
+		"getTextAndStructuresAsDocument" : "ls 6/21/2019 17:00",
+		"getTextFromView" : "ls 6/21/2019 17:00",
 		"hasStructure:" : "ls 6/6/2019 00:59",
 		"hasStructure:forText:from:to:" : "ls 6/6/2019 00:55",
 		"hasUnacceptedEdits" : "ls 5/9/2019 10:34",
@@ -87,6 +88,6 @@
 		"textView" : "ls 5/11/2019 12:24",
 		"textView:" : "ls 5/11/2019 12:24",
 		"unacceptedEdits" : "AG 5/29/2019 18:36",
-		"unbufferStructures" : "ls 6/19/2019 18:03",
+		"unbufferStructures" : "ls 6/21/2019 16:57",
 		"undo" : "AG 5/29/2019 18:37",
 		"updateStyle:" : "AG 6/21/2019 14:01" } }

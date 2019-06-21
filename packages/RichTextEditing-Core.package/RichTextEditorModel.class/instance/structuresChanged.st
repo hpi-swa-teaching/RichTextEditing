@@ -1,4 +1,4 @@
-accessing
+change
 structuresChanged
 
 	self changed: #textStructures

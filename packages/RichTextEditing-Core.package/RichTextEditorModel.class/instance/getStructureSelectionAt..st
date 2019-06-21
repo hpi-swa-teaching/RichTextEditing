@@ -1,10 +1,9 @@
 text structure
-getStructureSelectionAt: t1 
-	(self isIntervalEmpty
-			and: [self isTextEmpty])
-		ifTrue: [self bufferedStructures isEmpty
+getStructureSelectionAt: anIndex
+
+	(self isIntervalEmpty and: [self isTextEmpty]) ifTrue: [
+		self bufferedStructures isEmpty
 				ifTrue: [^ false].
-			^ self bufferedStructures
-				includes: (self textStructures at: t1)].
+		^ self bufferedStructures includes: (self textStructures at: anIndex)].
 	^ (self selectedStructures union: self bufferedStructures)
-		includes: (self textStructures at: t1)
+		includes: (self textStructures at: anIndex)

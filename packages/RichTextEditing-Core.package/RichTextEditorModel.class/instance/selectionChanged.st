@@ -1,4 +1,4 @@
-as yet unclassified
+change
 selectionChanged
 
 	self selectedStructures: (self textStructures copy select:

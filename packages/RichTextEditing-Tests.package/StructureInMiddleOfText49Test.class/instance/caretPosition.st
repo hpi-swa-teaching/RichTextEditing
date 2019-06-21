@@ -1,3 +1,4 @@
 accessing
 caretPosition
+
 	^ caretPosition

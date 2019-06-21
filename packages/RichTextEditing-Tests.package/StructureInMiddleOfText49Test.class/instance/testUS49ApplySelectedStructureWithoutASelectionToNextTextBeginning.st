@@ -3,11 +3,9 @@ testUS49ApplySelectedStructureWithoutASelectionToNextTextBeginning
 	
 	"when the caret is in the middle."
 	self moveCaretToBeginningOfText;
-		activateHeading.
-	self editorView sendKeys: self otherText.
+		activateHeading;
+		enterStringOntoTextField: self otherText.
 	
-	self assert: self headingIsAddedToWrittenText.
-	
-	
+	self assert: self headingIsAddedToWrittenText
 
 	

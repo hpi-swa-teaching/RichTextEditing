@@ -3,11 +3,7 @@ testUS49ApplySelectedStructureWithoutASelectionToNextTextEnd
 	
 	"when the caret is in the middle."
 	self moveCaretToEndOfText;
-		activateHeading.
-	self editorView sendKeys: self otherText.
+		activateHeading;
+		enterStringOntoTextField: self otherText.
 	
-	self assert: self headingIsAddedToWrittenText.
-	
-	
-
-	
+	self assert: self headingIsAddedToWrittenText

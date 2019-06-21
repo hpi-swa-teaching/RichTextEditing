@@ -4,11 +4,7 @@ testUS49NoStructureApplyWhenCaretMovedMid
 	"when the caret is in the middle."
 	self moveCaretToMidOfText;
 		activateHeading;
-		moveCaret.
-	self editorView sendKeys: self otherText.
+		moveCaret;
+		enterStringOntoTextField: self otherText.
 	
-	self deny: self headingIsAddedToWrittenText.
-	
-	
-
-	
+	self deny: self headingIsAddedToWrittenText

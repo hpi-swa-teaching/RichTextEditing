@@ -1,6 +1,7 @@
 as yet unclassified
 setUp
 	
-	self editorView sendKeys: self standardText asString;
-		moveCaretToBeginningOfText;
-		caretPosition: 1.
+	super setUp.
+	self
+		enterStringOntoTextField: self standardText;
+		moveCaretToBeginningOfText
