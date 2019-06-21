@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 leftArrowKey
 
 	^ Character arrowLeft 

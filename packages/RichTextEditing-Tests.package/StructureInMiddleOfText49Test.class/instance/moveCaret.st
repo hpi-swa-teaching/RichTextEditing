@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 moveCaret
 	
 	"ensures that the position of the caret changed"

@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testUS49ApplySelectedStructureWithoutASelectionToNextTextBeginning
 	
 	"when the caret is in the middle."

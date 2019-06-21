@@ -1,7 +1,8 @@
 {
 	"class" : {
+		"initialLabel" : "ls 6/21/2019 17:54",
 		"initialTextStructures" : "ls 6/5/2019 17:43",
-		"initialize" : "AG 5/29/2019 18:40",
+		"initialize" : "ls 6/21/2019 17:54",
 		"open" : "MB 5/9/2019 09:37",
 		"resetTextStyles" : "AG 5/30/2019 12:36",
 		"saverClass" : "ls 5/8/2019 20:28",
@@ -34,7 +35,7 @@
 		"hasStructure:" : "ls 6/6/2019 00:59",
 		"hasStructure:forText:from:to:" : "ls 6/6/2019 00:55",
 		"hasUnacceptedEdits" : "ls 5/9/2019 10:34",
-		"initialize" : "AG 6/21/2019 17:42",
+		"initialize" : "ls 6/21/2019 17:54",
 		"initializeRealStructure:" : "ls 5/30/2019 11:24",
 		"initializeRealStructure:withEmphasis:" : "ls 5/30/2019 11:21",
 		"initializeRealStructures" : "ls 5/30/2019 11:21",
@@ -74,7 +75,7 @@
 		"selectionStart" : "lh 5/22/2019 20:45",
 		"selectionStop" : "lh 5/22/2019 20:47",
 		"setCurrentSave:" : "",
-		"setLabel:" : "AG 5/29/2019 18:36",
+		"setLabel:" : "ls 6/21/2019 17:54",
 		"setText:" : "AG 5/29/2019 18:35",
 		"structureSelectionAt:put:" : "",
 		"structuresChanged" : "ls 6/18/2019 15:23",

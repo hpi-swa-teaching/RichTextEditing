@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 standardText
 
 	^ 'This is standard Text. '

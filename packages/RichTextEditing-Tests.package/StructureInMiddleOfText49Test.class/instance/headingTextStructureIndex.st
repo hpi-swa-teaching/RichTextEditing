@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 headingTextStructureIndex
 
 	^ self editorModel textStructures indexOf: #heading1

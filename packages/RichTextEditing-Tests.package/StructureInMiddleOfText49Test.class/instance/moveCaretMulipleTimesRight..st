@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 moveCaretMulipleTimesRight: aNumber
 	
 	self enterCharacter: self leftArrowKey times: aNumber
