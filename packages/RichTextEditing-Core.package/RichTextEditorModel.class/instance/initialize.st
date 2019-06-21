@@ -4,7 +4,7 @@ initialize
 	super initialize.
 	self currentSaveName: ''.
 	self text: '' asText;
-		label: 'Rich Text Editor';
+		label: 'SquidWord';
 		textStructures: self class initialTextStructures;
 		selectedStructures: Set new;
 		bufferedStructures: Set new;
