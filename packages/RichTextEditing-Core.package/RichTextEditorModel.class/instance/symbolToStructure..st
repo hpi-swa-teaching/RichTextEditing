@@ -1,5 +1,5 @@
 text structure
-findRealStructure: aSymbol
+symbolToStructure: aSymbol
 
 	self realTextStructures do: [:each |
 		each structureIdentifier = aSymbol ifTrue: [^ each]

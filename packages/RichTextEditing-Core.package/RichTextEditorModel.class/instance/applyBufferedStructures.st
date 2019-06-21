@@ -8,7 +8,7 @@ applyBufferedStructures
 	self editor selectInvisiblyFrom: selectionPoint to: selectionPoint.
 	
 	(self bufferedStructures
-		collect: [:each | self findRealStructure: each]
+		collect: [:each | self symbolToStructure: each]
 		thenSelect: [:each | each isExtendable])
 		do: [:each | self addAttribute: each].
 	

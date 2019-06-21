@@ -1,4 +1,4 @@
 text structure
 realStructureAt: anIndex
 
-	^ self findRealStructure: (self textStructures at: anIndex)
+	^ self symbolToStructure: (self textStructures at: anIndex)

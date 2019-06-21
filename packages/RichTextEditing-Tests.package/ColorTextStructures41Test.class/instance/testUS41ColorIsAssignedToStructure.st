@@ -1,9 +1,9 @@
-as yet unclassified
+tests
 testUS41ColorIsAssignedToStructure
-	self enterStringOntoTextField: 'test'.
-	self
-		deny: (self hasColor: Color green).
-	self addColoredStructure.
-	self setGreenColor.
-	self
-		assert: (self hasColor: Color green)
+	
+	self 
+		enterStringOntoTextField: 'test';
+		deny: (self textHasColor: Color green);
+		addColoredStructureToText;
+		setGreenColor;
+		assert: (self textHasColor: Color green)

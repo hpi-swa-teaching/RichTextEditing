@@ -1,3 +1,4 @@
-as yet unclassified
+tests
 coloredStructureName
+	
 	^ 'coloredStructure'

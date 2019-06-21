@@ -1,4 +1,4 @@
-testing
+tests
 testUS38textStructuresAreLoadedInWithText
 
 	self 

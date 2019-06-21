@@ -1,4 +1,4 @@
-testing
+tests
 testUS43PreviewTextfieldHasSelectedStructureApplied
 
 	| previewText testStructure anotherStructure |

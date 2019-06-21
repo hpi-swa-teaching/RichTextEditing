@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addColoredStructure" : "",
-		"coloredStructureName" : "",
-		"hasColor:" : "",
-		"setGreenColor" : "",
-		"testUS41ColorCanBeReset" : "",
-		"testUS41ColorIsAssignedToStructure" : "" } }
+		"addColoredStructureToText" : "AG 6/21/2019 14:02",
+		"coloredStructureName" : "AG 6/21/2019 14:02",
+		"setGreenColor" : "AG 6/21/2019 13:56",
+		"testUS41ColorCanBeReset" : "AG 6/21/2019 13:58",
+		"testUS41ColorIsAssignedToStructure" : "AG 6/21/2019 13:59",
+		"textHasColor:" : "AG 6/21/2019 13:56" } }
