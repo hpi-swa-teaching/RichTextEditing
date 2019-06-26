@@ -7,4 +7,4 @@ testUS18TextMeaningIsSelectedInList
 	self textEditor selectFrom: 1 to: 2.
 
 	self selectOptionBold.
-	self assert: self boldIsSelectedInList.
+	self assert: self boldIsSelectedInList
