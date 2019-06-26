@@ -1,8 +1,8 @@
 color
-resetColor
-
+resetFont
+	
 	self currentStructure
 		ifNotNil: [(self richTextEditor symbolToStructure: self currentStructure)
-				color: nil].
+				font: nil].
 	self updateLoremIpsum.
 	self richTextEditor unacceptedEdits; textChanged
