@@ -1,7 +1,7 @@
-as yet unclassified
+text coloring
 resetColor
 	self currentStructure
 		ifNotNil: [(self richTextEditor symbolToStructure: self currentStructure)
-				color: self class defaultColor].
+				color: nil].
 	self updateLoremIpsum.
 	self richTextEditor unacceptedEdits; textChanged

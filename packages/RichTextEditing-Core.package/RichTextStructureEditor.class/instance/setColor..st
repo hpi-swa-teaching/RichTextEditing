@@ -1,4 +1,4 @@
-as yet unclassified
+text coloring
 setColor: t1 
 	(self richTextEditor symbolToStructure: self currentStructure)
 		color: t1.
