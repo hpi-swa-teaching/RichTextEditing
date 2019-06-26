@@ -2,4 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"addFontStructureToText" : "lh 6/26/2019 19:10",
+		"fontAtlanta22" : "lh 6/26/2019 19:18",
+		"fontStructureName" : "lh 6/26/2019 19:10",
+		"fontStructureSymbol" : "lh 6/26/2019 19:09",
+		"setFont" : "lh 6/26/2019 19:19",
+		"testUS42FontCanBeReset" : "lh 6/26/2019 19:13",
+		"testUS42FontIsAppliedToStructure" : "lh 6/26/2019 19:19",
+		"textHasFont:" : "lh 6/26/2019 19:05",
+		"textHasNoFont" : "lh 6/26/2019 19:14" } }
