@@ -3,11 +3,14 @@
 		 },
 	"instance" : {
 		"addFontStructureToText" : "lh 6/26/2019 19:10",
+		"fontAtlanta11" : "lh 6/26/2019 21:20",
 		"fontAtlanta22" : "lh 6/26/2019 19:18",
 		"fontStructureName" : "lh 6/26/2019 19:10",
 		"fontStructureSymbol" : "lh 6/26/2019 19:09",
-		"setFont" : "lh 6/26/2019 19:19",
-		"testUS42FontCanBeReset" : "lh 6/26/2019 19:13",
-		"testUS42FontIsAppliedToStructure" : "lh 6/26/2019 19:19",
+		"setFont:" : "lh 6/26/2019 21:20",
+		"testUS42FontCanBeReset" : "lh 6/26/2019 21:21",
+		"testUS42FontIsAppliedToStructure" : "lh 6/26/2019 21:24",
+		"testUS42FontSizeCanBeAssigned" : "lh 6/26/2019 21:23",
 		"textHasFont:" : "lh 6/26/2019 19:05",
+		"textHasFontSize:" : "lh 6/26/2019 21:24",
 		"textHasNoFont" : "lh 6/26/2019 19:14" } }

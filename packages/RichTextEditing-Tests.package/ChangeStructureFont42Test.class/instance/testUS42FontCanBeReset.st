@@ -6,7 +6,7 @@ testUS42FontCanBeReset
 	self 
 		enterStringOntoTextField: 'test';
 		addFontStructureToText;
-		setFont;
+		setFont: self fontAtlanta22;
 		deny: (self textHasFont: RichTextStructureEditor defaultFont).
 	
 	resetFontButton := self structureEditorView findByLabel: 'Reset font'.
