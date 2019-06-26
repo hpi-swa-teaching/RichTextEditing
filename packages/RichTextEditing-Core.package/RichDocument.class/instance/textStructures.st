@@ -1,4 +1,3 @@
 accessing
 textStructures
-
 	^ textStructures
