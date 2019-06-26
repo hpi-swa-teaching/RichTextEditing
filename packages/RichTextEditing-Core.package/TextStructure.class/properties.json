@@ -12,7 +12,8 @@
 		"underlined",
 		"struckOut",
 		"extendable",
-		"color" ],
+		"color",
+		"font" ],
 	"name" : "TextStructure",
 	"pools" : [
 		 ],

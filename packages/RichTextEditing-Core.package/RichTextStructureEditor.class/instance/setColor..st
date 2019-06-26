@@ -1,6 +1,6 @@
-color
-setColor: t1 
-	(self richTextEditor symbolToStructure: self currentStructure)
-		color: t1.
+text coloring
+setColor: aColor
+	
+	(self richTextEditor symbolToStructure: self currentStructure) color: aColor.
 	self updateLoremIpsum.
 	self richTextEditor unacceptedEdits; textChanged

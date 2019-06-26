@@ -1,4 +1,6 @@
 emphasis
-emphasizeScanner: t1 
-	t1 addEmphasis: self emphasisCode.
-	self color ifNotNil: [t1 textColor: self color]
+emphasizeScanner: aScanner
+	
+	aScanner addEmphasis: self emphasisCode.
+	self color ifNotNil: [aScanner textColor: self color].
+	self font ifNotNil: [aScanner setActualFont: self font]
