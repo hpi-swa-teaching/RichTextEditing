@@ -1,5 +1,6 @@
 saving and loading
 loadTextFromImage
+	
 	| t1 t2 t3 |
 	t2 := self saver saveNames.
 	t1 := UIManager default
