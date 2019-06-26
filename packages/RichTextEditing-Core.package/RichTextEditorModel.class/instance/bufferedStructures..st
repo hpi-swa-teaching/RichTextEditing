@@ -1,3 +1,4 @@
 accessing
-bufferedStructures: anObject
-	bufferedStructures := anObject
+bufferedStructures: aSet
+
+	bufferedStructures := aSet

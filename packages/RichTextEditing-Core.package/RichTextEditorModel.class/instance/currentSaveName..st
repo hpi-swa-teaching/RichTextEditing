@@ -1,4 +1,4 @@
 accessing
-currentSaveName: anObject
+currentSaveName: aString
 
-	currentSaveName := anObject
+	self targetDocument name: aString

@@ -1,4 +1,4 @@
 accessing
 currentSaveName
 
-	^ currentSaveName
+	^ self targetDocument name

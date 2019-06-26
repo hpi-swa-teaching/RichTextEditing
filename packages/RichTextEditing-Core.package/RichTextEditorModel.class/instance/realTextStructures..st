@@ -1,4 +1,4 @@
 accessing
-realTextStructures: anObject
+realTextStructures: anOrderedCollection
 
-	realTextStructures := anObject
+	self bufferDocument textStructures: anOrderedCollection

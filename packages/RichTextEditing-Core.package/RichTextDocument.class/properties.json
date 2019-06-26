@@ -7,8 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"textStructures",
-		"text" ],
-	"name" : "RichDocument",
+		"text",
+		"name" ],
+	"name" : "RichTextDocument",
 	"pools" : [
 		 ],
 	"super" : "Object",

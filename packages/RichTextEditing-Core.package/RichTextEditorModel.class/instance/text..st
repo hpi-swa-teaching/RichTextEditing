@@ -1,4 +1,4 @@
 accessing
-text: anObject
+text: aText
 
-	text := anObject
+	self bufferDocument text: aText

@@ -1,4 +1,4 @@
 accessing
 realTextStructures
 
-	^ realTextStructures
+	^ self bufferDocument textStructures
