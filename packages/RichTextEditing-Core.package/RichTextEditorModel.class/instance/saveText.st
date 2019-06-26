@@ -1,6 +1,6 @@
 saving and loading
 saveText
+	" Ctrl + s or the 'Save' button has been pressed"
 
-	self currentSaveName = ''
-		ifTrue: [self saveTextInImageWithNamePrompt]
-		ifFalse: [self saveTextInImageWithCurrentSaveName]
+	self targetDocument copy: self bufferDocument.
+	self noUnacceptedEdits

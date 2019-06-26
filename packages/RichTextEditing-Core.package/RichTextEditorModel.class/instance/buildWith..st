@@ -15,7 +15,8 @@ buildWith: aBuilder
 			self buildRedoButtonWith: aBuilder.
 			self buildStructureListWith: aBuilder.
 			self buildManageStructuresButtonWith: aBuilder.
-			self buildNewButtonWith: aBuilder}.
+			self buildNewButtonWith: aBuilder.
+			self buildInspectDocumentButtonWith: aBuilder}.
 	result := aBuilder build: windowSpec.
 	self textView: (aBuilder widgetAt: 'textView').
 	self editor model: self.

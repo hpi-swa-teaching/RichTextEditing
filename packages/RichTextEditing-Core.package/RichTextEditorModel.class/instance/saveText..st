@@ -1,5 +1,6 @@
 saving and loading
-saveText: aText 
+saveText: aText
 
-	self text: aText.
-	self saveText
+	self
+		text: aText;
+		saveText

@@ -1,4 +1,4 @@
 text structures
 textStructures
 
-	^ self richTextEditor textStructures
+	^ self richTextEditor textStructureSymbols

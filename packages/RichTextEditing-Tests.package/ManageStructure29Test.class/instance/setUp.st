@@ -3,5 +3,5 @@ setUp
 
 	super setUp.
 	self
-		oldStructures: self editorModel textStructures copy;
+		oldStructures: self editorModel textStructureSymbols copy;
 		removeAllTextStructures

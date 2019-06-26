@@ -1,9 +1,11 @@
 {
 	"class" : {
+		"defaultStyles" : "ls 6/26/2019 22:02",
 		"editorClass" : "ls 6/26/2019 17:33",
 		"fromText:withStructures:" : "ls 6/26/2019 17:31",
-		"initialTextStructures" : "ls 6/26/2019 18:18" },
+		"initialTextStructures" : "ls 6/26/2019 22:03" },
 	"instance" : {
+		"copy:" : "ls 6/26/2019 18:50",
 		"initialize" : "ls 6/26/2019 18:15",
 		"name" : "ls 6/26/2019 17:28",
 		"name:" : "ls 6/26/2019 17:28",

@@ -1,4 +1,4 @@
 accessing
 loadTextFromImage
 
-	self enterString: self saveName inBackwardsCompatibleDialog: [self editorModel loadTextFromImage].
+	self enterString: self saveName inBackwardsCompatibleDialog: [self editorModel loadDocumentFromSaver].

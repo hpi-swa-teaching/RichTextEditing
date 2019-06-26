@@ -1,4 +1,4 @@
 accessing
 textStructures
 
-	^ textStructures
+	^ self bufferDocument textStructures

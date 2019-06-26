@@ -1,6 +1,5 @@
 initialize-release
 initializeStructures
 
-	self
-		initializeStylesPerStructure;
-		initializeRealStructures
+	self textStructures: self class documentClass initialTextStructures.
+	self targetDocument textStructures: self bufferDocument textStructures copy

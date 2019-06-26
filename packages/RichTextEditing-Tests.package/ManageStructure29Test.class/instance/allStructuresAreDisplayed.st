@@ -1,6 +1,6 @@
 tests
 allStructuresAreDisplayed
 
-	| structures |
-	structures := self editorModel textStructures.
-	^ (structures allSatisfy: [:structure | self structureIsDisplayed: structure])
+	| structureSymbols |
+	structureSymbols := self editorModel textStructureSymbols.
+	^ (structureSymbols allSatisfy: [:structure | self structureIsDisplayed: structure])

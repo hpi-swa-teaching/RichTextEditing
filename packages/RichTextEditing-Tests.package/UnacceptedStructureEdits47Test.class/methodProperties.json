@@ -3,6 +3,6 @@
 		 },
 	"instance" : {
 		"addStructure" : "ls 6/12/2019 17:54",
-		"removeStructure" : "ls 6/12/2019 17:58",
+		"removeStructure" : "ls 6/26/2019 22:25",
 		"testUS47WhenStructureIsAddedTheTriangleShows" : "lh 6/18/2019 15:23",
 		"testUS47WhenStructureIsRemovedTheTriangleShows" : "lh 6/18/2019 15:22" } }

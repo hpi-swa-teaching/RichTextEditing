@@ -1,4 +1,0 @@
-accessing
-realTextStructures: anOrderedCollection
-
-	self bufferDocument textStructures: anOrderedCollection

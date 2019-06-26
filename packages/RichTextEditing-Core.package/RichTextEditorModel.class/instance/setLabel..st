@@ -1,5 +1,8 @@
 saving and loading
 setLabel: aString
 
-	self label: self class initialLabel, ' - ', aString.
+	aString = '' ifTrue: [
+			self label: self class initialLabel]
+		ifFalse: [
+			self label: self class initialLabel, ' - ', aString].
 	self changed: #label

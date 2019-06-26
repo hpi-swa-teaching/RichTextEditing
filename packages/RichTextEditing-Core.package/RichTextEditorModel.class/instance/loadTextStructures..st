@@ -1,6 +1,6 @@
 saving and loading
-loadTextStructures: aSet
+loadTextStructures: anOrderedCollection
 
 	self flushStructures.
-	aSet do: [:each |
-		self createNewStructure: each]
+	anOrderedCollection do: [:each |
+		self loadTextStructure: each]

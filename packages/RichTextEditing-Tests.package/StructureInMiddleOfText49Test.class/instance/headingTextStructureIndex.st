@@ -1,4 +1,4 @@
 utilities
 headingTextStructureIndex
 
-	^ self editorModel textStructures indexOf: #heading1
+	^ self editorModel textStructureSymbols indexOf: #heading1

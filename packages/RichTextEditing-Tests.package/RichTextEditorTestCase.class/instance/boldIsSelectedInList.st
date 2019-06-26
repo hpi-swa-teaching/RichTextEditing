@@ -4,4 +4,4 @@ boldIsSelectedInList
 	| list |
 	list := self editorView findByName: 'structureList'.
 	
-	^ list listSelectionAt: (self editorModel textStructures indexOf: #bold)
+	^ list listSelectionAt: (self editorModel textStructureSymbols indexOf: #bold)

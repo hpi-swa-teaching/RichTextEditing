@@ -1,7 +1,6 @@
 text structure
 symbolToStructure: aSymbol
 
-	self realTextStructures do: [:each |
-		each structureIdentifier = aSymbol ifTrue: [^ each]
-	].
-	^ nil
+	^ self textStructures detect: [:each |
+		each structureIdentifier = aSymbol]
+		ifNone: [nil]

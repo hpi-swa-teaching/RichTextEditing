@@ -1,4 +1,4 @@
 testing
 removeStructure
 
-	self editorModel removeStructure: self editorModel textStructures first
+	self editorModel removeStructure: self editorModel textStructureSymbols first

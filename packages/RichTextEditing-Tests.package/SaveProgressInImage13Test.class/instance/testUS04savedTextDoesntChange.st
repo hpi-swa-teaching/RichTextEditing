@@ -2,9 +2,9 @@ tests
 testUS04savedTextDoesntChange
 	
 	self editorModel setText: self text.
-	self enterSaveNameInDialog: [self editorModel saveTextInImageWithNamePrompt].
+	self enterSaveNameInDialog: [self editorModel saveDocumentInSaverWithNamePrompt].
 	self editorModel setText: self anotherText.
 	
-	self loadTextFromImage.
+	self loadDocumentFromSaver.
 		
 	self assert: (self text ~~ self editorModel text)

@@ -19,5 +19,7 @@ updateStyles: aSet
 		
 	(aSet includes: #extendable)
 		ifTrue: [self setExtendable]
-		ifFalse: [self unsetExtendable]
+		ifFalse: [self unsetExtendable].
+		
+	self styleSet: aSet
 	

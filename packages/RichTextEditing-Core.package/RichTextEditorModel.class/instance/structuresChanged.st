@@ -1,4 +1,4 @@
 change
 structuresChanged
 
-	self changed: #textStructures
+	self changed: #textStructureSymbols

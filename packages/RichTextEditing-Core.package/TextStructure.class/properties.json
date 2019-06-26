@@ -13,7 +13,8 @@
 		"struckOut",
 		"extendable",
 		"color",
-		"font" ],
+		"font",
+		"styleSet" ],
 	"name" : "TextStructure",
 	"pools" : [
 		 ],
