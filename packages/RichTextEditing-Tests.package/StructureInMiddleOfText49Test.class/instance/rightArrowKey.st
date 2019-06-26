@@ -1,0 +1,4 @@
+utilities
+rightArrowKey
+
+	^ Character arrowRight

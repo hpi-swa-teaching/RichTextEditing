@@ -1,0 +1,15 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"textStructures",
+		"text" ],
+	"name" : "RichDocument",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

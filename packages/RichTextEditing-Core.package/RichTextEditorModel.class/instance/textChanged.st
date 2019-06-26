@@ -1,4 +1,4 @@
-accessing
+change
 textChanged
 
 	self changed: #text;

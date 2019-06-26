@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"caretPosition" ],
+	"name" : "StructureInMiddleOfText49Test",
+	"pools" : [
+		 ],
+	"super" : "StructureTestCase",
+	"type" : "normal" }

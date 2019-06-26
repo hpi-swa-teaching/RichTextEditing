@@ -1,12 +1,13 @@
 initialize-release
 initializeStylesForStructure: aSymbol
 	
-	| dictionary |
+	| dictionary initialStyles |
 	dictionary := self selectedStylesPerStructure.
-	dictionary at: aSymbol put: Set new.
+	initialStyles := {#extendable} asSet.
+	dictionary at: aSymbol put: initialStyles.
 	
 	"Initialize certain structures with pre-set styles"
-	aSymbol = #bold ifTrue: [(dictionary at: aSymbol) add: #bold].
-	aSymbol = #italic ifTrue: [(dictionary at: aSymbol) add: #italic].
-	aSymbol = #underlined ifTrue: [(dictionary at: aSymbol) add: #underlined].
-	aSymbol = #struckOut ifTrue: [(dictionary at: aSymbol) add: #struckOut]
+	aSymbol = #bold ifTrue: [(dictionary at: aSymbol) add: #bold. (dictionary at: aSymbol)].
+	aSymbol = #italic ifTrue: [(dictionary at: aSymbol) add: #italic. (dictionary at: aSymbol)].
+	aSymbol = #underlined ifTrue: [(dictionary at: aSymbol) add: #underlined. (dictionary at: aSymbol)].
+	aSymbol = #struckOut ifTrue: [(dictionary at: aSymbol) add: #struckOut. (dictionary at: aSymbol)]

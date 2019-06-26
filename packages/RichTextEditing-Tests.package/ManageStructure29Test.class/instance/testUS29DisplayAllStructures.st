@@ -1,5 +1,5 @@
-testing
+tests
 testUS29DisplayAllStructures
 	
 	self restoreTextStructures.
-	self assert: self allStructuresAreDisplayed.
+	self assert: self allStructuresAreDisplayed

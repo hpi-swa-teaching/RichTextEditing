@@ -6,6 +6,14 @@
 		"initializeShiftedYellowButtonMenu" : "AG 5/29/2019 18:39",
 		"initializeYellowButtonMenu" : "AG 5/29/2019 18:39" },
 	"instance" : {
+		"bufferedStructuresToBeApplied" : "ls 6/19/2019 22:28",
+		"bufferedStructuresToBeApplied:" : "ls 6/19/2019 22:28",
 		"crWithIndent:" : "LM 5/26/2019 22:45",
 		"getParagraphCharacter" : "LM 5/26/2019 22:52",
-		"paragraph:" : "MB 5/9/2019 09:42" } }
+		"isNewCharacter:" : "ls 6/20/2019 00:42",
+		"keyStroke:" : "ls 6/20/2019 00:29",
+		"mouseDown:" : "ls 6/19/2019 21:57",
+		"paragraph:" : "MB 5/9/2019 09:42",
+		"returnValue" : "ls 6/19/2019 19:14",
+		"spaceValue" : "AG 6/22/2019 11:51",
+		"storeSelectionInParagraph" : "ls 6/22/2019 10:38" } }

@@ -11,7 +11,9 @@
 		"italic",
 		"underlined",
 		"struckOut",
-		"extendable" ],
+		"extendable",
+		"color",
+		"font" ],
 	"name" : "TextStructure",
 	"pools" : [
 		 ],

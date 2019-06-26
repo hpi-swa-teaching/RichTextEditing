@@ -1,0 +1,4 @@
+accessing
+firstLineFirstIndex
+
+	^ 1

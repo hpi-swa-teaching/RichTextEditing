@@ -1,6 +1,4 @@
 saving and loading
-setCurrentSave: aString
-
-	self
-		setLabel: aString;
-		currentSaveName: aString
+setCurrentSave: t1 
+	self setLabel: t1;
+		 currentSaveName: t1

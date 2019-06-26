@@ -3,13 +3,10 @@
 		"current" : "ls 4/24/2019 20:29",
 		"reset" : "AG 5/29/2019 18:40" },
 	"instance" : {
-		"addSave:underName:withStructures:" : "ls 6/5/2019 17:36",
-		"initialize" : "ls 6/5/2019 17:35",
-		"loadSaveFromName:" : "AG 5/29/2019 18:34",
-		"loadStructuresFromName:" : "ls 6/5/2019 17:48",
-		"reset" : "AG 5/29/2019 18:34",
-		"saveNames" : "ls 4/25/2019 18:43",
-		"saveStructures" : "ls 6/5/2019 17:35",
-		"saveStructures:" : "ls 6/5/2019 17:35",
-		"saves" : "ls 5/20/2019 17:13",
-		"saves:" : "ls 5/20/2019 17:13" } }
+		"addSave:underName:" : "AG 6/22/2019 11:58",
+		"documents" : "SR 6/26/2019 18:06",
+		"documents:" : "SR 6/26/2019 18:06",
+		"initialize" : "SR 6/26/2019 18:06",
+		"loadDocumentFromName:" : "SR 6/26/2019 18:06",
+		"reset" : "AG 6/22/2019 11:58",
+		"saveNames" : "AG 6/22/2019 11:58" } }

@@ -1,0 +1,4 @@
+accessing
+selectedStructures
+
+	^ selectedStructures

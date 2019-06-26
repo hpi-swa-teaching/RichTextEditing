@@ -20,3 +20,4 @@ updateStyles: aSet
 	(aSet includes: #extendable)
 		ifTrue: [self setExtendable]
 		ifFalse: [self unsetExtendable]
+	

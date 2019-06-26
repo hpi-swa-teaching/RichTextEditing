@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"bufferedStructuresToBeApplied" ],
 	"name" : "RichTextEditor",
 	"pools" : [
 		 ],

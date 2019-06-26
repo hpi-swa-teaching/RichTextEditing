@@ -4,7 +4,9 @@ initialize
 	super initialize.
 	self currentSaveName: ''.
 	self text: '' asText;
-		label: 'Rich Text Editor';
+		label: self class initialLabel;
 		textStructures: self class initialTextStructures;
+		selectedStructures: Set new;
+		bufferedStructures: Set new;
 		initializeStylesPerStructure;
-		initializeRealStructures
+		initializeRealStructures.

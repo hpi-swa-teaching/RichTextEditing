@@ -2,4 +2,4 @@ resources
 setUp
 
 	super setUp.
-	self setEditorModel
+	self openNewEditorModel

@@ -1,6 +1,9 @@
 setup and teardown
 tearDown
 
-	self removeAllTextStructures.
-	self restoreTextStructures. 
+	self
+		removeAllTextStructures;
+		restoreTextStructures.
+	self editorModel noUnacceptedEdits.
 	super tearDown
+	

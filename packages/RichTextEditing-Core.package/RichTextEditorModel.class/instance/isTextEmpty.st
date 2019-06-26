@@ -1,4 +1,4 @@
 text structure
 isTextEmpty
 
-	^ (self editor text = '' asText)
+	^ (self editor text isEmpty)

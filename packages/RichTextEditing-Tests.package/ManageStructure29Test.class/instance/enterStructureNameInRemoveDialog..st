@@ -1,4 +1,4 @@
-testing
+tests
 enterStructureNameInRemoveDialog: aBlock
 
 	self enterString: self newStructureName

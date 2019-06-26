@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUpHalfBoldTestText" : "ls 6/18/2019 16:00",
+		"structureListName" : "MB 6/12/2019 22:43",
+		"testUS44OldButtonsHaveBeenRemoved" : "ls 6/18/2019 15:57",
+		"testUS44SelectedStructureIsAssigned" : "ls 6/18/2019 16:00",
+		"testUS44SelectedStylesChangeAccordingToSelectedText" : "ls 6/18/2019 16:15",
+		"testUS44StructureListExists" : "AG 6/18/2019 15:22" } }

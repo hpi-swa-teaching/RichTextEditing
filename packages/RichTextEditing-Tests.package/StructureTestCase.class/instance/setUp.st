@@ -1,5 +1,4 @@
-as yet unclassified
+resources
 setUp
 
-	super setUp.
-	self menu: self editorModel openStructureMenu.
+	super setUp

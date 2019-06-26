@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"scanner",
-		"text" ],
+		"textWithParagraph",
+		"textWithNewLine" ],
 	"name" : "ParagraphFormatting25Test",
 	"pools" : [
 		 ],
