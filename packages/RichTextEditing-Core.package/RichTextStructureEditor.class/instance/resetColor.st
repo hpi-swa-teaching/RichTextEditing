@@ -1,4 +1,4 @@
-text coloring
+color
 resetColor
 	self currentStructure
 		ifNotNil: [(self richTextEditor symbolToStructure: self currentStructure)

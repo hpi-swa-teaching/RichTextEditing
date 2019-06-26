@@ -1,8 +1,14 @@
-text coloring
+color
 addColor
 
+	| originalColor structureColor |
+	structureColor := (self richTextEditor symbolToStructure: self currentStructure) color.
+	structureColor ifNil: [
+			originalColor := self class defaultColor]
+		ifNotNil: [
+			originalColor := structureColor].
 	self currentStructure
 		ifNotNil: [(NewColorPickerMorph
 				on: self
-				originalColor: (self richTextEditor symbolToStructure: self currentStructure) color
+				originalColor: originalColor
 				setColorSelector: #setColor:) openInWorld]
