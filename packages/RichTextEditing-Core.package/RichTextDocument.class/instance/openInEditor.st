@@ -1,6 +1,7 @@
-initialize-release
+opening
 openInEditor
 
 	| model |
 	model := self class editorClass open model.
-	model setDocument: self
+	model setDocument: self.
+	^ model
