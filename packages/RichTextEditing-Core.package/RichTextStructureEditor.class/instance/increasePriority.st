@@ -13,8 +13,8 @@ increasePriority
 		
 	self richTextEditor textStructures: textStructuresCopy.
 	
-	self setRuns.
 	self richTextEditor 
+		setRuns;
 		structuresChanged;
 		textChanged.
 	self changed: #textStructures
