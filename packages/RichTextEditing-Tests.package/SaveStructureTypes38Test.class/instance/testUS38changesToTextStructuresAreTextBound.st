@@ -5,5 +5,5 @@ testUS38changesToTextStructuresAreTextBound
 		removeStructure: self boldStructureSymbol andAddCostumStructure: self structureSymbol;
 		saveTextInImageAndOpenNewEditor.
 	
-	self deny: (self editorModel textStructures includes: self structureSymbol).
-	self assert: (self editorModel textStructures includes: self boldStructureSymbol)
+	self deny: self structureSymbolIsListed.
+	self assert: self boldIsListed

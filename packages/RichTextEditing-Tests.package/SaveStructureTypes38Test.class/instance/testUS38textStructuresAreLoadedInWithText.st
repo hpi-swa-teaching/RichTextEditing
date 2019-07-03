@@ -6,5 +6,5 @@ testUS38textStructuresAreLoadedInWithText
 		saveTextInImageAndOpenNewEditor.
 	
 	self enterString: self saveName inBackwardsCompatibleDialog: [self editorModel loadDocumentFromSaver].
-	self assert: (self editorModel textStructures includes: self structureSymbol).
-	self deny: (self editorModel textStructures includes: self boldStructureSymbol)
+	self assert: self structureSymbolIsListed.
+	self deny: self boldIsListed

@@ -1,7 +1,3 @@
 tests
 testUS23WhenTriangleIsVisibleCtrlSCanBePressedForSaveDialog
-
-	self 
-		enterStringOntoTextField: 'Test text';
-		assert: self triangleIsVisible;
-		should: [self simulateCtrlS] raise: ProvideAnswerNotification.
+	"omitted because this behavior was changed in US57"

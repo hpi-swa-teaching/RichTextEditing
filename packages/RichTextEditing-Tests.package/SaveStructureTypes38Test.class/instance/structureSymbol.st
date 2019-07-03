@@ -1,5 +1,5 @@
 tests
 structureSymbol
 	
-		^#thisIsATest
+	^ #thisIsATest
 	

@@ -1,5 +1,5 @@
 tests
 boldStructureSymbol
 	
-		^#bold
+	^ #bold
 	
