@@ -1,4 +1,4 @@
 as yet unclassified
 removeAttributeAt: anInteger
 
-	^ self editorText removeAttribute: (self editorModel symbolToStructure: (self symbolAt: anInteger))
+	^ self editorModel removeAttribute: (self editorModel symbolToStructure: (self symbolAt: anInteger))
