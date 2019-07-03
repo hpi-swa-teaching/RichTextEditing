@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addAttributeAt:" : "lh 7/3/2019 22:49",
+		"bufferDocument" : "lh 7/3/2019 22:16",
+		"initialTextStructures" : "lh 7/3/2019 22:25",
+		"removeAttributeAt:" : "lh 7/3/2019 22:49",
+		"symbolAt:" : "lh 7/3/2019 22:46",
+		"testUS58StructurePriorityCanBeChanged" : "lh 7/3/2019 22:50",
+		"testUS58StructureWithHighestPriorityWins" : "lh 7/3/2019 22:50" } }
