@@ -1,0 +1,4 @@
+*RichTextEditing-Tests
+textStyle
+
+	^ textStyle

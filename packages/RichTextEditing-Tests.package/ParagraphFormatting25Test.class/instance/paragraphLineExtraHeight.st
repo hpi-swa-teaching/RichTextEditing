@@ -1,4 +1,4 @@
 accessing
 paragraphLineExtraHeight
 
-	^ 5
+	^ 1.5
