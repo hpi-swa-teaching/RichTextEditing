@@ -1,4 +1,4 @@
 saving and loading
-addSave: t1 underName: t2 
+addSave: aDocument underName: name
 	
-	self documents at: t2 asSymbol put: t1 copy
+	self documents at: name asSymbol put: aDocument

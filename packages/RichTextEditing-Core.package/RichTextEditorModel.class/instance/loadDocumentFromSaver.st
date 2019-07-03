@@ -9,7 +9,6 @@ loadDocumentFromSaver
 				title: 'Load from...'.
 	chosen
 		ifNotNil: [document := self saver loadDocumentFromName: chosen.
-			self setText: document text;
-				 loadTextStructures: document textStructures;
+			self setDocument: document;
 				 setCurrentSave: chosen;
 				 noUnacceptedEdits]

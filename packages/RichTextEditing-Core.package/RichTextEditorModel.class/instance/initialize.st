@@ -8,3 +8,4 @@ initialize
 		selectedStructures: Set new;
 		bufferedStructures: Set new;
 		initializeStructures
+		

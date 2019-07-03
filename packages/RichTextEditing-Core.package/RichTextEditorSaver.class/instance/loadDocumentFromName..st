@@ -3,4 +3,4 @@ loadDocumentFromName: aString
 	
 	^ (self documents
 		at: aString asSymbol
-		ifAbsent: [self error: 'Name not found']) copy
+		ifAbsent: [self error: 'Name not found'])

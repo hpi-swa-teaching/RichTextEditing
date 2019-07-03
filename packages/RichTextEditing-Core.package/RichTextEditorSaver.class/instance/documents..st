@@ -1,3 +1,4 @@
 accessing
-documents: t1 
-	documents := t1
+documents: aDictionary
+
+	documents := aDictionary
