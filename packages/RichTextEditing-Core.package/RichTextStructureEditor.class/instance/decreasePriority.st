@@ -13,6 +13,9 @@ decreasePriority
 		
 	self richTextEditor textStructures: textStructuresCopy.
 	
-	self richTextEditor structuresChanged.
+	self setRuns.
+	self richTextEditor 
+		structuresChanged;
+		textChanged.
 	self changed: #textStructures
 	
