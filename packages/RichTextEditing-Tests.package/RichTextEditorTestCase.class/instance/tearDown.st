@@ -1,4 +1,4 @@
-resources
+setup and teardown
 tearDown
 
 	self editorModel noUnacceptedEdits;

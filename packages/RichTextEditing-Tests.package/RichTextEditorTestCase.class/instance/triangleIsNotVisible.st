@@ -1,4 +1,4 @@
-helper
+utilities
 triangleIsNotVisible
 
 	^ self triangleIsVisible not
