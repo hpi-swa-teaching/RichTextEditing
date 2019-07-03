@@ -1,9 +1,9 @@
-color
+text coloring
 addColor
 
 	| structure originalColor structureColor |
 	structure := self richTextEditor symbolToStructure: self currentStructure.
-	structure ifNil: [^ nil].
+	structure ifNil: [self noCurrentStructureWarning. ^ nil].
 	structureColor := (self richTextEditor symbolToStructure: self currentStructure) color.
 	structureColor ifNil: [
 			originalColor := self class defaultColor]
