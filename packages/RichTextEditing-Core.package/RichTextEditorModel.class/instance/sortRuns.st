@@ -1,5 +1,6 @@
 as yet unclassified
-setRuns
+sortRuns
+"sort textstructures of the texts runarray by priority"
 
 	| noStructureCopy structureCopy | 
 	
