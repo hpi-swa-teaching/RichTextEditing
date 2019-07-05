@@ -6,7 +6,7 @@ decreasePriority
 	
 	(self currentPriority >= self textStructures size) ifFalse: 
 		[textStructuresCopy 
-			add: self currentStructureSymbol afterIndex: self currentPriority + 1;
+			add: self currentStructure afterIndex: self currentPriority + 1;
 			removeAt: self currentPriority].
 		
 	self updateStructures: textStructuresCopy

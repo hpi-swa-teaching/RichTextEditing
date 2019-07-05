@@ -1,4 +1,4 @@
 text structures
 currentPriority
 
-	^ self textStructures indexOf: self currentStructure
+	^ self textStructures indexOf: self currentStructureSymbol

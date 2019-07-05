@@ -1,4 +1,4 @@
-text structures
+accessing
 currentStructureSymbol
 
-	^ self richTextEditor symbolToStructure: self currentStructure
+	^ currentStructureSymbol

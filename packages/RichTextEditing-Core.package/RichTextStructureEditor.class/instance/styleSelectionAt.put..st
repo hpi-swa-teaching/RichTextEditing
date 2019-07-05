@@ -2,7 +2,7 @@ text styles
 styleSelectionAt: anIndex put: aBoolean
 
 	| target |
-	self currentStructure ifNotNil: [
+	self currentStructureSymbol ifNotNil: [
 		target := self textStyles at: anIndex.
 		self selectedStyles: (aBoolean
 			ifTrue: [ self selectedStyles copyWith: target ]

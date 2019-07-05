@@ -1,10 +1,10 @@
 text structures
 removeStructure
 
-	self currentStructure ifNil: [self richTextEditor chooseStructureToRemove].
-	self currentStructure ifNotNil: [
-		(self textStructures includes: self currentStructure)
-			ifTrue: [self richTextEditor removeStructure: self currentStructure]
+	self currentStructureSymbol ifNil: [self richTextEditor chooseStructureToRemove].
+	self currentStructureSymbol ifNotNil: [
+		(self textStructures includes: self currentStructureSymbol)
+			ifTrue: [self richTextEditor removeStructure: self currentStructureSymbol]
 			ifFalse: [self richTextEditor chooseStructureToRemove]
 		].
 	self changed: #textStructures
