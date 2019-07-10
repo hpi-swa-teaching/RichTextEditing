@@ -1,7 +1,7 @@
 text font
 openFontChooser
 
-		FontChooserTool
+	FontChooserTool
 		openWithWindowTitle: 'FontChooser'
 		for: self
 		setSelector: #setFont:

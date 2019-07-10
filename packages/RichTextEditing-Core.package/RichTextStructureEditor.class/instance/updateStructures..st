@@ -1,8 +1,8 @@
 text structures
 updateStructures: aStructureList
 
-	self richTextEditor textStructures: aStructureList.
-	self richTextEditor 
+	self richTextEditor
+		textStructures: aStructureList;
 		sortRuns;
 		structuresChanged;
 		textChanged.

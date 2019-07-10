@@ -1,4 +1,4 @@
-constants
+as yet unclassified
 documentClass
 
 	^ RichTextDocument
