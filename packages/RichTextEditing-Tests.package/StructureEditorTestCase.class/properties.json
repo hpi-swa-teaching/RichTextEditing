@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "DefineExtendability36Testnew",
+		"richTextEditorMorph",
+		"structureEditor" ],
+	"name" : "StructureEditorTestCase",
 	"pools" : [
 		 ],
 	"super" : "StructureTestCase",

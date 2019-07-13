@@ -1,14 +1,14 @@
 {
-	"category" : "RichTextEditing-Testingutilities",
+	"category" : "RichTextEditing-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"menu" ],
-	"name" : "StructureTestCase",
+		 ],
+	"name" : "ChangeStructureFont42Test",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "StructureEditorTestCase",
 	"type" : "normal" }

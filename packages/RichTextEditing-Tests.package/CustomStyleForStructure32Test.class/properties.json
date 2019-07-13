@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "ColorTextStructures41Testnew",
+	"name" : "CustomStyleForStructure32Test",
 	"pools" : [
 		 ],
-	"super" : "StructureEditorTestCase",
+	"super" : "StructureTestCase",
 	"type" : "normal" }
