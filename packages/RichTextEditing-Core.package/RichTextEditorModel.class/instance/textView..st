@@ -1,4 +1,4 @@
 accessing
-textView: anObject
+textView: aView
 
-	textView := anObject
+	textView := aView

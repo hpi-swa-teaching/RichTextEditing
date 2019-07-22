@@ -1,4 +1,4 @@
-as yet unclassified
+text structure
 sortRuns
 "sort textstructures of the texts runarray by priority"
 

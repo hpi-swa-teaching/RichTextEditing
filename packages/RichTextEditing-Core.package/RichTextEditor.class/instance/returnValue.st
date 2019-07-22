@@ -1,4 +1,4 @@
-as yet unclassified
+constants
 returnValue
 
 	^ 13

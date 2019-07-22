@@ -1,4 +1,4 @@
-as yet unclassified
+input events
 isNewCharacter: aKeyboardEvent
 
 	| character value |

@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 textSize
 
 	^ self model text size

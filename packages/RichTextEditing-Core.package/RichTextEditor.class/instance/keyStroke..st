@@ -1,4 +1,4 @@
-as yet unclassified
+input events
 keyStroke: aKeyboardEvent
 
 	| returnValue |

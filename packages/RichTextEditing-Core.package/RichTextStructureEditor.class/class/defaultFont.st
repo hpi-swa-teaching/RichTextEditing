@@ -1,4 +1,4 @@
-as yet unclassified
+restore defaults
 defaultFont
 	
 	^ UserInterfaceTheme current get: #textFont for: #PluggableTextMorphPlus
