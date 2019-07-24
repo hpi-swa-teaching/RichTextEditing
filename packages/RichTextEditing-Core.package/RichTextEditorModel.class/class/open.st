@@ -1,4 +1,4 @@
 instance creation
 open
 
-	^ MorphicToolBuilder new open: self new
+	^ ToolBuilder default open: self new
