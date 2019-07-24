@@ -1,4 +1,4 @@
-tests
+helper
 textHasNoColor
 
 	^ self textHasColor: nil

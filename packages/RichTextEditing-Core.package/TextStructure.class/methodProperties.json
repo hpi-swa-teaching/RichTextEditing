@@ -2,14 +2,15 @@
 	"class" : {
 		"newWith:withEmphasis:" : "ls 6/26/2019 21:57" },
 	"instance" : {
-		"=" : "AG 5/22/2019 18:10",
+		"=" : "lh 7/24/2019 20:24",
 		"color" : "AG 6/19/2019 19:03",
 		"color:" : "ls 6/26/2019 21:29",
-		"emphasisCode" : "ls 5/30/2019 12:26",
-		"emphasizeScanner:" : "lh 7/3/2019 15:32",
+		"emphasisCode" : "lh 7/24/2019 20:29",
+		"emphasizeScanner:" : "lh 7/24/2019 20:17",
 		"font" : "SR 6/26/2019 18:05",
 		"font:" : "ls 7/24/2019 21:22",
 		"getFont" : "ls 7/24/2019 21:19",
+		"hash" : "lh 7/24/2019 20:47",
 		"initialize" : "lh 6/26/2019 18:47",
 		"isBold" : "ls 5/29/2019 17:55",
 		"isExtendable" : "lh 6/5/2019 17:47",

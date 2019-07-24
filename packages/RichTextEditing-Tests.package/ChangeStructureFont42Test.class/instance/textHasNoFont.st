@@ -1,4 +1,4 @@
-utilities
+helper
 textHasNoFont
 
 	^ self textHasFont: nil

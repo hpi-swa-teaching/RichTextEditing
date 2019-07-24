@@ -13,5 +13,4 @@ baseline: spec
 				yourself.
 			spec
 				group: 'default' with: #('RichTextEditing-Core');
-				group: 'tests' with: #('RichTextEditing-Tests')];
-				yourself
+				group: 'tests' with: #('RichTextEditing-Tests')]

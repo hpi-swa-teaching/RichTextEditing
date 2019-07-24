@@ -1,4 +1,4 @@
-as yet unclassified
+helper
 coloredStructureSymbol
 
 	^ self coloredStructureName asSymbol

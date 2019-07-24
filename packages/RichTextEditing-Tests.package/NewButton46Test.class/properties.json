@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"scanner" ],
-	"name" : "ParagraphFormatting25Test",
+		 ],
+	"name" : "NewButton46Test",
 	"pools" : [
 		 ],
 	"super" : "RichTextEditorTestCase",
