@@ -5,13 +5,13 @@ testUS43PreviewTextfieldHasSelectedStructureApplied
 	testStructure := #bold.
 	anotherStructure := #italic.
 	
-	self structureEditor currentStructureSymbol: testStructure.
+	self structureEditor currentStructure: testStructure.
 	previewText := (self structureEditorView findByName: self textPreviewLabel) text.
 
 	self assert: (self hasStructure: testStructure forText: previewText).
 	self deny: (self hasStructure: anotherStructure forText: previewText).
 	
-	self structureEditor currentStructureSymbol: anotherStructure.
+	self structureEditor currentStructure: anotherStructure.
 	previewText := (self structureEditorView findByName: self textPreviewLabel) text.
 
 	self deny: (self hasStructure: testStructure forText: previewText).

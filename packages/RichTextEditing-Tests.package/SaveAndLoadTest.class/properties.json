@@ -10,5 +10,5 @@
 	"name" : "SaveAndLoadTest",
 	"pools" : [
 		 ],
-	"super" : "AnObsoleteRichTextEditorTestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

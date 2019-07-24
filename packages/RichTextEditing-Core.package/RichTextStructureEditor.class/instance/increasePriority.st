@@ -1,17 +1,22 @@
 text structures
 increasePriority
+
+	| currentPriority textStructuresCopy |
 	
-	| textStructuresCopy |
+	currentPriority := self textStructures indexOf: self currentStructure.
 	textStructuresCopy := self richTextEditor textStructures copy.
 	
-	(self currentPriority <= 1) ifFalse: 
+	(currentPriority <= 1) ifFalse: 
 		[textStructuresCopy 
-			add: self currentStructure beforeIndex: self currentPriority - 1;
-			removeAt: self currentPriority + 1].
+			add: (self richTextEditor symbolToStructure: self currentStructure) beforeIndex: currentPriority - 1;
+			removeAt: currentPriority + 1].
 		
-	self updateStructures: textStructuresCopy
-		
+	self richTextEditor textStructures: textStructuresCopy.
 	
-		
-		
+	self richTextEditor 
+		setRuns;
+		structuresChanged;
+		textChanged.
+	self changed: #textStructures
+	
 	

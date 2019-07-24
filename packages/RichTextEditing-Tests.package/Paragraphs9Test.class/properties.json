@@ -10,5 +10,5 @@
 	"name" : "Paragraphs9Test",
 	"pools" : [
 		 ],
-	"super" : "AnObsoleteRichTextEditorTestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

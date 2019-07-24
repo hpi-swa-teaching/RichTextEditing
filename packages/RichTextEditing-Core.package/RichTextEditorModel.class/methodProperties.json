@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"documentClass" : "ls 6/26/2019 17:54",
 		"initialLabel" : "ls 6/21/2019 17:54",
 		"initialize" : "ls 6/21/2019 17:54",
 		"open" : "AG 7/24/2019 14:09",
@@ -7,7 +8,7 @@
 		"saverClass" : "ls 5/8/2019 20:28",
 		"textStyles" : "lh 6/5/2019 17:46" },
 	"instance" : {
-		"addAttribute:" : "AG 7/3/2019 22:37",
+		"addAttribute:" : "lh 7/3/2019 22:00",
 		"addNewStructure" : "ls 6/12/2019 17:53",
 		"applyBufferedStructures" : "AG 6/21/2019 14:01",
 		"bufferDocument" : "ls 6/26/2019 17:45",
@@ -40,9 +41,9 @@
 		"hasUnacceptedEdits" : "ls 5/9/2019 10:34",
 		"initialize" : "MB 7/3/2019 18:40",
 		"initializeDocuments" : "ls 7/10/2019 15:53",
-		"initializeStructure:" : "ls 7/10/2019 15:52",
+		"initializeStructure:" : "ls 6/26/2019 22:07",
 		"initializeStructure:withEmphasis:" : "ls 6/26/2019 22:07",
-		"initializeStructures" : "ls 7/10/2019 15:52",
+		"initializeStructures" : "MB 7/3/2019 18:41",
 		"inspectDocument" : "ls 6/26/2019 18:57",
 		"isIntervalEmpty" : "lh 5/22/2019 20:04",
 		"isTextEmpty" : "MB 6/16/2019 17:34",
@@ -73,6 +74,7 @@
 		"setCurrentSave:" : "ls 6/26/2019 19:12",
 		"setDocument:" : "MB 7/3/2019 19:04",
 		"setLabel:" : "ls 6/26/2019 19:19",
+		"setRuns" : "lh 7/3/2019 22:01",
 		"setText:" : "AG 5/29/2019 18:35",
 		"sortRuns" : "AG 7/3/2019 22:13",
 		"structureSelectionAt:put:" : "ls 6/26/2019 22:23",

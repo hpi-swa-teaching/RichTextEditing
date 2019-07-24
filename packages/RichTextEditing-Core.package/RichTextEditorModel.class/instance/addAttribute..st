@@ -4,7 +4,7 @@ addAttribute: aTextAttribute
 	self getTextFromView.
 	self text addAttribute: aTextAttribute from: self selectionStart to: self selectionStop.
 	self
-		sortRuns;
+		setRuns;
 		textChanged;
 		selectionChanged;
 		fitParagraphs

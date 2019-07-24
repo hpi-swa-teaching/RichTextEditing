@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "UndoRedoTest",
+	"name" : "ColorTextStructures41Test",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "StructureEditorTestCase",
 	"type" : "normal" }

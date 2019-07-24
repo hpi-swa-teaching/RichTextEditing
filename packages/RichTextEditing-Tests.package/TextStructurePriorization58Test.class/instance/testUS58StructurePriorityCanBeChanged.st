@@ -6,7 +6,7 @@ testUS58StructurePriorityCanBeChanged
 	self assert: self initialTextStructures size >= 2.
 	self assert: self editorModel textStructureSymbols equals: self initialTextStructures.
 	structure := self symbolAt: 2.
-	self structureEditor currentStructureSymbol: structure.
+	self structureEditor currentStructure: structure.
 	
 	moveUpButton := self structureEditorView findByLabel: 'Up'.
 	moveUpButton click.

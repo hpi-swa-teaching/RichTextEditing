@@ -1,14 +1,13 @@
 {
-	"category" : "RichTextEditing-Testingutilities",
+	"category" : "RichTextEditing-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"richTextEditorMorph",
-		"structureEditor" ],
-	"name" : "StructureEditorTestCase",
+		 ],
+	"name" : "CustomStyleForStructure32Test",
 	"pools" : [
 		 ],
 	"super" : "StructureTestCase",

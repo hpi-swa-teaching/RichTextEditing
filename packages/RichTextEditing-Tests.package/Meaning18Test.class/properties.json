@@ -10,5 +10,5 @@
 	"name" : "Meaning18Test",
 	"pools" : [
 		 ],
-	"super" : "AnObsoleteStructureTestCase",
+	"super" : "StructureTestCase",
 	"type" : "normal" }

@@ -1,8 +1,8 @@
 text coloring
 resetColor
 
-	self currentStructureSymbol ifNotNil: [
-		self currentStructure color: nil.
+	self currentStructure ifNotNil: [
+		(self richTextEditor symbolToStructure: self currentStructure) color: nil.
 		self updateLoremIpsum.
 		self richTextEditor textChanged]
 	ifNil: [

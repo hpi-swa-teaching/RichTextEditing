@@ -9,11 +9,10 @@
 		"richTextEditor",
 		"structureList",
 		"styleList",
-		"loremIpsum",
 		"currentStructure",
+		"loremIpsum",
 		"lastStructure",
-		"colorButton",
-		"currentStructureSymbol" ],
+		"colorButton" ],
 	"name" : "RichTextStructureEditor",
 	"pools" : [
 		 ],

@@ -6,6 +6,7 @@ testUS42FontCanBeReset
 	self 
 		enterStringOntoTextField: 'test';
 		addFontStructureToText;
+		halt;
 		setFont: self fontAtlanta22;
 		deny: (self textHasFont: RichTextStructureEditor defaultFont).
 	

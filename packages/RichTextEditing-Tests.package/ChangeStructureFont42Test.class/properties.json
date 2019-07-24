@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "DefineExtendability36Testnew",
+	"name" : "ChangeStructureFont42Test",
 	"pools" : [
 		 ],
-	"super" : "AnObsoleteStructureTestCase",
+	"super" : "StructureEditorTestCase",
 	"type" : "normal" }

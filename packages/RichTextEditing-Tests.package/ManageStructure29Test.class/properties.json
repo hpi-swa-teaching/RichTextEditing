@@ -10,5 +10,5 @@
 	"name" : "ManageStructure29Test",
 	"pools" : [
 		 ],
-	"super" : "AnObsoleteStructureEditorTestCase",
+	"super" : "StructureEditorTestCase",
 	"type" : "normal" }

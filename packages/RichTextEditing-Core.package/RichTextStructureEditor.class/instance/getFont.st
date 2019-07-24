@@ -1,4 +1,4 @@
 text font
 getFont
 
-	^ self currentStructure font
+	^ (self richTextEditor symbolToStructure: self currentStructure) font

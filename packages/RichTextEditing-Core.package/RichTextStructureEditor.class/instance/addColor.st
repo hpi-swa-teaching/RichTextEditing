@@ -1,13 +1,15 @@
 text coloring
 addColor
 
-	| originalColor |
-	self currentStructureSymbol ifNil: [self noCurrentStructureWarning. ^ nil].
-	self currentStructure color ifNil: [
+	| structure originalColor structureColor |
+	structure := self richTextEditor symbolToStructure: self currentStructure.
+	structure ifNil: [self noCurrentStructureWarning. ^ nil].
+	structureColor := (self richTextEditor symbolToStructure: self currentStructure) color.
+	structureColor ifNil: [
 			originalColor := self class defaultColor]
 		ifNotNil: [
-			originalColor := self currentStructure color].
-	self currentStructureSymbol
+			originalColor := structureColor].
+	self currentStructure
 		ifNotNil: [(NewColorPickerMorph
 				on: self
 				originalColor: originalColor
