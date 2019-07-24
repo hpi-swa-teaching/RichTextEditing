@@ -3,12 +3,12 @@ testUS58StructureWithHighestPriorityWins
 	
 	self 
 		enterStringOntoTextField: 'test';
-		setStructureAt: 1 toColor: Color green;
-		setStructureAt: 2 toColor: Color blue;
-		addAttributeAt: 1;
-		addAttributeAt: 2;
+		setStructureAt: self firstIndex toColor: Color green;
+		setStructureAt: self secondIndex toColor: Color blue;
+		addAttributeAt: self firstIndex;
+		addAttributeAt: self secondIndex;
 		assert: (self textHasColor: Color green);
-		removeAttributeAt: 1;
+		removeAttributeAt: self firstIndex;
 		assert: (self textHasColor: Color blue)
 	 
 	

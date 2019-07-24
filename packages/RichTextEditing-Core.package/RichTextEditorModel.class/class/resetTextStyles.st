@@ -1,4 +1,0 @@
-constants
-resetTextStyles
-
-	textStyles := nil

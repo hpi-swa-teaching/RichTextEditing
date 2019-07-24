@@ -1,4 +1,4 @@
-tests
+helper
 addColoredStructureToText
 	
 	self editorModel createNewStructure: self coloredStructureSymbol.

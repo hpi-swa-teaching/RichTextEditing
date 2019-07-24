@@ -1,5 +1,7 @@
 utilities
 selectOptionBold
 
-	self editorModel structureSelectionAt: (self editorModel textStructureSymbols indexOf: #bold) put: true
+	self editorModel 
+		structureSelectionAt: (self editorModel textStructureSymbols indexOf: #bold) 
+		put: true
 	

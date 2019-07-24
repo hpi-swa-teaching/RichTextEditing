@@ -1,4 +1,4 @@
-tests
+helper
 coloredStructureName
 	
 	^ 'coloredStructure'

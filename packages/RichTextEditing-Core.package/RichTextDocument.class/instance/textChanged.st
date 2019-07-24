@@ -1,4 +1,4 @@
-as yet unclassified
+change
 textChanged
 
 	self changed: #text

@@ -1,4 +1,4 @@
-as yet unclassified
+change
 structuresChanged
 
 	self changed: #textStructures

@@ -1,4 +1,7 @@
 opening
 openInEditor
 
-	self class editorClass openWith: self
+	| model |
+	model := self openEditor model.
+	model setDocument: self.
+	^ model

@@ -4,10 +4,12 @@
 	"instance" : {
 		"addAttributeAt:" : "lh 7/3/2019 22:49",
 		"bufferDocument" : "lh 7/3/2019 22:16",
+		"firstIndex" : "lh 7/24/2019 20:06",
 		"initialTextStructures" : "lh 7/3/2019 22:25",
 		"removeAttributeAt:" : "lh 7/24/2019 16:19",
+		"secondIndex" : "lh 7/24/2019 20:06",
 		"setStructureAt:toColor:" : "lh 7/24/2019 19:00",
 		"symbolAt:" : "lh 7/3/2019 22:46",
-		"testUS58StructurePriorityCanBeDecreased" : "lh 7/24/2019 18:53",
-		"testUS58StructurePriorityCanBeIncreased" : "lh 7/24/2019 18:52",
-		"testUS58StructureWithHighestPriorityWins" : "lh 7/24/2019 19:03" } }
+		"testUS58StructurePriorityCanBeDecreased" : "lh 7/24/2019 20:07",
+		"testUS58StructurePriorityCanBeIncreased" : "lh 7/24/2019 20:07",
+		"testUS58StructureWithHighestPriorityWins" : "lh 7/24/2019 20:07" } }

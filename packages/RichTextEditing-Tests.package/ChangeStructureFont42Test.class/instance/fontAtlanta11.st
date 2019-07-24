@@ -1,4 +1,4 @@
-constants
+helper
 fontAtlanta11
 
 	^ StrikeFont familyName: 'Atlanta' pointSize: 11 emphasized: 1

@@ -2,7 +2,9 @@ text structures
 increasePriority
 	
 	| textStructuresCopy |
-	self currentStructure ifNil: [self noCurrentStructureWarning. ^nil].
+	self currentStructure ifNil: [
+		self noCurrentStructureWarning. 
+		^nil].
 	textStructuresCopy := self copyTextStructures.
 	
 	(self currentPriority <= 1) ifFalse: 

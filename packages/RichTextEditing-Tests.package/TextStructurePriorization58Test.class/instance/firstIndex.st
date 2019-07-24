@@ -1,0 +1,4 @@
+accessing
+firstIndex
+
+	^ 1
