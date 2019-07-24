@@ -3,6 +3,6 @@ setColor: aColor
 	
 	self currentStructure color: aColor.
 	self updateLoremIpsum.
-	self 
-		richTextEditor unacceptedEdits; 
+	self richTextEditor 
+		unacceptedEdits; 
 		textChanged
