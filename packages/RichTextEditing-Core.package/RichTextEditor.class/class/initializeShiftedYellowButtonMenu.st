@@ -1,4 +1,4 @@
-keyboard shortcut tables
+instance creation
 initializeShiftedYellowButtonMenu
 
 	shiftedYellowButtonMenu := MenuMorph fromArray: StringHolder yellowButtonMenuItems

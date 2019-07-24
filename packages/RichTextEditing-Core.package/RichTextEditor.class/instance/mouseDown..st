@@ -1,4 +1,4 @@
-as yet unclassified
+input events
 mouseDown: evt
 
 	self model ifNotNil: #unbufferStructures.

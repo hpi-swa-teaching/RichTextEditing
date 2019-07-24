@@ -1,4 +1,4 @@
 text styles
 selectedStyles
 	
-	^ self richTextEditor stylesForStructure: self currentStructure
+	^ self richTextEditor stylesForStructure: self currentStructureSymbol

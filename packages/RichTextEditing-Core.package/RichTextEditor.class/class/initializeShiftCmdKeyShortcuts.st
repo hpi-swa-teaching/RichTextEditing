@@ -1,4 +1,4 @@
-keyboard shortcut tables
+instance creation
 initializeShiftCmdKeyShortcuts
 
 	super initializeShiftCmdKeyShortcuts

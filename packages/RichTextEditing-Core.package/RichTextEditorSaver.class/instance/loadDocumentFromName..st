@@ -1,6 +1,6 @@
 saving and loading
 loadDocumentFromName: aString
 	
-	^ (self documents
+	^ self documents
 		at: aString asSymbol
-		ifAbsent: [self error: 'Name not found'])
+		ifAbsent: [self error: 'Name not found']

@@ -4,11 +4,11 @@ testUS58StructureWithHighestPriorityWins
 	self enterStringOntoTextField: 'test'.
 	
 	self structureEditor 
-		currentStructure: (self symbolAt: 1);
+		currentStructureSymbol: (self symbolAt: 1);
 		setColor: Color green.
 	 
 	self structureEditor 
-		currentStructure: (self symbolAt: 2);
+		currentStructureSymbol: (self symbolAt: 2);
 		setColor: Color blue.
 		
 	self addAttributeAt: 1.

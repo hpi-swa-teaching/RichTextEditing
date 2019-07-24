@@ -1,4 +1,0 @@
-constants
-documentClass
-
-	^ RichTextDocument

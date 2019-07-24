@@ -1,4 +1,4 @@
-as yet unclassified
+input events
 storeSelectionInParagraph
 
 	super storeSelectionInParagraph.
