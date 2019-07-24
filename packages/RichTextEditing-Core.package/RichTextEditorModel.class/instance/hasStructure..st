@@ -1,7 +1,7 @@
 text structure
 hasStructure: aSymbol
 
-	self getTextFromView.
+	self setTextFromView.
 	^ self bufferDocument
 		hasStructure: aSymbol
 		forText: self text

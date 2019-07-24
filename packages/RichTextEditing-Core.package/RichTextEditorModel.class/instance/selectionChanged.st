@@ -1,6 +1,6 @@
 change
 selectionChanged
 
-	self selectedStructures: (self textStructureSymbols copy select:
+	self selectedStructures: (self textStructureSymbols select:
 		[:structure | self hasStructure: structure]) asSet.
 	self changed: #allSelections

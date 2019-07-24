@@ -1,6 +1,6 @@
 accessing
 selectionStop
 
-	((self isIntervalEmpty) and: [self isTextEmpty not])
+	self isCursorBetweenText
 		ifTrue: [^ self editor selectionInterval first].
 	^ self editor selectionInterval last

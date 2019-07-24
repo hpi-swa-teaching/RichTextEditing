@@ -1,5 +1,5 @@
 text structure
 isTextEmpty
 
-	self getTextFromView.
+	self setTextFromView.
 	^ (self text isEmpty)

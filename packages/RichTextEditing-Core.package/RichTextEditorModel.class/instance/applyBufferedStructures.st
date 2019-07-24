@@ -12,4 +12,6 @@ applyBufferedStructures
 		thenSelect: [:each | each isExtendable])
 		do: [:each | self addAttribute: each].
 	
-	self editor unselect; setEmphasisHere
+	self editor 
+		unselect; 
+		setEmphasisHere
