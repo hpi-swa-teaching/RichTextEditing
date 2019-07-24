@@ -1,4 +1,4 @@
 accessing
-selectedStructures: anOrderedCollection
+selectedStructures: anObject
 
-	selectedStructures := anOrderedCollection
+	selectedStructures := anObject

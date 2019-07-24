@@ -12,5 +12,5 @@
 	"name" : "SaveProgressInImage13Test",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "AnObsoleteRichTextEditorTestCase",
 	"type" : "normal" }

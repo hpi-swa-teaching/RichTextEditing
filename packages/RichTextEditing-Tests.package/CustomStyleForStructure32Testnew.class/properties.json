@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"richTextEditorMorph",
-		"structureEditor" ],
-	"name" : "StructureEditorTestCase",
+		 ],
+	"name" : "CustomStyleForStructure32Testnew",
 	"pools" : [
 		 ],
-	"super" : "StructureTestCase",
+	"super" : "AnObsoleteStructureTestCase",
 	"type" : "normal" }

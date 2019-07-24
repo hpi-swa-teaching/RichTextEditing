@@ -12,5 +12,5 @@
 	"name" : "NewButton46Test",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "AnObsoleteRichTextEditorTestCase",
 	"type" : "normal" }

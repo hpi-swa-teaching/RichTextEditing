@@ -1,5 +1,6 @@
 saving and loading
 saveDocumentInSaverWithNamePrompt
+	"'Save as...' button has been pressed"
 
 	| name |
 	name := UIManager default request: 'Save as...'.

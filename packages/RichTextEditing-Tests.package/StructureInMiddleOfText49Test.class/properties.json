@@ -10,5 +10,5 @@
 	"name" : "StructureInMiddleOfText49Test",
 	"pools" : [
 		 ],
-	"super" : "StructureTestCase",
+	"super" : "AnObsoleteStructureTestCase",
 	"type" : "normal" }

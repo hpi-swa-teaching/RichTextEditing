@@ -1,4 +1,4 @@
 accessing
-bufferedStructuresToBeApplied: anOrderedCollection
+bufferedStructuresToBeApplied: anObject
 
-	bufferedStructuresToBeApplied := anOrderedCollection
+	bufferedStructuresToBeApplied := anObject

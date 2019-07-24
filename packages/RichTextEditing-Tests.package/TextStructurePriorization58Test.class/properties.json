@@ -10,5 +10,5 @@
 	"name" : "TextStructurePriorization58Test",
 	"pools" : [
 		 ],
-	"super" : "StructureEditorTestCase",
+	"super" : "AnObsoleteStructureEditorTestCase",
 	"type" : "normal" }

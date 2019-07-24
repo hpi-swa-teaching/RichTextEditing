@@ -10,5 +10,5 @@
 	"name" : "UndoRedoTest",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "AnObsoleteRichTextEditorTestCase",
 	"type" : "normal" }

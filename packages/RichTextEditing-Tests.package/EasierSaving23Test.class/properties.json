@@ -12,5 +12,5 @@
 	"name" : "EasierSaving23Test",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "AnObsoleteRichTextEditorTestCase",
 	"type" : "normal" }

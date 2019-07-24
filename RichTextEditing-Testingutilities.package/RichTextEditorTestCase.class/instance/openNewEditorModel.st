@@ -2,6 +2,6 @@ utilities
 openNewEditorModel
 
 	self editorModel: RichTextEditorModel new;
-		wantsToTest: (RichMorphicToolBuilder new open: self editorModel)
+		wantsToTest: (MorphicToolBuilder new open: self editorModel)
 
 	

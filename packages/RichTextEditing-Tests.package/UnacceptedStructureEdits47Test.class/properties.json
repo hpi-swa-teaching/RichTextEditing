@@ -10,5 +10,5 @@
 	"name" : "UnacceptedStructureEdits47Test",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "AnObsoleteRichTextEditorTestCase",
 	"type" : "normal" }

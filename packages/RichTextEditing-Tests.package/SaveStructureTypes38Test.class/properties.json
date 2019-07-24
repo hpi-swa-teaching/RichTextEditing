@@ -10,5 +10,5 @@
 	"name" : "SaveStructureTypes38Test",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "AnObsoleteRichTextEditorTestCase",
 	"type" : "normal" }

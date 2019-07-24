@@ -1,4 +1,0 @@
-accessing
-codePaneClass
-
-	^ RichPluggableTextMorphPlus

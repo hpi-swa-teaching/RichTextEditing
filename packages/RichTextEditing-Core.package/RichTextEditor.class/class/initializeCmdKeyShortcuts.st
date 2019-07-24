@@ -1,4 +1,4 @@
-instance creation
+keyboard shortcut tables
 initializeCmdKeyShortcuts
 
 	super initializeCmdKeyShortcuts

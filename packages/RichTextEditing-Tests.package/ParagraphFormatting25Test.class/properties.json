@@ -12,5 +12,5 @@
 	"name" : "ParagraphFormatting25Test",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "AnObsoleteRichTextEditorTestCase",
 	"type" : "normal" }

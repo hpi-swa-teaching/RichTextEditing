@@ -1,4 +1,4 @@
 instance creation
 open
 
-	^ RichMorphicToolBuilder new open: self new
+	^ MorphicToolBuilder new open: self new

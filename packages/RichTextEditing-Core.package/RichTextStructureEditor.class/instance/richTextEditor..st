@@ -1,4 +1,4 @@
 accessing
-richTextEditor: aRichTextEditor
+richTextEditor: anObject
 
-	richTextEditor := aRichTextEditor
+	richTextEditor := anObject
