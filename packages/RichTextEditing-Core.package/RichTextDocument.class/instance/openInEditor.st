@@ -1,4 +1,4 @@
 opening
 openInEditor
 
-	self class editorClass openWith: self
+	^ self class editorClass openWith: self

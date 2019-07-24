@@ -1,5 +1,4 @@
 text structure
 fitParagraphs
 
-	self textMorph paragraph composeAll.
-	self textMorph fit
+	self textMorph ifNotNil: [:morph | morph paragraph composeAll. morph fit]

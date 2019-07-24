@@ -1,0 +1,4 @@
+font
+getFont
+
+	^ self font
