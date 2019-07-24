@@ -9,5 +9,6 @@ addFont
 				originalFont := self currentStructure font].
 		self currentStructureSymbol
 			ifNotNil: [self openFontChooser]
-		]
-	ifNil: [self noCurrentStructureWarning]
+		] ifNil: [
+			self noCurrentStructureWarning]
+	

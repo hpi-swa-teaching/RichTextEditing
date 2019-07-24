@@ -2,6 +2,7 @@ text structures
 increasePriority
 	
 	| textStructuresCopy |
+	self currentStructure ifNil: [self noCurrentStructureWarning. ^nil].
 	textStructuresCopy := self richTextEditor textStructures copy.
 	
 	(self currentPriority <= 1) ifFalse: 
