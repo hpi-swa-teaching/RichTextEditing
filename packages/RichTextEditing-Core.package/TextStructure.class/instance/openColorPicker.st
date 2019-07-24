@@ -1,4 +1,4 @@
-text coloring
+color
 openColorPicker
 
 	(NewColorPickerMorph

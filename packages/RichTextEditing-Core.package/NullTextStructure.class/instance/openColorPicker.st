@@ -1,4 +1,4 @@
-font
-openFontChooser
+color
+openColorPicker
 
 	self noCurrentStructureWarning

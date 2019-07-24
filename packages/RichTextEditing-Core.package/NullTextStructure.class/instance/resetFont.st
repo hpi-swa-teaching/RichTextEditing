@@ -1,4 +1,4 @@
-as yet unclassified
+font
 resetFont
 
 	self noCurrentStructureWarning
