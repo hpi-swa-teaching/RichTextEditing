@@ -2,6 +2,7 @@ instance creation
 openWith: aRichTextDocument
 
 	| instance |
-	instance := self new setDocument: aRichTextDocument.
+	instance := self new.
 	ToolBuilder default open: instance.
+	instance setDocument: aRichTextDocument.
 	^ instance

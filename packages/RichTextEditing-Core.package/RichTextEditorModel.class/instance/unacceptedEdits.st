@@ -1,4 +1,4 @@
 edits-triangle
 unacceptedEdits
 
-	self textView hasUnacceptedEdits: true
+	self textView ifNotNil: [:view | view hasUnacceptedEdits: true]

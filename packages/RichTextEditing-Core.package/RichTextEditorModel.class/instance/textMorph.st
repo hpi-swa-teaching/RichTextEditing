@@ -1,4 +1,4 @@
 accessing
 textMorph
 
-	^ self textView textMorph
+	^ self textView ifNotNil: [:view | view textMorph]
