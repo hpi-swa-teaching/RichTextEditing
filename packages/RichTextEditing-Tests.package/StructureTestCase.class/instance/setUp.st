@@ -1,4 +1,0 @@
-resources
-setUp
-
-	super setUp

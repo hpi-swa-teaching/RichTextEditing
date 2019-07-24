@@ -9,4 +9,4 @@ testUS07RedoButtonRedoesChanges
 	self editorModel undo.
 	redoButton click.
 	
-	self assert: self editorModel text = text.
+	self assert: self editorModel text = text

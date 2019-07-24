@@ -10,5 +10,5 @@
 	"name" : "Meaning18Test",
 	"pools" : [
 		 ],
-	"super" : "StructureTestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

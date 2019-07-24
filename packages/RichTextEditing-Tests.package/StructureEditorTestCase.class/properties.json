@@ -11,5 +11,5 @@
 	"name" : "StructureEditorTestCase",
 	"pools" : [
 		 ],
-	"super" : "StructureTestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

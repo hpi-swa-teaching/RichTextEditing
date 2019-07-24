@@ -10,5 +10,5 @@
 	"name" : "DefineExtendability36Test",
 	"pools" : [
 		 ],
-	"super" : "StructureTestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

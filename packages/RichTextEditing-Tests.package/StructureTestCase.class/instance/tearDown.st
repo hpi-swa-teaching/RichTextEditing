@@ -1,4 +1,0 @@
-resources
-tearDown
-
-	super tearDown.
