@@ -2,4 +2,4 @@ input events
 storeSelectionInParagraph
 
 	super storeSelectionInParagraph.
-	self model ifNotNil: [#selectionChanged]
+	self model ifNotNil: #selectionChanged

@@ -1,5 +1,5 @@
 input events
 mouseDown: anEvent
 
-	self model ifNotNil: [#unbufferStructures].
+	self model ifNotNil: #unbufferStructures.
 	^ super mouseDown: anEvent
