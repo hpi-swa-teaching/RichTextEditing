@@ -4,4 +4,4 @@ resetColor
 	self currentStructureSymbol ifNil: [self noCurrentStructureWarning. ^ nil].
 	self currentStructure color: nil.
 	self updateLoremIpsum.
-	self richTextEditor textChanged
+	self document textChanged

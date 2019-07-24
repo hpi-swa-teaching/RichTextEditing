@@ -1,7 +1,7 @@
 instance creation
-openWith: aRichTextEditor
+openWith: aRichTextDocument
 
 	| instance |
-	instance := self basicNew richTextEditor: aRichTextEditor.
+	instance := self basicNew document: aRichTextDocument.
 	instance initialize.
 	^ ToolBuilder default open: instance

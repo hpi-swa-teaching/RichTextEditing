@@ -2,4 +2,6 @@ text structure
 textChanged
 
 	self changed: #text.
-	self unacceptedEdits
+	self
+		unacceptedEdits;
+		fitParagraphs

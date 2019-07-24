@@ -1,4 +1,4 @@
 user interface
 openStructureEditor
 
-	RichTextStructureEditor openWith: self
+	RichTextStructureEditor openWith: self bufferDocument

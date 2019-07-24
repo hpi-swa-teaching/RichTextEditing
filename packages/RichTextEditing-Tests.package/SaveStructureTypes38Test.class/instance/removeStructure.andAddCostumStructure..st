@@ -1,6 +1,6 @@
 accessing
 removeStructure: aRemoveStructure andAddCostumStructure: aAddStructure
 
-	self editorModel
+	self document
 		createNewStructure: aAddStructure;
 		removeStructure: aRemoveStructure

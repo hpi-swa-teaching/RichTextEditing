@@ -1,4 +1,0 @@
-accessing
-richTextEditor
-
-	^ richTextEditor

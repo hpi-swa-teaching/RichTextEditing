@@ -1,5 +1,5 @@
 setup and teardown
 removeAllTextStructures
 
-	self editorModel textStructureSymbols copy do: [:each |
-		self editorModel removeStructure: each]
+	self document textStructureSymbols copy do: [:each |
+		self document removeStructure: each]

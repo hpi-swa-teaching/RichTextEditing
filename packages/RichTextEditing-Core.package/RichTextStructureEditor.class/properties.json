@@ -1,12 +1,12 @@
 {
 	"category" : "RichTextEditing-Core",
 	"classinstvars" : [
-		"current" ],
+		"textStyles" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"richTextEditor",
+		"document",
 		"structureList",
 		"styleList",
 		"loremIpsum",

@@ -1,4 +1,4 @@
 text styles
 textStyles
 
-	^ self richTextEditor class textStyles
+	^ self class textStyles

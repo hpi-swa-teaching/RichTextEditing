@@ -2,5 +2,5 @@ tests
 allStructuresAreDisplayed
 
 	| structureSymbols |
-	structureSymbols := self editorModel textStructureSymbols.
+	structureSymbols := self document textStructureSymbols.
 	^ (structureSymbols allSatisfy: [:structure | self structureIsDisplayed: structure])

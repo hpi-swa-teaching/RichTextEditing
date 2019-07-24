@@ -2,4 +2,4 @@ text structure
 flushStructures
 	
 	self textStructureSymbols copy do: [:each |
-		self removeStructure: each]
+		self document removeStructure: each]

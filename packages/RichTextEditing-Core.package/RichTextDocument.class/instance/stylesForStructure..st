@@ -1,4 +1,4 @@
-accessing
+text structures
 stylesForStructure: aSymbol
 
 	| structure |
