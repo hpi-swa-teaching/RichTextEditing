@@ -1,5 +1,0 @@
-tests
-boldStructureSymbol
-	
-	^ #bold
-	

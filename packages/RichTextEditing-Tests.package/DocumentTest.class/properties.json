@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetIdentity" ],
+	"name" : "DocumentTest",
+	"pools" : [
+		 ],
+	"super" : "RichTextEditorTestCase",
+	"type" : "normal" }

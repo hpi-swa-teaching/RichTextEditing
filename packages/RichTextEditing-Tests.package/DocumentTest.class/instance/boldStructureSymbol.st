@@ -1,0 +1,5 @@
+utilities
+boldStructureSymbol
+	
+	^ #bold
+	

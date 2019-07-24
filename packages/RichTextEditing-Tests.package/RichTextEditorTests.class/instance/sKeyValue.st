@@ -1,0 +1,4 @@
+constants
+sKeyValue
+
+	^ $s asciiValue

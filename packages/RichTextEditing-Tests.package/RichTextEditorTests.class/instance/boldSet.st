@@ -1,0 +1,4 @@
+constants
+boldSet
+
+	^ #(#bold) asSet

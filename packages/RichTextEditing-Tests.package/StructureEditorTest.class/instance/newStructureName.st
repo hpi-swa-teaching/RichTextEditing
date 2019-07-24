@@ -1,0 +1,4 @@
+utilities
+newStructureName
+
+	^ 'someTestingStructure'

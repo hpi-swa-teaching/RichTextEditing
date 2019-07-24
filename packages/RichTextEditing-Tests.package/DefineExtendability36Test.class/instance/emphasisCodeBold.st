@@ -1,4 +1,0 @@
-helper
-emphasisCodeBold
-
-	^ 1
