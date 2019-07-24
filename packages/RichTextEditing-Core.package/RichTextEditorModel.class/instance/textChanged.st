@@ -1,5 +1,5 @@
-change
+text structure
 textChanged
 
-	self changed: #text;
-		unacceptedEdits
+	self changed: #text.
+	self unacceptedEdits

@@ -1,5 +1,4 @@
 accessing
 textStructureSymbols
 
-	^ self textStructures collect: [:each |
-		each structureIdentifier]
+	^ self bufferDocument textStructureSymbols

@@ -5,4 +5,4 @@ initialize
 	self
 		name: '';
 		text: '' asText;
-		textStructures: OrderedCollection new
+		initializeStructures

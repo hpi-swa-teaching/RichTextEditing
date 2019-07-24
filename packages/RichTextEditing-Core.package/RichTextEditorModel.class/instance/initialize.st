@@ -6,6 +6,5 @@ initialize
 		initializeDocuments;
 		label: self class initialLabel;
 		selectedStructures: Set new;
-		bufferedStructures: Set new;
-		initializeStructures
+		bufferedStructures: Set new
 		
