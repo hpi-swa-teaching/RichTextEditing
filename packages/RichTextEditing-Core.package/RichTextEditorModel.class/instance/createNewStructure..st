@@ -1,7 +1,4 @@
 text structure
 createNewStructure: aSymbol
 
-	self
-		initializeStructure: aSymbol;
-		textChanged;
-		structuresChanged
+	self bufferDocument createNewStructure: aSymbol

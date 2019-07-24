@@ -1,8 +1,9 @@
 text structure
 hasStructure: aSymbol
 
-	^ self
+	self getTextFromView.
+	^ self bufferDocument
 		hasStructure: aSymbol
-		forText: self editor text
+		forText: self text
 		from: self selectionStart
 		to: self selectionStop

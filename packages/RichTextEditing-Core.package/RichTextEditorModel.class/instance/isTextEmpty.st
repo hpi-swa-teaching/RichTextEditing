@@ -1,4 +1,5 @@
 text structure
 isTextEmpty
 
-	^ (self editor text isEmpty)
+	self getTextFromView.
+	^ (self text isEmpty)

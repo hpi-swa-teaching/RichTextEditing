@@ -1,4 +1,4 @@
-text structure
+text structures
 hasStructure: aSymbol forText: aText from: start to: end
 
 	^ (aText runs copyFrom: start to: end) allSatisfy:
