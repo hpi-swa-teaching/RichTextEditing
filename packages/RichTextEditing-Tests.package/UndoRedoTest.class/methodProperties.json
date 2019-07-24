@@ -3,7 +3,7 @@
 		 },
 	"instance" : {
 		"testUS07RedoButtonExists" : "ls 5/22/2019 18:28",
-		"testUS07RedoButtonRedoesChanges" : "ls 5/22/2019 18:28",
+		"testUS07RedoButtonRedoesChanges" : "lh 7/24/2019 19:05",
 		"testUS07RedoKeyboardShortcut" : "ls 5/22/2019 18:27",
 		"testUS07UndoButtonExists" : "ls 5/22/2019 18:27",
 		"testUS07UndoButtonUndoesChanges" : "ls 5/22/2019 18:27",

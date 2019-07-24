@@ -6,6 +6,8 @@
 		"bufferDocument" : "lh 7/3/2019 22:16",
 		"initialTextStructures" : "lh 7/3/2019 22:25",
 		"removeAttributeAt:" : "lh 7/24/2019 16:19",
+		"setStructureAt:toColor:" : "lh 7/24/2019 19:00",
 		"symbolAt:" : "lh 7/3/2019 22:46",
-		"testUS58StructurePriorityCanBeChanged" : "AG 7/5/2019 22:03",
-		"testUS58StructureWithHighestPriorityWins" : "AG 7/5/2019 22:03" } }
+		"testUS58StructurePriorityCanBeDecreased" : "lh 7/24/2019 18:53",
+		"testUS58StructurePriorityCanBeIncreased" : "lh 7/24/2019 18:52",
+		"testUS58StructureWithHighestPriorityWins" : "lh 7/24/2019 19:03" } }

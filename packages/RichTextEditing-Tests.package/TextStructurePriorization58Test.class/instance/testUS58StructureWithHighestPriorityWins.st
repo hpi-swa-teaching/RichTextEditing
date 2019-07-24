@@ -1,23 +1,14 @@
-as yet unclassified
+tests
 testUS58StructureWithHighestPriorityWins
 	
-	self enterStringOntoTextField: 'test'.
-	
-	self structureEditor 
-		currentStructureSymbol: (self symbolAt: 1);
-		setColor: Color green.
-	 
-	self structureEditor 
-		currentStructureSymbol: (self symbolAt: 2);
-		setColor: Color blue.
-		
-	self addAttributeAt: 1.
-	self assert: (self textHasColor: Color green).
-	
-	self addAttributeAt: 2.
-	self assert: (self textHasColor: Color green).
-	
-	self removeAttributeAt: 1.
-	self assert: (self textHasColor: Color blue)
+	self 
+		enterStringOntoTextField: 'test';
+		setStructureAt: 1 toColor: Color green;
+		setStructureAt: 2 toColor: Color blue;
+		addAttributeAt: 1;
+		addAttributeAt: 2;
+		assert: (self textHasColor: Color green);
+		removeAttributeAt: 1;
+		assert: (self textHasColor: Color blue)
 	 
 	

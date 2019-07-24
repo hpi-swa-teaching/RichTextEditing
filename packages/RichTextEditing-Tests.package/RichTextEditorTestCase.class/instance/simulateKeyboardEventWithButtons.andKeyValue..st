@@ -8,4 +8,4 @@ simulateKeyboardEventWithButtons: aButtonValue andKeyValue: aKeyValue
 			position: self editorModel textView center
 			keyValue: aKeyValue
 			hand: HandMorph new
-			stamp: Time millisecondClockValue).
+			stamp: Time millisecondClockValue)

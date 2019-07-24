@@ -1,4 +1,4 @@
-as yet unclassified
+helper
 removeAttributeAt: anInteger
 
 	^ self editorText 
