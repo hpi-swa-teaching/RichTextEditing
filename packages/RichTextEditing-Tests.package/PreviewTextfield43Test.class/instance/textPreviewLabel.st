@@ -1,4 +1,4 @@
-tests
+helper
 textPreviewLabel
 
 	^ 'textPreview'

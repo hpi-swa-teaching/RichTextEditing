@@ -1,7 +1,6 @@
 testing
 testUS49NoStructureApplyWhenCaretMovedEnd
 	
-	"when the caret is in the middle."
 	self moveCaretToEndOfText;
 		activateHeading;
 		moveCaret;

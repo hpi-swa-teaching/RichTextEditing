@@ -2,7 +2,7 @@ accessing
 selectionStart
 
 	self isCursorBetweenText
-		ifTrue: [^ self editor selectionInterval last].
-	^ self editor selectionInterval first
+		ifTrue: [^ self selectionInterval last].
+	^ self selectionInterval first
 	
 	

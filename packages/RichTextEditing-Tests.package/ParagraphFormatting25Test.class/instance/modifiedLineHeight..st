@@ -1,4 +1,4 @@
 tests
 modifiedLineHeight: textLine
 
-	^ (textLine lineHeight - self scanner textStyle leading) * self paragraphLineExtraHeight + self scanner textStyle leading
+	^ (textLine lineHeight - self extraSpacing) * self paragraphLineExtraHeight + self extraSpacing

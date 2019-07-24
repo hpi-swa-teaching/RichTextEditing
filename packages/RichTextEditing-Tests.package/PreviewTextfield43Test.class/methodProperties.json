@@ -2,7 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"hasStructure:forText:" : "ls 7/24/2019 14:10",
+		"hasNoStructureForText:" : "lh 7/24/2019 17:46",
+		"hasStructure:forText:" : "lh 7/24/2019 17:41",
+		"previewText" : "lh 7/24/2019 17:48",
 		"testUS43PreviewTextfieldExists" : "ls 6/6/2019 00:27",
-		"testUS43PreviewTextfieldHasSelectedStructureApplied" : "AG 7/5/2019 22:03",
+		"testUS43PreviewTextfieldHasSelectedStructureApplied" : "lh 7/24/2019 17:50",
 		"textPreviewLabel" : "MB 6/12/2019 20:29" } }

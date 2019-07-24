@@ -1,4 +1,4 @@
 accessing
 editor
 
-	^ self textView textMorph editor
+	^ self textMorph editor
