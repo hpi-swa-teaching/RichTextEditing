@@ -1,4 +1,4 @@
-accessing
+change
 update: aParameter
 
 	aParameter = #text ifTrue: [^ self textChanged].

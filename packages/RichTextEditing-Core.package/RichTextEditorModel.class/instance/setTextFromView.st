@@ -1,4 +1,4 @@
-text structure
+accessing
 setTextFromView
 	"Sometimes the text has to be retrieved from the view manually to circumvent (probably) race conditions"
 	

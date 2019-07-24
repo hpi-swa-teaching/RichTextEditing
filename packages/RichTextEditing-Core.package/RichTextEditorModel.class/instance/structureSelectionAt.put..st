@@ -11,4 +11,5 @@ structureSelectionAt: anIndex put: aBoolean
 		ifTrue: [self bufferedStructures remove: targetSymbol ifAbsent: []].
 	(aBoolean not and: [self isIntervalNotEmpty])
 		ifTrue: [self removeTextAttribute: (self textStructures at: anIndex)].
+		
 	self selectionChanged

@@ -1,4 +1,4 @@
-update
+change
 update: aParameter
 
 	(aParameter = #font or: [aParameter = #color])

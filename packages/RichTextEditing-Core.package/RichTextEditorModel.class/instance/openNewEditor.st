@@ -1,4 +1,4 @@
-user interface
+initialize-release
 openNewEditor
 
 	self class open

@@ -1,4 +1,4 @@
-text structure
+testing
 isIntervalNotEmpty
 
 	^ self isIntervalEmpty not
