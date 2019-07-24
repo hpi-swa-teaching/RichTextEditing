@@ -8,4 +8,4 @@ testUS07RedoKeyboardShortcut
 	self editorModel undo.
 	self simulateKeyboardEventWithButtons: self ctrlShiftButtonCode andKeyValue: $z asciiValue.
 	
-	self assert: self editorModel text = text.
+	self assert: self editorText = text.

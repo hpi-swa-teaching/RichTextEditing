@@ -1,7 +1,8 @@
 setup and teardown
 tearDown
 
-	self editorModel noUnacceptedEdits;
+	self editorModel 
+		noUnacceptedEdits;
 		resetSaver.
 	self editorView abandon.
-	super tearDown.
+	super tearDown

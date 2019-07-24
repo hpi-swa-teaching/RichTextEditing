@@ -7,4 +7,4 @@ testUS07UndoButtonUndoesChanges
 	
 	button click.
 	
-	self assert: self editorModel text = ''.
+	self assert: self editorText = ''.

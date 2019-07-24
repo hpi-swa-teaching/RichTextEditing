@@ -6,4 +6,4 @@ enterString: aString inBackwardsCompatibleDialog: aBlock withAlternativeNumber: 
 		ifTrue: [	valueToEnter := aString]
 		ifFalse: [valueToEnter := aNumber].
 	
-	self enterString: valueToEnter inDialog: aBlock.
+	self enterString: valueToEnter inDialog: aBlock

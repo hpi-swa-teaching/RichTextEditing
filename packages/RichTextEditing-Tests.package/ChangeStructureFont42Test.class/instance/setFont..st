@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 setFont: aFont
 
 	self structureEditor setFont: aFont

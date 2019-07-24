@@ -1,4 +1,4 @@
 utilities
 enterStringOntoTextField: aString
 
-	self textViewWrapper sendKeys: aString.
+	self textViewWrapper sendKeys: aString

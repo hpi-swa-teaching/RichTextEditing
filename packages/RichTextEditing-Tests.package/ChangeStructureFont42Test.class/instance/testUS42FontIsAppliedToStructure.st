@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testUS42FontIsAppliedToStructure
 	
 	self 

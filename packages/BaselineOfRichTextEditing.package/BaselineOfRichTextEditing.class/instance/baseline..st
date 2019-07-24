@@ -9,9 +9,9 @@ baseline: spec
 					repository: 'github://hpi-swa-teaching/Morphic-Testing-Framework:master/packages'].
 			spec
 				package: 'RichTextEditing-Core' with: [spec postLoadDoIt: #initializeCharacterScanner];
-				package: 'RichTextEditing-Tests' with: [spec requires: #('RichTextEditing-Core' 'Project12')]
+				package: 'RichTextEditing-Tests' with: [spec requires: #('RichTextEditing-Core' 'RichTextEditing-Tests-Utilities' 'Project12')]
 				yourself.
 			spec
 				group: 'default' with: #('RichTextEditing-Core');
-				group: 'tests' with: #('RichTextEditing-Tests')];
+				group: 'tests' with: #('RichTextEditing-Tests' 'RichTextEditing-Tests-Utilities')];
 				yourself

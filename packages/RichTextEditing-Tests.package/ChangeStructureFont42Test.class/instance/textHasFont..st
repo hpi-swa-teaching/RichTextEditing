@@ -1,7 +1,7 @@
-as yet unclassified
+utilities
 textHasFont: aFont
 
-	^ (self textRuns copyFrom: 0 to: self textSize)
+	^ self textRuns
 		allSatisfy: [:attributes | attributes
 				anySatisfy: [:attribute | attribute isTextStructure
 						and: [attribute font = aFont]]]

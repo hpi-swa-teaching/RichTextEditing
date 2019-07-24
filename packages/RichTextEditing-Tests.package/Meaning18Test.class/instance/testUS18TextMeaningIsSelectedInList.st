@@ -2,7 +2,7 @@ tests
 testUS18TextMeaningIsSelectedInList
 
 	| text |
-	text := self editorModel text.
+	text := self editorText.
 	self enterStringOntoTextField: 'test'.
 	self textEditor selectFrom: 1 to: 2.
 
