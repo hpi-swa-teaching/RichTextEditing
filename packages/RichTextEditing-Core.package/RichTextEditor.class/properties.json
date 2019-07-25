@@ -4,9 +4,9 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "AG 7/25/2019 11:38",
+	"commentStamp" : "AG 7/25/2019 11:50",
 	"instvars" : [
-		"bufferedStructuresToBeApplied" ],
+		 ],
 	"name" : "RichTextEditor",
 	"pools" : [
 		 ],
