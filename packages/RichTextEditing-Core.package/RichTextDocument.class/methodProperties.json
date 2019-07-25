@@ -3,8 +3,7 @@
 		"defaultStyles" : "ls 6/26/2019 22:02",
 		"editorClass" : "ls 6/26/2019 17:33",
 		"fromText:withStructures:" : "ls 6/26/2019 17:31",
-		"initialTextStructures" : "MB 7/22/2019 20:46",
-		"structureEditorClass" : "ls 7/24/2019 17:35" },
+		"initialTextStructures" : "MB 7/22/2019 20:46" },
 	"instance" : {
 		"addAttribute:from:to:" : "lh 7/25/2019 11:05",
 		"copy:" : "MB 7/3/2019 18:58",
@@ -18,7 +17,6 @@
 		"name:" : "MB 7/3/2019 19:29",
 		"openEditor" : "lh 7/24/2019 21:27",
 		"openInEditor" : "ls 7/24/2019 20:14",
-		"openStructureEditor" : "ls 7/24/2019 17:36",
 		"removeStructure:" : "ls 7/24/2019 17:28",
 		"removeTextAttribute:from:to:" : "MB 7/24/2019 20:40",
 		"sortRunsByPriority" : "lh 7/25/2019 11:05",
