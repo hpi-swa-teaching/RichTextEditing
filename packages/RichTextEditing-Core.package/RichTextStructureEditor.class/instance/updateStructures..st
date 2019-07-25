@@ -3,7 +3,7 @@ updateStructures: aStructureList
 
 	self document
 		textStructures: aStructureList;
-		sortRuns;
+		sortRunsByPriority;
 		structuresChanged;
 		textChanged.
 	self changed: #textStructures

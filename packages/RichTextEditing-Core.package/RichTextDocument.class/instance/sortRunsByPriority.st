@@ -1,5 +1,5 @@
 text structures
-sortRuns
+sortRunsByPriority
 
 	| noStructureCopy structureCopy | 
 	self text runs: (self textRuns copy collect: [:attributes | 

@@ -6,7 +6,7 @@
 		"initialTextStructures" : "MB 7/22/2019 20:46",
 		"structureEditorClass" : "ls 7/24/2019 17:35" },
 	"instance" : {
-		"addAttribute:from:to:" : "ls 7/24/2019 16:09",
+		"addAttribute:from:to:" : "lh 7/25/2019 11:05",
 		"copy:" : "MB 7/3/2019 18:58",
 		"createNewStructure:" : "ls 7/24/2019 15:24",
 		"hasStructure:forText:from:to:" : "lh 7/24/2019 20:52",
@@ -21,7 +21,7 @@
 		"openStructureEditor" : "ls 7/24/2019 17:36",
 		"removeStructure:" : "ls 7/24/2019 17:28",
 		"removeTextAttribute:from:to:" : "MB 7/24/2019 20:40",
-		"sortRuns" : "lh 7/24/2019 17:13",
+		"sortRunsByPriority" : "lh 7/25/2019 11:05",
 		"structuresChanged" : "ls 7/24/2019 14:46",
 		"stylesForStructure:" : "ls 6/26/2019 22:36",
 		"symbolToStructure:" : "ls 7/24/2019 14:24",
