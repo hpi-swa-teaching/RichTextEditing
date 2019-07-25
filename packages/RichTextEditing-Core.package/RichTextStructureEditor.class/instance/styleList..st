@@ -1,4 +1,4 @@
 accessing
-styleList: anObject
+styleList: anOrderedCollection
 
-	styleList := anObject
+	styleList := anOrderedCollection

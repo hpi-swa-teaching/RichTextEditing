@@ -1,0 +1,4 @@
+accessing
+lastStructureSymbol
+
+	^ lastStructureSymbol

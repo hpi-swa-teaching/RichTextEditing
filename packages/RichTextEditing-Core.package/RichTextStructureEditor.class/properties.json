@@ -4,14 +4,14 @@
 		"textStyles" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "AG 7/25/2019 10:51",
 	"instvars" : [
 		"document",
 		"structureList",
 		"styleList",
 		"loremIpsum",
-		"lastStructure",
-		"currentStructureSymbol" ],
+		"currentStructureSymbol",
+		"lastStructureSymbol" ],
 	"name" : "RichTextStructureEditor",
 	"pools" : [
 		 ],

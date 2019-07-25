@@ -1,4 +1,4 @@
 saving and loading
-addSave: aDocument underName: name
+addSave: aDocument underName: aString
 	
-	self documents at: name asSymbol put: aDocument
+	self documents at: aString asSymbol put: aDocument

@@ -1,7 +1,7 @@
 accessing
 currentStructureSymbol: aSymbol
 
-	self lastStructure: self currentStructureSymbol.
+	self lastStructureSymbol: self currentStructureSymbol.
 	currentStructureSymbol := aSymbol.
 	self changed: #allSelections;
 		updateLoremIpsum
