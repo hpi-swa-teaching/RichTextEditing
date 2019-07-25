@@ -1,4 +1,0 @@
-constants
-sKeyValue
-
-	^ $s asciiValue
