@@ -1,6 +1,7 @@
 tests
-testUS18selectionTypeIsAppliedToSelection
+testUS18SelectionStyleIsAppliedToSelection
 
+	self enterStringOntoTextField: 'test'.
 	self textEditor selectAll.
 	
 	self selectOptionBold.

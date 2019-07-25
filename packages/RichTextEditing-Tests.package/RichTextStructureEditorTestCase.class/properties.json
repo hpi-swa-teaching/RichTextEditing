@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "lh 7/25/2019 12:19",
+	"commentStamp" : "MB 7/25/2019 12:33",
 	"instvars" : [
 		"richTextEditorMorph",
 		"structureEditor" ],
-	"name" : "StructureEditorTestCase",
+	"name" : "RichTextStructureEditorTestCase",
 	"pools" : [
 		 ],
 	"super" : "RichTextEditorTestCase",

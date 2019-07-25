@@ -4,8 +4,6 @@
 	"instance" : {
 		"boldIsSelectedInList" : "MB 7/24/2019 18:54",
 		"buttonWithLabelExists:" : "AG 5/29/2019 22:21",
-		"ctrlButtonCode" : "MB 5/15/2019 21:04",
-		"ctrlShiftButtonCode" : "AG 5/29/2019 22:21",
 		"editorModel" : "MB 5/22/2019 17:52",
 		"editorModel:" : "MB 5/22/2019 17:52",
 		"editorText" : "AG 5/30/2019 11:19",
@@ -18,7 +16,6 @@
 		"openNewEditorModel" : "MB 7/24/2019 23:36",
 		"selectOptionBold" : "lh 7/24/2019 21:31",
 		"setUp" : "MB 6/12/2019 18:01",
-		"shiftButtonCode" : "MB 5/15/2019 21:06",
 		"simulateKeyboardEventWithButtons:andKeyValue:" : "lh 7/24/2019 18:30",
 		"tearDown" : "MB 7/24/2019 18:57",
 		"textEditor" : "MB 5/22/2019 17:55",

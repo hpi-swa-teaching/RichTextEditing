@@ -1,6 +1,7 @@
 tests
-testUS18TextMeaningIsSelectedInList
+testUS18TextStyleIsSelectedInList
 
+	self enterStringOntoTextField: 'test'.
 	self textEditor selectAll.
 
 	self selectOptionBold.

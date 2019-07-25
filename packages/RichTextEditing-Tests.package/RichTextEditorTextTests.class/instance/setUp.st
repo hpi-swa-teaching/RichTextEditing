@@ -3,5 +3,4 @@ setUp
 	
 	super setUp.
 	self
-		enterStringOntoTextField: self standardText;
-		moveCaretToBeginningOfText
+		enterStringOntoTextField: self standardText.
