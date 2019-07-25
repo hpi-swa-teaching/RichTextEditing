@@ -1,6 +1,6 @@
 tests
 testUS47WhenStructureIsRemovedTheTriangleShows
 
-	self assert: self triangleIsNotVisible.
+	self deny: self triangleIsVisible.
 	self removeStructure.
 	self assert: self triangleIsVisible

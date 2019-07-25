@@ -10,5 +10,3 @@ testUS58StructureWithHighestPriorityWins
 		assert: (self textHasColor: Color green);
 		removeAttributeAt: self firstIndex;
 		assert: (self textHasColor: Color blue)
-	 
-	

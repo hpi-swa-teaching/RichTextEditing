@@ -1,6 +1,6 @@
 tests
 testUS47WhenStructureIsAddedTheTriangleShows
 
-	self assert: self triangleIsNotVisible.
+	self deny: self triangleIsVisible.
 	self addStructure.
 	self assert: self triangleIsVisible
