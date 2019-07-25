@@ -1,0 +1,4 @@
+constants
+secondIndex
+
+	^ 2

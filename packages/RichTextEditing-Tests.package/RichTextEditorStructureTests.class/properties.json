@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "RichTextEditorTests",
+	"name" : "RichTextEditorStructureTests",
 	"pools" : [
 		 ],
 	"super" : "RichTextEditorTestCase",

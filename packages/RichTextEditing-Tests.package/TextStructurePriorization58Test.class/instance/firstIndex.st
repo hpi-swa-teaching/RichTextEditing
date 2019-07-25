@@ -1,4 +1,0 @@
-accessing
-firstIndex
-
-	^ 1

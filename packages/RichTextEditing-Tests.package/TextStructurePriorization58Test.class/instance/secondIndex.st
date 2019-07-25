@@ -1,4 +1,0 @@
-accessing
-secondIndex
-
-	^ 2

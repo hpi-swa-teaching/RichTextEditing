@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "RichTextEditorTests",
+	"name" : "RichTextStructureEditorStructureTests",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "StructureEditorTestCase",
 	"type" : "normal" }

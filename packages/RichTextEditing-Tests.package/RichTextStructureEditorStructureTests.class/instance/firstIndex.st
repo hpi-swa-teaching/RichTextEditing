@@ -1,0 +1,4 @@
+constants
+firstIndex
+
+	^ 1

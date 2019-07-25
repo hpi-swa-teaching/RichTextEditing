@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "ls 7/24/2019 16:54",
-		"structureEditor" : "AG 5/30/2019 11:12",
-		"structureEditor:" : "AG 5/30/2019 11:13",
-		"testUS32CheckAllStylesAreAvailable" : "MB 7/24/2019 18:46" } }

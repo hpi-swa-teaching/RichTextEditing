@@ -1,0 +1,4 @@
+constants
+noActiveButtonCode
+
+	^ 0

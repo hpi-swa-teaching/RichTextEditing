@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "RichTextEditorTests",
+		"scanner" ],
+	"name" : "RichTextFormattingTests",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "TestCase",
 	"type" : "normal" }

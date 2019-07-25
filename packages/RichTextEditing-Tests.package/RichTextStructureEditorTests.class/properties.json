@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "RichTextEditorTests",
+		"oldStructures" ],
+	"name" : "RichTextStructureEditorTests",
 	"pools" : [
 		 ],
-	"super" : "RichTextEditorTestCase",
+	"super" : "StructureEditorTestCase",
 	"type" : "normal" }
