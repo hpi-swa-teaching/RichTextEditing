@@ -19,6 +19,9 @@ The *Save as...* button lets the user choose a name for the document. The docume
 # Outlook
 In the future, it may also be possible to reflect over the text. Therefore, one would be able to easily export the text into different formats (e.g. Markdown, HTML, ...).
 
+# XP Practice
+We were using acceptance testing so we valued well-understandable tests. That's why we've used code duplication in some tests so that the customer can follow the  test steps in each test. For each acceptance criterium (you can find them in the userstories) we  wrote one or more tests. We named the tests as follows: "testUS" + number of the user story + what is the test testing
+
 # Supported Versions
 All Squeak versions >= 5.1 are supported.
 
