@@ -1,5 +1,6 @@
-I am a TextStructure. You can add me like every other TextAttribute (e.g. Text>>addAttribute:) to a Text.
-You can set my instance variables bold, italic, struckOut and underlined to true so the Text will be rendered to them. You can set my instance variable color to a color so the text will be colored, analogously you can set my font. Set extendable to true and continue writing, the text will keep the current structure. I am using a nullobject (NullTextStructure) so you do not have to check me for nil values.
+I am a TextStructure. You can add me to a text just like every other TextAttribute (e.g. Text>>addAttribute:).
+You can set my instance variables bold, italic, struckOut and underlined as true to have the text be rendered accordingly. You can set my instance variable color to color the text, analogously you can set my font. 
+If you set extendable to true and continue writing, the text will keep the current structure. I am using a null object (NullTextStructure) so you do not have to check for nil values.
 
 My instance variables are: 
 structureIdentifier - aSymbol
