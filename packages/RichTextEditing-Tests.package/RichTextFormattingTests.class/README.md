@@ -1,0 +1,2 @@
+I am the test class RichTextFormattingTests. I am responsible for making sure that all acceptance criteria which directly concern formatting functionalities are completely and thoroughly implemented. This mainly concerns the difference between pressing Enter / pressing Shift + Enter and the necessary spacing.
+This includes acceptance criteria from User Stories like #25.

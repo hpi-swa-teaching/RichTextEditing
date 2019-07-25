@@ -1,0 +1,2 @@
+I am the test class RichTextStructureEditorStructureTests. I am responsible for testing all functionalities regarding the RichTextStructureEditor and its interaction with the TextStructures. Therefore I am testing all the acceptance criteria that concern such functionalities.
+This includes accepance criteria from User Stories like #32, #43, #58.
