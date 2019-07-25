@@ -1,0 +1,1 @@
+I am the BaselineOfRichTextEditing - class. I specify what classes and packages are needed exactly in order to be able to completely and perfectly use a SquidWord-Editor (which is a RichTextEditor).
