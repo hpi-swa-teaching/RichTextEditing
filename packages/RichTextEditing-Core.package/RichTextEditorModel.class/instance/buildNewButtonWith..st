@@ -1,4 +1,4 @@
-toolbuilder
+edits-triangle
 buildNewButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new

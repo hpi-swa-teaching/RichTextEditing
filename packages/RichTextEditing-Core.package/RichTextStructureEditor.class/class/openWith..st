@@ -5,4 +5,5 @@ openWith: aRichTextDocument
 	instance := self basicNew document: aRichTextDocument.
 	instance initialize.
 	aRichTextDocument textStructuresDo: [:each | each addDependent: instance].
+	
 	^ ToolBuilder default open: instance

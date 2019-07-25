@@ -3,6 +3,7 @@ chosenDocument
 	
 	| names |
 	names := self saver saveNames.
+	
 	^ UIManager default
 		chooseFrom: names
 		values: names

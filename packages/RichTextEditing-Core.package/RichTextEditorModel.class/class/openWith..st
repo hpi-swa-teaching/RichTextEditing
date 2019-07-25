@@ -5,4 +5,5 @@ openWith: aRichTextDocument
 	instance := self new.
 	ToolBuilder default open: instance.
 	instance setDocument: aRichTextDocument.
+	
 	^ instance
