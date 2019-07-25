@@ -1,4 +1,4 @@
-helper
+utilities
 textHasNoStyle
 
 	^ (1 to: self editorText size) allSatisfy: [:index |

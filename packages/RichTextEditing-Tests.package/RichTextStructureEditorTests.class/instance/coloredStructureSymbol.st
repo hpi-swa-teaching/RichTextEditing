@@ -1,4 +1,4 @@
-helper
+utilities
 coloredStructureSymbol
 
 	^ self coloredStructureName asSymbol

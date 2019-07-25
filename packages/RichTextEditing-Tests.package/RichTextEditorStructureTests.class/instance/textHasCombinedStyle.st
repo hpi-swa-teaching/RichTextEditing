@@ -1,4 +1,4 @@
-helper
+utilities
 textHasCombinedStyle
 
 	^ (1 to: self editorText size) allSatisfy: [:index |

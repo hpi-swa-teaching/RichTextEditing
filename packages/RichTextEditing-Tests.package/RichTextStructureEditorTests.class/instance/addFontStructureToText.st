@@ -1,4 +1,4 @@
-helper
+utilities
 addFontStructureToText
 
 	self editorModel createNewStructure: self fontStructureSymbol.

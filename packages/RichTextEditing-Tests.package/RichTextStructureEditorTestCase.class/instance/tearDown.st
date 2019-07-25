@@ -1,4 +1,4 @@
-setup and teardown
+resources
 tearDown
 
 	self richTextEditorMorph abandon.

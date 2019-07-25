@@ -1,4 +1,4 @@
-helper
+utilities
 textHasNoColor
 
 	^ self textHasColor: nil
