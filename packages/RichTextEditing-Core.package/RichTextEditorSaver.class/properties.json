@@ -4,7 +4,7 @@
 		"current" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "lh 7/25/2019 11:43",
+	"commentStamp" : "ls 7/25/2019 13:50",
 	"instvars" : [
 		"documents" ],
 	"name" : "RichTextEditorSaver",
