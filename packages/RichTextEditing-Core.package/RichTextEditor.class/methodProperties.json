@@ -1,12 +1,13 @@
 {
 	"class" : {
 		"initialize" : "AG 7/25/2019 13:10",
-		"initializeCmdKeyShortcuts" : "AG 5/29/2019 18:38",
-		"initializeShiftCmdKeyShortcuts" : "AG 5/29/2019 18:39",
+		"initializeCmdKeyShortcuts" : "OS 5/6/2020 20:40",
+		"initializeShiftCmdKeyShortcuts" : "OS 5/6/2020 21:36",
 		"initializeShiftedYellowButtonMenu" : "AG 5/29/2019 18:39",
 		"initializeYellowButtonMenu" : "AG 5/29/2019 18:39" },
 	"instance" : {
 		"crWithIndent:" : "lh 7/24/2019 22:30",
+		"exampleShortcut:" : "OS 5/6/2020 20:36",
 		"getParagraphCharacter" : "LM 5/26/2019 22:52",
 		"isCtrlA:" : "lh 7/24/2019 16:59",
 		"isNewCharacter:" : "lh 7/25/2019 12:59",
