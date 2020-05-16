@@ -1,7 +1,9 @@
 instance creation
 initializeShiftCmdKeyShortcuts
 
+	| shiftedNumberKeys |
 	super initializeShiftCmdKeyShortcuts.
-	shiftCmdActions at: $! asciiValue + 1 put: #exampleShortcut: .
+	shiftedNumberKeys := '!@#$%^&*'.	"adjust this to your keyboard layout"
+	shiftedNumberKeys do: [:char | shiftCmdActions at: char asciiValue + 1 put: #toggleStructureSelectionAt: ]
 	
 	
