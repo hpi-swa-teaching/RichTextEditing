@@ -1,4 +1,4 @@
 accessing
 toggleAutocompletion
 
-	self autocompletion toggle
+	self autocompletion: self autocompletion not
