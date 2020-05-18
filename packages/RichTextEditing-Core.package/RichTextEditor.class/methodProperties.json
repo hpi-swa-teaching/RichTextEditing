@@ -2,9 +2,11 @@
 	"class" : {
 		"initialize" : "AG 7/25/2019 13:10",
 		"initializeCmdKeyShortcuts" : "OS 5/6/2020 20:40",
-		"initializeShiftCmdKeyShortcuts" : "OS 5/16/2020 22:56",
+		"initializeShiftCmdKeyShortcuts" : "tok 5/18/2020 10:19",
 		"initializeShiftedYellowButtonMenu" : "AG 5/29/2019 18:39",
-		"initializeYellowButtonMenu" : "AG 5/29/2019 18:39" },
+		"initializeYellowButtonMenu" : "AG 5/29/2019 18:39",
+		"structureKeymap" : "tok 5/18/2020 10:18",
+		"structureKeymapIndexOf:" : "tok 5/18/2020 10:25" },
 	"instance" : {
 		"crWithIndent:" : "lh 7/24/2019 22:30",
 		"getParagraphCharacter" : "LM 5/26/2019 22:52",
@@ -16,4 +18,4 @@
 		"spaceValue" : "AG 6/22/2019 11:51",
 		"storeSelectionInParagraph" : "lh 7/24/2019 21:51",
 		"textSize" : "lh 6/26/2019 22:16",
-		"toggleStructureSelectionAt:" : "OS 5/16/2020 22:56" } }
+		"toggleStructureSelectionAt:" : "tok 5/18/2020 10:25" } }

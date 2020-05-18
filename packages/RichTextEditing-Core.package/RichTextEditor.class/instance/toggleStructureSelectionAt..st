@@ -1,8 +1,7 @@
 as yet unclassified
 toggleStructureSelectionAt: aKeyboardEvent
 
-	
 	| keyCode |
-	keyCode := ('!@#$%^&*' indexOf: aKeyboardEvent keyCharacter).
+	keyCode := self class structureKeymapIndexOf: aKeyboardEvent keyCharacter.
 	self model toggleStructureSelectionAt: keyCode.
-	^true
+	^ true
