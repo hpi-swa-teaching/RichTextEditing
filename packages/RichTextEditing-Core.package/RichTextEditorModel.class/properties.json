@@ -1,7 +1,8 @@
 {
 	"category" : "RichTextEditing-Core",
 	"classinstvars" : [
-		"initialTextStructures" ],
+		"initialTextStructures",
+		"autocompletion" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "ls 7/25/2019 13:49",

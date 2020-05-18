@@ -1,10 +1,13 @@
 {
 	"class" : {
+		"autocompletion" : "kh 5/5/2020 22:35",
+		"autocompletion:" : "kh 5/5/2020 21:54",
 		"initialLabel" : "ls 6/21/2019 17:54",
 		"initialize" : "ls 6/21/2019 17:54",
 		"open" : "ls 7/24/2019 20:00",
 		"openWith:" : "AG 7/25/2019 13:12",
-		"saverClass" : "ls 5/8/2019 20:28" },
+		"saverClass" : "ls 5/8/2019 20:28",
+		"toggleAutocompletion" : "kh 5/18/2020 13:54" },
 	"instance" : {
 		"addAttribute:" : "ls 7/24/2019 20:26",
 		"addExtendableStructures" : "lh 7/24/2019 22:43",
@@ -87,4 +90,5 @@
 		"unacceptedEdits" : "ls 7/24/2019 21:06",
 		"unbufferStructures" : "ls 6/21/2019 16:57",
 		"undo" : "AG 5/29/2019 18:37",
-		"update:" : "ls 7/24/2019 14:56" } }
+		"update:" : "ls 7/24/2019 14:56",
+		"wantsAutocompletion" : "kh 5/5/2020 22:18" } }
