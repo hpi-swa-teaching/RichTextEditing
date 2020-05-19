@@ -1,0 +1,13 @@
+jobs:
+  build:
+    strategy:
+      matrix:
+        smalltalk: [ Squeak64-trunk, Pharo64-stable ]
+    name: ${{ matrix.smalltalk }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: hpi-swa/setup-smalltalkCI@v1
+        with:
+          smalltalk-version: ${{ matrix.smalltalk }}
+      - run: smalltalkci -s ${{ matrix.smalltalk }}
+        timeout-minutes: 15
