@@ -25,5 +25,9 @@
 		"testUS57SaveActionWritesIntoTargetDocument" : "MB 7/25/2019 11:41",
 		"testUS57SaveAsPutsTargetDocumentInSaver" : "ls 7/3/2019 19:25",
 		"testUS57openInEditorOpensDocumentInEditor" : "ls 7/3/2019 18:42",
+		"testUS63CharCountForText" : "frc 5/19/2020 22:45",
+		"testUS63CharCountInitiallyZero" : "frc 5/19/2020 22:47",
+		"testUS63CharCountWithSpacesForText" : "frc 5/19/2020 22:46",
+		"testUS63CharCountWithoutLetterA" : "frc 5/19/2020 22:47",
 		"testUS63WordCountForText" : "frc 5/19/2020 22:00",
 		"testUS63WordCountInitiallyZero" : "frc 5/19/2020 21:58" } }

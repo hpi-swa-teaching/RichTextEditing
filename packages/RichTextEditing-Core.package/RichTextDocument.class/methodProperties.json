@@ -6,6 +6,8 @@
 		"initialTextStructures" : "MB 7/22/2019 20:46" },
 	"instance" : {
 		"addAttribute:from:to:" : "AG 7/25/2019 13:08",
+		"charcount" : "frc 5/19/2020 22:44",
+		"charcountExcept:" : "frc 5/19/2020 22:42",
 		"copy:" : "MB 7/3/2019 18:58",
 		"createNewStructure:" : "ls 7/24/2019 15:24",
 		"hasStructure:forText:from:to:" : "AG 7/25/2019 13:20",
