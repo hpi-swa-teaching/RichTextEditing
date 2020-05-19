@@ -33,4 +33,3 @@ Metacello new
 	repository: 'github://hpi-swa-teaching/RichTextEditing:master/packages';
 	load.
 ```
-  
