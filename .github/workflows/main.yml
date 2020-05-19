@@ -12,8 +12,10 @@ on:
 jobs:
   # This workflow contains a single job called "build":
   build:
+    runs-on: ${{ matrix.os }}
     strategy:
       matrix:
+        os: [macos-latest, windows-latest, ubuntu-18.04]
         smalltalk: [ Squeak64-trunk, Pharo64-stable ]
     name: ${{ matrix.smalltalk }}
     steps:
