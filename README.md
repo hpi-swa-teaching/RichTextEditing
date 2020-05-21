@@ -1,5 +1,5 @@
 # RichTextEditing ![CI](https://github.com/hpi-swa-teaching/RichTextEditing/workflows/CI/badge.svg)[![Build Status](https://travis-ci.org/hpi-swa-teaching/RichTextEditing.svg?branch=dev)](https://travis-ci.org/hpi-swa-teaching/RichTextEditing)[![Coverage Status](https://coveralls.io/repos/github/hpi-swa-teaching/RichTextEditing/badge.svg?branch=master)](https://coveralls.io/github/hpi-swa-teaching/RichTextEditing?branch=master)
-## SWT 2019 - Group 11
+## SWT 2020 - Group 10, SWT 2019 - Group 11
 # SquidWord
 This is an implementation of a text editor in Squeak, which is capable of writing structured text. This means that text can be divided into logical units. Paragraphs are used to structure the text into sections on a broad level and so-called "text structures" are used to assign certain meanings to particular parts of the text.
 
@@ -16,11 +16,6 @@ When the text is saved via the *Save* button or by pressing *Ctrl + s*, the chan
 
 The *Save as...* button lets the user choose a name for the document. The document is then saved in the image (in it's current state, so make sure to save temporary changes to the document prior to that). It can be loaded in any other editor via the *Load* button.
 
-# XP Practice
-We used acceptance testing so we valued well-understandable tests. That's why we used code duplication in some tests so that the customer can follow the test steps in each test. For each acceptance criterium (you can find them in the userstories) we  wrote one or more tests. We named the tests as follows: "testUS" + number of the user story + what is the test testing
-
-# Outlook
-In the future, it may also be possible to reflect over the text. Therefore, one would be able to easily export the text into different formats (e.g. Markdown, HTML, ...).
 
 # Supported Versions
 All Squeak versions >= 5.1 are supported.
@@ -33,3 +28,10 @@ Metacello new
 	repository: 'github://hpi-swa-teaching/RichTextEditing:master/packages';
 	load.
 ```
+
+# SWT 2019
+## XP Practice
+We used acceptance testing so we valued well-understandable tests. That's why we used code duplication in some tests so that the customer can follow the test steps in each test. For each acceptance criterium (you can find them in the userstories) we  wrote one or more tests. We named the tests as follows: "testUS" + number of the user story + what is the test testing
+
+## Outlook
+In the future, it may also be possible to reflect over the text. Therefore, one would be able to easily export the text into different formats (e.g. Markdown, HTML, ...).
