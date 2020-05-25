@@ -16,7 +16,8 @@ buildWith: aBuilder
 			self buildStructureListWith: aBuilder.
 			self buildManageStructuresButtonWith: aBuilder.
 			self buildNewButtonWith: aBuilder.
-			self buildInspectDocumentButtonWith: aBuilder}.
+			self buildInspectDocumentButtonWith: aBuilder.
+			self buildHelpButtonWith: aBuilder}.
 	result := aBuilder build: windowSpec.
 	self textView: (aBuilder widgetAt: 'textView').
 	self editor model: self.

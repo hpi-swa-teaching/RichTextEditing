@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SquidWordHelp",
+	"pools" : [
+		 ],
+	"super" : "CustomHelp",
+	"type" : "normal" }
