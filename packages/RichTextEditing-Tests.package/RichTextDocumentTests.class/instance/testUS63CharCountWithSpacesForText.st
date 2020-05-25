@@ -2,6 +2,6 @@ tests
 testUS63CharCountWithSpacesForText
 
 	| testText |
-	testText := 'Hallo Welt' asText.
+	testText := 'Hello World' asText.
 	self enterStringOntoTextField: testText.
-	self assert:  (self document charcountExcept: #()) = 10.
+	self assert:  (self document charcountExcept: #()) = 11.

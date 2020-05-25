@@ -1,4 +1,4 @@
-accessing
+count
 charcount
 
-	^ self charcountExcept: #(182 32 10 13)
+	^ self charcountExcept: self emptyChars

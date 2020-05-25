@@ -2,6 +2,6 @@ tests
 testUS63CharCountForText
 
 	| testText |
-	testText := 'Hallo Welt' asText.
+	testText := 'Hello World' asText.
 	self enterStringOntoTextField: testText.
-	self assert:  self document charcount = 9.
+	self assert:  self document charcount = 10.

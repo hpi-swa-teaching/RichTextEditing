@@ -1,4 +1,4 @@
-accessing
+count
 charcountExcept: aListOfBytecodes
 	
 	| byteString count i|
