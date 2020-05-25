@@ -7,6 +7,7 @@
 	"commentStamp" : "ls 7/25/2019 13:49",
 	"instvars" : [
 		"textView",
+		"footer",
 		"label",
 		"selectedStructures",
 		"bufferedStructures",

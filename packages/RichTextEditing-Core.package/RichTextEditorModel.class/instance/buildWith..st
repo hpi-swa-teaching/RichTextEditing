@@ -17,9 +17,11 @@ buildWith: aBuilder
 			self buildManageStructuresButtonWith: aBuilder.
 			self buildNewButtonWith: aBuilder.
 			self buildInspectDocumentButtonWith: aBuilder.
-			self buildInfoButtonWith: aBuilder.}.
+			self buildInfoButtonWith: aBuilder.
+			self buildFooterWith: aBuilder}.
 	result := aBuilder build: windowSpec.
 	self textView: (aBuilder widgetAt: 'textView').
+	self footer: (aBuilder widgetAt: 'footer').
 	self editor model: self.
 	
 	^ result
