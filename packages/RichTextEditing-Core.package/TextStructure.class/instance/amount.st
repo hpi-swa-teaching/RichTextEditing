@@ -1,0 +1,4 @@
+accessing
+amount
+
+	^ 2

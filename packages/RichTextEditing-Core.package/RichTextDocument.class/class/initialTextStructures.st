@@ -7,4 +7,5 @@ initialTextStructures
 	TextStructure newWith: #footnote withEmphasis: self defaultStyles.
 	TextStructure newWith: #heading1 withEmphasis: self defaultStyles.
 	TextStructure newWith: #heading2 withEmphasis: self defaultStyles.
-	TextStructure newWith: #heading3 withEmphasis: self defaultStyles} asOrderedCollection
+	TextStructure newWith: #heading3 withEmphasis: self defaultStyles.
+	TextStructure newWith: #list withEmphasis: (self defaultStyles union: {#indented})} asOrderedCollection

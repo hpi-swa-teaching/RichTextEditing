@@ -7,6 +7,7 @@ initialize
 		unsetItalic; 
 		unsetUnderlined; 
 		unsetStruckOut; 
-		unsetExtendable; 
+		unsetExtendable;
+		unsetIndented; 
 		color: nil;
 		font: nil
