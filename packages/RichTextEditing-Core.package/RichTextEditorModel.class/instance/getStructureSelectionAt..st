@@ -1,8 +1,7 @@
 text structure
 getStructureSelectionAt: anIndex
-
-	(self isTextEmpty and: [self bufferedStructures isEmpty])
-		ifTrue: [^ false].
+		
+	self isIntervalNotEmpty ifTrue:[^self selectedStructures includes: (self textStructureSymbols at: anIndex)].
 	
-	^ (self selectedStructures union: self bufferedStructures)
+	^ self currentStructures
 		includes: (self textStructureSymbols at: anIndex)

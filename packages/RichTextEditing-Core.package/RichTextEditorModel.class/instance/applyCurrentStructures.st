@@ -1,9 +1,7 @@
 text structure
-applyBufferedStructures
+applyCurrentStructures
 
 	self 
 		selectInvisibly;
 		addExtendableStructures.
-	self editor 
-		unselect; 
-		setEmphasisHere
+	self editor unselect
