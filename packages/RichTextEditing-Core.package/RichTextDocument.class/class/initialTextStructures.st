@@ -8,4 +8,4 @@ initialTextStructures
 	self initialHeading1Structure.
 	self initialHeading2Structure.
 	self initialHeading3Structure.
-	TextStructure newWith: #list withEmphasis: (self defaultStyles union: {#indented})} asOrderedCollection
+	self initialListStructure} asOrderedCollection
