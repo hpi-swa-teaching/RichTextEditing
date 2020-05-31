@@ -10,7 +10,7 @@
 		"removeStructure:andAddCostumStructure:" : "ls 7/24/2019 17:30",
 		"saveName" : "MB 6/12/2019 18:08",
 		"saveTextInImageAndOpenNewEditor" : "ls 7/3/2019 21:42",
-		"setUp" : "ls 7/3/2019 18:14",
+		"setUp" : "JEH 5/31/2020 14:55",
 		"structureSymbol" : "ls 7/3/2019 21:38",
 		"structureSymbolIsListed" : "ls 7/3/2019 21:42",
 		"targetDocument" : "ls 7/3/2019 18:43",
@@ -23,5 +23,5 @@
 		"testUS57ButtonToInspectDocumentExists" : "ls 7/3/2019 17:59",
 		"testUS57SaveActionPreservesTargetDocumentIdentity" : "MB 7/25/2019 11:41",
 		"testUS57SaveActionWritesIntoTargetDocument" : "MB 7/25/2019 11:41",
-		"testUS57SaveAsPutsTargetDocumentInSaver" : "ls 7/3/2019 19:25",
-		"testUS57openInEditorOpensDocumentInEditor" : "ls 7/3/2019 18:42" } }
+		"testUS57SaveAsPutsTargetDocumentInSaver" : "JEH 5/31/2020 14:57",
+		"testUS57openInEditorOpensDocumentInEditor" : "JEH 5/31/2020 15:02" } }
