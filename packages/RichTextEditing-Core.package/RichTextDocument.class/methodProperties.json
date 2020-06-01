@@ -7,10 +7,10 @@
 	"instance" : {
 		"addAttribute:from:to:" : "AG 7/25/2019 13:08",
 		"charcount" : "frc 5/25/2020 16:02",
-		"charcountExcept:" : "frc 5/19/2020 22:42",
+		"charcountExcept:" : "frc 6/1/2020 10:14",
 		"copy:" : "MB 7/3/2019 18:58",
 		"createNewStructure:" : "ls 7/24/2019 15:24",
-		"emptyChars" : "frc 5/25/2020 16:01",
+		"emptyChars" : "frc 6/1/2020 13:43",
 		"hasStructure:forText:from:to:" : "AG 7/25/2019 13:20",
 		"initialize" : "ls 7/24/2019 15:10",
 		"initializeStructure:" : "ls 7/24/2019 15:13",
@@ -35,4 +35,4 @@
 		"textStructures:" : "MB 7/3/2019 19:29",
 		"textStructuresDo:" : "ls 7/24/2019 21:29",
 		"updateStyle:withEmphasis:" : "ls 6/26/2019 22:44",
-		"wordcount" : "frc 5/25/2020 16:01" } }
+		"wordcount" : "frc 6/1/2020 13:46" } }
