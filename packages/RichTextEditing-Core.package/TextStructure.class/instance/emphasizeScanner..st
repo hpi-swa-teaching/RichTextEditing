@@ -5,4 +5,6 @@ emphasizeScanner: aScanner
 	self color ifNotNil: [
 		aScanner textColor: self color].
 	self font ifNotNil: [
-		aScanner setActualFont: self font]
+		aScanner setActualFont: self font].
+	self isTextIndent ifTrue: [
+		aScanner indentationLevel: self amount]

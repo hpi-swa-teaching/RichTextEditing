@@ -14,7 +14,8 @@
 		"extendable",
 		"color",
 		"font",
-		"styleSet" ],
+		"styleSet",
+		"indented" ],
 	"name" : "TextStructure",
 	"pools" : [
 		 ],

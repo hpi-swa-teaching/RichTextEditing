@@ -7,4 +7,5 @@ initialTextStructures
 	self initialFootnoteStructure.
 	self initialHeading1Structure.
 	self initialHeading2Structure.
-	self initialHeading3Structure.} asOrderedCollection
+	self initialHeading3Structure.
+	self initialListStructure} asOrderedCollection
