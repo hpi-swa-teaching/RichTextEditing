@@ -7,7 +7,8 @@
 		"open" : "ls 7/24/2019 20:00",
 		"openWith:" : "AG 7/25/2019 13:12",
 		"saverClass" : "ls 5/8/2019 20:28",
-		"toggleAutocompletion" : "kh 5/18/2020 13:54" },
+		"toggleAutocompletion" : "kh 5/18/2020 13:54",
+		"yellowButtonMenuItems" : "tok 5/31/2020 20:54" },
 	"instance" : {
 		"addAttribute:" : "ls 7/24/2019 20:26",
 		"addExtendableStructures" : "lh 7/24/2019 22:43",
@@ -24,7 +25,7 @@
 		"buildSaveAsButtonWith:" : "ls 6/26/2019 19:02",
 		"buildSaveButtonWith:" : "ls 6/26/2019 18:54",
 		"buildStructureListWith:" : "ls 6/26/2019 22:27",
-		"buildTextFieldWith:" : "lh 6/12/2019 17:46",
+		"buildTextFieldWith:" : "tok 5/31/2020 20:20",
 		"buildUndoButtonWith:" : "MB 5/22/2019 21:03",
 		"buildWith:" : "ls 6/26/2019 18:53",
 		"chosenDocument" : "AG 7/25/2019 13:13",
