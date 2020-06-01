@@ -17,6 +17,7 @@ buildWith: aBuilder
 			self buildManageStructuresButtonWith: aBuilder.
 			self buildNewButtonWith: aBuilder.
 			self buildInspectDocumentButtonWith: aBuilder.
+			self buildHelpButtonWith: aBuilder.
 			self buildInfoButtonWith: aBuilder.
 			self buildFooterWith: aBuilder}.
 	result := aBuilder build: windowSpec.
