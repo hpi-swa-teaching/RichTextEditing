@@ -7,4 +7,4 @@ emphasizeScanner: aScanner
 	self font ifNotNil: [
 		aScanner setActualFont: self font].
 	self isTextIndent ifTrue: [
-		aScanner indentationLevel: self amount]
+		aScanner indentationLevel: self indentationAmount]

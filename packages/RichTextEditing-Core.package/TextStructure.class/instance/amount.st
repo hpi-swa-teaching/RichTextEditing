@@ -1,4 +1,0 @@
-accessing
-amount
-
-	^ 2
