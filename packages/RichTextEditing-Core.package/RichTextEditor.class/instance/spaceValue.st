@@ -1,4 +1,4 @@
 constants
 spaceValue
 
-	^ 52
+	^ 32

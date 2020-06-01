@@ -12,8 +12,10 @@
 		"label",
 		"selectedStructures",
 		"bufferedStructures",
+		"debufferedStructures",
 		"targetDocument",
-		"bufferDocument" ],
+		"bufferDocument",
+		"precedingStructures" ],
 	"name" : "RichTextEditorModel",
 	"pools" : [
 		 ],
