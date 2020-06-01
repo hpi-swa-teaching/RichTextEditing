@@ -1,4 +1,4 @@
-as yet unclassified
+pages
 editing
 	"This method was automatically generated. Edit it using:"
 	"SquidWordHelp edit: #editing"

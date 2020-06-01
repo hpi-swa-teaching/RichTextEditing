@@ -1,4 +1,4 @@
-as yet unclassified
+pages
 structureEditor
 	"This method was automatically generated. Edit it using:"
 	"SquidWordHelp edit: #structureEditor"

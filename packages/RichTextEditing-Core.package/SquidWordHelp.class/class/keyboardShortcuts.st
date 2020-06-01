@@ -1,4 +1,4 @@
-as yet unclassified
+pages
 keyboardShortcuts
 	"This method was automatically generated. Edit it using:"
 	"SquidWordHelp edit: #keyboardShortcuts"

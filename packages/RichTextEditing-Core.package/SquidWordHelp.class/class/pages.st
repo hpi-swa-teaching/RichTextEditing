@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 pages
 
 	^ #(welcome editing structureEditor keyboardShortcuts)
