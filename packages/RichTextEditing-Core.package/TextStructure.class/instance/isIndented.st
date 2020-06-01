@@ -1,0 +1,4 @@
+testing
+isIndented
+
+	^ indented

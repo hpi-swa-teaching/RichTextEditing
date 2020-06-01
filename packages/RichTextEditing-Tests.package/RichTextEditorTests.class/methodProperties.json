@@ -10,6 +10,7 @@
 		"document" : "ls 7/24/2019 17:23",
 		"editorSavesIncludeKey:" : "MB 5/22/2019 18:01",
 		"enterSaveNameInDialog:" : "MB 7/24/2019 22:49",
+		"helpButtonLabel" : "kh 5/25/2020 22:42",
 		"instance:equals:" : "lh 7/24/2019 18:46",
 		"loadDocumentFromSaver" : "ls 7/3/2019 21:46",
 		"newButtonLabel" : "MB 6/12/2019 19:18",
@@ -46,4 +47,6 @@
 		"testUS46NewEditorIsOpened" : "lh 7/24/2019 17:29",
 		"testUS47WhenStructureIsAddedTheTriangleShows" : "ls 7/25/2019 13:20",
 		"testUS47WhenStructureIsRemovedTheTriangleShows" : "ls 7/25/2019 13:20",
+		"testUS67HelpBrowserIsOpended" : "kh 5/25/2020 22:44",
+		"testUS67HelpButtonExists" : "kh 5/25/2020 22:35",
 		"text" : "MB 7/25/2019 11:02" } }

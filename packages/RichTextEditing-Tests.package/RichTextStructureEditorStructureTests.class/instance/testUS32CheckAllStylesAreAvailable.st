@@ -3,7 +3,7 @@ testUS32CheckAllStylesAreAvailable
 		
 	| styleList essentialStyles |
 	styleList := self structureEditorView findByClass: PluggableListMorphOfMany.
-	essentialStyles := {#bold . #italic . #underlined . #struckOut . #extendable}.
+	essentialStyles := {#bold . #italic . #underlined . #struckOut . #extendable} asSet.
 
-	self assert: essentialStyles asSet equals: styleList list asSet
+	self assert:  (essentialStyles allSatisfy: [:each | styleList list asSet includes: each])
 	

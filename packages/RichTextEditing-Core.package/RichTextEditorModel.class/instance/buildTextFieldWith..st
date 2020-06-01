@@ -4,9 +4,10 @@ buildTextFieldWith: aBuilder
 	^ aBuilder pluggableTextSpec new
 		name: 'textView';
 		model: self;
-		frame: (0.3 @ 0.1 corner: 1 @ 1);
+		frame: (0.3 @ 0.1 corner: 1 @ 0.9);
 		readOnly: false;
 		getText: #text;
 		setText: #saveText:;
 		editText: #text:;
+		menu: #codePaneMenu:shifted:;
 		yourself
