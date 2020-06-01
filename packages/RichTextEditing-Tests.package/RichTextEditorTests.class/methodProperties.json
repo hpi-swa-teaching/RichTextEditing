@@ -47,6 +47,7 @@
 		"testUS46NewEditorIsOpened" : "lh 7/24/2019 17:29",
 		"testUS47WhenStructureIsAddedTheTriangleShows" : "ls 7/25/2019 13:20",
 		"testUS47WhenStructureIsRemovedTheTriangleShows" : "ls 7/25/2019 13:20",
+		"testUS63InfoButtonExists" : " 6/1/2020 14:03:20",
 		"testUS67HelpBrowserIsOpended" : "kh 5/25/2020 22:44",
 		"testUS67HelpButtonExists" : "kh 5/25/2020 22:35",
 		"text" : "MB 7/25/2019 11:02" } }
