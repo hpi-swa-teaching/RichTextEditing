@@ -9,4 +9,5 @@ buildTextFieldWith: aBuilder
 		getText: #text;
 		setText: #saveText:;
 		editText: #text:;
+		menu: #codePaneMenu:shifted:;
 		yourself

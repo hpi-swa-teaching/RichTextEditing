@@ -21,5 +21,9 @@ updateStyles: aSet
 		ifTrue: [self setExtendable]
 		ifFalse: [self unsetExtendable].
 		
+	(aSet includes: #indented)
+		ifTrue: [self setIIndented]
+		ifFalse: [self unsetIndented].
+		
 	self styleSet: aSet
 	

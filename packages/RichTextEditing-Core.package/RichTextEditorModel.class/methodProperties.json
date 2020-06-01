@@ -1,10 +1,14 @@
 {
 	"class" : {
+		"autocompletion" : "kh 5/5/2020 22:35",
+		"autocompletion:" : "kh 5/5/2020 21:54",
 		"initialLabel" : "ls 6/21/2019 17:54",
 		"initialize" : "ls 6/21/2019 17:54",
 		"open" : "ls 7/24/2019 20:00",
 		"openWith:" : "AG 7/25/2019 13:12",
-		"saverClass" : "ls 5/8/2019 20:28" },
+		"saverClass" : "ls 5/8/2019 20:28",
+		"toggleAutocompletion" : "kh 5/18/2020 13:54",
+		"yellowButtonMenuItems" : "tok 5/31/2020 20:54" },
 	"instance" : {
 		"addAttribute:" : "ls 7/24/2019 20:26",
 		"addExtendableStructures" : "lh 7/24/2019 22:43",
@@ -23,7 +27,7 @@
 		"buildSaveAsButtonWith:" : "ls 6/26/2019 19:02",
 		"buildSaveButtonWith:" : "ls 6/26/2019 18:54",
 		"buildStructureListWith:" : "ls 6/26/2019 22:27",
-		"buildTextFieldWith:" : "frc 5/25/2020 15:42",
+		"buildTextFieldWith:" : "tok 5/31/2020 20:20",
 		"buildUndoButtonWith:" : "MB 5/22/2019 21:03",
 		"buildWith:" : "frc 5/25/2020 15:40",
 		"chosenDocument" : "AG 7/25/2019 13:13",
@@ -94,4 +98,5 @@
 		"unbufferStructures" : "ls 6/21/2019 16:57",
 		"undo" : "AG 5/29/2019 18:37",
 		"update:" : "ls 7/24/2019 14:56",
-		"updateFooter" : "frc 5/25/2020 15:40" } }
+		"updateFooter" : "frc 5/25/2020 15:40",
+		"wantsAutocompletion" : "kh 5/5/2020 22:18" } }
