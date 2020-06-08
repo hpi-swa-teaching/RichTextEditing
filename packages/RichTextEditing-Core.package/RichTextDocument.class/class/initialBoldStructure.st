@@ -1,4 +1,6 @@
 constants
 initialBoldStructure
 
-	^ TextStructure newWith: #bold withEmphasis: (self defaultStyles union: {#bold})
+	^ TextStructure 
+			newWith: #bold
+			withStyles: (self defaultStyles union: {TextStructure boldStyle})

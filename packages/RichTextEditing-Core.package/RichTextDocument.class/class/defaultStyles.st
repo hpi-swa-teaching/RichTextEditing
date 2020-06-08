@@ -1,4 +1,4 @@
 constants
 defaultStyles
 
-	^ {#extendable} asSet
+	^ {TextStructure extendableStyle} asSet

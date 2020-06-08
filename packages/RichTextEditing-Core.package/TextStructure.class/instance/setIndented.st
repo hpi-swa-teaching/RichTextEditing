@@ -1,4 +1,4 @@
 accessing
-setIIndented
+setIndented
 
 	indented := true

@@ -1,4 +1,6 @@
 constants
 initialListStructure
 
-	^ TextStructure newWith: #list withEmphasis: (self defaultStyles union: {#indented})
+	^ TextStructure
+			newWith: #list
+			withStyles: (self defaultStyles union: {TextStructure indentedStyle})
