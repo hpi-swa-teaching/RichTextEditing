@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createTestFileWithContent:at:" : "frc 6/8/2020 14:19",
+		"exampleFilePath" : "frc 6/8/2020 14:31",
+		"fileContent" : "frc 6/8/2020 14:11",
+		"setupFile" : "frc 6/8/2020 14:31",
+		"tearDownFile" : "frc 6/8/2020 14:32",
+		"testUS84loadFileFromFilesystem" : "frc 6/8/2020 14:35" } }

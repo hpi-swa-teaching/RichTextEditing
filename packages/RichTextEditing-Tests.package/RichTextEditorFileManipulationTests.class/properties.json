@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RichTextEditorFileManipulationTests",
+	"pools" : [
+		 ],
+	"super" : "RichTextEditorTestCase",
+	"type" : "normal" }
