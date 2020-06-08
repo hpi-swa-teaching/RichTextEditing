@@ -1,4 +1,4 @@
 utilities
 tearDownFile
 
-	FileDirectory deleteFilePath: self exampleFilePath
+	FileDirectory deleteFilePath: self file fullName

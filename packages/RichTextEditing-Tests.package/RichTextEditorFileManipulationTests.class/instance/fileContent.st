@@ -2,4 +2,4 @@ utilities
 fileContent
 	
 	^ 'This is the content of the file
-	This is another line! ÄÖU'
+	This is another line! ÄÖÜ'
