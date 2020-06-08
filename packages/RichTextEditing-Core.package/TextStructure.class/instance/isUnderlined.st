@@ -1,4 +1,4 @@
 testing
 isUnderlined
 
-	^ underlined
+	^ self stylesActivated at: self class underlinedStyle

@@ -1,4 +1,0 @@
-accessing
-unsetItalic
-
-	italic := false

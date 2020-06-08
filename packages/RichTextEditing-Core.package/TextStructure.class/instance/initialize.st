@@ -3,11 +3,6 @@ initialize
 
 	super initialize.
 	self 
-		unsetBold; 
-		unsetItalic; 
-		unsetUnderlined; 
-		unsetStruckOut; 
-		unsetExtendable;
-		unsetIndented; 
+		initializeStyles;
 		color: nil;
 		font: nil

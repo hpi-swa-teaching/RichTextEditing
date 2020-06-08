@@ -1,4 +1,4 @@
 testing
 isStruckOut
 
-	^ struckOut
+	^ self stylesActivated at: self class struckOutStyle

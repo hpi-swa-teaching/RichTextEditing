@@ -1,4 +1,4 @@
 testing
 isTextIndent
 
-	^ indented
+	^ self isIndented
