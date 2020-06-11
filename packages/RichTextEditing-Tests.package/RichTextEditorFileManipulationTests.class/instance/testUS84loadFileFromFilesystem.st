@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS84loadFileFromFilesystem
 	self setupFile.
 	self editorModel loadFileFrom: self exampleFilePath.
