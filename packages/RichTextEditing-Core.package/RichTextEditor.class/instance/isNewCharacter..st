@@ -7,6 +7,6 @@ isNewCharacter: aKeyboardEvent
 	
 	^ aKeyboardEvent controlKeyPressed not and: (aKeyboardEvent commandKeyPressed not) and:
 		[character isAlphaNumeric or: [
-		character isSpecial] or: [
+		self isSpecialCharacter: character] or: [
 		value = self spaceValue] or: [
 		value = self returnValue]]
