@@ -19,10 +19,5 @@
 		"testUS44SelectedStylesChangeAccordingToSelectedText" : "lh 7/24/2019 21:38",
 		"testUS44StructureListExists" : "AG 6/18/2019 15:22",
 		"testUS64IndentedStructureIsRendered" : "tok 6/1/2020 13:35",
-		"test_NullTextStructure_structureIdentifierIsNull" : "tok 6/12/2020 12:45",
-		"test_getFontReturnsFont" : "tok 6/12/2020 11:54",
-		"test_originalColorReturnsColorIfNotNil" : "tok 6/12/2020 12:00",
-		"test_originalColorReturnsDefaultClassColorIfNil" : "tok 6/12/2020 11:59",
-		"test_styleSetReturnsActiveStyles" : "tok 6/12/2020 12:12",
 		"textHasCombinedStyle" : "AG 7/25/2019 13:22",
 		"textHasNoStyle" : "AG 7/25/2019 13:22" } }

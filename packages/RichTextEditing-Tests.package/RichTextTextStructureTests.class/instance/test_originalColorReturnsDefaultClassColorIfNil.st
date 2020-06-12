@@ -1,4 +1,4 @@
-tests
+as yet unclassified
 test_originalColorReturnsDefaultClassColorIfNil
 
 	| textStructure |
@@ -6,4 +6,3 @@ test_originalColorReturnsDefaultClassColorIfNil
 	textStructure setColor: nil.
 	
 	self assert: textStructure originalColor equals: TextStructure defaultColor
-	

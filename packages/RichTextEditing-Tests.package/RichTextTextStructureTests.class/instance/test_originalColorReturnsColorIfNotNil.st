@@ -1,4 +1,4 @@
-tests
+as yet unclassified
 test_originalColorReturnsColorIfNotNil
 
 	| textStructure color |
@@ -7,4 +7,3 @@ test_originalColorReturnsColorIfNotNil
 	textStructure setColor: color.
 	
 	self assert: textStructure originalColor equals: color
-	

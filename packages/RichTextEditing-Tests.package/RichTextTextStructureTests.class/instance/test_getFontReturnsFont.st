@@ -1,4 +1,4 @@
-tests
+as yet unclassified
 test_getFontReturnsFont
 
 	| textStructure font |
@@ -6,4 +6,3 @@ test_getFontReturnsFont
 	font := (StrikeFont createDejaVuDark: 9).
 	textStructure font: font.
 	self assert: textStructure getFont equals: font
-	

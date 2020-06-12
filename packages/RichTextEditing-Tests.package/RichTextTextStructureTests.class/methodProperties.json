@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"listTextStructure" : "tok 6/12/2020 13:13",
+		"listTextStructureStyles" : "tok 6/12/2020 13:13",
+		"nullTextStructure" : "tok 6/12/2020 13:12",
+		"test_NullTextStructure_structureIdentifierIsNull" : "tok 6/12/2020 13:13",
+		"test_getFontReturnsFont" : "tok 6/12/2020 13:10",
+		"test_originalColorReturnsColorIfNotNil" : "tok 6/12/2020 13:10",
+		"test_originalColorReturnsDefaultClassColorIfNil" : "tok 6/12/2020 13:10",
+		"test_styleSetReturnsActiveStyles" : "tok 6/12/2020 13:11" } }
