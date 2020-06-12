@@ -6,4 +6,4 @@ headingIsAddedToWrittenText
 		hasStructure: #heading1 
 		forText: self editorText 
 		from: self caretPosition
-		to: self otherText size
+		to: self otherText size - 1
