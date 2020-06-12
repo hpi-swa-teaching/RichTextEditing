@@ -1,7 +1,10 @@
 unit-tests
 testDocumentCanOpenEditor
 	
-	| editor |
+	| editor possibleMorphs |
 	editor := self document openEditor.
-	self assert: (Project current world submorphs anySatisfy: [:morph | (morph class = PluggableSystemWindow) and: (morph label = self editorModel label)]).
+	possibleMorphs := Project current world submorphs.
+	possibleMorphs := possibleMorphs select: [: morph|  morph class = PluggableSystemWindow].
+	possibleMorphs := possibleMorphs select: [: morph|  morph label = self editorModel label].
+	self assert: (possibleMorphs notEmpty).
 	editor abandon

@@ -1,5 +1,10 @@
 unit-tests
 testInspectDocument
 	
+	| possibleMorphs |
 	self editorModel inspectDocument.
-	self assert: (Project current world submorphs anySatisfy: [: morph|  (morph class = PluggableSystemWindow) 				and: ((morph label = self document class name) and: (morph model object = self editorModel targetDocument))]).
+	possibleMorphs := Project current world submorphs.
+	possibleMorphs := possibleMorphs select: [: morph|  morph class = PluggableSystemWindow].
+	possibleMorphs := possibleMorphs select: [: morph| morph label = self document class name].
+	possibleMorphs := possibleMorphs select: [: morph|  morph model object = self editorModel targetDocument].
+	self assert: (possibleMorphs notEmpty).
