@@ -1,4 +1,4 @@
 utilities
 ctrlShiftButtonCode
 	"ctrlCode bitOr: shirtCode"
-	^ 64 bitOr: 8
+	^ 16 bitOr: 8
