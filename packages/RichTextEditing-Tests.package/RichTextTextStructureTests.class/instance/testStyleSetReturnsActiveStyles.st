@@ -1,5 +1,5 @@
-as yet unclassified
-test_styleSetReturnsActiveStyles
+unit-tests
+testStyleSetReturnsActiveStyles
 
 	| textStructure |
 	textStructure := self listTextStructure.

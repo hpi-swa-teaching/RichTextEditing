@@ -1,5 +1,5 @@
-as yet unclassified
-test_NullTextStructure_structureIdentifierIsNull
+unit-tests
+testNullTextStructurestructureIdentifierIsNull
 
 	| textStructure |
 	textStructure := self nullTextStructure.

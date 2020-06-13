@@ -1,5 +1,5 @@
-as yet unclassified
-test_originalColorReturnsColorIfNotNil
+unit-tests
+testOriginalColorReturnsColorIfNotNil
 
 	| textStructure color |
 	textStructure := self listTextStructure.

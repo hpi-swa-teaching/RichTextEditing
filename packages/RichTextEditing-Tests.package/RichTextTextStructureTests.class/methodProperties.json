@@ -5,8 +5,8 @@
 		"listTextStructure" : "tok 6/12/2020 13:13",
 		"listTextStructureStyles" : "tok 6/12/2020 13:13",
 		"nullTextStructure" : "tok 6/12/2020 13:12",
-		"test_NullTextStructure_structureIdentifierIsNull" : "tok 6/12/2020 13:13",
-		"test_getFontReturnsFont" : "tok 6/12/2020 13:10",
-		"test_originalColorReturnsColorIfNotNil" : "tok 6/12/2020 13:10",
-		"test_originalColorReturnsDefaultClassColorIfNil" : "tok 6/12/2020 13:10",
-		"test_styleSetReturnsActiveStyles" : "tok 6/12/2020 13:11" } }
+		"testGetFontReturnsFont" : "tok 6/13/2020 11:02",
+		"testNullTextStructurestructureIdentifierIsNull" : "tok 6/13/2020 11:01",
+		"testOriginalColorReturnsColorIfNotNil" : "tok 6/13/2020 11:02",
+		"testOriginalColorReturnsDefaultClassColorIfNil" : "tok 6/13/2020 11:02",
+		"testStyleSetReturnsActiveStyles" : "tok 6/13/2020 11:02" } }

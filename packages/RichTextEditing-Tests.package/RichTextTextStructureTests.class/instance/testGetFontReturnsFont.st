@@ -1,5 +1,5 @@
-as yet unclassified
-test_getFontReturnsFont
+unit-tests
+testGetFontReturnsFont
 
 	| textStructure font |
 	textStructure := self listTextStructure.
