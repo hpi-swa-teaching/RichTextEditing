@@ -1,4 +1,4 @@
 constants
 specialCharacters
 
-	^'.$#^()_{}[]"`:;'
+	^ '.$#^()_{}[]"`~:;''@%'
