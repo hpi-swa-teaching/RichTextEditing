@@ -1,4 +1,0 @@
-accessing
-unsetExtendable
-
-	extendable := false

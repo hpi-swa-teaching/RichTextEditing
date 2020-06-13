@@ -1,0 +1,4 @@
+utilities
+nullTextStructure
+
+	^ NullTextStructure new

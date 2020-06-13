@@ -1,4 +1,0 @@
-accessing
-setIIndented
-
-	indented := true

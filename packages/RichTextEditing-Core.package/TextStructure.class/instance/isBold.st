@@ -1,4 +1,4 @@
 testing
 isBold
 
-	^ bold
+	^ self stylesActivated at: self class boldStyle

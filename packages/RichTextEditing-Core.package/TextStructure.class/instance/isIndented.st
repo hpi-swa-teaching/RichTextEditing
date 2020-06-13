@@ -1,4 +1,4 @@
 testing
 isIndented
 
-	^ indented
+	^ self stylesActivated at: self class indentedStyle

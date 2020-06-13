@@ -1,4 +1,4 @@
 initialize-release
 newNullTextStructure
 
-	^ NullTextStructure newWith: #null withEmphasis: Set new
+	^ NullTextStructure newWith: #null withStyles: Set new

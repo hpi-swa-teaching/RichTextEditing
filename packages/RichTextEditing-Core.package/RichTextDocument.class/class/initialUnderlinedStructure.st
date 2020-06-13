@@ -3,4 +3,4 @@ initialUnderlinedStructure
 
 	^ TextStructure 
 			newWith: #underlined 
-			withEmphasis: (self defaultStyles union: {#underlined})
+			withStyles: (self defaultStyles union: {TextStructure underlinedStyle})

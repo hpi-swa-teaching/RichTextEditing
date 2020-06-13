@@ -1,4 +1,0 @@
-accessing
-setExtendable
-
-	extendable := true
