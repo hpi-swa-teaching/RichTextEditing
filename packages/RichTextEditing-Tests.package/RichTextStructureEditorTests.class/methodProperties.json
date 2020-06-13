@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"lastStoredRun" : "frc 6/12/2020 19:59" },
 	"instance" : {
 		"addColoredStructureToText" : "AG 7/5/2019 22:03",
 		"addFontStructureToText" : "AG 7/5/2019 22:03",
@@ -14,7 +14,7 @@
 		"fontStructureName" : "lh 6/26/2019 19:10",
 		"fontStructureSymbol" : "lh 6/26/2019 19:09",
 		"newStructureName" : "AG 6/18/2019 16:02",
-		"nullTextStructure" : "ls 7/25/2019 13:29",
+		"nullTextStructure" : "frc 6/13/2020 11:12",
 		"oldStructures" : "ls 5/31/2019 15:08",
 		"oldStructures:" : "ls 5/31/2019 15:06",
 		"removeAllTextStructures" : "ls 7/24/2019 17:32",

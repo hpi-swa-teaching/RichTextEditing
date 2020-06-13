@@ -1,8 +1,7 @@
 count
 charcountExcept: aListOfBytecodes
 	
-	| byteString count|
-	count := 0.
+	| byteString |
 	byteString := self text string asByteArray.
 	
 	^ byteString count: [:each | (aListOfBytecodes includes: each) not]
