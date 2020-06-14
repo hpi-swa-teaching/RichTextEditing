@@ -8,4 +8,4 @@ testUS04loadedTextIsInsertedIntoEditor
 	self editorModel setText: self anotherText.
 	self loadDocumentFromSaver.
 	
-	self assert: self editorModel text equals: self text 
+	self assert: self editorModel text equals: self text

@@ -1,7 +1,7 @@
 constants
 multipleLineText
 
-	^ 'This is an text
+	^ 'This is a text
 
 that crosses
 
