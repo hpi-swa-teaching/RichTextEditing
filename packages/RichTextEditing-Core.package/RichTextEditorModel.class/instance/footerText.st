@@ -1,9 +1,11 @@
 document information
 footerText
  
-	| footerString|
+	| footerString currentPositionInText|
 	footerString := 'You are using SquidWord · '.
 	footerString := (footerString, self bufferDocument wordcount), ' words ·'.
-	footerString := (footerString, ' Line '), self positionInText y. 
-	footerString := (footerString, ' Col '), self positionInText x. 
+	
+	currentPositionInText := self currentPositionInText.
+	footerString := (footerString, ' Line '), currentPositionInText y. 
+	footerString := (footerString, ' Col '), currentPositionInText x. 
 	^ footerString
