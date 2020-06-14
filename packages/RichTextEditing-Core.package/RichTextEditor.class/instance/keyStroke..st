@@ -9,4 +9,5 @@ keyStroke: aKeyboardEvent
 	(self isCtrlA: aKeyboardEvent)
 		ifTrue: [self selectAll].	
 	self model precedingStructuresChanged.
+	self model updateFooter.
 	^ returnValue
