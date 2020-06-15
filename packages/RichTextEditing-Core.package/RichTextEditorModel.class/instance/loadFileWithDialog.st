@@ -1,4 +1,6 @@
 saving and loading
 loadFileWithDialog
 
-	self loadFileFrom: self selectFilePath
+	| filePath |
+	filePath := self selectFilePath.
+	filePath ifNotNil: [self loadFileFrom: filePath]
