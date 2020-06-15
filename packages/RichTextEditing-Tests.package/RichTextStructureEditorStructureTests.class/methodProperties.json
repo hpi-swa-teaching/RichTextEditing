@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"lastStoredRun" : "frc 6/12/2020 19:59" },
 	"instance" : {
 		"addAttributeAt:" : "lh 7/3/2019 22:49",
 		"bufferDocument" : "lh 7/3/2019 22:16",
@@ -13,10 +13,11 @@
 		"secondIndex" : "lh 7/24/2019 20:06",
 		"setStructureAt:toColor:" : "lh 7/24/2019 19:00",
 		"symbolAt:" : "lh 7/3/2019 22:46",
-		"testUS32CheckAllStylesAreAvailable" : "MB 7/24/2019 18:46",
+		"testUS32CheckAllStylesAreAvailable" : "tok 6/1/2020 13:12",
 		"testUS43PreviewTextfieldExists" : "ls 6/6/2019 00:27",
 		"testUS43PreviewTextfieldHasSelectedStructureApplied" : "lh 7/24/2019 17:50",
 		"testUS58StructurePriorityCanBeDecreased" : "lh 7/24/2019 20:07",
 		"testUS58StructurePriorityCanBeIncreased" : "lh 7/24/2019 20:07",
 		"testUS58StructureWithHighestPriorityWins" : "ls 7/25/2019 12:53",
+		"testUS64IndentationStyleAvailable" : "tok 6/1/2020 13:10",
 		"textPreviewLabel" : "MB 6/12/2019 20:29" } }

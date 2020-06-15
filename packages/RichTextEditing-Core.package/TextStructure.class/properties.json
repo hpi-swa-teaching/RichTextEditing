@@ -4,17 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "lh 7/25/2019 11:46",
+	"commentStamp" : "tok 6/8/2020 12:45",
 	"instvars" : [
 		"structureIdentifier",
-		"bold",
-		"italic",
-		"underlined",
-		"struckOut",
-		"extendable",
 		"color",
 		"font",
-		"styleSet" ],
+		"styleSet",
+		"stylesActivated" ],
 	"name" : "TextStructure",
 	"pools" : [
 		 ],

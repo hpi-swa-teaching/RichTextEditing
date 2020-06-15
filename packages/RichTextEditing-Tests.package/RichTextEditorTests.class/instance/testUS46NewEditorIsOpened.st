@@ -1,9 +1,8 @@
 tests
 testUS46NewEditorIsOpened
 
-	| currentEditorNumbers newButton |
-	currentEditorNumbers := RichTextEditorModel allInstances size.
-	newButton :=  self editorView findByLabel: self newButtonLabel.
+	| currentMorphCount newButton |
+	currentMorphCount := ActiveWorld submorphCount.
+	newButton :=  self editorView findByLabel: self newButtonLabel. 
 	newButton click.
-	
-	self assert: currentEditorNumbers + 1 equals: RichTextEditorModel allInstances size
+	self assert: currentMorphCount + 1 equals: ActiveWorld submorphCount

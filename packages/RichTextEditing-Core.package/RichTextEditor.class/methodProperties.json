@@ -1,18 +1,23 @@
 {
 	"class" : {
 		"initialize" : "AG 7/25/2019 13:10",
-		"initializeCmdKeyShortcuts" : "AG 5/29/2019 18:38",
-		"initializeShiftCmdKeyShortcuts" : "AG 5/29/2019 18:39",
+		"initializeCmdKeyShortcuts" : "OS 5/6/2020 20:40",
+		"initializeShiftCmdKeyShortcuts" : "tok 5/18/2020 10:19",
 		"initializeShiftedYellowButtonMenu" : "AG 5/29/2019 18:39",
-		"initializeYellowButtonMenu" : "AG 5/29/2019 18:39" },
+		"initializeYellowButtonMenu" : "AG 5/29/2019 18:39",
+		"structureKeymap" : "tok 5/18/2020 10:18" },
 	"instance" : {
 		"crWithIndent:" : "lh 7/24/2019 22:30",
 		"getParagraphCharacter" : "LM 5/26/2019 22:52",
 		"isCtrlA:" : "lh 7/24/2019 16:59",
-		"isNewCharacter:" : "lh 7/25/2019 12:59",
-		"keyStroke:" : "AG 7/25/2019 13:28",
-		"mouseDown:" : "AG 7/25/2019 13:30",
-		"returnValue" : "ls 6/19/2019 19:14",
-		"spaceValue" : "AG 6/22/2019 11:51",
+		"isNewCharacter:" : "tok 6/13/2020 12:03",
+		"isSpecialCharacter:" : "OS 6/12/2020 12:03",
+		"isStructureShortcut:" : "OS 6/12/2020 12:09",
+		"isValidCharacter:" : "tok 6/13/2020 12:04",
+		"keyStroke:" : "OS 6/12/2020 12:09",
+		"mouseDown:" : "OS 6/1/2020 00:56",
+		"setEmphasisHere" : "6/1/2020 14:03:21",
+		"specialCharacters" : "tok 6/13/2020 12:14",
 		"storeSelectionInParagraph" : "lh 7/24/2019 21:51",
-		"textSize" : "lh 6/26/2019 22:16" } }
+		"textSize" : "lh 6/26/2019 22:16",
+		"toggleStructureSelectionAt:" : "tok 5/18/2020 13:40" } }

@@ -1,0 +1,4 @@
+testing
+isTextIndent
+
+	^ self isIndented

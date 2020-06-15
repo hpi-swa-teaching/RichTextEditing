@@ -1,4 +1,4 @@
 testing
 isItalic
 	
-	^ italic
+	^ self stylesActivated at: self class italicStyle
