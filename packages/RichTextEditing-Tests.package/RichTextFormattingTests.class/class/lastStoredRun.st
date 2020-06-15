@@ -1,0 +1,3 @@
+history
+lastStoredRun
+	^ ((Dictionary new) add: (#duration->0); add: (#errors->((Set new))); add: (#passed->((Set new) add: #testUS25ParagraphBreaksNewLine; add: #testUS25NewLineHasEqualLineSpacing; add: #testUS25ParagraphLineHasLargerLineSpacing; yourself)); add: (#failures->((Set new))); add: (#timeStamp->'12 June 2020 7:50:05.529548 pm' asTimeStamp); add: (#durations->((Dictionary new) add: (#testUS25ParagraphBreaksNewLine->0); add: (#testUS25NewLineHasEqualLineSpacing->0); add: (#testUS25ParagraphLineHasLargerLineSpacing->0); yourself)); yourself)

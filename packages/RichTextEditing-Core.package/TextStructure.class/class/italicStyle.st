@@ -1,0 +1,4 @@
+constants
+italicStyle
+	
+	^ #italic

@@ -3,4 +3,5 @@ textChanged
 
 	self changed: #text;
 		unacceptedEdits;
-		fitParagraphs
+		fitParagraphs;
+		updateFooter

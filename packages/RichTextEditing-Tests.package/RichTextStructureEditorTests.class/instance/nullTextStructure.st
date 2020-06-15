@@ -1,4 +1,4 @@
 utilities
 nullTextStructure
 
-	^ self structureEditor newNullTextStructure.
+	^ self structureEditor newNullTextStructure

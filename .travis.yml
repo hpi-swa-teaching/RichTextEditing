@@ -6,5 +6,5 @@ os:
   - osx
 
 smalltalk:
-  - Squeak-5.2
-  - Squeak-5.1
+  - Squeak64-trunk
+  - Squeak64-5.3
