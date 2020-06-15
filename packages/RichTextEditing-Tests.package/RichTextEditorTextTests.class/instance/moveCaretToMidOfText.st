@@ -3,5 +3,5 @@ moveCaretToMidOfText
 	
 	self
 		moveCaretToBeginningOfText;
-		moveCaretMulipleTimesRight: self middleTextOffset;
+		moveCaretMultipleTimesRight: self middleTextOffset;
 		caretPosition: self middleTextOffset.

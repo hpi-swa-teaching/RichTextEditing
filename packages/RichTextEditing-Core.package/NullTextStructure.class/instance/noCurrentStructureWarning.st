@@ -1,4 +1,4 @@
 warning
 noCurrentStructureWarning
 
-	UIManager default inform: 'Please select a structure'
+	UIManager default inform: self class warningText
