@@ -7,16 +7,20 @@
 		"initializeYellowButtonMenu" : "AG 5/29/2019 18:39",
 		"structureKeymap" : "tok 5/18/2020 10:18" },
 	"instance" : {
+		"URLRegex" : "kh 6/15/2020 10:42",
 		"crWithIndent:" : "lh 7/24/2019 22:30",
 		"getParagraphCharacter" : "LM 5/26/2019 22:52",
 		"isCtrlA:" : "lh 7/24/2019 16:59",
 		"isNewCharacter:" : "OS 6/1/2020 00:19",
 		"keyStroke:" : "OS 6/1/2020 00:20",
+		"makeTextURLFrom:" : "kh 6/15/2020 10:39",
 		"mouseDown:" : "OS 6/1/2020 00:56",
-		"paste" : "kh 6/7/2020 17:34",
+		"paste" : "kh 6/15/2020 10:40",
+		"pasteURL" : "kh 6/15/2020 10:39",
 		"returnValue" : "ls 6/19/2019 19:14",
 		"setEmphasisHere" : "6/1/2020 14:03:21",
 		"spaceValue" : "AG 6/22/2019 11:51",
 		"storeSelectionInParagraph" : "lh 7/24/2019 21:51",
 		"textSize" : "lh 6/26/2019 22:16",
-		"toggleStructureSelectionAt:" : "tok 5/18/2020 13:40" } }
+		"toggleStructureSelectionAt:" : "tok 5/18/2020 13:40",
+		"wouldPasteURL" : "kh 6/15/2020 10:42" } }
