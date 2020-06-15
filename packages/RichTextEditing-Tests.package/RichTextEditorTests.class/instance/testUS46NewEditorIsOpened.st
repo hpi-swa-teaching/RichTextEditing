@@ -5,5 +5,5 @@ testUS46NewEditorIsOpened
 	currentEditorNumbers := RichTextEditorModel allInstances size.
 	newButton :=  self editorView findByLabel: self newButtonLabel.
 	newButton click.
-	2 seconds asDelay wait.
+	(1 to: 1000000000) sum. "Busy Waiting"
 	self assert: currentEditorNumbers + 1 equals: RichTextEditorModel allInstances size
