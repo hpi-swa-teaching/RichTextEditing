@@ -1,5 +1,5 @@
 tests
-testUS86timeLastSavedIsUpdateWhenSaving
+testUS86timeLastSavedIsUpdatedWhenSaving
 
 	| before after documentSaveTime |
 	before := Time current asSeconds.

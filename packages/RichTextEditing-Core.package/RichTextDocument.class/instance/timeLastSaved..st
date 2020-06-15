@@ -1,4 +1,4 @@
 accessing
-timeLastSaved: anObject
+timeLastSaved: aDateAndTime
 
-	timeLastSaved := anObject
+	timeLastSaved := aDateAndTime
