@@ -1,4 +1,0 @@
-constants
-spaceValue
-
-	^ 32

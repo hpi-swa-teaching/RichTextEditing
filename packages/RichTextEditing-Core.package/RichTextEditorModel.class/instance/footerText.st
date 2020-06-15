@@ -8,4 +8,6 @@ footerText
 	currentPositionInText := self currentPositionInText.
 	footerString := (footerString, ' Line '), currentPositionInText y. 
 	footerString := (footerString, ' Col '), currentPositionInText x. 
+	footerString := footerString, ' · ' , self documentTimeText.
+
 	^ footerString

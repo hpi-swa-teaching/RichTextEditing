@@ -15,7 +15,7 @@
 	"instance" : {
 		"addAttribute:from:to:" : "AG 7/25/2019 13:08",
 		"charcount" : "frc 5/25/2020 16:02",
-		"charcountExcept:" : "frc 6/1/2020 10:14",
+		"charcountExcept:" : "frc 6/13/2020 11:15",
 		"copy:" : "MB 7/3/2019 18:58",
 		"createNewStructure:" : "ls 7/24/2019 15:24",
 		"emptyChars" : "frc 6/1/2020 13:43",
@@ -24,6 +24,7 @@
 		"initializeStructure:" : "ls 7/24/2019 15:13",
 		"initializeStructure:withEmphasis:" : "tok 6/8/2020 12:06",
 		"initializeStructures" : "ls 7/24/2019 15:12",
+		"isUnsavedDocument" : "OS 6/14/2020 18:19",
 		"name" : "ls 6/26/2019 17:28",
 		"name:" : "MB 7/3/2019 19:29",
 		"openEditor" : "lh 7/24/2019 21:27",
@@ -42,5 +43,7 @@
 		"textStructures" : "ls 6/26/2019 17:28",
 		"textStructures:" : "MB 7/3/2019 19:29",
 		"textStructuresDo:" : "ls 7/24/2019 21:29",
+		"timeLastSaved" : "OS 6/14/2020 11:16",
+		"timeLastSaved:" : "OS 6/15/2020 12:22",
 		"updateStyle:withEmphasis:" : "ls 6/26/2019 22:44",
 		"wordcount" : "frc 6/1/2020 13:46" } }
