@@ -1,4 +1,4 @@
 utilities
-moveCaretMulipleTimesLeft: aNumber
+moveCaretMultipleTimesLeft: aNumber
 	
 	self enterCharacter: self leftArrowKey times: aNumber
