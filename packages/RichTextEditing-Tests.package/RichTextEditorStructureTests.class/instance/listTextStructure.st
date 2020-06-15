@@ -1,5 +1,5 @@
 utilities
 listTextStructure
 
-	^ TextStructure newWith: #list withStyles: ({#indented})
+	^ TextStructure newWith: #list withStyles: self listTextStructureStyles
 	
