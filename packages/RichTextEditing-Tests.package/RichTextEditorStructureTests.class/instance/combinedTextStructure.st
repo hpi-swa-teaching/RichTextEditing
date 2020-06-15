@@ -1,4 +1,4 @@
 utilities
 combinedTextStructure
 
-	^ TextStructure newWith: #test withEmphasis: #(#bold #italic #underlined #struckOut) asSet
+	^ TextStructure newWith: #test withStyles: #(#bold #italic #underlined #struckOut) asSet

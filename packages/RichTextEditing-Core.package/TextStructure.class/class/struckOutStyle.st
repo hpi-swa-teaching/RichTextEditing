@@ -1,0 +1,4 @@
+constants
+struckOutStyle
+	
+	^ #struckOut

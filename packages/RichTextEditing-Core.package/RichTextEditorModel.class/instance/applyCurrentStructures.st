@@ -4,4 +4,6 @@ applyCurrentStructures
 	self 
 		selectInvisibly;
 		addExtendableStructures.
-	self editor unselect
+	self editor 
+		unselect;
+		recomputeSelection

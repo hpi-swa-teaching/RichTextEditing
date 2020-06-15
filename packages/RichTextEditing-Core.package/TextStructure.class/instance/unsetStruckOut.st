@@ -1,4 +1,0 @@
-accessing
-unsetStruckOut
-
-	struckOut := false

@@ -1,5 +1,5 @@
 instance creation
-newWith: aSymbol withEmphasis: aSet
+newWith: aSymbol withStyles: aSet
 
 	| instance | 
 	instance := self new structureIdentifier: aSymbol.
