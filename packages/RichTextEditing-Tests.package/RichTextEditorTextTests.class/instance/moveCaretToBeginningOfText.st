@@ -2,5 +2,5 @@ utilities
 moveCaretToBeginningOfText
 	
 	self
-		moveCaretMulipleTimesLeft: self editorText size;
+		moveCaretMultipleTimesLeft: self editorText size;
 		caretPosition: 1
