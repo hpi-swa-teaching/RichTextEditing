@@ -1,4 +1,0 @@
-accessing
-unsetUnderlined
-
-	underlined := false

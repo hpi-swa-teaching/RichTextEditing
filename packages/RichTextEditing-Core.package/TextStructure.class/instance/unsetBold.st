@@ -1,4 +1,0 @@
-accessing
-unsetBold
-
-	bold := false

@@ -1,4 +1,4 @@
 testing
 isExtendable
 
-	^ extendable
+	^ self stylesActivated at: self class extendableStyle

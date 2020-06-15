@@ -3,5 +3,5 @@ initialHeading1Structure
 
 	^ (TextStructure 
 			newWith: #heading1
-			withEmphasis: (self defaultStyles union: {#bold}))
+			withStyles: (self defaultStyles union: {TextStructure boldStyle}))
 		font: (StrikeFont createDejaVuDark: 20)
