@@ -1,4 +1,0 @@
-constants
-returnValue
-
-	^ 13

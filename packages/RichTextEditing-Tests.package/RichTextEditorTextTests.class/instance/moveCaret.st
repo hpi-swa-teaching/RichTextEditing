@@ -1,5 +1,5 @@
 utilities
 moveCaret
 	
-	self moveCaretMulipleTimesRight: 5.
-	self moveCaretMulipleTimesLeft: 3
+	self moveCaretMultipleTimesRight: 5.
+	self moveCaretMultipleTimesLeft: 3

@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"lastStoredRun" : "frc 6/12/2020 19:59" },
 	"instance" : {
 		"boldIsListed" : "ls 7/3/2019 21:42",
 		"boldStructureSymbol" : "ls 7/3/2019 21:38",
@@ -18,6 +18,7 @@
 		"targetIdentity" : "ls 7/3/2019 18:14",
 		"targetIdentity:" : "ls 7/3/2019 18:14",
 		"targetIdentityIsPreserved" : "ls 7/3/2019 18:43",
+		"testDocumentCanOpenEditor" : "frc 6/13/2020 11:10",
 		"testUS38changesToTextStructuresAreTextBound" : "ls 7/3/2019 21:41",
 		"testUS38textStructuresAreLoadedInWithText" : "ls 7/3/2019 21:43",
 		"testUS57ButtonToInspectDocumentExists" : "ls 7/3/2019 17:59",
