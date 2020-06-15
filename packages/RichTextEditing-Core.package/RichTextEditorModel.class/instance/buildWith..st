@@ -11,6 +11,7 @@ buildWith: aBuilder
 			self buildSaveAsButtonWith: aBuilder.
 			self buildSaveButtonWith: aBuilder.
 			self buildLoadButtonWith: aBuilder.
+			self buildLoadFileButtonWith: aBuilder.
 			self buildUndoButtonWith: aBuilder.
 			self buildRedoButtonWith: aBuilder.
 			self buildStructureListWith: aBuilder.
