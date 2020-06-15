@@ -1,6 +1,6 @@
-input events
+pasting
 paste
 	
-	(self wouldPasteURL)
+	(self clipboardContainsURL)
 		ifTrue: [self pasteURL]
 		ifFalse: [super paste]
