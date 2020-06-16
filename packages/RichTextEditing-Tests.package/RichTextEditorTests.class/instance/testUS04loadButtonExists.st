@@ -1,4 +1,4 @@
 tests
 testUS04loadButtonExists
 
-	self assert: (self buttonWithLabelExists: 'Load').
+	self assert: (self menuItemWithLabelExists: 'Load').

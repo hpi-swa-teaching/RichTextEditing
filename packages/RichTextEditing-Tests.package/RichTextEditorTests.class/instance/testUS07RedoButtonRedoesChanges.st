@@ -1,12 +1,10 @@
 tests
 testUS07RedoButtonRedoesChanges
 
-	| redoButton text |
-	redoButton := self editorView findByLabel: 'Redo'.
+	| text |
 	text := 'test text'.
-	
 	self enterStringOntoTextField: text.
 	self editorModel undo.
-	redoButton click.
+	self doMenuActionByLabel: 'Redo'.
 	
 	self assert: self editorModel text = text

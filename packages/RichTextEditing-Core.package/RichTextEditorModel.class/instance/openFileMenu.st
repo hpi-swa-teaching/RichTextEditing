@@ -1,7 +1,7 @@
 menubar
 openFileMenu
 
-	self openMenuWith: {
+	^ self openMenuWith: {
 		{'New' . #openNewEditor}.
 		{'Save' . #saveText}.
 		{'Save as' . #saveDocumentInSaverWithNamePrompt}.

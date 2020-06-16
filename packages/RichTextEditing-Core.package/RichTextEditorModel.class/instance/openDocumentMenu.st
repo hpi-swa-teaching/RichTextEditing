@@ -1,7 +1,7 @@
 menubar
 openDocumentMenu
 
-	self openMenuWith: {
+	^ self openMenuWith: {
 		{'Undo' . #undo}.
 		{'Redo' . #redo}.
 		{'Document info' . #showInfo}.
