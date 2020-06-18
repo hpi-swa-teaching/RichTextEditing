@@ -1,4 +1,0 @@
-testing
-isTextIndent
-
-	^ self isIndented

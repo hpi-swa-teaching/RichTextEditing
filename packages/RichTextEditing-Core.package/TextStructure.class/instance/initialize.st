@@ -5,4 +5,5 @@ initialize
 	self 
 		initializeStyles;
 		color: nil;
-		font: nil
+		font: nil;
+		attributes: OrderedCollection new

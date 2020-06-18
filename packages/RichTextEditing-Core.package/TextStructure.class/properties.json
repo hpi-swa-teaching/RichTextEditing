@@ -10,7 +10,8 @@
 		"color",
 		"font",
 		"styleSet",
-		"stylesActivated" ],
+		"stylesActivated",
+		"attributes" ],
 	"name" : "TextStructure",
 	"pools" : [
 		 ],
