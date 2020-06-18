@@ -1,4 +1,0 @@
-accessing
-currentStructureSymbol
-
-	^ currentStructureSymbol

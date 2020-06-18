@@ -7,10 +7,6 @@
 	"commentStamp" : "tok 6/8/2020 12:45",
 	"instvars" : [
 		"structureIdentifier",
-		"color",
-		"font",
-		"styleSet",
-		"stylesActivated",
 		"attributes" ],
 	"name" : "TextStructure",
 	"pools" : [

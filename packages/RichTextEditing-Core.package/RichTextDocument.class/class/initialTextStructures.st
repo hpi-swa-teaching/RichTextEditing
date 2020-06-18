@@ -3,4 +3,4 @@ initialTextStructures
 
 	^ {self initialBoldStructure.
 	self initialItalicStructure.
-	self initialUnderlinedStructure} asOrderedCollection
+	"self initialUnderlinedStructure"} asOrderedCollection

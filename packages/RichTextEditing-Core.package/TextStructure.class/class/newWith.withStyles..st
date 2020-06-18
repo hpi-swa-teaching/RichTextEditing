@@ -1,4 +1,4 @@
-instance creation
+old
 newWith: aSymbol withStyles: aSet
 
 	| instance | 

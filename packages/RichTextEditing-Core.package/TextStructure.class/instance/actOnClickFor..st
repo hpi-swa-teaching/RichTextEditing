@@ -1,4 +1,4 @@
-as yet unclassified
+action
 actOnClickFor: model
 
 	^ (self attributes collect: [:each | each actOnClickFor: model]) includes: true

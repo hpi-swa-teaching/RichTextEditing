@@ -1,8 +1,8 @@
 text structures
 removeStructure
 
-	self currentStructureSymbol ifNil: [
+	self selectedStructureSymbol ifNil: [
 		self chooseStructureToRemove. 
 		^nil].
-	self document removeStructure: self currentStructureSymbol.
+	self document removeStructure: self selectedStructureSymbol.
 	self changed: #textStructures

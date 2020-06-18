@@ -1,4 +1,4 @@
-emphasis
+accessing
 emphasisCode
 
 	^ self attributes reduce: [:acc :each | acc bitOr: each emphasisCode]

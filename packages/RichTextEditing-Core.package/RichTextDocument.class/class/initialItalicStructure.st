@@ -7,4 +7,4 @@ initialItalicStructure
 			
 	^ TextStructure
 		new: #italic
-		withAttributes: (self commonStyles union: {TextEmphasis italic})
+		with: (self commonStyles union: {TextStructure italic})

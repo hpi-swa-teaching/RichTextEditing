@@ -1,0 +1,4 @@
+text attributes
+selectedStructure
+	
+	^ self document getTextStructure: self selectedStructureSymbol

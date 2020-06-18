@@ -7,4 +7,4 @@ initialBoldStructure
 			
 	^ TextStructure
 		new: #bold
-		withAttributes: (self commonStyles union: {TextEmphasis bold})
+		with: (self commonStyles union: {TextStructure bold})
