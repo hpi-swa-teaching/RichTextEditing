@@ -1,4 +1,4 @@
 utilities
 doMenuActionByLabel: aLabel
 
-	^ (self selectMenuItemByLabel: aLabel) first doButtonAction
+	^ (self selectMenuItemByLabel: aLabel) doButtonAction

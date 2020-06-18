@@ -1,8 +1,5 @@
 tests
 testUS04saveAsButtonLetsChooseNameAndSavesInImage
 
-	| button |
-	button := self editorView findByLabel: 'Save as...'.
-	self enterSaveNameInDialog: [button click].
-
+	self enterSaveNameInDialog: [self editorModel perform: (self menuActionByLabel: 'Save as')].
 	self assert: (self editorSavesIncludeKey: self saveName).
