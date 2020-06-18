@@ -29,6 +29,7 @@
 		"shiftButtonCode" : "MB 5/15/2019 21:06",
 		"simulateKeyboardEventWithButtons:andKeyValue:" : "lh 7/24/2019 18:30",
 		"testInspectDocument" : "frc 6/13/2020 11:08",
+		"testTextSizeReturnsCorrectSize" : " 6/18/2020 19:22:35",
 		"testUS04loadButtonExists" : "AG 5/22/2019 18:38",
 		"testUS04loadedTextIsInsertedIntoEditor" : "JEH 6/14/2020 18:13",
 		"testUS04saveAsButtonExists" : "SR 5/22/2019 21:07",
