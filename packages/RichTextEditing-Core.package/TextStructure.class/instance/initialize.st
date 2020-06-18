@@ -4,6 +4,6 @@ initialize
 	super initialize.
 	self 
 		initializeStyles;
-		color: nil;
-		font: nil;
+		"color: nil;
+		font: nil;"
 		attributes: OrderedCollection new

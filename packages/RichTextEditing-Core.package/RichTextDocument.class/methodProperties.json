@@ -1,17 +1,18 @@
 {
 	"class" : {
+		"commonStyles" : "kh 6/18/2020 16:49",
 		"defaultStyles" : "tok 6/8/2020 12:21",
 		"editorClass" : "ls 6/26/2019 17:33",
 		"fromText:withStructures:" : "ls 6/26/2019 17:31",
-		"initialBoldStructure" : "tok 6/8/2020 12:22",
+		"initialBoldStructure" : "kh 6/18/2020 16:50",
 		"initialFootnoteStructure" : "tok 6/8/2020 12:06",
 		"initialHeading1Structure" : "tok 6/8/2020 12:22",
 		"initialHeading2Structure" : "tok 6/8/2020 12:22",
 		"initialHeading3Structure" : "tok 6/8/2020 12:22",
-		"initialItalicStructure" : "tok 6/8/2020 12:22",
+		"initialItalicStructure" : "kh 6/18/2020 16:50",
 		"initialListStructure" : "tok 6/8/2020 12:22",
-		"initialTextStructures" : "tok 5/31/2020 21:15",
-		"initialUnderlinedStructure" : "tok 6/8/2020 12:23" },
+		"initialTextStructures" : "kh 6/18/2020 16:52",
+		"initialUnderlinedStructure" : "kh 6/18/2020 16:51" },
 	"instance" : {
 		"addAttribute:from:to:" : "AG 7/25/2019 13:08",
 		"charcount" : "frc 5/25/2020 16:02",

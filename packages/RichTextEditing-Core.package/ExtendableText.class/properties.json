@@ -1,0 +1,19 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"structureIdentifier",
+		"color",
+		"font",
+		"styleSet",
+		"stylesActivated",
+		"attributes" ],
+	"name" : "ExtendableText",
+	"pools" : [
+		 ],
+	"super" : "TextAttribute",
+	"type" : "normal" }
