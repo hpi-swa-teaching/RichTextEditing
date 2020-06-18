@@ -1,4 +1,4 @@
-constants
+predefined
 allAttributes
 
 	^ {self bold.

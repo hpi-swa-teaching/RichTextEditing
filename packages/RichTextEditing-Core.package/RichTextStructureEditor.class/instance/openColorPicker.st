@@ -1,7 +1,7 @@
-color
+text coloring
 openColorPicker
 
 	(NewColorPickerMorph
 		on: self
-		originalColor: self originalColor
+		originalColor: self defaultColor
 		setColorSelector: #setColor:) openInWorld

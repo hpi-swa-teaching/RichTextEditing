@@ -1,4 +1,4 @@
-constants
+predefined
 indented
 	
-	^ self new: #indented with: {TextIndent amount: 1}
+	^ self indented: 1

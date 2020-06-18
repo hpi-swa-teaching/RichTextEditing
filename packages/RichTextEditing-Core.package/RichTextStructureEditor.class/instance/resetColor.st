@@ -1,4 +1,6 @@
 text coloring
 resetColor
 
-	self currentStructure resetColor
+	self
+		removeColor;
+		updateLoremIpsum

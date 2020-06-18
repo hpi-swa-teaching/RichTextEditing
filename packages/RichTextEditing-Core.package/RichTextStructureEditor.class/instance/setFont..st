@@ -1,4 +1,7 @@
 text font
 setFont: aFont
 
-	self currentStructure font: aFont
+	self
+		removeFont;
+		addFont: aFont;
+		updateLoremIpsum

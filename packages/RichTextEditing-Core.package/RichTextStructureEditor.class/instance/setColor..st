@@ -1,4 +1,7 @@
 text coloring
 setColor: aColor
 	
-	self currentStructure color: aColor
+	self
+		removeColor;
+		addColor: aColor;
+		updateLoremIpsum

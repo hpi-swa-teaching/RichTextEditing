@@ -1,7 +1,6 @@
-constants
+initial structures
 initialFootnoteStructure
-
-	^ (TextStructure 
-			newWith: #footnote
-			withStyles: self defaultStyles)
-		font: (StrikeFont createDejaVuDark: 9)
+		
+	^ TextStructure
+		new: #footnote
+		with: (self commonStyles union: {TextStructure font: (StrikeFont createDejaVuDark: 9)})

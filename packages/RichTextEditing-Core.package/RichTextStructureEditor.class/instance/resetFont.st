@@ -1,4 +1,6 @@
 text font
 resetFont
 
-	self currentStructure resetFont
+	self
+		removeFont;
+		updateLoremIpsum

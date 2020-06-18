@@ -1,7 +1,8 @@
-constants
+initial structures
 initialHeading1Structure
-
-	^ (TextStructure 
-			newWith: #heading1
-			withStyles: (self defaultStyles union: {TextStructure boldStyle}))
-		font: (StrikeFont createDejaVuDark: 20)
+		
+	^ TextStructure
+		new: #heading1
+		with: (self commonStyles union:
+			{TextStructure font: (StrikeFont createDejaVuDark: 20).
+			TextStructure bold})
