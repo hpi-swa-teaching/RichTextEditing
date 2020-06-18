@@ -11,6 +11,7 @@ buildWith: aBuilder
 			self buildSaveAsButtonWith: aBuilder.
 			self buildSaveButtonWith: aBuilder.
 			self buildLoadButtonWith: aBuilder.
+			self buildLoadFileButtonWith: aBuilder.
 			self buildUndoButtonWith: aBuilder.
 			self buildRedoButtonWith: aBuilder.
 			self buildStructureListWith: aBuilder.
@@ -23,6 +24,7 @@ buildWith: aBuilder
 	result := aBuilder build: windowSpec.
 	self textView: (aBuilder widgetAt: 'textView').
 	self footer: (aBuilder widgetAt: 'footer').
+	self updateFooter.
 	self editor model: self.
 	
 	^ result

@@ -1,4 +1,4 @@
 initialize-release
 openNewEditor
 
-	self class open
+	^ self class open

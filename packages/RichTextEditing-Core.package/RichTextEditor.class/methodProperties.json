@@ -7,6 +7,8 @@
 		"initializeYellowButtonMenu" : "AG 5/29/2019 18:39",
 		"structureKeymap" : "tok 5/18/2020 10:18" },
 	"instance" : {
+		"URLRegex" : "kh 6/15/2020 10:42",
+		"clipboardContainsURL" : "kh 6/15/2020 13:32",
 		"crWithIndent:" : "lh 7/24/2019 22:30",
 		"getParagraphCharacter" : "LM 5/26/2019 22:52",
 		"isCtrlA:" : "lh 7/24/2019 16:59",
@@ -15,9 +17,13 @@
 		"isStructureShortcut:" : "OS 6/12/2020 12:09",
 		"isValidCharacter:" : "tok 6/13/2020 12:04",
 		"keyStroke:" : "OS 6/12/2020 12:09",
+		"makeTextURLFrom:" : "kh 6/15/2020 10:39",
 		"mouseDown:" : "OS 6/1/2020 00:56",
+		"paste" : "kh 6/15/2020 13:32",
+		"pasteURL" : "kh 6/15/2020 10:39",
 		"setEmphasisHere" : "6/1/2020 14:03:21",
 		"specialCharacters" : "tok 6/13/2020 12:14",
 		"storeSelectionInParagraph" : "lh 7/24/2019 21:51",
 		"textSize" : "lh 6/26/2019 22:16",
-		"toggleStructureSelectionAt:" : "tok 5/18/2020 13:40" } }
+		"toggleStructureSelectionAt:" : "tok 5/18/2020 13:40",
+		"wouldPasteURL" : "kh 6/15/2020 10:42" } }
