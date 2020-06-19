@@ -1,4 +1,4 @@
 testing
-isIntervalEmpty
+isTextSelected
 
 	^ (self selectionInterval first > self selectionInterval last)

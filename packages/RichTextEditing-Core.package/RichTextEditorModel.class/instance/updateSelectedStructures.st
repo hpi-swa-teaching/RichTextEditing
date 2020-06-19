@@ -1,6 +1,6 @@
 as yet unclassified
-precedingStructuresChanged
+updateSelectedStructures
 
-	self precedingStructures: (self textStructureSymbols select:
+	self selectedStructures: (self textStructureSymbols select:
 		[:structure | self hasStructure: structure between: self selectionStart to: self selectionStart]) asSet.
 	self changed: #allSelections
