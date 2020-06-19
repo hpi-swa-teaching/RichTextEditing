@@ -1,4 +1,4 @@
 predefined
 struckOut
 	
-	^ self new: #struckOut with: {TextEmphasis struckOut}
+	^ self new: #struckOut from: {TextEmphasis struckOut}

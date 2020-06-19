@@ -3,6 +3,6 @@ initialHeading2Structure
 		
 	^ TextStructure
 		new: #heading2
-		with: (self commonStyles union:
+		from: (self commonStyles union:
 			{TextStructure font: (StrikeFont createDejaVuDark: 17).
 			TextStructure bold})

@@ -1,4 +1,4 @@
 predefined
 bold
 	
-	^ self new: #bold with: {TextEmphasis bold}
+	^ self new: #bold from: {TextEmphasis bold}

@@ -4,15 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "kh 6/19/2020 17:51",
 	"instvars" : [
-		"structureIdentifier",
-		"color",
-		"font",
-		"styleSet",
-		"stylesActivated",
-		"attributes" ],
-	"name" : "ExtendableText",
+		"mayBeExtended" ],
+	"name" : "TextExtendability",
 	"pools" : [
 		 ],
 	"super" : "TextAttribute",

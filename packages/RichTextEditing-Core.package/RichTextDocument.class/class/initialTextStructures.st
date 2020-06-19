@@ -8,4 +8,5 @@ initialTextStructures
 	self initialHeading2Structure.
 	self initialHeading3Structure.
 	self initialFootnoteStructure.
-	self initialListStructure} asOrderedCollection
+	self initialListStructure.
+	self initialURLStructure} asOrderedCollection

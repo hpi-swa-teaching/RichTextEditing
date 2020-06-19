@@ -2,8 +2,9 @@
 	"class" : {
 		"lastStoredRun" : "frc 6/12/2020 19:59" },
 	"instance" : {
-		"boldIsListed" : "ls 7/3/2019 21:42",
-		"boldStructureSymbol" : "ls 7/3/2019 21:38",
+		"boldIsListed" : "kh 6/19/2020 16:32",
+		"boldStructure" : "kh 6/19/2020 16:28",
+		"boldStructureSymbol" : "kh 6/19/2020 16:37",
 		"document" : "ls 7/24/2019 17:30",
 		"editorHasSameTargetAsCurrent:" : "ls 7/3/2019 19:05",
 		"openEditorWithTargetDocument" : "ls 7/3/2019 18:43",
@@ -11,6 +12,7 @@
 		"saveName" : "MB 6/12/2019 18:08",
 		"saveTextInImageAndOpenNewEditor" : "ls 7/3/2019 21:42",
 		"setUp" : "JEH 5/31/2020 14:55",
+		"structureIsListed" : "kh 6/19/2020 16:31",
 		"structureSymbol" : "ls 7/3/2019 21:38",
 		"structureSymbolIsListed" : "ls 7/3/2019 21:42",
 		"targetDocument" : "ls 7/3/2019 18:43",
@@ -19,7 +21,7 @@
 		"targetIdentity:" : "ls 7/3/2019 18:14",
 		"targetIdentityIsPreserved" : "ls 7/3/2019 18:43",
 		"testDocumentCanOpenEditor" : "frc 6/13/2020 11:10",
-		"testUS38changesToTextStructuresAreTextBound" : "ls 7/3/2019 21:41",
+		"testUS38changesToTextStructuresAreTextBound" : "kh 6/19/2020 16:39",
 		"testUS38textStructuresAreLoadedInWithText" : "ls 7/3/2019 21:43",
 		"testUS57ButtonToInspectDocumentExists" : "ls 7/3/2019 17:59",
 		"testUS57SaveActionPreservesTargetDocumentIdentity" : "MB 7/25/2019 11:41",

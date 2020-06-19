@@ -7,7 +7,8 @@
 	"commentStamp" : "kh 6/19/2020 00:49",
 	"instvars" : [
 		"structureIdentifier",
-		"attributes" ],
+		"attributes",
+		"preAddHook" ],
 	"name" : "TextStructure",
 	"pools" : [
 		 ],

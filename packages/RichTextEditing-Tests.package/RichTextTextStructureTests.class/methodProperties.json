@@ -2,7 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
+		"exampleTextStructure" : "kh 6/19/2020 17:41",
 		"listTextStructure" : "tok 6/12/2020 13:13",
 		"listTextStructureStyles" : "tok 6/12/2020 13:13",
 		"nullTextStructure" : "tok 6/12/2020 13:12",
+		"testNullTextStructureCantAddAttributes" : "kh 6/19/2020 17:41",
+		"testNullTextStructureCantRemoveAttributes" : "kh 6/19/2020 17:42",
+		"testNullTextStructurestructureIdentifierCanNotBeChanged" : "kh 6/19/2020 17:43",
 		"testNullTextStructurestructureIdentifierIsNull" : "tok 6/13/2020 11:01" } }

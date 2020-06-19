@@ -1,4 +1,4 @@
 testing
 mayBeExtended
 
-	^ self attributes anySatisfy: [:each | each mayBeExtended]
+	^ self attributes allSatisfy: [:each | each mayBeExtended]

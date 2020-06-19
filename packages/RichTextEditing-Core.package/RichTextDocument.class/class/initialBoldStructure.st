@@ -3,4 +3,4 @@ initialBoldStructure
 		
 	^ TextStructure
 		new: #bold
-		with: (self commonStyles union: {TextStructure bold})
+		from: (self commonStyles union: {TextStructure bold})

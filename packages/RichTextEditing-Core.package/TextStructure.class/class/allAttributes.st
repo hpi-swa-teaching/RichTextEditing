@@ -5,5 +5,6 @@ allAttributes
 	self italic.
 	self underlined.
 	self struckOut.
-	self extendable.
-	self indented}
+	self indented.
+	self notExtendable.
+	self autohyperlink}

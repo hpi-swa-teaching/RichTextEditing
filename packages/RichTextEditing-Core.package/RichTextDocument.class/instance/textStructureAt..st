@@ -1,5 +1,5 @@
 text structures
-getTextStructure: aSymbol
+textStructureAt: aSymbol
 
 	^ self textStructures detect: [:each | each structureIdentifier = aSymbol]
 		ifNone: [^ NullTextStructure new]

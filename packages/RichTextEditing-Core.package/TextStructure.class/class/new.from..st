@@ -1,5 +1,5 @@
 instance creation
-new: aSymbol with: aCollection
+new: aSymbol from: aCollection
 
 	| instance | 
 	instance := self new: aSymbol.

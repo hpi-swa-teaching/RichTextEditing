@@ -1,4 +1,4 @@
 accessing
-attributes: aCollecion
+attributes: aCollection
 
-	attributes := aCollecion
+	attributes := aCollection asSet

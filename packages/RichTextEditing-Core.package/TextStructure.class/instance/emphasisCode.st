@@ -1,4 +1,4 @@
 accessing
 emphasisCode
 
-	^ self attributes fold: [:acc :each | acc bitOr: each emphasisCode]
+	^ self attributes inject: 0 into: [:acc :each | acc bitOr: each emphasisCode]

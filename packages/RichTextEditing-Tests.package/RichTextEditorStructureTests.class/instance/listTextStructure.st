@@ -1,5 +1,5 @@
 utilities
 listTextStructure
 
-	^ TextStructure new: #list with: {TextStructure list: self listLevel}
+	^ TextStructure new: #list from: {TextStructure list: self listLevel}
 	

@@ -1,4 +1,4 @@
 text attributes
-allAttributes
+allAttributeSymbols
 
 	^ self class allAttributes

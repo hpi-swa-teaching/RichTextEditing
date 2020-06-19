@@ -3,4 +3,4 @@ initialListStructure
 		
 	^ TextStructure
 		new: #list
-		with: (self commonStyles union: {TextStructure indented})
+		from: (self commonStyles union: {TextStructure indented})

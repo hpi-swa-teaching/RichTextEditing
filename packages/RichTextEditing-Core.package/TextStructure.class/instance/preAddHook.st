@@ -1,0 +1,4 @@
+hooks
+preAddHook
+
+	^ preAddHook

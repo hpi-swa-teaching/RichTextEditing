@@ -1,4 +1,4 @@
 predefined
 underlined
 	
-	^ self new: #underlined with: {TextEmphasis underlined}
+	^ self new: #underlined from: {TextEmphasis underlined}

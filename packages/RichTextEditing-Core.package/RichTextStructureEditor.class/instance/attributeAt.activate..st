@@ -1,9 +1,10 @@
 text attributes
-setAttributeAt: anIndex put: aBoolean
+attributeAt: anIndex activate: aBoolean
 
 	| target targetTextStructure |
 	target := self selectedStructure.
-	targetTextStructure :=  (TextStructure perform: (self allAttributes at: anIndex)).
+	targetTextStructure :=  (TextStructure predefinedAttributeFor:
+		(self attributeSymbolAt: anIndex)).
 	aBoolean
 		ifTrue: [ target add: targetTextStructure]
 		ifFalse: [ target remove: targetTextStructure].

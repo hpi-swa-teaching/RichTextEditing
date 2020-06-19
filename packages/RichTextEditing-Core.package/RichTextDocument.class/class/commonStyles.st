@@ -1,4 +1,4 @@
 constants
 commonStyles
 
-	^ {TextStructure extendable} asSet
+	^ {} asSet
