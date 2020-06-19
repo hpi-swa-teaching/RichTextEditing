@@ -19,8 +19,8 @@
 		"oldStructures:" : "ls 5/31/2019 15:06",
 		"removeAllTextStructures" : "ls 7/24/2019 17:32",
 		"restoreTextStructures" : "ls 7/24/2019 17:32",
-		"setFont:" : "lh 6/26/2019 21:20",
-		"setGreenColor" : "AG 6/21/2019 13:56",
+		"setFont:" : "kh 6/19/2020 18:08",
+		"setGreenColor" : "kh 6/19/2020 18:06",
 		"setUp" : "ls 7/24/2019 17:32",
 		"structureIsDisplayed:" : "ls 6/18/2019 16:27",
 		"structureIsNotDisplayed:" : "AG 6/18/2019 16:00",
@@ -31,6 +31,6 @@
 		"testUS29RemoveNewStructure" : "ls 6/18/2019 16:22",
 		"testUS41ColorCanBeReset" : "kh 6/19/2020 11:24",
 		"testUS41ColorIsAssignedToStructure" : "AG 6/21/2019 13:59",
-		"testUS42FontCanBeReset" : "kh 6/19/2020 11:32",
-		"testUS42FontIsAppliedToStructure" : "lh 6/26/2019 21:24",
-		"testUS42FontSizeCanBeAssigned" : "lh 6/26/2019 21:23" } }
+		"testUS42FontCanBeReset" : "kh 6/19/2020 18:10",
+		"testUS42FontIsAppliedToStructure" : "kh 6/19/2020 18:10",
+		"testUS42FontSizeCanBeAssigned" : "kh 6/19/2020 18:10" } }

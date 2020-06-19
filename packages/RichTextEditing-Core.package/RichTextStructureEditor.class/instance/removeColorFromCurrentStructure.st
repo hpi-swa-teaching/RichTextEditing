@@ -1,4 +1,4 @@
 text coloring
-removeColor
+removeColorFromCurrentStructure
 	
 	self currentStructure remove: (TextStructure color)

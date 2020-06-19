@@ -1,5 +1,5 @@
 text font
-addFont: aFont
+addFontToCurrentStructure: aFont
 
 	self currentStructure add: (TextStructure font: aFont)
 		

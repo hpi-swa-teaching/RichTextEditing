@@ -1,4 +1,4 @@
 text coloring
-addColor: aColor
+addColorToCurrentStructure: aColor
 	
 	self currentStructure add: (TextStructure color: aColor)

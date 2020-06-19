@@ -1,4 +1,4 @@
 text font
-removeFont
+removeFontFromCurrentStructure
 
 	self currentStructure remove: (TextStructure font)

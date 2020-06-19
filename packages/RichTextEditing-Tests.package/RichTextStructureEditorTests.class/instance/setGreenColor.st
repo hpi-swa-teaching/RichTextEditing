@@ -1,4 +1,4 @@
 utilities
 setGreenColor
 	
-	self structureEditor setColor: Color green
+	self structureEditor setColorOfCurrentStructure: Color green

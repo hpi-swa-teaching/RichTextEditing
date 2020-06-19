@@ -1,4 +1,4 @@
 color
-resetColor
+resetColorOfCurrentStructure
 
 	self noCurrentStructureWarning
