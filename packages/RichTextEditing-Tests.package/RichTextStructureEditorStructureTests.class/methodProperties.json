@@ -15,7 +15,7 @@
 		"symbolAt:" : "lh 7/3/2019 22:46",
 		"testUS32CheckAllStylesAreAvailable" : "tok 6/1/2020 13:12",
 		"testUS43PreviewTextfieldExists" : "ls 6/6/2019 00:27",
-		"testUS43PreviewTextfieldHasSelectedStructureApplied" : "lh 7/24/2019 17:50",
+		"testUS43PreviewTextfieldHasSelectedStructureApplied" : "kh 6/19/2020 10:46",
 		"testUS58StructurePriorityCanBeDecreased" : "lh 7/24/2019 20:07",
 		"testUS58StructurePriorityCanBeIncreased" : "lh 7/24/2019 20:07",
 		"testUS58StructureWithHighestPriorityWins" : "ls 7/25/2019 12:53",

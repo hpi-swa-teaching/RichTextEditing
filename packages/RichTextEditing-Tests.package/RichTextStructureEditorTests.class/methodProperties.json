@@ -29,12 +29,8 @@
 		"testUS29AddNewStructure" : "ls 6/18/2019 16:22",
 		"testUS29DisplayAllStructures" : "ls 6/18/2019 16:22",
 		"testUS29RemoveNewStructure" : "ls 6/18/2019 16:22",
-		"testUS41ColorCanBeReset" : "MB 7/24/2019 23:56",
+		"testUS41ColorCanBeReset" : "kh 6/19/2020 11:24",
 		"testUS41ColorIsAssignedToStructure" : "AG 6/21/2019 13:59",
-		"testUS42FontCanBeReset" : "MB 7/24/2019 23:56",
+		"testUS42FontCanBeReset" : "kh 6/19/2020 11:32",
 		"testUS42FontIsAppliedToStructure" : "lh 6/26/2019 21:24",
-		"testUS42FontSizeCanBeAssigned" : "lh 6/26/2019 21:23",
-		"textHasFont:" : "MB 7/24/2019 19:23",
-		"textHasFontSize:" : "MB 7/24/2019 19:24",
-		"textHasNoColor" : "MB 6/26/2019 17:50",
-		"textHasNoFont" : "lh 6/26/2019 19:14" } }
+		"testUS42FontSizeCanBeAssigned" : "lh 6/26/2019 21:23" } }

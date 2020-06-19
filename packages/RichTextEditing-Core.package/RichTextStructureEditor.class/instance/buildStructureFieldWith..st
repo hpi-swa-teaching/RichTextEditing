@@ -6,6 +6,6 @@ buildStructureFieldWith: aBuilder
 		model: self;
 		frame: (0 @ 0 corner: 0.5 @ 0.9);
 		list: #textStructures;
-		getSelected: #selectedStructureSymbol;
-		setSelected: #selectedStructureSymbol:;
+		getSelected: #currentStructureSymbol;
+		setSelected: #currentStructureSymbol:;
 		yourself

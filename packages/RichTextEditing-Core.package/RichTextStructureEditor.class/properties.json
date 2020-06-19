@@ -10,7 +10,7 @@
 		"structureList",
 		"styleList",
 		"loremIpsum",
-		"selectedStructureSymbol",
+		"currentStructureSymbol",
 		"lastStructureSymbol" ],
 	"name" : "RichTextStructureEditor",
 	"pools" : [

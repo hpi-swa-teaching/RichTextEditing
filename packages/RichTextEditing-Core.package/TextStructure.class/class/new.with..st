@@ -1,8 +1,8 @@
 instance creation
-new: aSymbol with: aSet
+new: aSymbol with: aCollection
 
 	| instance | 
 	instance := self new: aSymbol.
-	instance attributes: aSet.
+	instance attributes: aCollection asSet.
 	
 	 ^ instance

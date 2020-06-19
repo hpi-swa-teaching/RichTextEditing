@@ -5,8 +5,4 @@
 		"listTextStructure" : "tok 6/12/2020 13:13",
 		"listTextStructureStyles" : "tok 6/12/2020 13:13",
 		"nullTextStructure" : "tok 6/12/2020 13:12",
-		"testGetFontReturnsFont" : "tok 6/13/2020 11:02",
-		"testNullTextStructurestructureIdentifierIsNull" : "tok 6/13/2020 11:01",
-		"testOriginalColorReturnsColorIfNotNil" : "tok 6/13/2020 11:02",
-		"testOriginalColorReturnsDefaultClassColorIfNil" : "tok 6/13/2020 11:02",
-		"testStyleSetReturnsActiveStyles" : "tok 6/13/2020 11:02" } }
+		"testNullTextStructurestructureIdentifierIsNull" : "tok 6/13/2020 11:01" } }

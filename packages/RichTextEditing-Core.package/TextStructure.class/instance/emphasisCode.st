@@ -1,4 +1,4 @@
 accessing
 emphasisCode
 
-	^ self attributes reduce: [:acc :each | acc bitOr: each emphasisCode]
+	^ self attributes fold: [:acc :each | acc bitOr: each emphasisCode]

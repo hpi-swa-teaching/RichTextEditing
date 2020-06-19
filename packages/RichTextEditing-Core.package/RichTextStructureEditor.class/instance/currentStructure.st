@@ -1,6 +1,6 @@
 text structures
 currentStructure
 
-	self selectedStructureSymbol ifNil: [^ self newNullTextStructure].
+	self currentStructureSymbol ifNil: [^ self newNullTextStructure].
 	
-	^ self document symbolToStructure: self selectedStructureSymbol
+	^ self document symbolToStructure: self currentStructureSymbol
