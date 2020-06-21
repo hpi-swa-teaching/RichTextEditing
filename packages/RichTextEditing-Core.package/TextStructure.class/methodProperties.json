@@ -1,8 +1,7 @@
 {
 	"class" : {
-		"allAttributeIdentifiers" : "kh 6/18/2020 20:44",
-		"allAttributes" : "kh 6/19/2020 17:26",
-		"autohyperlink" : "kh 6/19/2020 17:12",
+		"allTextStructures" : "kh 6/21/2020 16:10",
+		"autohyperlink" : "kh 6/21/2020 16:01",
 		"bold" : "kh 6/19/2020 12:25",
 		"color" : "kh 6/18/2020 22:52",
 		"color:" : "kh 6/19/2020 12:25",
@@ -16,7 +15,7 @@
 		"new:" : "kh 6/21/2020 15:51",
 		"new:from:" : "kh 6/21/2020 15:51",
 		"notExtendable" : "kh 6/19/2020 17:26",
-		"predefinedAttributeFor:" : "kh 6/21/2020 10:37",
+		"predefinedStructureFor:" : "kh 6/21/2020 16:11",
 		"struckOut" : "kh 6/19/2020 12:25",
 		"underlined" : "kh 6/19/2020 12:25" },
 	"instance" : {
