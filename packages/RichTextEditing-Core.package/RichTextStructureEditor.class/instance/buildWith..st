@@ -1,5 +1,6 @@
 toolbuilder
-buildWith: aBuilder 
+buildWith: aBuilder
+
 	| windowSpec |
 	windowSpec := aBuilder pluggableWindowSpec new.
 	windowSpec

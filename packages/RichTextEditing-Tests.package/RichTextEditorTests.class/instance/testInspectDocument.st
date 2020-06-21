@@ -7,4 +7,5 @@ testInspectDocument
 	possibleMorphs := possibleMorphs select: [:morph | morph class = PluggableSystemWindow].
 	possibleMorphs := possibleMorphs select: [:morph | morph label = self document class name].
 	possibleMorphs := possibleMorphs select: [:morph | morph model object = self editorModel targetDocument].
-	self assert: (possibleMorphs notEmpty)
+	self assert: (possibleMorphs notEmpty).
+	possibleMorphs do: [:each | each abandon]

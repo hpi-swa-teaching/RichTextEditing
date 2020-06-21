@@ -6,5 +6,6 @@ sortRunsByPriority
 		structureCopy := attributes copy select: [:attribute | attribute isTextStructure].
 		noStructureCopy :=  attributes copy reject: [:attribute | attribute isTextStructure].
 		structureCopy := structureCopy sorted: [:a :b | 
-			(self textStructureSymbols indexOf: a structureIdentifier) > (self textStructureSymbols indexOf: b structureIdentifier)].
+			(self textStructureSymbols indexOf: a structureIdentifier)
+				> (self textStructureSymbols indexOf: b structureIdentifier)].
 		attributes := noStructureCopy, structureCopy])

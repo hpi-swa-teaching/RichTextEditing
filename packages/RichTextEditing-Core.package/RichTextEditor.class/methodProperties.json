@@ -5,7 +5,7 @@
 		"initializeShiftCmdKeyShortcuts" : "tok 5/18/2020 10:19",
 		"initializeShiftedYellowButtonMenu" : "AG 5/29/2019 18:39",
 		"initializeYellowButtonMenu" : "AG 5/29/2019 18:39",
-		"structureKeymap" : "tok 5/18/2020 10:18" },
+		"structureKeymap" : "kh 6/21/2020 21:59" },
 	"instance" : {
 		"URLRegex" : "kh 6/15/2020 10:42",
 		"clipboardContainsURL" : "kh 6/15/2020 13:32",
@@ -17,7 +17,7 @@
 		"isStructureShortcut:" : "OS 6/12/2020 12:09",
 		"isValidCharacter:" : "tok 6/13/2020 12:04",
 		"keyStroke:" : "OS 6/12/2020 12:09",
-		"makeTextURLFrom:" : "kh 6/21/2020 16:56",
+		"makeTextURLFrom:" : "kh 6/21/2020 22:25",
 		"mouseDown:" : "OS 6/1/2020 00:56",
 		"paste" : "kh 6/15/2020 13:32",
 		"pasteURL" : "kh 6/19/2020 13:10",

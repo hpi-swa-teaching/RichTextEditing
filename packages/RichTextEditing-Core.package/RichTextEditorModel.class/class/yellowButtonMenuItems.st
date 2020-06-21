@@ -1,6 +1,6 @@
 accessing
 yellowButtonMenuItems
-	"Returns the standard yellow button menu items"
+
 	^{
 			#-.
 			{'find...(f)' translated.					#find}.
