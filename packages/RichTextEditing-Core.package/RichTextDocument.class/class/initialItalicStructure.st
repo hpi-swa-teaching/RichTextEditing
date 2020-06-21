@@ -3,4 +3,4 @@ initialItalicStructure
 
 	^ TextStructure
 		new: #italic
-		from: (self commonStyles union: {TextStructure italic})
+		from: {TextStructure italic}

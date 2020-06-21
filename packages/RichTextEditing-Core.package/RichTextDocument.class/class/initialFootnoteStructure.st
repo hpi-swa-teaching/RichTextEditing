@@ -3,4 +3,4 @@ initialFootnoteStructure
 		
 	^ TextStructure
 		new: #footnote
-		from: (self commonStyles union: {TextStructure font: (StrikeFont createDejaVuDark: 9)})
+		from: {TextStructure fontFrom: (StrikeFont createDejaVuDark: 9)}

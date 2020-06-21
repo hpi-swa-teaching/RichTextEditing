@@ -1,4 +1,4 @@
 predefined
-color: aColor
+colorFrom: aColor
 	
 	^ self new: #color from: {TextColor color: aColor}

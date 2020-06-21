@@ -1,4 +1,4 @@
 constants
-commonStyles
+commonStructures
 
 	^ {} asSet

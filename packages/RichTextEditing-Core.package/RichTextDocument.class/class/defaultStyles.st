@@ -1,4 +1,0 @@
-constants
-defaultStyles
-
-	^ self commonStyles

@@ -1,4 +1,4 @@
 predefined
 indented
 	
-	^ self indented: 1
+	^ self indentedBy: 1

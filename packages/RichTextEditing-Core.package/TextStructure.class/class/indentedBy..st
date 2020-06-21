@@ -1,4 +1,4 @@
 predefined
-indented: amount
+indentedBy: amount
 	
 	^ self new: #indented from: {TextIndent amount: amount}

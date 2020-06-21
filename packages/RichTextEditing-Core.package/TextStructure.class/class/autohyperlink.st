@@ -2,7 +2,7 @@ predefined
 autohyperlink
 		
 	| structure |
-	structure:= self new: #hyperlink from: {TextStructure hyperlink: 'https://example.com'}.
+	structure:= self new: #hyperlink from: {TextStructure hyperlinkTo: 'https://example.com'}.
 	structure preAddHook: [:text | 
-			structure add: (TextStructure hyperlink: text asString)].
+			structure add: (TextStructure hyperlinkTo: text asString)].
 	^ structure
