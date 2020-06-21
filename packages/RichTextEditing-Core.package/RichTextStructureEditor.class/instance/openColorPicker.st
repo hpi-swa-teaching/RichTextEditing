@@ -4,4 +4,4 @@ openColorPicker
 	(NewColorPickerMorph
 		on: self
 		originalColor: self defaultColor
-		setColorSelector: #setColorOfCurrentStructure:) openInWorld
+		setColorSelector: #colorOfCurrentStructure:) openInWorld

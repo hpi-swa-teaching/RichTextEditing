@@ -2,8 +2,8 @@
 	"class" : {
 		"lastStoredRun" : "frc 6/12/2020 19:59" },
 	"instance" : {
-		"addColoredStructureToText" : "AG 7/5/2019 22:03",
-		"addFontStructureToText" : "AG 7/5/2019 22:03",
+		"addColoredStructureToText" : "kh 6/21/2020 10:04",
+		"addFontStructureToText" : "kh 6/21/2020 10:04",
 		"allStructuresAreDisplayed" : "AG 7/25/2019 13:24",
 		"coloredStructureName" : "AG 6/21/2019 14:02",
 		"coloredStructureSymbol" : "lh 6/26/2019 19:08",
@@ -19,8 +19,8 @@
 		"oldStructures:" : "ls 5/31/2019 15:06",
 		"removeAllTextStructures" : "ls 7/24/2019 17:32",
 		"restoreTextStructures" : "ls 7/24/2019 17:32",
-		"setFont:" : "kh 6/19/2020 18:08",
-		"setGreenColor" : "kh 6/19/2020 18:06",
+		"setFont:" : "kh 6/21/2020 15:45",
+		"setGreenColor" : "kh 6/21/2020 15:41",
 		"setUp" : "ls 7/24/2019 17:32",
 		"structureIsDisplayed:" : "ls 6/18/2019 16:27",
 		"structureIsNotDisplayed:" : "AG 6/18/2019 16:00",

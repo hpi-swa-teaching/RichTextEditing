@@ -1,4 +1,4 @@
-hooks
+accessing
 preAddHook
 
 	^ preAddHook

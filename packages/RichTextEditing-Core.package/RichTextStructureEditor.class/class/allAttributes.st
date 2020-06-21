@@ -2,4 +2,3 @@ constants
 allAttributes
 	
 	^ TextStructure allAttributeIdentifiers
-	

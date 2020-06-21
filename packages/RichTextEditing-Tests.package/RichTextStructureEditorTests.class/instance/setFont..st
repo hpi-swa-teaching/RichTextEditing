@@ -1,4 +1,4 @@
 utilities
 setFont: aFont
 
-	self structureEditor setFontOfCurrentStructure: aFont
+	self structureEditor fontOfCurrentStructure: aFont

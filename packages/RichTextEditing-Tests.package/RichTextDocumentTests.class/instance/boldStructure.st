@@ -2,4 +2,3 @@ utilities
 boldStructure
 	
 	^ TextStructure bold
-	
