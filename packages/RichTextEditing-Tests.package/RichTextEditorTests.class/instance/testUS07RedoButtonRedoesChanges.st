@@ -1,10 +1,8 @@
 tests
 testUS07RedoButtonRedoesChanges
 
-	| text |
-	text := 'test text'.
-	self enterStringOntoTextField: text.
+	self enterStringOntoTextField: self anotherText.
 	self editorModel undo.
 	self doMenuActionByLabel: 'Redo'.
 	
-	self assert: self editorModel text = text
+	self assert: self editorModel text equals: self anotherText

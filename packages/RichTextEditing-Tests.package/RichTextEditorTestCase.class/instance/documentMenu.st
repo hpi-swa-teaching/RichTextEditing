@@ -1,4 +1,4 @@
 utilities
 documentMenu
 
-	^self editorModel openDocumentMenu.
+	^ self editorModel openDocumentMenu

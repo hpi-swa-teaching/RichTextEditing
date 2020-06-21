@@ -12,17 +12,6 @@ buildWith: aBuilder
 			self buildManageStructuresButtonWith: aBuilder.
 			self buildFileMenuWith: aBuilder.
 			self buildDocumentMenuWith: aBuilder.
-			"self buildSaveAsButtonWith: aBuilder.
-			self buildSaveButtonWith: aBuilder.
-			self buildLoadButtonWith: aBuilder.
-			self buildLoadFileButtonWith: aBuilder.
-			self buildUndoButtonWith: aBuilder.
-			self buildRedoButtonWith: aBuilder.
-			
-			
-			self buildNewButtonWith: aBuilder.
-			self buildInspectDocumentButtonWith: aBuilder.
-			self buildInfoButtonWith: aBuilder."
 			self buildHelpButtonWith: aBuilder.
 			self buildFooterWith: aBuilder}.
 	result := aBuilder build: windowSpec.

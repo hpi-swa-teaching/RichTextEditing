@@ -7,4 +7,3 @@ testUS67HelpBrowserIsOpended
 	helpButton click.
 	
 	self assert: currentHelpEditorNumber + 1 equals: HelpBrowser allInstances size
-	

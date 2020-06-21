@@ -1,4 +1,4 @@
 utilities
 fileMenu
 
-	^self editorModel openFileMenu.
+	^ self editorModel openFileMenu

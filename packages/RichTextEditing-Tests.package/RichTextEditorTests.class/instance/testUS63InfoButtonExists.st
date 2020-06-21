@@ -1,4 +1,4 @@
 tests
 testUS63InfoButtonExists
 
-	self assert: (self menuItemWithLabelExists: 'Document info').
+	self assert: (self menuItemWithLabelExists: 'Document info')
