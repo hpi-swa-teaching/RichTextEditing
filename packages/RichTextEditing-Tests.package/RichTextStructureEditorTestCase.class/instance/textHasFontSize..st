@@ -1,6 +1,6 @@
 tests
 textHasFontSize: aNumber
-				
+
 	^ self textRuns
 		allSatisfy: [:attributes | attributes
 			anySatisfy: [:attribute | (attribute isTextStructure

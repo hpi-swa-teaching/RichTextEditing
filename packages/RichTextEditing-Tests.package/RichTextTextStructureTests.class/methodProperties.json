@@ -2,11 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"exampleTextStructure" : "kh 6/19/2020 17:41",
+		"exampleTextStructure" : "kh 6/21/2020 23:12",
 		"listTextStructure" : "tok 6/12/2020 13:13",
 		"listTextStructureStyles" : "tok 6/12/2020 13:13",
 		"nullTextStructure" : "tok 6/12/2020 13:12",
-		"testNullTextStructureCantAddAttributes" : "kh 6/21/2020 11:16",
-		"testNullTextStructureCantRemoveAttributes" : "kh 6/21/2020 11:19",
-		"testNullTextStructurestructureIdentifierCanNotBeChanged" : "kh 6/19/2020 17:43",
-		"testNullTextStructurestructureIdentifierIsNull" : "tok 6/13/2020 11:01" } }
+		"testNullTextStructureCantAddAttributes" : "kh 6/21/2020 23:12",
+		"testNullTextStructureCantRemoveAttributes" : "kh 6/21/2020 23:12",
+		"testNullTextStructurestructureIdentifierCanNotBeChanged" : "kh 6/21/2020 23:12",
+		"testNullTextStructurestructureIdentifierIsNull" : "kh 6/21/2020 23:12" } }
