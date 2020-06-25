@@ -1,4 +1,4 @@
 predefined
-fontFrom: aFont
+fromFont: aFont
 	
 	^ self new: #font from: {TextFontReference toFont: aFont}

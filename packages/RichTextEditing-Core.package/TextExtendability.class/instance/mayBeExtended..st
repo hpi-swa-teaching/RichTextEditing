@@ -1,4 +1,4 @@
-testing
+accessing
 mayBeExtended: aBoolean
 
 	mayBeExtended := aBoolean
