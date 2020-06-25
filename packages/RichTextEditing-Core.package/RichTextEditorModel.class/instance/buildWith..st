@@ -10,7 +10,7 @@ buildWith: aBuilder
 			self buildTextFieldWith: aBuilder.
 			self buildStructureListWith: aBuilder.
 			self buildManageStructuresButtonWith: aBuilder.
-			self buildFileMenuWith: aBuilder.
+			self buildEditMenuWith: aBuilder.
 			self buildDocumentMenuWith: aBuilder.
 			self buildHelpButtonWith: aBuilder.
 			self buildFooterWith: aBuilder}.

@@ -2,9 +2,11 @@ menubar
 openDocumentMenu
 
 	^ self openMenuWith: {
-		{'Undo' . #undo}.
-		{'Redo' . #redo}.
+		{'New' . #openNewEditor}.
+		{'Save' . #saveText}.
+		{'Save as' . #saveDocumentInSaverWithNamePrompt}.
+		{'Load' . #loadDocumentFromSaver}.
+		{'Import from File' . #loadFileWithDialog}.
+		{'Inspect Document' . #inspectDocument}.
 		{'Document info' . #showInfo}.
-		{'Structures' . #openStructureEditor}.
-		{'Inspect Document' . #inspectDocument}
 	}
