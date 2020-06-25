@@ -1,5 +1,5 @@
 acceptance-tests
 testUS84loadFileFromFilesystem
 
-	self editorModel loadFileFrom: self exampleFilePath.
+	self enterString: self exampleFilePath inDialog: [self editorModel loadFileWithDialog].
 	self assert: (self fileContent) equals: (self editorModel bufferDocument text string)
