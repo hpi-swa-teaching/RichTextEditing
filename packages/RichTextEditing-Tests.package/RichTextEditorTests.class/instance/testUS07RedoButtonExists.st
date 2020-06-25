@@ -1,4 +1,4 @@
 tests
 testUS07RedoButtonExists
 
-	self assert: (self buttonWithLabelExists: 'Redo')
+	self assert: (self menuItemWithLabelExists: 'Redo')

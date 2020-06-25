@@ -1,4 +1,4 @@
 tests
 testUS84LoadFileButtonExists
 
-	self assert: (self buttonWithLabelExists: 'Load File')
+	self assert: (self menuItemWithLabelExists: 'Import from File')

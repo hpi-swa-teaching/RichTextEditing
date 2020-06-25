@@ -1,8 +1,9 @@
 tests
 testUS46NewEditorIsOpened
 
-	| currentMorphCount newButton |
+	| currentMorphCount |
+	self closeAllMenus.
 	currentMorphCount := ActiveWorld submorphCount.
-	newButton :=  self editorView findByLabel: self newButtonLabel. 
-	newButton click.
+	self doMenuActionByLabel: 'New'.
+	self closeAllMenus.
 	self assert: currentMorphCount + 1 equals: ActiveWorld submorphCount
