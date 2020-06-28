@@ -53,6 +53,7 @@
 		"hasUnacceptedEdits" : "ls 5/9/2019 10:34",
 		"help" : "kh 5/25/2020 16:35",
 		"initialize" : "ls 7/24/2019 15:10",
+		"initializeCompletionController" : "OS 6/28/2020 11:15",
 		"initializeDocuments" : "lh 7/24/2019 22:37",
 		"inspectDocument" : "ls 6/26/2019 18:57",
 		"isCursorBetweenText" : "ls 7/24/2019 15:33",
