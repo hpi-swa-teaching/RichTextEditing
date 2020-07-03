@@ -1,6 +1,6 @@
-constants
+initial structures
 initialItalicStructure
 
 	^ TextStructure
-			newWith: #italic
-			withStyles: (self defaultStyles union: {TextStructure italicStyle})
+		new: #italic
+		from: {TextStructure italic}

@@ -1,4 +1,7 @@
 accessing
 amount
-"A textIndent attribute has to provide a amount method specifying the indentationAmount"
-	^ 2
+"The amount of tabs for indentation. Needed for Text>>#indentationAmountAt:"
+
+	^ self flatten detect: [:each | each isTextIndent and: [each isTextStructure not]]
+		ifFound: [:textIndent | textIndent amount]
+		ifNone: [0]

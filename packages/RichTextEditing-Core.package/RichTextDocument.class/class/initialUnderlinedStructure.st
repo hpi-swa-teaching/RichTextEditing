@@ -1,6 +1,6 @@
-constants
+initial structures
 initialUnderlinedStructure
-
-	^ TextStructure 
-			newWith: #underlined 
-			withStyles: (self defaultStyles union: {TextStructure underlinedStyle})
+			
+	^ TextStructure
+		new: #underlined
+		from: {TextStructure underlined}

@@ -5,5 +5,5 @@ buildColorResetButtonWith: aBuilder
 		model: self;
 		frame: (0.75 @ 0.55 corner: 1 @ 0.65);
 		label: 'Reset color';
-		action: #resetColor;
+		action: #resetColorOfCurrentStructure;
 		yourself

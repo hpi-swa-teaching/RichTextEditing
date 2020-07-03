@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kh 6/21/2020 16:41",
+	"instvars" : [
+		"mayBeExtended" ],
+	"name" : "TextExtendability",
+	"pools" : [
+		 ],
+	"super" : "TextAttribute",
+	"type" : "normal" }
