@@ -2,4 +2,4 @@ unit-tests
 testDocumentInfoContainsWordocunt
 	
 	self enterStringOntoTextField: self anotherText asText.
-	self assert: (self editorModel infoText includesSubString:  (self document wordcount asString))
+	self assert: (self editorModel infoText includesSubstring:  (self document wordcount asString))
