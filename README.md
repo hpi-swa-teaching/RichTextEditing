@@ -32,7 +32,7 @@ Metacello new
 ```
 # SWT 2020
 ## XP Practice
-We have used XP as a development method. In particular, we have used Resources, Scopes, Quality, Time to optimize the development process. Furthermore we continued the acceptance tests, but extended them by unit tests. As further practices we have introduced a style guide, which can be found at STYLEGUIDE.md We also introduced small releases by releasing a github release every two weeks, and we introduced the planning game.
+We have used XP as a development method. In particular, we have used Resources, Scopes, Quality, Time to optimize the development process. Furthermore we continued the acceptance tests, but extended them with unit tests. As further practices we have introduced a style guide, which can be found at STYLEGUIDE.md. We also introduced the practice of "small releases" by publishing a github release every two weeks, and we established the practice of "planning game".
 
 # SWT 2019
 ## XP Practice
