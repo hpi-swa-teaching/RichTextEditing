@@ -1,4 +1,4 @@
 utilities
 exampleTextStructure
 	
-	^ TextStructure new: #example
+	^ TextStructure new: #example from: {TextStructure italic . TextStructure bold}
