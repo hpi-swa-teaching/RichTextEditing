@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "lh 7/25/2019 12:05",
 	"instvars" : [
-		 ],
+		"autocompletionPreference" ],
 	"name" : "RichTextEditorTests",
 	"pools" : [
 		 ],
