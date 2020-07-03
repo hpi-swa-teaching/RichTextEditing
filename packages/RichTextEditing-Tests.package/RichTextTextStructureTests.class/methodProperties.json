@@ -10,8 +10,9 @@
 		"testExampleStructureIsNotKern" : "frc 7/3/2020 18:50",
 		"testLinkTextStructureCanNotDeriveFromPrettyPrint" : "frc 7/3/2020 19:12",
 		"testLinkTextStructureMayActOnClick" : "frc 7/3/2020 19:05",
-		"testListTextStructureIsNotAlignement" : "frc 7/3/2020 20:36",
+		"testListTextStructureIsNotAlignment" : "frc 7/3/2020 20:36",
 		"testNullTextStructureCantAddAttributes" : "kh 6/21/2020 11:16",
 		"testNullTextStructureCantRemoveAttributes" : "kh 6/21/2020 11:19",
 		"testNullTextStructurestructureIdentifierCanNotBeChanged" : "kh 6/19/2020 17:43",
-		"testNullTextStructurestructureIdentifierIsNull" : "tok 6/13/2020 11:01" } }
+		"testNullTextStructurestructureIdentifierIsNull" : "tok 6/13/2020 11:01",
+		"testSerializeExampleStructure" : "frc 7/3/2020 20:45" } }
