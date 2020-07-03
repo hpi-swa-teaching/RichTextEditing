@@ -1,4 +1,4 @@
 unit-tests
-testListTextStructureIsNotAligned
+testListTextStructureIsNotAlignement
 
 	self deny: (self listTextStructure isTextAlignment)
