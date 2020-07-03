@@ -5,8 +5,9 @@ openDocumentMenu
 		{'New' . #openNewEditor}.
 		{'Save' . #saveText}.
 		{'Save as' . #saveDocumentInSaverWithNamePrompt}.
-		{'Load' . #loadDocumentFromSaver}.
-		{'Import from File' . #loadFileWithDialog}.
+		{'Load' . #importDocumentFromSaver}.
+		{'Import from File' . #importFileWithDialog}.
+		{'Export as ...' . #exportFileWithDialog}.
 		{'Inspect Document' . #inspectDocument}.
 		{'Document info' . #showInfo}.
 	}

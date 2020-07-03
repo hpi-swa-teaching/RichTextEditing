@@ -8,5 +8,5 @@ testUS57SaveAsPutsTargetDocumentInSaver
 	self editorView abandon.
 	self
 		openNewEditorModel;
-		enterString: saveName inBackwardsCompatibleDialog: [self editorModel loadDocumentFromSaver];
+		enterString: saveName inBackwardsCompatibleDialog: [self editorModel importDocumentFromSaver];
 		assert: self targetIdentityIsPreserved

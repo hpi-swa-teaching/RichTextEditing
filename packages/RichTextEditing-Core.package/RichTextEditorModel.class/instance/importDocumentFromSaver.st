@@ -1,5 +1,5 @@
-saving and loading
-loadDocumentFromSaver
+import-export
+importDocumentFromSaver
 	
 	| chosen document |
 	chosen := self chosenDocument.
