@@ -1,4 +1,4 @@
 utilities
 boldIsListed
 
-	^ self editorModel textStructureSymbols includes: self boldStructureSymbol
+	^ self editorModel textStructures includes: self boldStructure
