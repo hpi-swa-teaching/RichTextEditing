@@ -2,5 +2,8 @@ stop conditions
 stopConditions
 
 	^ {self endOfDocument.
+		self endOfStructure.
+		self paragraph.
 		self lineBreak.
-		self paragraph} reject: [:each | each isNil]
+		self beginningOfStructure
+		} reject: [:each | each isNil]
