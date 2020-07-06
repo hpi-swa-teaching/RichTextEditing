@@ -1,0 +1,2 @@
+accessing
+structureIdentifier: aSymbol

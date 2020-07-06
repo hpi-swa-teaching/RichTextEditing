@@ -1,4 +1,0 @@
-constants
-extendableStyle
-	
-	^ #extendable

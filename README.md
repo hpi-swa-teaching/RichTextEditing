@@ -1,4 +1,4 @@
-# RichTextEditing ![CI](https://github.com/hpi-swa-teaching/RichTextEditing/workflows/CI/badge.svg?branch=dev)[![Build Status](https://travis-ci.org/hpi-swa-teaching/RichTextEditing.svg?branch=dev)](https://travis-ci.org/hpi-swa-teaching/RichTextEditing)[![Coverage Status](https://coveralls.io/repos/github/hpi-swa-teaching/RichTextEditing/badge.svg?branch=master)](https://coveralls.io/github/hpi-swa-teaching/RichTextEditing?branch=master)
+# RichTextEditing ![CI](https://github.com/hpi-swa-teaching/RichTextEditing/workflows/CI/badge.svg?branch=dev)[![Build Status](https://travis-ci.org/hpi-swa-teaching/RichTextEditing.svg?branch=dev)](https://travis-ci.org/hpi-swa-teaching/RichTextEditing)[![Coverage Status](https://coveralls.io/repos/github/hpi-swa-teaching/RichTextEditing/badge.svg?branch=dev)](https://coveralls.io/github/hpi-swa-teaching/RichTextEditing?branch=dev)
 ## SWT 2020 - Group 10, SWT 2019 - Group 11
 # SquidWord
 This is an implementation of a text editor in Squeak, which is capable of writing structured text. This means that text can be divided into logical units. Paragraphs are used to structure the text into sections on a broad level and so-called "text structures" are used to assign certain meanings to particular parts of the text.
@@ -12,10 +12,12 @@ Structures can be applied to portions of the text by selecting the particular te
 Structures can be customized with regards to emphasis, color and font. For this purpose, one can use the **Structure Editor** which comes bundled with the Text Editor. In the structure Editor, it is also possible to add or remove completely custom structures and prioritize them (e.g. to determine which color should be displayed if multiple structures are applied to the same text). Custom structures will appear in the structure selection list on the right side of the respective editor.
 
 ## Saving and Loading
-When the text is saved via the *Save* button or by pressing *Ctrl + s*, the changes regarding the text and structures are written into a **RichTextDocument** object. This object can be inspected by clicking the *Document* button in the editor. It is possible to open the document in another editor by sending the message *openInEditor* to it.
+When the text is saved via the *Save* menu item or by pressing *Ctrl + s*, the changes regarding the text and structures are written into a **RichTextDocument** object. This object can be inspected by clicking the *Document* button in the editor. It is possible to open the document in another editor by sending the message *openInEditor* to it.
 
-The *Save as...* button lets the user choose a name for the document. The document is then saved in the image (in it's current state, so make sure to save temporary changes to the document prior to that). It can be loaded in any other editor via the *Load* button.
+The *Save as...* menu item lets the user choose a name for the document. The document is then saved in the image (in it's current state, so make sure to save temporary changes to the document prior to that). It can be loaded in any other editor via the *Load* menu item.
 
+## Import and Export
+The document can be exported into a file and imported from a file. At the current moment, text structures can not be imported or exported.
 
 # Supported Versions
 All Squeak versions >= 5.1 are supported.
@@ -28,6 +30,9 @@ Metacello new
 	repository: 'github://hpi-swa-teaching/RichTextEditing:master/packages';
 	load.
 ```
+# SWT 2020
+## XP Practice
+We have used XP as a development method. In particular, we have used Resources, Scopes, Quality, Time to optimize the development process. Furthermore we continued the acceptance tests, but extended them with unit tests. As further practices we have introduced a style guide, which can be found at STYLEGUIDE.md. We also introduced the practice of "small releases" by publishing a github release every two weeks, and we established the practice of "planning game".
 
 # SWT 2019
 ## XP Practice

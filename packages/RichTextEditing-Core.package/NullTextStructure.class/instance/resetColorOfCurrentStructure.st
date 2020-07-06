@@ -1,0 +1,4 @@
+color
+resetColorOfCurrentStructure
+
+	self noCurrentStructureWarning

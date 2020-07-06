@@ -1,7 +1,9 @@
 tests
 textHasColor: aColor 
 
-	^ (self textRuns copyFrom: 0 to: self editorText size)
+	^ self textRuns
 		allSatisfy: [:attributes | attributes
-				anySatisfy: [:attribute | attribute isTextStructure
-						and: [attribute color = aColor]]]
+			anySatisfy: [:attribute | (attribute isTextStructure
+				ifTrue: [attribute flatten]
+				ifFalse: [Set newFrom: attribute]) anySatisfy: [:each |
+					(each isKindOf: TextColor) and: [each color == aColor]]]]
