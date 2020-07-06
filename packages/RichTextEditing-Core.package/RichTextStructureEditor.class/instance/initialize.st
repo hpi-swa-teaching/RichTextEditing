@@ -1,4 +1,5 @@
 initialize-release
 initialize
 
-	self initializeLoremIpsum
+	self initializeLoremIpsum.
+	self currentTemplateSymbol: RichTextStructureTemplate defaultTemplate identifier
