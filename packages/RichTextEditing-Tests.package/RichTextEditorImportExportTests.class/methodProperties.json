@@ -7,9 +7,10 @@
 		"document" : "tok 7/8/2020 16:14",
 		"document:" : "tok 7/8/2020 16:14",
 		"exampleContent" : "tok 7/9/2020 21:47",
+		"exampleExportContent" : "tok 7/9/2020 22:41",
 		"exampleExportFilePath" : "tok 7/8/2020 20:43",
 		"exampleImportFilePath" : "tok 7/9/2020 21:16",
-		"exportedFileContent" : "tok 7/9/2020 21:49",
+		"exportedFileContent" : "tok 7/9/2020 22:41",
 		"exportedFileExists" : "tok 7/9/2020 21:44",
 		"file" : "frc 6/8/2020 15:00",
 		"file:" : "frc 6/8/2020 14:59",
@@ -22,4 +23,4 @@
 		"tearDownFiles" : "tok 7/9/2020 21:44",
 		"testUS84importFileFromFilesystem" : "tok 7/9/2020 21:57",
 		"testUS87ExportAsPlainTextExistsInDialog" : "tok 7/8/2020 20:17",
-		"testUS87ExportDocumentAsPlainText" : "tok 7/9/2020 21:49" } }
+		"testUS87ExportDocumentAsPlainText" : "tok 7/9/2020 22:41" } }
