@@ -1,9 +1,9 @@
 acceptance-tests
 testUS87ExportDocumentAsPlainText
 
-	self enterStringOntoTextField: self exampleContent.
+	self enterStringOntoTextField: self exampleExportContent.
 	self editorModel saveText.
 	self chooseExportStrategy: RichTextPlainTextExportStrategy.
 	
 	self assert: self exportedFileExists.
-	self assert: self exportedFileContent equals: self exampleContent
+	self assert: self exportedFileContent equals: self exampleExportContent
