@@ -1,4 +1,5 @@
 constants
 fileExporters
 
-	^ {RichTextPlainTextExportStrategy label -> RichTextPlainTextExportStrategy} asDictionary
+	^ Dictionary newFrom: {
+			RichTextPlainTextExportStrategy label -> RichTextPlainTextExportStrategy}
