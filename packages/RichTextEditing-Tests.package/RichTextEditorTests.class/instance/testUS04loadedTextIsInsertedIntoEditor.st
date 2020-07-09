@@ -6,6 +6,6 @@ testUS04loadedTextIsInsertedIntoEditor
 		saveText.
 	self enterSaveNameInDialog: [self editorModel saveDocumentInSaverWithNamePrompt].
 	self editorModel setText: self anotherText.
-	self importDocumentFromSaver.
+	self loadDocumentFromSaver.
 	
 	self assert: self editorModel text equals: self text
