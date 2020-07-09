@@ -2,7 +2,6 @@ tests
 testUS29AddNewStructure
 	
 	|  addStructureButton |
-	self halt.
 	addStructureButton := self structureEditorView findByLabel: '+'.
 	self enterString: self newStructureName inDialog: [addStructureButton click].
 	
