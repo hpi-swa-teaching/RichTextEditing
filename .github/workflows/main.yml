@@ -13,7 +13,7 @@ jobs:
     strategy:
       matrix:
         os: [macos-latest, ubuntu-18.04]
-        smalltalk: [ Squeak64-trunk, Squeak64-5.3 ]
+        smalltalk: [ Squeak64-5.3 ]
     name: ${{ matrix.smalltalk }} on ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
