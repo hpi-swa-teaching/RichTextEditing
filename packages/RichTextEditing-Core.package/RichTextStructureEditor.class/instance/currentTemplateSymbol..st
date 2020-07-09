@@ -1,4 +1,4 @@
-template-choosing
+accessing
 currentTemplateSymbol: aSymbol
 
 	aSymbol 

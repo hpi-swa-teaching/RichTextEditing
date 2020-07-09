@@ -1,3 +1,3 @@
-template-choosing
+accessing
 currentTemplateSymbol
 	^ currentTemplateSymbol
