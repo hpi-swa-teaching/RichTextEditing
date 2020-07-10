@@ -1,5 +1,5 @@
 acceptance tests
 testUS37MarkdownTemplateContainsRequiredStructures
 
-	self requiredMarkdownStructures do: [ : structureName | self assert: (self markdownTemplateContainsStructureWithName: structureName)]
+	self requiredMarkdownStructures do: [:each | self assert: (self markdownTemplateContainsStructureWithName: each)]
 	

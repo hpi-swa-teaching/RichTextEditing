@@ -8,7 +8,7 @@ checkAcceptTemplateConfirmation
 		values: {true. false}
 		title: self formattingRemovedWarning.
 		
-	result ifNil: [result := false].
+	result ifNil: [^ false].
 	
 	^ result
 			

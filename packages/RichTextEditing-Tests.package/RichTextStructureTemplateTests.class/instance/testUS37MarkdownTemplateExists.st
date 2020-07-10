@@ -1,4 +1,4 @@
 acceptance tests
 testUS37MarkdownTemplateExists
 
-	self assert: (RichTextStructureTemplate availableTemplates contains: [ : template | template identifier = #markdown])
+	self assert: (RichTextStructureTemplate availableTemplates contains: [:each | each identifier = #markdown])
