@@ -7,7 +7,6 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"file",
-		"document",
 		"fileDirectory" ],
 	"name" : "RichTextEditorImportExportTests",
 	"pools" : [

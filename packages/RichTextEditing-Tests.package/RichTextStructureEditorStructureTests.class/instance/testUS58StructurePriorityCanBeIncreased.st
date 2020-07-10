@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS58StructurePriorityCanBeIncreased
 	
 	| moveUpButton structure |

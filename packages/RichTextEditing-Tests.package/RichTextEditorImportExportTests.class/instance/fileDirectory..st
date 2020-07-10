@@ -1,3 +1,4 @@
 accessing
-fileDirectory: anObject
-	fileDirectory := anObject
+fileDirectory: aFileDirectory
+
+	fileDirectory := aFileDirectory

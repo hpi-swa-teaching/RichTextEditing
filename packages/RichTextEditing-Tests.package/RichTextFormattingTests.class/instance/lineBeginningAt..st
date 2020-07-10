@@ -1,5 +1,5 @@
-accessing
-getLineBeginningAt: firstIndex
+utilities
+lineBeginningAt: firstIndex
 	
 	^ self scanner 
 		composeFrom: firstIndex

@@ -1,4 +1,4 @@
-acceptance-tests
+utilities
 plainTextExportLabel
 
 	^ RichTextPlainTextExportStrategy label

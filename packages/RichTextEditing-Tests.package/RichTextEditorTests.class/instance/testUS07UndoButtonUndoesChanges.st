@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS07UndoButtonUndoesChanges
 
 	self enterStringOntoTextField: 'Test'.

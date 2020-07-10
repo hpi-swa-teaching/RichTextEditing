@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS24saveAsButtonChangesLabel
 
 	self enterSaveNameInDialog: [self editorModel perform: (self menuActionByLabel: 'Save as')].

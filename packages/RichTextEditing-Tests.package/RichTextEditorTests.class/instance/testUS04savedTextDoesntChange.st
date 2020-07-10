@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS04savedTextDoesntChange
 	
 	self editorModel

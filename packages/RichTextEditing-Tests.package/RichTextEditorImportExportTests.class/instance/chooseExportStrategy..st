@@ -1,4 +1,4 @@
-acceptance-tests
+utilities
 chooseExportStrategy: aRichTextExportStrategy
 
 	[self doMenuActionByLabel: 'Export as ...']

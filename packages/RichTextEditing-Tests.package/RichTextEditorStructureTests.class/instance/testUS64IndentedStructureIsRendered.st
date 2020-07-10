@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS64IndentedStructureIsRendered
 
 	self enterStringOntoTextField: 'test'.
