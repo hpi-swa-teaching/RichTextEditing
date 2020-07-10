@@ -2,4 +2,4 @@ utilities
 enableAutocompletion
 
 	autocompletionPreference := RichTextEditorModel autocompletion.
-	RichTextEditorModel autocompletion: true.
+	RichTextEditorModel autocompletion: true
