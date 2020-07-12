@@ -1,0 +1,4 @@
+accessing
+availableTemplates
+
+	^ self subclasses

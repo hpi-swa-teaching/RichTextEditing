@@ -4,5 +4,6 @@ openEditMenu
 	^ self openMenuWith: {
 		{'Undo' . #undo}.
 		{'Redo' . #redo}.
-		{'Structures' . #openStructureEditor}
+		{'Structures' . #openStructureEditor}.
+		{'Template'. #openTemplateChoser}
 	}
