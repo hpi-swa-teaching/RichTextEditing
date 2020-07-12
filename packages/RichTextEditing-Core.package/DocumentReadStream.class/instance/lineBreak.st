@@ -1,6 +1,6 @@
 stop conditions
 lineBreak
 
-	^ ((self collection at: self position) = Character lf)
+	^ self currentCharacter = Character lf
 		ifTrue: [#lineFeed]
 		ifFalse: [nil]

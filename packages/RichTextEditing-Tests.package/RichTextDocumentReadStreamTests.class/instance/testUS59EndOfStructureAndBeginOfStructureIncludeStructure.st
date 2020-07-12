@@ -1,4 +1,4 @@
-as yet unclassified
+acceptance-tests
 testUS59EndOfStructureAndBeginOfStructureIncludeStructure
 
 	| stream stopConditions |

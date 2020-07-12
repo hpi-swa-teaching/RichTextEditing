@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 isBeginningOfStructure: aListElement
 
 	^ aListElement first = #beginningOfStructure

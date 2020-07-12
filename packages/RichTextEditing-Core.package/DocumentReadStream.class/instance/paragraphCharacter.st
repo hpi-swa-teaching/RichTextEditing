@@ -1,4 +1,4 @@
-as yet unclassified
+constants
 paragraphCharacter
 
 	^Character value: 182

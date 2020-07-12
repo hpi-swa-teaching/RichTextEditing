@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 document
 
 	^ self editorModel bufferDocument

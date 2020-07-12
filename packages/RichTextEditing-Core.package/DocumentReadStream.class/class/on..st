@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 on: aDocument
 
 	^ self basicNew on: aDocument

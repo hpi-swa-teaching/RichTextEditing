@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 isParagraph: aListElement
 
 	^ aListElement = #paragraph

@@ -1,4 +1,4 @@
 accessing
-collection
+text
 
 	^ collection

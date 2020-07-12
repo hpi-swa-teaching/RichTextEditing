@@ -1,6 +1,6 @@
 stop conditions
 paragraph
 
-	^ ((self collection at: self position) = self paragraphCharacter)
+	^ self currentCharacter = self paragraphCharacter
 		ifTrue: [#paragraph]
 		ifFalse: [nil]

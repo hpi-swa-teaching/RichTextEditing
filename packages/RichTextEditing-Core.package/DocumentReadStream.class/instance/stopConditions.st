@@ -1,4 +1,4 @@
-stop conditions
+accessing
 stopConditions
 
 	^ {self endOfDocument.

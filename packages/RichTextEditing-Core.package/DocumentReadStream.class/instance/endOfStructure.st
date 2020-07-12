@@ -1,11 +1,9 @@
 stop conditions
 endOfStructure
-	| currentStructures nextStructures diff |
+	| diff |
 	
 	self position + 1 > self readLimit ifTrue: [^ nil].
-	currentStructures := self collection attributesAt: self position.
-	nextStructures := self collection attributesAt: self position + 1.
-	diff := currentStructures difference: nextStructures.
+	diff := self structureDifferenceBetween: self position and: self position + 1.
 	^ diff isEmpty
 			ifTrue: [nil]
 		 	ifFalse: [{#endOfStructure. diff}]

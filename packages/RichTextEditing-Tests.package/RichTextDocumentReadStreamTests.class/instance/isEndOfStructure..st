@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 isEndOfStructure: listElement
 
 	^ listElement first = #endOfStructure
