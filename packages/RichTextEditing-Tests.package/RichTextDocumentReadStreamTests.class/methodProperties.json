@@ -3,11 +3,11 @@
 		 },
 	"instance" : {
 		"isBeginningOfStructure:" : "OS 7/10/2020 12:17",
-		"isEndOfStructure:" : "OS 7/10/2020 12:16",
+		"isEndOfStructure:" : "frc 7/13/2020 13:29",
 		"isParagraph:" : "OS 7/10/2020 12:20",
 		"paragraphCharacter" : "OS 7/10/2020 11:34",
 		"testUS59EndOfStructureAndBeginOfStructureIncludeStructure" : "OS 7/10/2020 12:26",
 		"testUS59NextReturnsNextSectionOfTextAndListOfStopConditions" : "OS 7/10/2020 12:27",
 		"testUS59ReadStreamExists" : "OS 7/10/2020 11:22",
 		"testUS59StopConditionsAreInCorrectOrder" : "OS 7/10/2020 12:22",
-		"textWithAttributes" : "OS 7/10/2020 12:08" } }
+		"textWithAttributes" : "frc 7/13/2020 13:29" } }

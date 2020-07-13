@@ -1,4 +1,4 @@
 constants
 paragraphCharacter
 
-	^Character value: 182
+	^ Character value: 182
