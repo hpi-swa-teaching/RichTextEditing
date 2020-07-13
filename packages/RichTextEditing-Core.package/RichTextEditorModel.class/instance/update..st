@@ -9,4 +9,4 @@ update: aParameter
 		textChanged;
 		structuresChanged;
 		noUnacceptedEdits.
-	self bufferDocument myDependents:  (self targetDocument myDependents).
+	self bufferDocument myDependents: (self targetDocument myDependents)
