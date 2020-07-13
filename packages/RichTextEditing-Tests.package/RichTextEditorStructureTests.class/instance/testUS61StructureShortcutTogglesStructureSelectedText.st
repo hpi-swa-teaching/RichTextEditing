@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS61StructureShortcutTogglesStructureSelectedText
 
 	self enterStringOntoTextField: self demoText.

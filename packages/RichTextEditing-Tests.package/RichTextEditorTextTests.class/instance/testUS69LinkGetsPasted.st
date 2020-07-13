@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS69LinkGetsPasted
 
 	Clipboard clipboardText: self url.

@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS69NormalTextDoesNotConvertToClickableLink
 
 	Clipboard clipboardText: self standardText.

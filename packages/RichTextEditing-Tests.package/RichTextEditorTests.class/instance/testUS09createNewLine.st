@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS09createNewLine
 
 	self enterStringOntoTextField: 'hallo'.

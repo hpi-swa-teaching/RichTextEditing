@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS67HelpBrowserIsOpended
 
 	| currentHelpEditorNumber helpButton |

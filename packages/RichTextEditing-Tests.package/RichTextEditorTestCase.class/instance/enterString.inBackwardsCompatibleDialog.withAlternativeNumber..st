@@ -3,7 +3,7 @@ enterString: aString inBackwardsCompatibleDialog: aBlock withAlternativeNumber: 
 
 	| valueToEnter |
 	(Smalltalk version endsWith: '5.3alpha')
-		ifTrue: [	valueToEnter := aString]
+		ifTrue: [valueToEnter := aString]
 		ifFalse: [valueToEnter := aNumber].
 	
-	self enterString: valueToEnter inDialog: aBlock
+	self answer: valueToEnter inDialog: aBlock
