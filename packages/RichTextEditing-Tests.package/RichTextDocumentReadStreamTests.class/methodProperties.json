@@ -2,12 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"boldTextStructure" : "OS 7/10/2020 11:59",
-		"document" : "OS 7/10/2020 11:27",
 		"isBeginningOfStructure:" : "OS 7/10/2020 12:17",
 		"isEndOfStructure:" : "OS 7/10/2020 12:16",
 		"isParagraph:" : "OS 7/10/2020 12:20",
-		"italicTextStructure" : "OS 7/10/2020 11:59",
 		"paragraphCharacter" : "OS 7/10/2020 11:34",
 		"testUS59EndOfStructureAndBeginOfStructureIncludeStructure" : "OS 7/10/2020 12:26",
 		"testUS59NextReturnsNextSectionOfTextAndListOfStopConditions" : "OS 7/10/2020 12:27",
