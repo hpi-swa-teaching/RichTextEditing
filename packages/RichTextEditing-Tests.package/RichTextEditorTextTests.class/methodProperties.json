@@ -31,6 +31,7 @@
 		"testCorrectLineColNumberAtEndOfText" : "JEH 6/14/2020 18:11",
 		"testCorrectLineColNumberAtStartOfText" : "JEH 6/14/2020 18:11",
 		"testPaste" : "kh 6/15/2020 20:48",
+		"testPasteDetectsURL" : "frc 7/3/2020 19:33",
 		"testUS23TriangleDisappearsAfterSuccesfulSave" : "ls 7/25/2019 13:20",
 		"testUS23TriangleIsStillVisibleWhenSaveDialogIsCancelled" : "AG 6/21/2019 14:16",
 		"testUS23TriangleReappearsWhenEditing" : "AG 6/21/2019 14:33",
