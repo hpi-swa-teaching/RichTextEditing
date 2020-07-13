@@ -2,7 +2,6 @@ initialize-release
 initialize
 
 	super initialize.
-	self 
-		initializeStyles;
-		color: nil;
-		font: nil
+	self
+		attributes: Set new;
+		preAddHook: [:text | ]

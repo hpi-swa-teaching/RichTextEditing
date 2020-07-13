@@ -1,0 +1,4 @@
+utilities
+plainTextExportLabel
+
+	^ RichTextPlainTextExportStrategy label

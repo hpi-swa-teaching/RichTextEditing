@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS86timeLastSavedIsUpdatedWhenSaving
 
 	| before after documentSaveTime |

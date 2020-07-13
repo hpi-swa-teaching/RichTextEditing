@@ -2,9 +2,13 @@
 	"class" : {
 		"warningText" : "tok 6/12/2020 12:41" },
 	"instance" : {
+		"add:" : "kh 6/18/2020 21:24",
+		"includes:" : "kh 6/18/2020 21:25",
 		"noCurrentStructureWarning" : "tok 6/12/2020 12:41",
 		"openColorPicker" : "ls 7/24/2019 21:54",
 		"openFontChooser" : "ls 7/24/2019 21:22",
-		"resetColor" : "ls 7/24/2019 21:57",
-		"resetFont" : "ls 7/24/2019 21:23",
-		"structureIdentifier" : "ls 7/24/2019 22:17" } }
+		"remove:" : "kh 6/18/2020 21:24",
+		"resetColorOfCurrentStructure" : "kh 6/19/2020 18:05",
+		"resetFontOfCurrentStructure" : "kh 6/19/2020 18:07",
+		"structureIdentifier" : "ls 7/24/2019 22:17",
+		"structureIdentifier:" : "kh 6/18/2020 21:57" } }

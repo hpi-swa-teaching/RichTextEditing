@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS41ColorCanBeReset
 	
 	| resetColorButton |
@@ -6,7 +6,7 @@ testUS41ColorCanBeReset
 		enterStringOntoTextField: 'test';
 		addColoredStructureToText;
 		setGreenColor;
-		deny: (self textHasColor: TextStructure defaultColor).
+		deny: (self textHasColor: self structureEditor defaultColor).
 	resetColorButton := self structureEditorView findByLabel: 'Reset color'.
 	resetColorButton click.
 	

@@ -1,4 +1,4 @@
-accessing
+constants
 firstLineFirstIndex
 
 	^ 1

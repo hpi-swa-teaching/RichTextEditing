@@ -16,5 +16,8 @@ buildWith: aBuilder
 			self buildColorResetButtonWith: aBuilder. 
 			self buildRemoveStructureButtonWith: aBuilder.
 			self buildIncreasePriorityButtonWith: aBuilder.
-			self buildDecreasePriorityButtonWith: aBuilder}.
+			self buildDecreasePriorityButtonWith: aBuilder.
+			
+			self buildAcceptTemplateButtonWith: aBuilder.
+			self buildTemplateFieldWith: aBuilder}.
 	^ aBuilder build: windowSpec
