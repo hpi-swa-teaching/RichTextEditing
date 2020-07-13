@@ -1,5 +1,5 @@
-saving and loading
-loadFileFrom: filePath
+import-export
+importFileFrom: filePath
 
 	| filestream text document |
 	filestream := StandardFileStream readOnlyFileNamed: filePath.

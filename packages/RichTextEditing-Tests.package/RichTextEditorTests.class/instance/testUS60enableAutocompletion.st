@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS60enableAutocompletion
 
 	Preferences setFlag: self autocompletionPreference

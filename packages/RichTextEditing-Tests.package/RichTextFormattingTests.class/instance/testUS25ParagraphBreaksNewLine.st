@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS25ParagraphBreaksNewLine
 	
 	self loadTextIntoScanner: self textWithParagraph.

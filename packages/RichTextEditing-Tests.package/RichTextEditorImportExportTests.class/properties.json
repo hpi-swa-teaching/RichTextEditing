@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"file" ],
-	"name" : "RichTextEditorFileManipulationTests",
+		"file",
+		"fileDirectory" ],
+	"name" : "RichTextEditorImportExportTests",
 	"pools" : [
 		 ],
 	"super" : "RichTextEditorTestCase",

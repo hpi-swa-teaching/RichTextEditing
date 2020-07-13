@@ -1,4 +1,4 @@
-accessing
+utilities
 firstLine
 
-	^ self getLineBeginningAt: self firstLineFirstIndex
+	^ self lineBeginningAt: self firstLineFirstIndex

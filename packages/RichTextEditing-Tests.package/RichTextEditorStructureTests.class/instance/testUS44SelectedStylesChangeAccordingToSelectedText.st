@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS44SelectedStylesChangeAccordingToSelectedText
 
 	self setUpHalfBoldTestText.

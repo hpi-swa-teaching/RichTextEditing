@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS36StructureIsNotExtendable
 
 	self textEditor selectFrom: 1 to: self editorText size.
