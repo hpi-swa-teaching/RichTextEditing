@@ -1,0 +1,4 @@
+text structure
+openTemplateChoser
+
+	RichTextStructureEditor openWith: self bufferDocument

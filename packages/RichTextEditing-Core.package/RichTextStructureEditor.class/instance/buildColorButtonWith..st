@@ -8,5 +8,3 @@ buildColorButtonWith: aBuilder
 		label: 'Color';
 		action: #openColorPicker;
 		yourself
-	
-	

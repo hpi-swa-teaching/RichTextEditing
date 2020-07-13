@@ -1,0 +1,4 @@
+stop conditions
+readLimit
+
+	^ readLimit

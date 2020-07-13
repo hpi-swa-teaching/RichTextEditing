@@ -11,7 +11,8 @@
 		"styleList",
 		"loremIpsum",
 		"currentStructureSymbol",
-		"lastStructureSymbol" ],
+		"lastStructureSymbol",
+		"currentTemplateSymbol" ],
 	"name" : "RichTextStructureEditor",
 	"pools" : [
 		 ],
