@@ -1,4 +1,4 @@
-utilities
+constants
 boldTextStructure
 	
 	^ TextStructure bold
