@@ -1,0 +1,15 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentTemplateSymbol",
+		"document" ],
+	"name" : "RichTextTemplateChoser",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

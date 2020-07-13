@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"openWith:" : "JEH 7/4/2020 11:45" },
+	"instance" : {
+		"acceptNewTemplate" : "JEH 7/4/2020 11:41",
+		"buildAcceptTemplateButtonWith:" : "JEH 7/4/2020 11:29",
+		"buildHintTextFieldWith:" : "JEH 7/4/2020 11:27",
+		"buildSelectedTemplateTextFieldWith:" : "JEH 7/4/2020 11:28",
+		"buildTemplateFieldWith:" : "JEH 7/4/2020 11:35",
+		"buildWith:" : "JEH 7/4/2020 11:28",
+		"currentTemplateSymbol" : "JEH 7/4/2020 11:24",
+		"currentTemplateSymbol:" : "JEH 7/4/2020 12:09",
+		"document" : "JEH 7/4/2020 11:39",
+		"document:" : "JEH 7/4/2020 11:39",
+		"hintText" : "JEH 7/4/2020 11:27",
+		"initialize" : "JEH 7/4/2020 11:34",
+		"selectedTemplateText" : "JEH 7/4/2020 11:32",
+		"templateIdentifiers" : "JEH 7/4/2020 11:25" } }
