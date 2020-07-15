@@ -1,4 +1,5 @@
 apply
 applyOnDocument: aDocument
 	
-	self subclassResponsibility
+	self transformStructures: aDocument.
+	aDocument setTemplateStructures

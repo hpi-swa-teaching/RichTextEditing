@@ -5,7 +5,6 @@ updateRunArrayOn: aDocument with: newStructures
 	
 	newRuns := OrderedCollection new.
 	initialRuns := aDocument textRuns.
-	"self halt."
 	initialRuns do:[ :each |
 		newRuns add: (self selectValidStructures: each)].
 	^ RunArray newFrom: newRuns

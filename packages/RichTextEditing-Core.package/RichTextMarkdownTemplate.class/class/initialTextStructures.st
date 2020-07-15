@@ -1,7 +1,7 @@
 initial structures
 initialTextStructures
 
-	textStructures ifNil: [textStructures := {self initialBoldStructure.
+	^ {self initialBoldStructure.
 	self initialItalicStructure.
 	self initialUnderlinedStructure.
 	self initialQuoteStructure.
@@ -14,5 +14,4 @@ initialTextStructures
 	self initialLevel1ListStructure.
 	self initialLevel2ListStructure.
 	self initialLevel3ListStructure.
-	self initialURLStructure} asOrderedCollection].
-	^ textStructures
+	self initialURLStructure} asOrderedCollection
