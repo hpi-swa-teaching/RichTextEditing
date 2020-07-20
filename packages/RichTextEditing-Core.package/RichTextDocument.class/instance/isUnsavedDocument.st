@@ -1,4 +1,4 @@
 accessing
 isUnsavedDocument
 
-	^ self timeLastSaved isNil
+	^ self timestampLastSaved isNil

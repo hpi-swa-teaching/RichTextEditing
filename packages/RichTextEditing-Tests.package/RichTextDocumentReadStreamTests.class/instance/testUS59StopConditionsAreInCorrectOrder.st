@@ -7,4 +7,4 @@ testUS59StopConditionsAreInCorrectOrder
 	stopConditions := stream next second.
 	self assert: (self isEndOfStructure: (stopConditions first)).
 	self assert: (self isParagraph: (stopConditions second)).
-	self assert: (self isBeginningOfStructure: (stopConditions third)).
+	self assert: (self isBeginningOfStructure: (stopConditions third))

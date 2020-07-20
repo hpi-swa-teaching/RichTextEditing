@@ -1,6 +1,7 @@
 toolbuilder
-buildChildrenWith: aBuilder 
-			^ {	self buildStructureFieldWith: aBuilder. 
+buildChildrenWith: aBuilder
+
+			^ {self buildStructureFieldWith: aBuilder. 
 			self buildStyleFieldWith: aBuilder. 
 			self buildTextPreviewFieldWith: aBuilder. 
 			self buildAddStructureButtonWith: aBuilder. 
@@ -11,6 +12,5 @@ buildChildrenWith: aBuilder
 			self buildRemoveStructureButtonWith: aBuilder.
 			self buildIncreasePriorityButtonWith: aBuilder.
 			self buildDecreasePriorityButtonWith: aBuilder.
-			
 			self buildAcceptTemplateButtonWith: aBuilder.
 			self buildTemplateFieldWith: aBuilder}

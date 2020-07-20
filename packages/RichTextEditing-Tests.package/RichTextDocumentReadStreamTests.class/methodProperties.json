@@ -6,8 +6,8 @@
 		"isEndOfStructure:" : "frc 7/13/2020 13:29",
 		"isParagraph:" : "OS 7/10/2020 12:20",
 		"paragraphCharacter" : "OS 7/10/2020 11:34",
-		"testUS59EndOfStructureAndBeginOfStructureIncludeStructure" : "frc 7/16/2020 13:48",
+		"testUS59EndOfStructureAndBeginOfStructureIncludeStructure" : "tok 7/20/2020 14:13",
 		"testUS59NextReturnsNextSectionOfTextAndListOfStopConditions" : "OS 7/10/2020 12:27",
 		"testUS59ReadStreamExists" : "OS 7/10/2020 11:22",
-		"testUS59StopConditionsAreInCorrectOrder" : "frc 7/16/2020 13:50",
+		"testUS59StopConditionsAreInCorrectOrder" : "tok 7/20/2020 14:14",
 		"textWithAttributes" : "frc 7/13/2020 13:29" } }
