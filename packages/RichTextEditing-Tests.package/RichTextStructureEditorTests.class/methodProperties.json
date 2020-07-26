@@ -2,7 +2,7 @@
 	"class" : {
 		"lastStoredRun" : "frc 6/12/2020 19:59" },
 	"instance" : {
-		"acceptCurrentTemplate" : "JEH 7/9/2020 15:05",
+		"acceptCurrentTemplate" : "JEH 7/26/2020 18:41",
 		"addColoredStructureToText" : "kh 6/21/2020 10:04",
 		"addFontStructureToText" : "kh 6/21/2020 10:04",
 		"allStructuresAreDisplayed" : "AG 7/25/2019 13:24",
@@ -31,7 +31,7 @@
 		"testUS29AddNewStructure" : "tok 7/9/2020 21:57",
 		"testUS29DisplayAllStructures" : "ls 6/18/2019 16:22",
 		"testUS29RemoveNewStructure" : "ls 6/18/2019 16:22",
-		"testUS37TemplateCanBeSelected" : "JEH 7/10/2020 14:57",
+		"testUS37TemplateCanBeSelected" : "JEH 7/26/2020 18:43",
 		"testUS37TemplateChangeButtonExists" : "JEH 7/10/2020 14:57",
 		"testUS41ColorCanBeReset" : "kh 6/19/2020 11:24",
 		"testUS41ColorIsAssignedToStructure" : "AG 6/21/2019 13:59",

@@ -2,8 +2,10 @@ acceptance-tests
 testUS59StopConditionsAreInCorrectOrder
 
 	| stream stopConditions |
+	
 	self document text: self textWithAttributes.
 	stream := DocumentReadStream on: self document.
+	stream next.
 	stopConditions := stream next second.
 	self assert: (self isEndOfStructure: (stopConditions at: 1)).
 	self assert: (self isParagraph: (stopConditions at: 2)).
