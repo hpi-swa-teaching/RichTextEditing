@@ -1,0 +1,6 @@
+export
+template
+
+	^ self subclassResponsibility
+
+	

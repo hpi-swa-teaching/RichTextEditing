@@ -1,0 +1,4 @@
+opening strings
+codeStructureOpeningString
+
+	^ '<code>'

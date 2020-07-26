@@ -1,0 +1,4 @@
+closing strings
+codeStructureClosingString
+
+	^ '</code>'

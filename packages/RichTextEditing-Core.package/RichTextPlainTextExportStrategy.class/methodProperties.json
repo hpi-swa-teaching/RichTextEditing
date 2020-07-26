@@ -1,7 +1,9 @@
 {
 	"class" : {
-		"export:to:" : "tok 7/9/2020 21:38",
+		"export:to:" : "JEH 7/26/2020 18:16",
 		"fileEnding" : "tok 7/3/2020 19:28",
-		"label" : "tok 7/8/2020 16:42" },
+		"label" : "tok 7/8/2020 16:42",
+		"setTemplateFor:" : "JEH 7/26/2020 18:14",
+		"template" : "JEH 7/26/2020 18:16" },
 	"instance" : {
 		 } }

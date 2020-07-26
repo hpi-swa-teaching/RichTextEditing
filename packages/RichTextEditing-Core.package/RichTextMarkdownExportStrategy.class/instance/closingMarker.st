@@ -1,4 +1,0 @@
-printing
-closingMarker
-
-	^ #closing

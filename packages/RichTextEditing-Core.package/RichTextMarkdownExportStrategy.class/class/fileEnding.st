@@ -1,4 +1,4 @@
 export
 fileEnding
-	
+
 	^ '.md'

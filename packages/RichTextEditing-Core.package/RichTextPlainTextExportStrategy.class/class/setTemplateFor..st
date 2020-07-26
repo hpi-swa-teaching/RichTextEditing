@@ -1,0 +1,2 @@
+export
+setTemplateFor: aRichTextDocument

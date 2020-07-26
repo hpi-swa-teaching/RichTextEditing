@@ -1,4 +1,0 @@
-closing strings
-codeStructureClosingString
-
-	^ '`'

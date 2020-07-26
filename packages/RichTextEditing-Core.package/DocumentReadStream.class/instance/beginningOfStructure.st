@@ -6,4 +6,4 @@ beginningOfStructure
 	diff := self structureDifferenceBetween: self position + 1 and: self position.
 	^ diff isEmpty
 			ifTrue: [nil]
-		 	ifFalse: [{#beginningOfStructure. diff}]
+		 	ifFalse: [{#beginningOfStructure. diff asSet asOrderedCollection}]

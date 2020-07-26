@@ -1,0 +1,4 @@
+closing strings
+urlStructureClosingString
+
+	^ '</a>'
