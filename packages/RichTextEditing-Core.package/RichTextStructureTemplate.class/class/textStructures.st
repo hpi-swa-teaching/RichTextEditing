@@ -1,0 +1,4 @@
+apply
+textStructures
+
+	^ self subclassResponsibility

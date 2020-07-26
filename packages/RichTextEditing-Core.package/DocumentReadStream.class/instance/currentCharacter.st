@@ -1,4 +1,6 @@
 accessing
 currentCharacter
 
-	^ self text at: self position
+	^ (self position = 0)
+		ifTrue: ['']
+		ifFalse: [self text at: self position]

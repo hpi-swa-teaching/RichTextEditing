@@ -1,9 +1,9 @@
 {
 	"class" : {
+		"clearCachedDictionaries" : "JEH 7/25/2020 20:06",
 		"identifier" : "JEH 7/4/2020 11:26",
 		"initialBoldStructure" : "frc 7/15/2020 16:14",
 		"initialCodeStructure" : "JEH 7/4/2020 12:20",
-		"initialFootnoteStructure" : "JEH 7/4/2020 11:15",
 		"initialHeading1Structure" : "JEH 7/4/2020 11:15",
 		"initialHeading2Structure" : "JEH 7/4/2020 11:15",
 		"initialHeading3Structure" : "JEH 7/4/2020 11:15",
@@ -13,7 +13,7 @@
 		"initialLevel2ListStructure" : "JEH 7/4/2020 12:03",
 		"initialLevel3ListStructure" : "JEH 7/4/2020 12:03",
 		"initialQuoteStructure" : "JEH 7/4/2020 12:35",
-		"initialTextStructures" : "frc 7/15/2020 18:30",
+		"initialTextStructures" : "JEH 7/25/2020 18:59",
 		"initialURLStructure" : "JEH 7/4/2020 11:16",
 		"initialUnderlinedStructure" : "frc 7/15/2020 16:14",
 		"textStructures" : "frc 7/15/2020 18:31" },

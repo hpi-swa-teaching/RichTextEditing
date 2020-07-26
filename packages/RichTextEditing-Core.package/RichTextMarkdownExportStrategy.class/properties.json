@@ -1,0 +1,20 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"writeOutCollection",
+		"eventHandlingDictionary",
+		"currentStructures",
+		"document",
+		"fileStream",
+		"openingStrings",
+		"closingStrings" ],
+	"name" : "RichTextMarkdownExportStrategy",
+	"pools" : [
+		 ],
+	"super" : "RichTextExportStrategy",
+	"type" : "normal" }

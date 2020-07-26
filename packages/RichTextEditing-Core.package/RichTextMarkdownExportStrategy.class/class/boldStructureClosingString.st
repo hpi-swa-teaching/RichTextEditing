@@ -1,0 +1,4 @@
+closing strings
+boldStructureClosingString
+
+	^ '**'

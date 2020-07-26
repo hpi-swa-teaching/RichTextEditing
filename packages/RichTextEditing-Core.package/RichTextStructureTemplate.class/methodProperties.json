@@ -1,8 +1,8 @@
 {
 	"class" : {
-		"addRemainingStructures:" : "frc 7/15/2020 18:24",
 		"applyOnDocument:" : "frc 7/15/2020 18:24",
 		"availableTemplates" : "JEH 7/4/2020 11:16",
+		"clearAllTemplatesCachedDictionaries" : "JEH 7/25/2020 18:51",
 		"defaultTemplate" : "JEH 7/4/2020 11:16",
 		"identifier" : "JEH 7/4/2020 11:17",
 		"initialStructureIdentifiers" : "frc 7/15/2020 18:31",
@@ -10,9 +10,9 @@
 		"selectValidStructures:" : "frc 7/15/2020 18:24",
 		"templateFromIdentifier:" : "JEH 7/4/2020 11:41",
 		"textStructureByIndentifier:" : "frc 7/15/2020 18:31",
-		"textStructuresIndentifiers" : "frc 7/15/2020 18:31",
-		"transformStructure:" : "frc 7/15/2020 18:29",
-		"transformStructures:" : "frc 7/15/2020 18:25",
-		"updateRunArrayOn:with:" : "frc 7/15/2020 18:25" },
+		"textStructures" : "JEH 7/25/2020 17:34",
+		"transformStructure:" : "JEH 7/25/2020 18:45",
+		"transformStructures:" : "JEH 7/25/2020 18:39",
+		"updateRunArrayOn:with:" : "JEH 7/25/2020 18:47" },
 	"instance" : {
 		 } }
