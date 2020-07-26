@@ -1,4 +1,4 @@
 export
 availableExportStrategies
 
-	^ (self subclasses collect: [:each | each label -> each]) asDictionary
+	^ Dictionary newFrom: (self subclasses collect: [:each | each label -> each])
