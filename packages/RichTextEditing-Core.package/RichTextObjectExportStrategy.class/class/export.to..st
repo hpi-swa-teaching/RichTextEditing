@@ -1,6 +1,6 @@
 export
 export: aRichTextDocument to: aFilePath
 
-	(SmartRefStream fileNamed: aFilePath)
+	(ReferenceStream fileNamed: aFilePath)
 		nextPut: aRichTextDocument;
 		close
