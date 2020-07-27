@@ -2,12 +2,12 @@ stop-condition-handling
 eventHandlingDictionary
 
 	eventHandlingDictionary ifNil: [
-		eventHandlingDictionary := {
+		eventHandlingDictionary := Dictionary newFrom: {
 			#endOfDocument -> [:event | self handleEndOfDocument: event].
 			#endOfStructure -> [:event | self handleEndOfStructure: event].
 			#paragraph -> [:event | self handleParagraph: event].
 			#lineFeed -> [:event | self handleLineFeed: event].
-			#beginningOfStructure -> [:event | self handleBeginningOfStructure: event]} asDictionary].
+			#beginningOfStructure -> [:event | self handleBeginningOfStructure: event]}].
 	
 	^ eventHandlingDictionary
 	
