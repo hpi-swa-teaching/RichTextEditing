@@ -1,5 +1,5 @@
 toolbuilder
-structureFieldFrame
+templateFieldFrame
 
 	^ LayoutFrame new
 		leftFraction: 0;

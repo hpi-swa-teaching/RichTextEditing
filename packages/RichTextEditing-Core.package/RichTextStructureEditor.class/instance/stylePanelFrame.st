@@ -1,9 +1,9 @@
 toolbuilder
-styleFieldFrame
+stylePanelFrame
 
 	^ LayoutFrame new
-		leftFraction: 0;
+		leftFraction: 0.6;
 		rightFraction: 1;
 		topFraction: 0;
-		bottomFraction: 0.5
+		bottomFraction: 1
 		

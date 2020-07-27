@@ -6,11 +6,7 @@ buildWith: aBuilder
 	 	 model: self;
 		 label: 'Structure Editor';
 		 children: {
-			self buildStructureFieldWith: aBuilder. 
-			self buildStyleFieldWith: aBuilder. 
-			self buildTextPreviewFieldWith: aBuilder. 
-			self buildStyleButtonPanelWith: aBuilder.
-			self buildStructureButtonPanelWith: aBuilder.
-			self buildAcceptTemplateButtonWith: aBuilder.
-			self buildTemplateFieldWith: aBuilder}.
+			self buildTemplatePanelWith: aBuilder.
+			self buildStructurePanelWith: aBuilder.
+			self buildStylePanelWith: aBuilder}.
 	^ aBuilder build: windowSpec

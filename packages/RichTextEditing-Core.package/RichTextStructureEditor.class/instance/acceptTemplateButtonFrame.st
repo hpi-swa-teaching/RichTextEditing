@@ -1,5 +1,5 @@
 toolbuilder
-structureButtonPanelFrame
+acceptTemplateButtonFrame
 
 	^ LayoutFrame new
 		leftFraction: 0;
