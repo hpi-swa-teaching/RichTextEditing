@@ -6,4 +6,3 @@ structurePanelFrame
 		rightFraction: 0.6;
 		topFraction: 0;
 		bottomFraction: 1
-		

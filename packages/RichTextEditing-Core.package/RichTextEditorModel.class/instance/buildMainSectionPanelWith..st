@@ -6,7 +6,6 @@ buildMainSectionPanelWith: aBuilder
 		wantsResizeHandles: true;
 		children: {
 			self buildStructureSectionPanelWith: aBuilder.
-			self buildTextFieldWith: aBuilder
-		};
+			self buildTextFieldWith: aBuilder};
 		frame: (self mainSectionFrame);
 		yourself

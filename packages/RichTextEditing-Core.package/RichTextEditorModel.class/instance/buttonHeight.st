@@ -1,4 +1,4 @@
 toolbuilder
 buttonHeight
 
-	^ Preferences standardButtonFont height * 3 
+	^ Preferences standardButtonFont height * 3

@@ -3,7 +3,7 @@ buildStyleButtonPanelWith: aBuilder
 
 	^ aBuilder pluggablePanelSpec new
 		model: self;
-		frame: (self styleButtonPanelFrame);
+		frame: self styleButtonPanelFrame;
 		verticalResizing: #rigid;
 		children: {
 			self buildFontButtonWith: aBuilder.

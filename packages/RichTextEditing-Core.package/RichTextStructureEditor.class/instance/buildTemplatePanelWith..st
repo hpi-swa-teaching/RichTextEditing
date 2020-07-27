@@ -6,7 +6,6 @@ buildTemplatePanelWith: aBuilder
 		wantsResizeHandles: true;
 		children: {
 			self buildTemplateFieldWith: aBuilder.
-			self buildAcceptTemplateButtonWith: aBuilder
-		};
+			self buildAcceptTemplateButtonWith: aBuilder};
 		frame: self templatePanelFrame;
 		yourself

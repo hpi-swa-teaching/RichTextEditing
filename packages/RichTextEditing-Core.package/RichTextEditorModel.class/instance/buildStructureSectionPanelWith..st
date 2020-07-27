@@ -6,6 +6,5 @@ buildStructureSectionPanelWith: aBuilder
 		frame: (self structureSectionFrame);
 		children: {
 			self buildStructureListWith: aBuilder.
-			self buildManageStructuresButtonWith: aBuilder
-		};
+			self buildManageStructuresButtonWith: aBuilder};
 		yourself

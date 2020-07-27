@@ -7,7 +7,6 @@ buildMenuBarPanelWith: aBuilder
 		children: {
 			self buildDocumentMenuWith: aBuilder.
 			self buildEditMenuWith: aBuilder.
-			self buildHelpButtonWith: aBuilder
-		};
+			self buildHelpButtonWith: aBuilder};
 		frame: (self menuBarFrame);
 		yourself

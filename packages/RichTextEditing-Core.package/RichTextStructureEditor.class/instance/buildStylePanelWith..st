@@ -7,7 +7,6 @@ buildStylePanelWith: aBuilder
 		children: {
 			self buildStyleFieldWith: aBuilder.
 			self buildStyleButtonPanelWith: aBuilder.
-			self buildTextPreviewFieldWith: aBuilder
-		};
+			self buildTextPreviewFieldWith: aBuilder};
 		frame: self stylePanelFrame;
 		yourself

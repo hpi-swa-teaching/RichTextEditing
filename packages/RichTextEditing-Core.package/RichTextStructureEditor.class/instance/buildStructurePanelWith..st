@@ -6,7 +6,6 @@ buildStructurePanelWith: aBuilder
 		wantsResizeHandles: true;
 		children: {
 			self buildStructureFieldWith: aBuilder.
-			self buildStructureButtonPanelWith: aBuilder
-		};
+			self buildStructureButtonPanelWith: aBuilder};
 		frame: self structurePanelFrame;
 		yourself

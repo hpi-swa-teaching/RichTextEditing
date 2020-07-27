@@ -14,4 +14,3 @@ buildWith: aBuilder
 	self postBuildWith: aBuilder.
 	
 	^ result
-		

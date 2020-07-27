@@ -6,4 +6,3 @@ templatePanelFrame
 		rightFraction: 0.2;
 		topFraction: 0;
 		bottomFraction: 1
-		
