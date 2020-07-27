@@ -9,6 +9,7 @@
 		"allStructureIdentifiers" : "kh 6/21/2020 16:17",
 		"buildAcceptTemplateButtonWith:" : "kh 7/27/2020 11:48",
 		"buildAddStructureButtonWith:" : "kh 7/11/2020 19:14",
+		"buildChildrenWith:" : " 7/27/2020 14:15:28",
 		"buildColorButtonWith:" : "kh 7/11/2020 19:21",
 		"buildColorResetButtonWith:" : "kh 7/11/2020 19:21",
 		"buildDecreasePriorityButtonWith:" : "kh 7/11/2020 19:14",
@@ -76,6 +77,6 @@
 		"templatePanelFrame" : "kh 7/27/2020 14:09",
 		"textPreviewFrame" : "kh 7/27/2020 14:12",
 		"textStructures" : "ls 7/24/2019 16:55",
-		"update:" : "ls 7/24/2019 21:57",
+		"update:" : "frc 7/16/2020 13:52",
 		"updateLoremIpsum" : "kh 6/21/2020 10:04",
 		"updateStructures:" : "lh 7/25/2019 11:05" } }

@@ -1,4 +1,4 @@
 accessing
 timeLastSaved
 
-	^ timeLastSaved
+	^ self timestampLastSaved second
