@@ -14,8 +14,8 @@
 		"file:" : "frc 6/8/2020 14:59",
 		"fileDirectory" : "tok 7/10/2020 11:46",
 		"fileDirectory:" : "tok 7/10/2020 11:46",
-		"htmlExampleString" : "frc 7/26/2020 21:11",
-		"htmlFormattedDocument" : "frc 7/26/2020 21:00",
+		"htmlExampleString" : "frc 7/28/2020 19:41",
+		"htmlFormattedDocument" : "frc 7/28/2020 19:39",
 		"plainTextExportLabel" : "tok 7/8/2020 16:44",
 		"setUp" : "frc 6/12/2020 16:55",
 		"setupFile" : "tok 7/9/2020 21:10",
@@ -24,5 +24,6 @@
 		"testUS84importFileFromFilesystem" : "tok 7/9/2020 21:57",
 		"testUS87ExportAsPlainTextExistsInDialog" : "tok 7/8/2020 20:17",
 		"testUS87ExportDocumentAsPlainText" : "tok 7/9/2020 22:41",
-		"testUS88ExportAsHTML" : "frc 7/26/2020 21:15",
+		"testUS88ExportAsHTML" : "frc 7/28/2020 19:42",
+		"testUS88ExportAsMarkdown" : "frc 7/28/2020 19:42",
 		"testUS88ExportAsMarkdownExistsInDialog" : "frc 7/26/2020 20:32" } }
