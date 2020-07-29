@@ -5,5 +5,5 @@ export: aRichTextDocument to: aFilePath
 	super prepareExportFor: aRichTextDocument.
 	
 	fileStream := StandardFileStream newFileNamed: aFilePath.
-	fileStream nextPutAll: aRichTextDocument text asString.
+	fileStream nextPutAll: aRichTextDocument asString.
 	fileStream close

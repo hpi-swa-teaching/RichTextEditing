@@ -1,0 +1,4 @@
+constants
+undoButtonLabel
+
+	^ 'Undo (z)'

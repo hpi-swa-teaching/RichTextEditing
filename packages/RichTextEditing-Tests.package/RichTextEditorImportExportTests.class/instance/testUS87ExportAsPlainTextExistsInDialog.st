@@ -5,4 +5,4 @@ testUS87ExportAsPlainTextExistsInDialog
 	answer := self answer: RichTextPlainTextExportStrategy
 							inDialog: [self editorModel selectExportStrategy].
 							
-	self assert: answer ~= nil
+	self deny: answer isNil

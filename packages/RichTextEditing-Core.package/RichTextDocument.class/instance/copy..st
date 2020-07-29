@@ -3,7 +3,7 @@ copy: aRichTextDocument
 	
 	self
 		name: aRichTextDocument name copy;
-		timeLastSaved: aRichTextDocument timeLastSaved;
+		timestampLastSaved: aRichTextDocument timestampLastSaved;
 		text: aRichTextDocument text copy;
 		textStructures: aRichTextDocument textStructures copy;
 		changed
