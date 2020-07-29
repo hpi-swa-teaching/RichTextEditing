@@ -1,4 +1,4 @@
-resources
+constants
 htmlFormattedDocument
 
 	|  runs text |
@@ -7,4 +7,4 @@ htmlFormattedDocument
 	 	{TextStructure italic} . {TextStructure italic} . #()}.
 	text := Text fromString:  'This is a test.'.
 	text runs: runs.
-	^ RichTextDocument fromText: text withStructures: RichTextHTMLTemplate initialTextStructures
+	^ RichTextDocument fromText: text withStructures: RichTextHTMLTemplate textStructures
