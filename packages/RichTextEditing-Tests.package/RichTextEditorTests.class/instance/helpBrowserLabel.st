@@ -1,0 +1,4 @@
+constants
+helpBrowserLabel
+
+	^ 'SquidWord: '

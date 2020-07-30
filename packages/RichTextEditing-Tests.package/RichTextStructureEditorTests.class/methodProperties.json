@@ -28,6 +28,7 @@
 		"structureIsNotDisplayed:" : "AG 6/18/2019 16:00",
 		"tearDown" : "ls 6/12/2019 18:04",
 		"testNewNullTextStructureReturnsNullTextStructure" : "tok 6/13/2020 11:00",
+		"testNoSelectedStructureDoesntAllowFont" : "frc 7/30/2020 11:05",
 		"testUS29AddNewStructure" : "tok 7/9/2020 21:57",
 		"testUS29DisplayAllStructures" : "ls 6/18/2019 16:22",
 		"testUS29RemoveNewStructure" : "ls 6/18/2019 16:22",

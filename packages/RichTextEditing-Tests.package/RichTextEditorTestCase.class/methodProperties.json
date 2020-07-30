@@ -7,6 +7,7 @@
 		"boldTextStructure" : "frc 7/13/2020 12:18",
 		"buttonWithLabelExists:" : "AG 5/29/2019 22:21",
 		"closeAllMenus" : "frc 6/16/2020 20:46",
+		"closeWindowsWithLabel:" : "frc 7/30/2020 10:28",
 		"doMenuActionByLabel:" : "frc 6/18/2020 19:00",
 		"document" : "frc 7/13/2020 12:12",
 		"documentMenu" : "frc 6/25/2020 16:24",
@@ -35,4 +36,5 @@
 		"textView" : "MB 5/22/2019 17:55",
 		"textViewWrapper" : "MB 5/15/2019 19:08",
 		"textWithAttributes" : "frc 7/29/2020 09:03",
-		"triangleIsVisible" : "lh 6/18/2019 15:20" } }
+		"triangleIsVisible" : "lh 6/18/2019 15:20",
+		"windowsWithLabel:" : "frc 7/30/2020 10:26" } }
