@@ -2,5 +2,3 @@ export
 template
 
 	^ self subclassResponsibility
-
-	
