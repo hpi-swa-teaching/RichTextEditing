@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JEH 7/10/2020 15:08",
+	"instvars" : [
+		 ],
+	"name" : "RichTextMarkdownTemplate",
+	"pools" : [
+		 ],
+	"super" : "RichTextStructureTemplate",
+	"type" : "normal" }

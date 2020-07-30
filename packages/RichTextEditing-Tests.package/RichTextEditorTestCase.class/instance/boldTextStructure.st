@@ -1,0 +1,4 @@
+constants
+boldTextStructure
+	
+	^ TextStructure bold

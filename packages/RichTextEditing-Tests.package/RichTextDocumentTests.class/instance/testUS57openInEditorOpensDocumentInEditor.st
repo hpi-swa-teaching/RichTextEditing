@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS57openInEditorOpensDocumentInEditor
 
 	| newEditor |

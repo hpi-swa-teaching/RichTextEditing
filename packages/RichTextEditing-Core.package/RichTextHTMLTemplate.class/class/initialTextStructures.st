@@ -1,0 +1,4 @@
+accessing
+initialTextStructures
+
+	^ RichTextMarkdownTemplate initialTextStructures

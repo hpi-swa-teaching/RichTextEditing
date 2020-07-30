@@ -2,7 +2,8 @@ menubar
 openEditMenu
 
 	^ self openMenuWith: {
-		{'Undo' . #undo}.
-		{'Redo' . #redo}.
-		{'Structures' . #openStructureEditor}
+		{'Undo (z)' . #undo}.
+		{'Redo (Z)' . #redo}.
+		{'Structures' . #openStructureEditor}.
+		{'Template'. #openTemplateChoser}
 	}

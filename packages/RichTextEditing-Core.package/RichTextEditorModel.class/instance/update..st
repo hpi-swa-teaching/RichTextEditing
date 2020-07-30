@@ -7,4 +7,6 @@ update: aParameter
 	self 
 		bufferDocument: self targetDocument copy;
 		textChanged;
-		noUnacceptedEdits
+		structuresChanged;
+		noUnacceptedEdits.
+	self bufferDocument myDependents: (self targetDocument myDependents)

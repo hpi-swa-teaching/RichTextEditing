@@ -1,0 +1,4 @@
+acceptance-tests
+testUS87ExportAsPlainTextExistsInDialog
+
+	self assert: (self exportOptionExists: RichTextPlainTextExportStrategy)

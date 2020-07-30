@@ -10,7 +10,11 @@ SmalltalkCISpec {
   
   #testing : {
     #coverage : {
-      #packages : [ 'RichTextEditing-Core' ]
+      #packages : [ 'RichTextEditing-Core' ],
+      #classes : [ #RichTextExportStrategy , #RichTextPlainTextExportStrategy,
+       'RichTextExportStrategy class', #'RichTextPlainTextExportStrategy class',
+       #RichTextStructureTemplate, #RichTextMarkdownTemplate, #RichTextDefaultTemplate,
+       #'RichTextStructureTemplate class', #'RichTextMarkdownTemplate class', #'RichTextDefaultTemplate class' ]
     }
   }
 }

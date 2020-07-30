@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS07UndoKeyboardShortcut
 
 	self enterStringOntoTextField: 'Test'.

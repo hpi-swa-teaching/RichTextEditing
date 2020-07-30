@@ -1,0 +1,4 @@
+constants
+fileExporters
+
+	^ RichTextExportStrategy availableExportStrategies
