@@ -1,4 +1,4 @@
 font
-resetFontOfCurrentStructure
+resetFont
 
 	self noCurrentStructureWarning

@@ -7,7 +7,7 @@ testUS42FontCanBeReset
 		addFontStructureToText;
 		setFont: self fontAtlanta22;
 		deny: (self textHasFont: self structureEditor defaultFont).
-	resetFontButton := self structureEditorView findByLabel: 'Reset font'.
+	resetFontButton := self structureEditorView findByLabel: self resetFontLabel.
 	resetFontButton click.
 	
 	self assert: self textHasNoFont

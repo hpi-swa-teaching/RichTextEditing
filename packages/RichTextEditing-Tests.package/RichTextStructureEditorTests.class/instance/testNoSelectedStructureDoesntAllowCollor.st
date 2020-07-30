@@ -1,4 +1,4 @@
 unit-tests
 testNoSelectedStructureDoesntAllowCollor
 
-	self should: [(self structureEditorView findByLabel: 'Color') click] raise: ProvideAnswerNotification
+	self should: [(self structureEditorView findByLabel: self colorPickerLabel) click] raise: ProvideAnswerNotification
