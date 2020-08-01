@@ -1,0 +1,4 @@
+constants
+manageStructuresLabel
+
+	^ 'Manage Structures'

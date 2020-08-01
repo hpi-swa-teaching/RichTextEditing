@@ -1,0 +1,4 @@
+constants
+resetColorLabel
+
+	^ 'Reset color'

@@ -3,5 +3,5 @@ testOpenStructureEditor
 
 	| currentMorphCount |
 	currentMorphCount := ActiveWorld submorphCount.
-	(self editorView findByLabel: 'Manage Structures') click.
+	(self editorView findByLabel: self manageStructuresLabel) click.
 	self assert: currentMorphCount + 1 equals: ActiveWorld submorphCount

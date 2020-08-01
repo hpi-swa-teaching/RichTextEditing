@@ -1,0 +1,4 @@
+constants
+resetFontLabel
+
+	^ 'Reset font'
