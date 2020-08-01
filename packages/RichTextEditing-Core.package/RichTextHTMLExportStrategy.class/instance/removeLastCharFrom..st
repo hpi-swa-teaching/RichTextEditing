@@ -1,4 +1,4 @@
 printing
-removeLastCharFromText: aText
+removeLastCharFrom: aText
 
 	^ aText copyFrom: 1 to: (aText size - 1)

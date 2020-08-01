@@ -5,8 +5,8 @@ putTextForEvent: aDocumentReadStreamEvent
 	
 	text := aDocumentReadStreamEvent first.
 	(self event: aDocumentReadStreamEvent contains: #paragraph)
-		ifTrue: [text := self removeLastCharFromText: text].
+		ifTrue: [text := self removeLastCharFrom: text].
 	(self event: aDocumentReadStreamEvent contains: #lineFeed)
-		ifTrue: [text := self removeLastCharFromText: text].	
+		ifTrue: [text := self removeLastCharFrom: text].	
 	
 	self put: text

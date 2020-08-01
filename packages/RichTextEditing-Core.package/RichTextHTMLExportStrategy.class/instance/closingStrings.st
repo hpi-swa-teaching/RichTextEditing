@@ -1,8 +1,8 @@
 accessing
 closingStrings
 
-	closingStrings ifNil:
-		[closingStrings := Dictionary newFrom: {#bold -> self class boldStructureClosingString.
+	closingStrings ifNil: [closingStrings := Dictionary newFrom: {
+		#bold -> self class boldStructureClosingString.
 		#italic -> self class italicStructureClosingString.
 		#heading1 -> self class heading1StructureClosingString.
 		#heading2 -> self class heading2StructureClosingString.
