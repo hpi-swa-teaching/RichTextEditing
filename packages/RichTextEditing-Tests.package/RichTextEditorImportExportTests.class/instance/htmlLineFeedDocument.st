@@ -1,4 +1,4 @@
 constants
-lineFeedDocument
+htmlLineFeedDocument
 	
 	^  RichTextDocument fromText: (Text fromString: self exampleContent) withStructures: RichTextHTMLTemplate textStructures

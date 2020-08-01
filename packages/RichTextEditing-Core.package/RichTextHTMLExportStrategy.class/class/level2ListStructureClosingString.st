@@ -1,4 +1,4 @@
 closing strings
 level2ListStructureClosingString
 
-	^ '</li>'
+	^ '</li></ul>'

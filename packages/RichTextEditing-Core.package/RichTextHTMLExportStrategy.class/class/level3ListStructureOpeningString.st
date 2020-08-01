@@ -1,4 +1,4 @@
 opening strings
 level3ListStructureOpeningString
 
-	^ '<li> '
+	^ '<ul><li>'
