@@ -9,7 +9,7 @@
 		"exampleExportContent" : "tok 7/9/2020 22:41",
 		"exampleExportFilePath" : "tok 7/8/2020 20:43",
 		"exampleImportFilePath" : "tok 7/9/2020 21:16",
-		"exportOptionExists:" : "frc 7/30/2020 08:40",
+		"exportOptionExists:" : "frc 8/1/2020 12:44",
 		"exportedFileContent" : "tok 7/9/2020 22:41",
 		"exportedFileExists" : "tok 7/9/2020 21:44",
 		"file" : "frc 6/8/2020 15:00",
@@ -33,5 +33,5 @@
 		"testUS87ExportAsPlainTextExistsInDialog" : "frc 7/30/2020 08:38",
 		"testUS87ExportDocumentAsPlainText" : "tok 7/9/2020 22:41",
 		"testUS88ExportAsHTML" : "frc 7/29/2020 10:00",
-		"testUS88ExportAsMarkdown" : "frc 7/29/2020 10:01",
+		"testUS88ExportAsMarkdown" : "frc 8/1/2020 12:44",
 		"testUS88ExportAsMarkdownExistsInDialog" : "frc 7/30/2020 08:37" } }
