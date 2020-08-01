@@ -1,4 +1,4 @@
 constants
 helpBrowserLabel
 
-	^ 'SquidWord: '
+	^ SquidWordHelp bookName , ': '

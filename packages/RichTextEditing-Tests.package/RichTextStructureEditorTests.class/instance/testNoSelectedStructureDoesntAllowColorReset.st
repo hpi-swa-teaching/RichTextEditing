@@ -1,4 +1,4 @@
 unit-tests
 testNoSelectedStructureDoesntAllowColorReset
 
-	self should: [(self structureEditorView findByLabel: self resetColorLabel) click] raise: ProvideAnswerNotification
+	self should: [self resetColorButton click] raise: ProvideAnswerNotification

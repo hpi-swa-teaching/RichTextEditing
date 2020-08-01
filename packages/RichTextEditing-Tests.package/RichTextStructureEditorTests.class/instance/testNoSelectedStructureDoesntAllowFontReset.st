@@ -1,4 +1,4 @@
 unit-tests
 testNoSelectedStructureDoesntAllowFontReset
 
-	self should: [(self structureEditorView findByLabel: self resetFontLabel) click] raise: ProvideAnswerNotification
+	self should: [self resetFontButton click] raise: ProvideAnswerNotification

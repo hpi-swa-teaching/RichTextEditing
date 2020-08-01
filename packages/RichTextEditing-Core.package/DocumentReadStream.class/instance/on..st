@@ -2,5 +2,5 @@ initialize
 on: aDocument
 
 	collection := aDocument text.
-	self readLimit: collection size.
+	readLimit := collection size.
 	self reset

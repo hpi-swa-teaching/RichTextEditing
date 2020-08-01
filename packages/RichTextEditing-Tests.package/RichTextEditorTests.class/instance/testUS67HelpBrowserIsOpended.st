@@ -8,4 +8,3 @@ testUS67HelpBrowserIsOpended
 	
 	self assert: ((self windowsWithLabel: self helpBrowserLabel) size > currentHelpEditorNumber).
 	self closeWindowsWithLabel: self helpBrowserLabel
-	

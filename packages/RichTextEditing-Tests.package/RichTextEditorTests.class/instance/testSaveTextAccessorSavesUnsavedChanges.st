@@ -1,5 +1,5 @@
 unit-tests
-testSaveTextUnsavedChanges
+testSaveTextAccessorSavesUnsavedChanges
 
 	self enterStringOntoTextField: self anotherText.
 	self assert: self editorModel hasUnacceptedEdits.

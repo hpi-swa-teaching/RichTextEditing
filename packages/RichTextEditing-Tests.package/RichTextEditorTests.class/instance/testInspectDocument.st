@@ -2,5 +2,5 @@ unit-tests
 testInspectDocument
 	
 	self editorModel inspectDocument.
-	self assert: ((self windowsWithLabel: 'RichTextDocument') notEmpty).
-	self closeWindowsWithLabel: 'RichTextDocument'
+	self assert: ((self windowsWithLabel: (self inspectDocumentWindowLabel)) notEmpty).
+	self closeWindowsWithLabel: self inspectDocumentWindowLabel

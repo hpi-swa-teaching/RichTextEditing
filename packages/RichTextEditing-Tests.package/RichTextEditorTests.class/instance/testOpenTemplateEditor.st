@@ -2,7 +2,7 @@ unit-tests
 testOpenTemplateEditor
 
 	| windowCount |
-	windowCount := (self windowsWithLabel: 'Structure Editor') size.
-	self doMenuActionByLabel: 'Template'.
-	self assert:	((self windowsWithLabel: 'Structure Editor') size > windowCount).
-	self closeWindowsWithLabel: 'Structure Editor'
+	windowCount := (self windowsWithLabel: self structureEditorLabel) size.
+	self doMenuActionByLabel: self templateButtonLabel.
+	self assert:	((self windowsWithLabel: self structureEditorLabel) size > windowCount).
+	self closeWindowsWithLabel: self structureEditorLabel
