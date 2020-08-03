@@ -3,7 +3,7 @@ buildManageStructuresButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new
 		model: self;
-		frame: (self manageStructuresButtonFrame);
+		frame: self manageStructuresButtonFrame;
 		label: 'Manage Structures';
 		action: #openStructureEditor;
 		yourself

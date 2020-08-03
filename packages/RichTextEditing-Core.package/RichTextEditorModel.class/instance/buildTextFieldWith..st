@@ -4,7 +4,7 @@ buildTextFieldWith: aBuilder
 	^ aBuilder pluggableTextSpec new
 		name: 'textView';
 		model: self;
-		frame: (self textFieldFrame);
+		frame: self textFieldFrame;
 		readOnly: false;
 		getText: #text;
 		setText: #saveText:;

@@ -8,5 +8,5 @@ buildMenuBarPanelWith: aBuilder
 			self buildDocumentMenuWith: aBuilder.
 			self buildEditMenuWith: aBuilder.
 			self buildHelpButtonWith: aBuilder};
-		frame: (self menuBarFrame);
+		frame: self menuBarFrame;
 		yourself

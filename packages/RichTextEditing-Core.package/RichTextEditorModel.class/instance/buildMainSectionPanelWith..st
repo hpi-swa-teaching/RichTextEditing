@@ -7,5 +7,5 @@ buildMainSectionPanelWith: aBuilder
 		children: {
 			self buildStructureSectionPanelWith: aBuilder.
 			self buildTextFieldWith: aBuilder};
-		frame: (self mainSectionFrame);
+		frame: self mainSectionFrame;
 		yourself
