@@ -1,8 +1,8 @@
 import-export
-importFileFrom: filePath
+importFileFrom: aFilePath
 
 	| fileStream text document |
-	fileStream := StandardFileStream readOnlyFileNamed: filePath.
+	fileStream := StandardFileStream readOnlyFileNamed: aFilePath.
 	text := Text fromString: fileStream contents.
 	document := self documentClass fromText: text withStructures: (self documentClass initialTextStructures).
 	self setDocument: document.
