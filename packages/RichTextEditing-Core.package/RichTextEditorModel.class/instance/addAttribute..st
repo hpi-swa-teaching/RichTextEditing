@@ -1,7 +1,8 @@
 text structure
 addAttribute: aTextAttribute
 
-	self
+	self setTextFromView.
+	self bufferDocument
 		addAttribute: aTextAttribute
 		from: self selectionStart
 		to: self selectionStop

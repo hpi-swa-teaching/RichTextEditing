@@ -10,8 +10,7 @@
 		"saverClass" : "ls 5/8/2019 20:28",
 		"yellowButtonMenuItems" : "tok 5/31/2020 20:54" },
 	"instance" : {
-		"addAttribute:" : "tok 8/3/2020 13:07",
-		"addAttribute:from:to:" : "tok 8/3/2020 13:06",
+		"addAttribute:" : "tok 8/3/2020 14:30",
 		"addExtendableStructures" : "kh 6/21/2020 10:03",
 		"applyCurrentStructures" : "OS 6/3/2020 22:35",
 		"bufferDocument" : "ls 6/26/2019 17:45",
@@ -26,7 +25,7 @@
 		"buildStructureListWith:" : "frc 6/16/2020 19:36",
 		"buildTextFieldWith:" : "frc 6/16/2020 19:35",
 		"buildWith:" : "frc 6/25/2020 16:23",
-		"changeAttributesFor:with:" : "tok 8/3/2020 13:01",
+		"changeAttributesFor:with:" : "tok 8/3/2020 14:35",
 		"changeBuffersFor:with:" : "tok 8/3/2020 12:47",
 		"chosenDocument" : "AG 7/25/2019 13:13",
 		"createNewStructure:" : "ls 7/24/2019 15:11",

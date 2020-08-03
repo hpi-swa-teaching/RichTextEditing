@@ -1,10 +1,8 @@
 text structure
 changeAttributesFor: aBoolean with: targetStructure
 
+	self editor openStructureTypeIn.
 	aBoolean
-		ifTrue: [self addAttribute: targetStructure.
-			self editor
-				addAttribute: targetStructure from: self selectionStart to: self selectionStop]
-		ifFalse: [self removeTextAttribute: targetStructure.
-			self editor
-				removeAttribute: targetStructure from: self selectionStart to: self selectionStop]
+		ifTrue: [self addAttribute: targetStructure]
+		ifFalse: [self removeTextAttribute: targetStructure].
+	self editor closeTypeIn
