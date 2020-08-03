@@ -3,5 +3,5 @@ reselectAndRedoStructure: aTextStructure
 
 	self model
 		addAttribute: aTextStructure
-		from: self history current intervalBetween start
-		to: self history current intervalBetween stop
+		from: self historyStart
+		to: self historyStop
