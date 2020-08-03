@@ -1,4 +1,0 @@
-closing strings
-quoteStructureClosingString
-
-	^ '</blockquote>'
