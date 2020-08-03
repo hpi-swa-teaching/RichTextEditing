@@ -1,7 +1,8 @@
 text structure
 removeTextAttribute: aTextAttribute
 
-	self
+	self bufferDocument
 		removeTextAttribute: aTextAttribute
 		from: self selectionStart
-		to: self selectionStop
+		to: self selectionStop.
+	self selectionChanged
