@@ -1,4 +1,4 @@
-acceptance-tests
+tests
 testRedoStructureUnapplyUnappliesStructureWith: aBlock
 
 	self 

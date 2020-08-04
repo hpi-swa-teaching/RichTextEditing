@@ -1,4 +1,4 @@
-acceptance-tests
+tests
 testRedoStructureWith: redoBlock
 
 	self enterStringOntoTextField: self text.

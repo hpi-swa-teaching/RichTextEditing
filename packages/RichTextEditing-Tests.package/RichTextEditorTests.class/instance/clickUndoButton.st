@@ -1,4 +1,4 @@
-acceptance-tests
+utilities
 clickUndoButton
 	
 	self doMenuActionByLabel: self undoButtonLabel
