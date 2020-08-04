@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"assert:equals:withExport:" : "frc 7/29/2020 09:58",
+		"assert:equals:withExport:" : "frc 8/4/2020 14:39",
 		"chooseExportStrategy:" : "tok 7/8/2020 20:45",
-		"createTestFileWithContent:at:" : "frc 6/8/2020 15:03",
+		"createTestFileWithContent:at:" : "frc 8/4/2020 14:44",
 		"exampleContent" : "frc 7/29/2020 09:49",
 		"exampleExportContent" : "tok 7/9/2020 22:41",
 		"exampleExportFilePath" : "tok 7/8/2020 20:43",

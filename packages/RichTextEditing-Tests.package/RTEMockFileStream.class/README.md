@@ -1,0 +1,1 @@
+I am a RTEMockFileStream. I mock certain behaviors of StandardFileStream, used to test different Export Strategies of SquidWord, a RichtTextEditor.
