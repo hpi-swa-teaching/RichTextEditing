@@ -1,0 +1,4 @@
+resetting
+clearCachedDictionaries
+
+	textStructures := nil

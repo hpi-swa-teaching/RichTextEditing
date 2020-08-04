@@ -1,5 +1,4 @@
 constants
 exampleContent
 	
-	^ 'This is the content of the file
-This is another line! ÄÖÜ'
+	^ 'This is the content of the file' , Character lf asString , 'This is another line! ÄÖÜ'

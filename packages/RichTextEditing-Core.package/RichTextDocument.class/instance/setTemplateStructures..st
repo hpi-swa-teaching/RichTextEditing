@@ -1,5 +1,0 @@
-text structures
-setTemplateStructures: aRichTextTemplateClass
-
-	self textStructures: aRichTextTemplateClass initialTextStructures.
-	self structuresChanged

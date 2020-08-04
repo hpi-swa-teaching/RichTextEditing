@@ -2,5 +2,5 @@ stop conditions
 endOfDocument
 
 	^ (self position >= self readLimit)
-		ifTrue: [#endOfDocument]
+		ifTrue: [{#endOfDocument}]
 		ifFalse: [nil]

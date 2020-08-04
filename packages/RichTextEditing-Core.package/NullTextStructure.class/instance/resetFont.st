@@ -1,0 +1,4 @@
+font
+resetFont
+
+	self noCurrentStructureWarning
