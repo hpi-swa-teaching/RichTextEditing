@@ -1,4 +1,4 @@
-utilities
+constants
 simulateKeyboardShortcutForStructure1
 
 	self simulateKeyboardEventWithButtons: self ctrlShiftButtonCode 

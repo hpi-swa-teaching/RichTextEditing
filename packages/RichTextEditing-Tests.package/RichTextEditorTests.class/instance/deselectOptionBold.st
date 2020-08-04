@@ -1,7 +1,6 @@
-utilities
-selectOptionBold
+acceptance-tests
+deselectOptionBold
 
 	self editorModel 
 		structureSelectionAt: (self editorModel textStructureSymbols indexOf: #bold) 
-		put: true
-	
+		put: false

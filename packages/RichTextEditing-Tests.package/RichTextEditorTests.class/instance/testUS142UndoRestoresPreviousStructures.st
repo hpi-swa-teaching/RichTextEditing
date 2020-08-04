@@ -1,0 +1,4 @@
+acceptance-tests
+testUS142UndoRestoresPreviousStructures
+
+	self testUndoRestoresPreviousStructures: [self editorModel undo]
