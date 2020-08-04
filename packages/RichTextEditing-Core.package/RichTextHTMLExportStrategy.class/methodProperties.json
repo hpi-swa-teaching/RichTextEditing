@@ -2,7 +2,7 @@
 	"class" : {
 		"boldStructureEnclosingStrings" : "JEH 8/3/2020 14:36",
 		"codeStructureEnclosingStrings" : "JEH 8/3/2020 14:37",
-		"export:to:" : "JEH 7/26/2020 18:20",
+		"export:on:" : "frc 8/4/2020 14:26",
 		"fileEnding" : "JEH 7/26/2020 16:10",
 		"heading1StructureEnclosingStrings" : "JEH 8/3/2020 14:37",
 		"heading2StructureEnclosingStrings" : "JEH 8/3/2020 14:37",
@@ -22,7 +22,6 @@
 	"instance" : {
 		"addStructuresAsActive:" : "frc 7/30/2020 08:41",
 		"closingStrings" : "JEH 8/3/2020 14:41",
-		"createFileStream:" : "JEH 7/25/2020 20:32",
 		"currentStructures" : "frc 7/30/2020 08:42",
 		"currentStructures:" : "frc 7/30/2020 08:42",
 		"document" : "frc 7/30/2020 08:43",
@@ -30,7 +29,7 @@
 		"endString" : "JEH 7/26/2020 17:39",
 		"event:contains:" : "JEH 7/26/2020 17:23",
 		"eventHandlingDictionary" : "frc 7/30/2020 08:43",
-		"export:to:" : "JEH 7/26/2020 18:10",
+		"export:on:" : "frc 8/4/2020 14:27",
 		"fileStream" : "frc 7/30/2020 08:43",
 		"fileStream:" : "frc 7/30/2020 08:43",
 		"handleBeginningOfStructure:" : "JEH 7/26/2020 17:28",
