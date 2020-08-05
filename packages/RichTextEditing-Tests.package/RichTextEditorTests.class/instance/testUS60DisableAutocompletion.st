@@ -1,5 +1,5 @@
-tests
-testUS60disableAutocompletion
+acceptance-tests
+testUS60DisableAutocompletion
 
 	Preferences setFlag: self autocompletionPreference
 		toValue: false
