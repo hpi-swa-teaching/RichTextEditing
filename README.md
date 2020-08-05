@@ -27,7 +27,7 @@ Copy this command into your local workspace and execute (Ctrl + d) it:
 ``` Smalltalk
 Metacello new
 	baseline: 'RichTextEditing';
-	repository: 'github://hpi-swa-teaching/RichTextEditing:master/packages';
+	repository: 'github://hpi-swa-teaching/RichTextEditing:dev/packages';
 	load.
 ```
 # SWT 2020
