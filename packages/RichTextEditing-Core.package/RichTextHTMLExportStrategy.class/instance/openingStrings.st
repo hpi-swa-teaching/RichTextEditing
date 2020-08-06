@@ -1,20 +1,19 @@
 accessing
 openingStrings
 
-	openingStrings ifNil:
-		[openingStrings := Dictionary newFrom: {
-			#bold -> self class boldStructureOpeningString.
-			#italic -> self class italicStructureOpeningString.
-			#heading1 -> self class heading1StructureOpeningString.
-			#heading2 -> self class heading2StructureOpeningString.
-			#heading3 -> self class heading3StructureOpeningString.
-			#heading4 -> self class heading4StructureOpeningString.
-			#listLevel1 -> self class level1ListStructureOpeningString.
-			#listLevel2 -> self class level2ListStructureOpeningString.
-			#listLevel3 -> self class level3ListStructureOpeningString.
-			#quote -> self class quoteStructureOpeningString.
-			#underlined -> self class underlinedStructureOpeningString.
-			#url -> self class urlStructureOpeningString.
-			#code -> self class codeStructureOpeningString.
-			#paragraph -> self class paragraphOpeningString}].
+	openingStrings ifNil: [openingStrings := Dictionary newFrom: {
+		#bold -> self class boldStructureEnclosingStrings first.
+		#italic -> self class italicStructureEnclosingStrings first.
+		#heading1 -> self class heading1StructureEnclosingStrings first.
+		#heading2 -> self class heading2StructureEnclosingStrings first.
+		#heading3 -> self class heading3StructureEnclosingStrings first.
+		#heading4 -> self class heading4StructureEnclosingStrings first.
+		#listLevel1 -> self class level1ListStructureEnclosingStrings first.
+		#listLevel2 -> self class level2ListStructureEnclosingStrings first.
+		#listLevel3 -> self class level3ListStructureEnclosingStrings first.
+		#quote -> self class quoteStructureEnclosingStrings first.
+		#underlined -> self class underlinedStructureEnclosingStrings first.
+		#url -> self class urlStructureEnclosingStrings first.
+		#code -> self class codeStructureEnclosingStrings first.
+		#paragraph -> self class paragraphStructureEnclosingStrings first}].
 	^ openingStrings

@@ -3,6 +3,5 @@ putSpecialStrings: aCollection with: aDictionary
 
 	| string |
 	
-	string := ''.
-	aCollection do: [:each | string := string, (aDictionary at: (each structureIdentifier))].
+	string := aCollection inject: '' into: [:a :b | a, (aDictionary at: b structureIdentifier)].
 	self nextPutAll: string

@@ -1,5 +1,8 @@
 export
 export: aRichTextDocument to: aFilePath
-	"Subclasses overwrite this to specify how a text is exported"
 	
-	^ self subclassResponsibility
+	| fileStream |
+	
+	fileStream := StandardFileStream newFileNamed: aFilePath.
+	self export: aRichTextDocument on: fileStream.
+	fileStream close

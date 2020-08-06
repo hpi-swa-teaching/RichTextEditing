@@ -1,11 +1,10 @@
-resources
+constants
 htmlFormattedDocument
 
-	|  string runs text |
-	string := 'This is a test.'.
+	|  runs text |
 	runs :=  RunArray newFrom: {{TextStructure bold} . {TextStructure bold} . {TextStructure bold} .
 		{TextStructure bold} . #() . #() . #() . #() . #() . #() . {TextStructure italic} . {TextStructure italic} .
 	 	{TextStructure italic} . {TextStructure italic} . #()}.
-	text := Text fromString: string.
+	text := Text fromString:  'This is a test.'.
 	text runs: runs.
-	^ RichTextDocument fromText: text withStructures: RichTextHTMLTemplate initialTextStructures
+	^ RichTextDocument fromText: text withStructures: RichTextHTMLTemplate textStructures

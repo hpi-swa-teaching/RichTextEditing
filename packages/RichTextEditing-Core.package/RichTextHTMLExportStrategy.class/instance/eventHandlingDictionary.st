@@ -10,6 +10,3 @@ eventHandlingDictionary
 			#beginningOfStructure -> [:event | self handleBeginningOfStructure: event]}].
 	
 	^ eventHandlingDictionary
-	
-	
-	

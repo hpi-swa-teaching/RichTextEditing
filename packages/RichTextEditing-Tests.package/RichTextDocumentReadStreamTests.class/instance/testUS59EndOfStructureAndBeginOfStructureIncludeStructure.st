@@ -6,5 +6,5 @@ testUS59EndOfStructureAndBeginOfStructureIncludeStructure
 	stream := DocumentReadStream on: self document.
 	stream next.
 	stopConditions := stream next second.
-	self assert: (((stopConditions at: 1) second)  = {self boldTextStructure} asOrderedCollection).
-	self assert: (((stopConditions at: 3) second)  = {self italicTextStructure} asOrderedCollection).
+	self assert: (((stopConditions first) second)  = {self boldTextStructure} asOrderedCollection).
+	self assert: (((stopConditions third) second)  = {self italicTextStructure} asOrderedCollection)

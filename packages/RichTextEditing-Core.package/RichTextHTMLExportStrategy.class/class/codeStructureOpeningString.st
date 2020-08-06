@@ -1,4 +1,0 @@
-opening strings
-codeStructureOpeningString
-
-	^ '<code>'
