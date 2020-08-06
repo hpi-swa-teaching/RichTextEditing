@@ -1,4 +1,4 @@
 accessing
 pages
 
-	^ #(welcome editing structureEditor keyboardShortcuts)
+	^ #(welcome editing documentMenu structureEditor keyboardShortcuts documentReadStream)
