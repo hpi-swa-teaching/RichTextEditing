@@ -8,6 +8,7 @@
 		"buttonWithLabelExists:" : "AG 5/29/2019 22:21",
 		"closeAllMenus" : "frc 6/16/2020 20:46",
 		"ctrlShiftButtonCode" : "tok 8/3/2020 14:49",
+		"closeWindowsWithLabel:" : "frc 7/30/2020 10:28",
 		"doMenuActionByLabel:" : "frc 6/18/2020 19:00",
 		"document" : "frc 7/13/2020 12:12",
 		"documentMenu" : "frc 6/25/2020 16:24",
@@ -23,10 +24,12 @@
 		"enterStringInSaveDialog:" : "tok 7/9/2020 21:57",
 		"enterStringOntoTextField:" : "MB 7/24/2019 18:55",
 		"flattenTextAttributes:" : "tok 8/4/2020 16:33",
+		"exampleTextStructure" : "frc 7/16/2020 16:50",
 		"italicTextStructure" : "frc 7/13/2020 12:19",
 		"menuActionByLabel:" : "frc 6/18/2020 19:04",
 		"menuItemWithLabelExists:" : "frc 6/25/2020 16:25",
 		"openNewEditorModel" : "JEH 5/31/2020 13:52",
+		"paragraphCharacter" : "frc 7/29/2020 09:03",
 		"selectMenuItemByLabel:" : "frc 6/25/2020 16:25",
 		"selectOptionBold" : "tok 8/3/2020 14:48",
 		"setUp" : "MB 6/12/2019 18:01",
@@ -40,4 +43,6 @@
 		"textIsBold" : "tok 8/4/2020 16:41",
 		"textView" : "MB 5/22/2019 17:55",
 		"textViewWrapper" : "MB 5/15/2019 19:08",
-		"triangleIsVisible" : "lh 6/18/2019 15:20" } }
+		"textWithAttributes" : "frc 7/29/2020 09:03",
+		"triangleIsVisible" : "lh 6/18/2019 15:20",
+		"windowsWithLabel:" : "frc 7/30/2020 10:26" } }

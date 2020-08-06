@@ -6,4 +6,4 @@ testNullTextStructureCantAddAttributes
 			add: self exampleTextStructure;
 			yourself.
 	
-	self assert: textStructure attributes isEmpty
+	self deny: (textStructure includes: (self exampleTextStructure))

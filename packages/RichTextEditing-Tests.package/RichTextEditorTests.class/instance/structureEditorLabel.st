@@ -1,0 +1,4 @@
+constants
+structureEditorLabel
+
+	^ 'Structure Editor'

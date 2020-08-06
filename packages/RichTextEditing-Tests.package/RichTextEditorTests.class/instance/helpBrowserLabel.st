@@ -1,0 +1,4 @@
+constants
+helpBrowserLabel
+
+	^ SquidWordHelp bookName , ': '

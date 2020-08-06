@@ -2,5 +2,5 @@ stop conditions
 lineBreak
 
 	^ self currentCharacter = Character lf
-		ifTrue: [#lineFeed]
+		ifTrue: [{#lineFeed}]
 		ifFalse: [nil]
