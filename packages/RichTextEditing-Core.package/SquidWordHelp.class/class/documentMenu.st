@@ -13,8 +13,8 @@ New
 Opens a new SquidWord editor with a new empty document.
 
 Save
-Saves the current document inside squeak (the document will not appear in your filesystem and only be available inside your image). Saving first is necessary for some operions, e.g. when exporting, not the current but the last saved state of the document will be exported.
-Can also be triggered by pressing Ctrl+S.
+Saves the current document inside squeak (the document will not appear in your filesystem and only be available inside your image). Saving first is necessary for some operations, e.g. when exporting, not the current but the last saved state of the document will be exported.
+Can also be triggered by pressing Ctrl-S.
 
 Save as
 Allows giving your document a name, so that it can be reopened later. Similar to Save, it only saves the document inside the image.
@@ -33,7 +33,7 @@ Triggers the Squeak inspect method on the currently loaded RichTextDocument.
 
 Document info
 Opens a popup with some statistics about the currently loaded RichTextDocument.!
-]style[(116 3 58 4 317 7 82 4 48 5 81 8 3 17 109 12 343 16 79 13 80)f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1!' readStream nextChunkText)
+]style[(116 3 58 4 319 7 82 4 48 5 81 8 3 17 109 12 343 16 79 13 80)f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1,f1i,f1!' readStream nextChunkText)
 			key: #documentMenu;
 			shouldStyle: false;
 			yourself
