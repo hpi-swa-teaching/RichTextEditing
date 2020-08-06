@@ -1,8 +1,8 @@
 acceptance-tests
 testUS07UndoKeyboardShortcut
 
-	self enterStringOntoTextField: 'Test'.
-	self simulateKeyboardEventWithButtons: self ctrlButtonCode andKeyValue: $z asciiValue.
-	
-	self assert: self editorText = ''.
+	self
+		enterStringOntoTextField: self text;
+		simulateUndoShortcut;
+		assert: self editorText = ''
 	

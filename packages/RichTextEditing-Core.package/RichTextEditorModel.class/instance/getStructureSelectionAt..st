@@ -1,4 +1,7 @@
 text structure
 getStructureSelectionAt: anIndex
 
-	^ self selectedStructures includes: (self textStructureSymbols at: anIndex ifAbsent: [^ false])
+	| structures |
+	self isIntervalEmpty ifTrue: [structures := self currentStructures]
+									ifFalse: [structures := self selectedStructures].
+	^ structures includes: (self textStructureSymbols at: anIndex ifAbsent: false)

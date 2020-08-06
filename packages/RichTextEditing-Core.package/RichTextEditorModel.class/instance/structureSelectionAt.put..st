@@ -1,9 +1,12 @@
 text structure
 structureSelectionAt: anIndex put: aBoolean
+
+	| targetSymbol targetStructure |
+	targetSymbol := self textStructureSymbols at: anIndex ifAbsent: [^self].
+	targetStructure := self textStructures at: anIndex ifAbsent: [^self].
 	
-	| targetSymbol |
-	targetSymbol := self textStructureSymbols at: anIndex ifAbsent: [^ self].
-	aBoolean ifTrue: [self selectedStructures add: targetSymbol]
-				  ifFalse: [self selectedStructures remove: targetSymbol ifAbsent: []].
-	self updateSelectedText: aBoolean with: targetSymbol.
+	self isIntervalEmpty
+		ifTrue: [self changeBuffersFor: aBoolean with: targetSymbol]
+		ifFalse: [self changeAttributesFor: aBoolean with: targetStructure].
+
 	self selectionChanged

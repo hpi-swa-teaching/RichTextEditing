@@ -1,0 +1,4 @@
+acceptance-tests
+testUS142UndoButtonStructureUnapplyReappliesStructure
+
+	self testUndoStructureUnapplyReappliesStructureWith: [self clickUndoButton]
