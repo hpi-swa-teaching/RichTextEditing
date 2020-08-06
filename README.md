@@ -4,20 +4,9 @@
 This is an implementation of a text editor in Squeak, which is capable of writing structured text. This means that text can be divided into logical units. Paragraphs are used to structure the text into sections on a broad level and so-called "text structures" are used to assign certain meanings to particular parts of the text.
 
 # Using the editor
-## Paragraphs
-Pressing *Enter* inserts a Parapraph, pressing *Shift + Enter* insert a normal line break. The paragraph is visible by an increased line height.
-Structures can be applied to portions of the text by selecting the particular text and selecting the structures from the list of available structures on the left-hand side.
+You can launch SquidWord by going to the `Apps` tab in Squeaks menu bar and clicking on `SquidWord`.
 
-## Structures
-Structures can be customized with regards to emphasis, color and font. For this purpose, one can use the **Structure Editor** which comes bundled with the Text Editor. In the structure Editor, it is also possible to add or remove completely custom structures and prioritize them (e.g. to determine which color should be displayed if multiple structures are applied to the same text). Custom structures will appear in the structure selection list on the right side of the respective editor.
-
-## Saving and Loading
-When the text is saved via the *Save* menu item or by pressing *Ctrl + s*, the changes regarding the text and structures are written into a **RichTextDocument** object. This object can be inspected by clicking the *Document* button in the editor. It is possible to open the document in another editor by sending the message *openInEditor* to it.
-
-The *Save as...* menu item lets the user choose a name for the document. The document is then saved in the image (in it's current state, so make sure to save temporary changes to the document prior to that). It can be loaded in any other editor via the *Load* menu item.
-
-## Import and Export
-The document can be exported into a file and imported from a file. At the current moment, text structures can not be imported or exported.
+For information on using the editor and it's functionalities, refer to the integrated `Help Browser` that can be opened using the `Help` button in the upper right hand corner of SquidWord.
 
 # Supported Versions
 All Squeak versions >= 5.1 are supported.
@@ -30,6 +19,10 @@ Metacello new
 	repository: 'github://hpi-swa-teaching/RichTextEditing:master/packages';
 	load.
 ```
+
+# Developer advice
+If you are new to the project and starting to develop more features visit the Wiki over at [https://github.com/hpi-swa-teaching/RichTextEditing/wiki](https://github.com/hpi-swa-teaching/RichTextEditing/wiki).
+
 # SWT 2020
 ## XP Practice
 We have used XP as a development method. In particular, we have used Resources, Scopes, Quality, Time to optimize the development process. Furthermore we continued the acceptance tests, but extended them with unit tests. As further practices we have introduced a style guide, which can be found at STYLEGUIDE.md. We also introduced the practice of "small releases" by publishing a github release every two weeks, and we established the practice of "planning game".
