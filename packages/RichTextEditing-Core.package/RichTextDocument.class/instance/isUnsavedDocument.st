@@ -1,4 +1,4 @@
 accessing
 isUnsavedDocument
 
-	^ self timeLastSaved = nil
+	^ self timestampLastSaved isNil

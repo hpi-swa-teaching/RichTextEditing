@@ -1,0 +1,4 @@
+text structures
+setTemplateStructures
+
+	self structuresChanged

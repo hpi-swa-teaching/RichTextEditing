@@ -1,4 +1,4 @@
-accessing
+constants
 newLineCharacter
 
 	^ Character cr
