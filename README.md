@@ -23,13 +23,5 @@ Metacello new
 # Developer advice
 If you are new to the project and starting to develop more features visit the Wiki over at [https://github.com/hpi-swa-teaching/RichTextEditing/wiki](https://github.com/hpi-swa-teaching/RichTextEditing/wiki).
 
-# SWT 2020
-## XP Practice
-We have used XP as a development method. In particular, we have used Resources, Scopes, Quality, Time to optimize the development process. Furthermore we continued the acceptance tests, but extended them with unit tests. As further practices we have introduced a style guide, which can be found at STYLEGUIDE.md. We also introduced the practice of "small releases" by publishing a github release every two weeks, and we established the practice of "planning game".
-
-# SWT 2019
-## XP Practice
-We used acceptance testing so we valued well-understandable tests. That's why we used code duplication in some tests so that the customer can follow the test steps in each test. For each acceptance criterium (you can find them in the userstories) we  wrote one or more tests. We named the tests as follows: "testUS" + number of the user story + what is the test testing
-
 ## Outlook
 In the future, it may also be possible to reflect over the text. Therefore, one would be able to easily export the text into different formats (e.g. Markdown, HTML, ...).
