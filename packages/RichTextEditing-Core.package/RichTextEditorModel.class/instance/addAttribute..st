@@ -6,4 +6,3 @@ addAttribute: aTextAttribute
 		addAttribute: aTextAttribute 
 		from: self selectionStart
 		to: self selectionStop.
-	
