@@ -1,4 +1,4 @@
 accessing
 pages
 
-	^ #(welcome menuStructure editing structureEditor keyboardShortcuts savingAndLoading exportAndImport)
+	^ #(welcome menuStructure editing structureEditor keyboardShortcuts savingAndLoading exportAndImport autocompletion)
