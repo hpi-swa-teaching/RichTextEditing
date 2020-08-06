@@ -1,4 +1,4 @@
 acceptance-tests
 testUS142UndoShortcutRestoresPreviousStructures
 
-	self testUndoRestoresPreviousStructures: [self simulateUndoShortcut]
+	self testUndoRestoresPreviousStructuresWith: [self simulateUndoShortcut]

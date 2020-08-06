@@ -1,9 +1,9 @@
-tests
-testRedoStructureUnapplyUnappliesStructureWith: aBlock
+utilities
+testRedoStructureUnapplyUnappliesStructureWith: aRedoBlock
 
 	self 
 		setupBoldText;
 		deselectOptionBold.
 	self editorModel undo.
-	aBlock value.
+	aRedoBlock value.
 	self assert: self textHasNoStyle

@@ -1,6 +1,6 @@
-tests
-testUndoStructureWith: undoBlock
+utilities
+testUndoStructureWith: anUndoBlock
 
 	self setupBoldText.
-	undoBlock value.
+	anUndoBlock value.
 	self assert: self textHasNoStyle

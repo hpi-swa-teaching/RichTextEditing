@@ -1,8 +1,8 @@
-tests
-testUndoStructureUnapplyReappliesStructureWith: aBlock
+utilities
+testUndoStructureUnapplyReappliesStructureWith: anUndoBlock
 
 	self
 		setupBoldText;
 		deselectOptionBold.
-	aBlock value.
+	anUndoBlock value.
 	self assert: self textIsBold
