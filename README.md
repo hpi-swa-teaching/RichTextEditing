@@ -4,9 +4,9 @@
 This is an implementation of a text editor in Squeak, which is capable of writing structured text. This means that text can be divided into logical units. Paragraphs are used to structure the text into sections on a broad level and so-called "text structures" are used to assign certain meanings to particular parts of the text.
 
 # Using the editor
-You can launch SquidWord by going to the `Apps` tab in Squeaks menu bar and clicking on `SquidWord`.
+Once installed, you can launch SquidWord by going to the `Apps` tab in Squeaks menu bar and clicking on `SquidWord`.
 
-For information on using the editor and it's functionalities, refer to the integrated `Help Browser` that can be opened using the `Help` button in the upper right hand corner of SquidWord.
+For information on using the editor and its functionalities, refer to the integrated `Help Browser` that can be opened using the `Help` button in the upper right hand corner of SquidWord.
 
 # Supported Versions
 All Squeak versions >= 5.1 are supported.
