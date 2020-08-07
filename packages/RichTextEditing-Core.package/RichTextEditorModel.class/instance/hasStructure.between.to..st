@@ -1,4 +1,4 @@
-as yet unclassified
+text structure
 hasStructure: aSymbol between: start to: end
 
 	self setTextFromView.

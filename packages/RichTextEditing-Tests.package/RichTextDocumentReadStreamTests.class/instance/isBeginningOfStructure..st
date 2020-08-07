@@ -1,4 +1,4 @@
 utilities
 isBeginningOfStructure: aListElement
 
-	^ aListElement first = #beginningOfStructure
+	^ aListElement first = #beginOfStructure

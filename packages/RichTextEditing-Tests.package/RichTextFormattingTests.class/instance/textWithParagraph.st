@@ -1,4 +1,4 @@
 constants
 textWithParagraph
 
-	^  ('foo', self paragraphCharacter asString , 'bar.') asText
+	^  ('foo', RichTextEditor paragraphCharacter asString , 'bar.') asText

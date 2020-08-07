@@ -7,6 +7,6 @@ eventHandlingDictionary
 			#endOfStructure -> [:event | self handleEndOfStructure: event].
 			#paragraph -> [:event | self handleParagraph: event].
 			#lineFeed -> [:event | self handleLineFeed: event].
-			#beginningOfStructure -> [:event | self handleBeginningOfStructure: event]}].
+			#beginOfStructure -> [:event | self handleBeginningOfStructure: event]}].
 	
 	^ eventHandlingDictionary
