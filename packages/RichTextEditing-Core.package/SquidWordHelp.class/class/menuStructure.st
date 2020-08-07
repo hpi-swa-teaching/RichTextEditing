@@ -5,7 +5,7 @@ menuStructure
 	^(HelpTopic
 		title: 'Menu Structure'
 		contents: 
-'You can access all important functionalities from the SquidWord menubar, which will be described in the following. You can also access some more text-focused features like find and replace by clicking the right mouse button when hovering over the text.
+'You can access all important functionalities from the SquidWord menu bar, which will be described in the following. You can also access some more text-focused features like find and replace by clicking the right mouse button when hovering over the text.
 
 The menu of SquidWord is divided into the following components.
 
@@ -29,7 +29,7 @@ This contains functionalities regarding editing the text.
 	
 Help
 Show this help browser!
-]style[(319 9 567 5 289 5 22),f1i,,f1i,,f1i,!' readStream nextChunkText)
+]style[(320 9 567 5 289 5 22),f1i,,f1i,,f1i,!' readStream nextChunkText)
 			key: #menuStructure;
 			shouldStyle: false;
 			yourself
