@@ -7,7 +7,7 @@
 	"commentStamp" : "kh 6/1/2020 13:43",
 	"instvars" : [
 		 ],
-	"name" : "SquidWordHelp",
+	"name" : "RichTextEditorHelp",
 	"pools" : [
 		 ],
 	"super" : "CustomHelp",

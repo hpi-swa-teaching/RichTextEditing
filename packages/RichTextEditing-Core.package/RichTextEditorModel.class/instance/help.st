@@ -1,4 +1,4 @@
 user interface
 help
 
-	HelpBrowser openOn: SquidWordHelp
+	HelpBrowser openOn: RichTextEditorHelp
