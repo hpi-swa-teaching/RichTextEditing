@@ -2,7 +2,7 @@ acceptance-tests
 testUS42FontCanBeReset
 	
 	self 
-		enterStringOntoTextField: 'test';
+		enterStringOntoTextField: self exampleString;
 		addFontStructureToText;
 		setFont: self fontAtlanta22;
 		deny: (self textHasFont: self structureEditor defaultFont).

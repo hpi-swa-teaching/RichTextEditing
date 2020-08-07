@@ -2,7 +2,7 @@ acceptance-tests
 testUS41ColorCanBeReset
 	
 	self 
-		enterStringOntoTextField: 'test';
+		enterStringOntoTextField: self exampleString;
 		addColoredStructureToText;
 		setGreenColor;
 		deny: (self textHasColor: self structureEditor defaultColor).

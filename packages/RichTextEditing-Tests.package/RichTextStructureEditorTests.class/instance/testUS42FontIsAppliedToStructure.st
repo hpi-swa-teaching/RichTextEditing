@@ -2,7 +2,7 @@ acceptance-tests
 testUS42FontIsAppliedToStructure
 	
 	self 
-		enterStringOntoTextField: 'test';
+		enterStringOntoTextField: self exampleString;
 		deny: (self textHasFontSize: 22);
 		addFontStructureToText;
 		setFont: self fontAtlanta22;
