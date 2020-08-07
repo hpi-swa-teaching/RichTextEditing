@@ -7,6 +7,7 @@
 	"instance" : {
 		"=" : "frc 8/6/2020 20:01",
 		"addAttribute:from:to:" : "kh 6/19/2020 12:35",
+		"asByteArray" : "frc 8/7/2020 10:49",
 		"asString" : "frc 7/16/2020 13:46",
 		"charcount" : "frc 5/25/2020 16:02",
 		"charcountExcept:" : "frc 6/13/2020 11:15",
@@ -42,4 +43,4 @@
 		"timeLastSaved" : "frc 8/6/2020 20:07",
 		"timestampLastSaved" : "tok 7/20/2020 14:10",
 		"timestampLastSaved:" : "tok 7/20/2020 14:10",
-		"wordcount" : "frc 7/16/2020 13:47" } }
+		"wordcount" : "frc 8/7/2020 10:49" } }
