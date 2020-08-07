@@ -9,4 +9,4 @@ structureSelectionAt: anIndex put: aBoolean
 		ifTrue: [self changeBuffersFor: aBoolean with: targetSymbol]
 		ifFalse: [self changeAttributesFor: aBoolean with: targetStructure].
 		
-	self changed: #allSelections
+	self selectionChanged
