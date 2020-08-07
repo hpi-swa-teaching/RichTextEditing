@@ -1,4 +1,4 @@
 constants
-letterAASCIISymbols
+ASCIISymbolsOfLetterA
 
 	^ #(65 97)

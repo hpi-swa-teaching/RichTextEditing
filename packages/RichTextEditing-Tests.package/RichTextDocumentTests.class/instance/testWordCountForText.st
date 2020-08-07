@@ -1,5 +1,5 @@
-acceptance-tests
-testUS63WordCountForText
+unit-tests
+testWordCountForText
 
 	self enterExampleStringOntoTextField.
 	self assert: self document wordcount = 5
