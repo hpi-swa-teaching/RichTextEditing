@@ -1,4 +1,4 @@
 constants
 italicTextStructure
 	
-	^ TextStructure italic
+	^ RichTextTextStructure italic

@@ -1,5 +1,5 @@
 utilities
 boldStructureSymbol
 	
-	^ TextStructure bold structureIdentifier
+	^ RichTextTextStructure bold structureIdentifier
 	

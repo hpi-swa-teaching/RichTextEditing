@@ -1,4 +1,4 @@
 utilities
 markdownLikeStructure
 
-	^ TextStructure new: #heading4
+	^ RichTextTextStructure new: #heading4

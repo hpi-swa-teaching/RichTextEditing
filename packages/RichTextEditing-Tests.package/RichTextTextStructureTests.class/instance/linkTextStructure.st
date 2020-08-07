@@ -1,4 +1,4 @@
 utilities
 linkTextStructure
 	
-	^ TextStructure hyperlinkTo: 'https://github.com/hpi-swa-teaching/RichTextEditing'
+	^ RichTextTextStructure hyperlinkTo: 'https://github.com/hpi-swa-teaching/RichTextEditing'
