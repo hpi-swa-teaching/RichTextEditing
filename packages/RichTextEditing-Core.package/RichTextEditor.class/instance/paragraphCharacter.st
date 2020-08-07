@@ -1,4 +1,4 @@
 accessing
-getParagraphCharacter
+paragraphCharacter
 	
 	^ Character value: 182

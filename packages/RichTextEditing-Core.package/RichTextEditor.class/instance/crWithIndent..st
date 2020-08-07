@@ -1,5 +1,5 @@
 input events
 crWithIndent: aKeyboardEvent
 
-	self addString: self getParagraphCharacter asString.
+	self addString: self paragraphCharacter asString.
 	^ false
