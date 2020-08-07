@@ -2,7 +2,7 @@ acceptance-tests
 testUS07UndoKeyboardShortcut
 
 	self
-		enterStringOntoTextField: self exampleString;
+		enterExampleStringOntoTextField;
 		simulateUndoShortcut;
 		assert: self editorText = ''
 	

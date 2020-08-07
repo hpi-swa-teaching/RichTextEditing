@@ -1,5 +1,5 @@
 unit-tests
 testTextSizeReturnsCorrectSize
 
-	self enterStringOntoTextField: self exampleString.
+	self enterExampleStringOntoTextField.
 	self assert: self textEditor textSize equals: self exampleString size

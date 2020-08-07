@@ -3,6 +3,6 @@ testUS49ApplySelectedStructureWithoutASelectionToNextTextEnd
 	
 	self moveCaretToEndOfText;
 		activateHeading;
-		enterStringOntoTextField: self exampleString.
+		enterExampleStringOntoTextField.
 	
 	self assert: self headingIsAddedToWrittenText

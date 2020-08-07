@@ -4,6 +4,6 @@ testUS49NoStructureApplyWhenCaretMovedBeginning
 	self moveCaretToBeginningOfText;
 		activateHeading;
 		moveCaret;
-		enterStringOntoTextField: self exampleString.
+		enterExampleStringOntoTextField.
 	
 	self deny: self headingIsAddedToWrittenText

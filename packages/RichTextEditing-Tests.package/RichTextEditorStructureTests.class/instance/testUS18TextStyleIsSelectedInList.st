@@ -1,7 +1,7 @@
 acceptance-tests
 testUS18TextStyleIsSelectedInList
 
-	self enterStringOntoTextField: 'test'.
+	self enterExampleStringOntoTextField.
 	self textEditor selectAll.
 
 	self selectOptionBold.

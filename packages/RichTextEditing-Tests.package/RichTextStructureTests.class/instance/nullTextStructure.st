@@ -1,4 +1,4 @@
-utilities
+constants
 nullTextStructure
 
 	^ RichTextNullStructure new

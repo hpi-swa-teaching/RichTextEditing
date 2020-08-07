@@ -1,7 +1,7 @@
 acceptance-tests
 testUS07RedoKeyboardShortcut
 	
-	self enterStringOntoTextField: self exampleString.
+	self enterExampleStringOntoTextField.
 	self editorModel undo.
 	self simulateRedoShortcut.
 	

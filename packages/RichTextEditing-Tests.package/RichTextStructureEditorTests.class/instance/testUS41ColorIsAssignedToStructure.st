@@ -2,7 +2,7 @@ acceptance-tests
 testUS41ColorIsAssignedToStructure
 	
 	self 
-		enterStringOntoTextField: 'test';
+		enterExampleStringOntoTextField;
 		deny: (self textHasColor: Color green);
 		addColoredStructureToText;
 		setGreenColor;

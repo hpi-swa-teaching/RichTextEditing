@@ -1,5 +1,5 @@
 utilities
 initialTextStructures
 
-	^ self bufferDocument class initialTextStructures collect: [:each |
+	^ self document class initialTextStructures collect: [:each |
 		each structureIdentifier]

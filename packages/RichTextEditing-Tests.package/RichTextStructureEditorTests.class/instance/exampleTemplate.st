@@ -1,4 +1,4 @@
-utilities
-newTemplate
+constants
+exampleTemplate
 
 	^ RichTextMarkdownTemplate

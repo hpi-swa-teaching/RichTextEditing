@@ -1,7 +1,7 @@
 utilities
 hasStructure: aSymbol forText: aText
 
-	^ self editorModel bufferDocument class
+	^ self document class
 		hasStructure: aSymbol 
 		forText: aText 
 		from: 1 

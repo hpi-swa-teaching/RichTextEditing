@@ -2,7 +2,7 @@ acceptance-tests
 testUS23TriangleDisappearsAfterSuccesfulSave
 
 	self 
-		enterStringOntoTextField: 'Test text';
+		enterExampleStringOntoTextField;
 		enterStringInSaveDialog: 'Save name';
 		deny: self triangleIsVisible.
 		

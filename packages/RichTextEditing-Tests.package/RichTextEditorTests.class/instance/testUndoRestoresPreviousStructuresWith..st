@@ -1,7 +1,7 @@
 utilities
 testUndoRestoresPreviousStructuresWith: anUndoBlock
 
-	self enterStringOntoTextField: self exampleString.
+	self enterExampleStringOntoTextField.
 	self textEditor selectFrom: 1 to: 2.
 	self selectOptionBold.
 	self textEditor selectAll.

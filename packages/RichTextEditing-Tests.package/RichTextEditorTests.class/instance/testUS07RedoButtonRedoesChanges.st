@@ -1,7 +1,7 @@
 acceptance-tests
 testUS07RedoButtonRedoesChanges
 
-	self enterStringOntoTextField: self exampleString.
+	self enterExampleStringOntoTextField.
 	self editorModel undo.
 	self
 		clickRedoButton;

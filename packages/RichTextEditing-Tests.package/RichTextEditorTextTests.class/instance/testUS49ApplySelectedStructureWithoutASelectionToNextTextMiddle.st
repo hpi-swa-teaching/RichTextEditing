@@ -3,7 +3,7 @@ testUS49ApplySelectedStructureWithoutASelectionToNextTextMiddle
 	
 	self moveCaretToMidOfText;
 		activateHeading;
-		enterStringOntoTextField: self exampleString.
+		enterExampleStringOntoTextField.
 	
 	self assert: self headingIsAddedToWrittenText
 

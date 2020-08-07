@@ -3,11 +3,10 @@
 		 },
 	"instance" : {
 		"addAttributeAt:" : "frc 8/7/2020 14:11",
-		"bufferDocument" : "lh 7/3/2019 22:16",
 		"firstIndex" : "lh 7/24/2019 20:06",
 		"hasNoStructureForText:" : "frc 8/1/2020 12:00",
-		"hasStructure:forText:" : "frc 8/7/2020 11:31",
-		"initialTextStructures" : "lh 7/3/2019 22:25",
+		"hasStructure:forText:" : "tok 8/7/2020 17:14",
+		"initialTextStructures" : "tok 8/7/2020 17:14",
 		"moveDownButton" : "frc 8/7/2020 10:29",
 		"moveUpButton" : "frc 8/7/2020 10:29",
 		"previewText" : "lh 7/24/2019 17:48",
@@ -20,6 +19,6 @@
 		"testUS43PreviewTextfieldHasSelectedStructureApplied" : "kh 6/19/2020 10:46",
 		"testUS58StructurePriorityCanBeDecreased" : "frc 8/7/2020 10:29",
 		"testUS58StructurePriorityCanBeIncreased" : "frc 8/7/2020 10:29",
-		"testUS58StructureWithHighestPriorityWins" : "frc 8/7/2020 10:28",
+		"testUS58StructureWithHighestPriorityWins" : "tok 8/7/2020 17:32",
 		"testUS64IndentationStyleAvailable" : "tok 6/1/2020 13:10",
 		"textPreviewLabel" : "MB 6/12/2019 20:29" } }

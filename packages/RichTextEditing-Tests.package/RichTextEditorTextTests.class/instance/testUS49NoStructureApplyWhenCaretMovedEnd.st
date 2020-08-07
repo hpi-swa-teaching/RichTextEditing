@@ -4,6 +4,6 @@ testUS49NoStructureApplyWhenCaretMovedEnd
 	self moveCaretToEndOfText;
 		activateHeading;
 		moveCaret;
-		enterStringOntoTextField: self exampleString.
+		enterExampleStringOntoTextField.
 	
 	self deny: self headingIsAddedToWrittenText

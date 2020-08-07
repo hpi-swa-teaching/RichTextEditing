@@ -1,4 +1,4 @@
 utilities
 fontStructureSymbol
 
-	^ self fontStructureName asSymbol
+	^ #fontStructure

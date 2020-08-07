@@ -34,7 +34,7 @@
 		"testHTMLExportHandlesParagraph" : "frc 7/29/2020 09:59",
 		"testUS143ExportAsObjectExistsInDialog" : "kh 8/6/2020 09:51",
 		"testUS143ExportImportObjectEqual" : "kh 8/6/2020 14:16",
-		"testUS84ImportFileFromFilesystem" : "frc 8/7/2020 10:50",
+		"testUS84ImportFileFromFilesystem" : "tok 8/7/2020 17:14",
 		"testUS87ExportAsPlainTextExistsInDialog" : "frc 7/30/2020 08:38",
 		"testUS87ExportDocumentAsPlainText" : "tok 7/9/2020 22:41",
 		"testUS88ExportAsHTML" : "frc 7/26/2020 21:15",
