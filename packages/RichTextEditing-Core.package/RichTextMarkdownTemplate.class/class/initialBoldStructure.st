@@ -1,4 +1,4 @@
 initial structures
 initialBoldStructure
 		
-	^ TextStructure bold
+	^ RichTextTextStructure bold

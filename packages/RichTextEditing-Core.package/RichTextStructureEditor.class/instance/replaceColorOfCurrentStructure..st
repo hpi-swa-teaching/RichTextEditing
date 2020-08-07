@@ -1,4 +1,4 @@
 text coloring
 replaceColorOfCurrentStructure: aColor
 	
-	self currentStructure add: (TextStructure fromColor: aColor)
+	self currentStructure add: (RichTextTextStructure fromColor: aColor)

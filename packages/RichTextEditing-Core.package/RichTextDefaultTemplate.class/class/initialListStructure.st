@@ -1,6 +1,6 @@
 initial structures
 initialListStructure
 		
-	^ TextStructure
+	^ RichTextTextStructure
 		new: #list
-		from: {TextStructure indented}
+		from: {RichTextTextStructure indented}

@@ -1,6 +1,6 @@
 initial structures
 initialItalicStructure
 
-	^ TextStructure
+	^ RichTextTextStructure
 		new: #italic
-		from: {TextStructure italic}
+		from: {RichTextTextStructure italic}

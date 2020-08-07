@@ -7,8 +7,8 @@
 	"commentStamp" : "ls 7/25/2019 13:56",
 	"instvars" : [
 		 ],
-	"name" : "NullTextStructure",
+	"name" : "RichTextNullTextStructure",
 	"pools" : [
 		 ],
-	"super" : "TextStructure",
+	"super" : "RichTextTextStructure",
 	"type" : "normal" }

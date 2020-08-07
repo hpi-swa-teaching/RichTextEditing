@@ -1,6 +1,6 @@
 initial structures
 initialURLStructure
 			
-	^ TextStructure
+	^ RichTextTextStructure
 		new: #url
-		from: {TextStructure autohyperlink. TextStructure underlined. TextStructure notExtendable}
+		from: {RichTextTextStructure autohyperlink. RichTextTextStructure underlined. RichTextTextStructure notExtendable}

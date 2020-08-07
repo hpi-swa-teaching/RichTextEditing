@@ -1,6 +1,6 @@
 initial structures
 initialHeading4Structure
 		
-	^ TextStructure
+	^ RichTextTextStructure
 		new: #heading4
-		from: {TextStructure  fromFont: (StrikeFont createDejaVuDark: 12). TextStructure bold}
+		from: {RichTextTextStructure  fromFont: (StrikeFont createDejaVuDark: 12). RichTextTextStructure bold}

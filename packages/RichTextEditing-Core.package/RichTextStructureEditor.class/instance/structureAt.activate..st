@@ -3,7 +3,7 @@ structureAt: anIndex activate: aBoolean
 
 	| target targetTextStructure |
 	target := self currentStructure.
-	targetTextStructure :=  (TextStructure predefinedStructureFor:
+	targetTextStructure :=  (RichTextTextStructure predefinedStructureFor:
 		(self structureIdentifierAt: anIndex)).
 	aBoolean
 		ifTrue: [ target add: targetTextStructure]

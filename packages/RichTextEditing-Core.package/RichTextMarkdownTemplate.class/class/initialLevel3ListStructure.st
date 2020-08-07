@@ -1,6 +1,6 @@
 initial structures
 initialLevel3ListStructure
 		
-	^ TextStructure
+	^ RichTextTextStructure
 		new: #listLevel3
-		from: {TextStructure listOnLevel: 3}
+		from: {RichTextTextStructure listOnLevel: 3}
