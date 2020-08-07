@@ -1,4 +1,4 @@
-A stream on a RichTextDocument for accessing sections of text. The end of a section is determined by the follogwing stop conditions:
+I am a stream on a RichTextDocument for accessing sections of text. The end of a section is determined by the follogwing stop conditions:
 	- end of document
 	- end of one or more structures
 	- end of paragraph
