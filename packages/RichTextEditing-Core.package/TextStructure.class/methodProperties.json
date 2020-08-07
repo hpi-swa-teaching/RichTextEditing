@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"allTextStructures" : "kh 6/21/2020 16:10",
+		"all" : "frc 8/7/2020 11:09",
 		"autohyperlink" : "kh 6/21/2020 16:56",
 		"bold" : "kh 6/19/2020 12:25",
 		"color" : "kh 6/18/2020 22:52",
@@ -15,14 +15,14 @@
 		"new:" : "kh 6/21/2020 15:51",
 		"new:from:" : "frc 7/16/2020 12:41",
 		"notExtendable" : "kh 6/19/2020 17:26",
-		"predefinedStructureFor:" : "kh 6/21/2020 16:11",
+		"predefinedStructureFor:" : "frc 8/7/2020 11:08",
 		"struckOut" : "kh 6/19/2020 12:25",
 		"underlined" : "kh 6/19/2020 12:25" },
 	"instance" : {
 		"=" : "lh 7/24/2019 20:24",
 		"actOnClickFor:" : "kh 6/21/2020 15:50",
 		"add:" : "kh 6/19/2020 12:12",
-		"addAll:" : "kh 6/19/2020 12:07",
+		"addAll:" : "frc 8/7/2020 10:45",
 		"amount" : "kh 6/19/2020 15:13",
 		"attributes" : "kh 6/18/2020 14:14",
 		"attributes:" : "kh 6/19/2020 15:17",
@@ -45,7 +45,7 @@
 		"preAddHook:" : "kh 6/19/2020 12:14",
 		"printOn:" : "ls 7/3/2019 17:32",
 		"remove:" : "kh 6/18/2020 22:38",
-		"resetColor" : "frc 7/30/2020 11:48",
-		"resetFont" : "frc 7/30/2020 11:46",
+		"resetColor" : "frc 8/7/2020 11:21",
+		"resetFont" : "frc 8/7/2020 11:21",
 		"structureIdentifier" : "ls 5/29/2019 17:41",
 		"structureIdentifier:" : "AG 5/29/2019 18:33" } }

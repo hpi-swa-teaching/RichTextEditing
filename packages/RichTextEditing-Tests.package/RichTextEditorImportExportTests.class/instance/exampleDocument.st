@@ -1,4 +1,4 @@
-resources
+running
 exampleDocument
 
 	| document |

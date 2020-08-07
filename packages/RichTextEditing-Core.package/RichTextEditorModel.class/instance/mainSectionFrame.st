@@ -7,4 +7,5 @@ mainSectionFrame
 		topFraction: self menuBarFrame bottomFraction
 			offset: self menuBarFrame bottomOffset;
 		bottomFraction: self footerFrame topFraction
-			offset: self footerFrame topOffset
+			offset: self footerFrame topOffset;
+		yourself

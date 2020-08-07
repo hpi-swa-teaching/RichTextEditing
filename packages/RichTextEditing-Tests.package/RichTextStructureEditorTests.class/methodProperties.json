@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"lastStoredRun" : "frc 6/12/2020 19:59" },
+		 },
 	"instance" : {
 		"acceptCurrentTemplate" : "frc 8/1/2020 12:44",
 		"addColoredStructureToText" : "frc 8/7/2020 14:11",
@@ -43,8 +43,8 @@
 		"testUS29RemoveNewStructure" : "ls 6/18/2019 16:22",
 		"testUS37TemplateCanBeSelected" : "frc 8/1/2020 12:33",
 		"testUS37TemplateChangeButtonExists" : "JEH 7/10/2020 14:57",
-		"testUS41ColorCanBeReset" : "frc 8/1/2020 10:50",
+		"testUS41ColorCanBeReset" : "frc 8/7/2020 10:28",
 		"testUS41ColorIsAssignedToStructure" : "AG 6/21/2019 13:59",
-		"testUS42FontCanBeReset" : "frc 8/1/2020 10:48",
-		"testUS42FontIsAppliedToStructure" : "kh 6/19/2020 18:10",
-		"testUS42FontSizeCanBeAssigned" : "kh 6/19/2020 18:10" } }
+		"testUS42FontCanBeReset" : "frc 8/7/2020 10:28",
+		"testUS42FontIsAppliedToStructure" : "frc 8/7/2020 10:28",
+		"testUS42FontSizeCanBeAssigned" : "frc 8/7/2020 10:28" } }

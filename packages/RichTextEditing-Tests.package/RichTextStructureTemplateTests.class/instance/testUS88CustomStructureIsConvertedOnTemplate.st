@@ -1,7 +1,7 @@
 acceptance tests
 testUS88CustomStructureIsConvertedOnTemplate
 	
-	self document textStructures add: (self markdownLikeStructure).
+	self document initializeStructure: (self markdownLikeStructure structureIdentifier).
 	self assert: (self document textStructureSymbols includes: (self markdownLikeStructure structureIdentifier)).
 	self document setNewTemplate: RichTextMarkdownTemplate.
 	self assert: (self document textStructureSymbols includes: (self markdownLikeStructure structureIdentifier))

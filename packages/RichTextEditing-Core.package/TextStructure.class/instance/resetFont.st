@@ -1,4 +1,4 @@
 font
 resetFont
 
-	self remove: (TextStructure font)
+	self remove: (self class font)

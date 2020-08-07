@@ -2,7 +2,6 @@ acceptance-tests
 testUS59StopConditionsAreInCorrectOrder
 
 	| stream stopConditions |
-	
 	self document text: self textWithAttributes.
 	stream := RichTextDocumentReadStream on: self document.
 	stream next.
