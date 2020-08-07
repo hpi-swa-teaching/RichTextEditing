@@ -1,4 +1,4 @@
 acceptance-tests
 testUS44StructureListExists
 
-	self editorView findByName: 'structureList'
+	self assert: (self editorView findByName: self structureListLabel) morphs notEmpty
