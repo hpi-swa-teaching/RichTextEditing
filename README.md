@@ -24,4 +24,4 @@ Metacello new
 If you are new to the project and starting to develop more features visit the Wiki over at [https://github.com/hpi-swa-teaching/RichTextEditing/wiki](https://github.com/hpi-swa-teaching/RichTextEditing/wiki).
 
 ## Outlook
-In the future, it may also be possible to reflect over the text. Therefore, one would be able to easily export the text into different formats (e.g. Markdown, HTML, ...).
+In the future, it might be possible to integrate morphs, tables etc. into rich text. The Scripting API and exporting/importing functionality is also up for improvement. Additionally, it may be possible to integrate rich text into other tools (i.e. e-mail client). 
