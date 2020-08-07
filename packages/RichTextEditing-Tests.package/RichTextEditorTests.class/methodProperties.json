@@ -85,7 +85,7 @@
 		"testUS142UndoStructureUnapplyReappliesStructure" : "tok 8/4/2020 17:20",
 		"testUS142UndoUndoesStructure" : "tok 8/4/2020 17:04",
 		"testUS183ChangeStructureKeymap" : "tok 8/7/2020 11:07",
-		"testUS183ChangedStructureKeymapAllowsNewShortcuts" : "tok 8/7/2020 10:47",
+		"testUS183ChangedStructureKeymapAllowsNewShortcuts" : "tok 8/7/2020 11:25",
 		"testUS19ButtonInAppsMenuExists" : "MB 5/15/2019 21:29",
 		"testUS19WindowsOpensWithoutFailure" : "MB 5/15/2019 21:30",
 		"testUS24saveAsButtonChangesLabel" : "frc 6/18/2020 19:04",
