@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "OS 8/6/2020 19:24",
+	"commentStamp" : "OS 8/7/2020 11:24",
 	"instvars" : [
 		 ],
-	"name" : "DocumentReadStream",
+	"name" : "RichTextDocumentReadStream",
 	"pools" : [
 		 ],
 	"super" : "ReadStream",
