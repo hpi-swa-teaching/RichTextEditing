@@ -2,4 +2,4 @@ unit-tests
 testCharCountForText
 
 	self enterExampleStringOntoTextField.
-	self assert: self document charcount = self exampleString size
+	self assert: self document charcount = 16

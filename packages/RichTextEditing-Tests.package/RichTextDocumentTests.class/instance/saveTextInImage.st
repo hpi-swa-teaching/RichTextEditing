@@ -1,6 +1,5 @@
 utilities
 saveTextInImage
 
-	self
-		editorModel saveText;
-		enterStringInSaveDialog: self saveName
+	self editorModel saveText.
+	self enterStringInSaveDialog: self saveName
