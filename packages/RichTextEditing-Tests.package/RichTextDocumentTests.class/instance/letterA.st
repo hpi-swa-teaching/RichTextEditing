@@ -1,4 +1,4 @@
 constants
 letterA
 
-	#(65 97)
+	^ #(65 97)
