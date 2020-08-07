@@ -10,3 +10,4 @@ I am using a null object (NullTextStructure) so you do not have to check for nil
 My instance variables are: 
 structureIdentifier - aSymbol
 attributes - aSet of TextAttributes
+preAddHook - action that is performed before the structure is applied on a text

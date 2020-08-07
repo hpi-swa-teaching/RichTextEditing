@@ -5,17 +5,14 @@
 		"autocompletion" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ls 7/25/2019 13:49",
+	"commentStamp" : "JEH 8/7/2020 17:18",
 	"instvars" : [
 		"textView",
 		"footer",
 		"label",
 		"selectedStructures",
-		"bufferedStructures",
-		"debufferedStructures",
 		"targetDocument",
-		"bufferDocument",
-		"precedingStructures" ],
+		"bufferDocument" ],
 	"name" : "RichTextEditorModel",
 	"pools" : [
 		 ],
