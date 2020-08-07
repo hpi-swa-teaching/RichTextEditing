@@ -6,5 +6,8 @@ buildWith: aBuilder
 	windowSpec
 	 	 model: self;
 		 label: 'Structure Editor';
-		 children: (self buildChildrenWith: aBuilder).
+		 children: {
+			self buildTemplatePanelWith: aBuilder.
+			self buildStructurePanelWith: aBuilder.
+			self buildStylePanelWith: aBuilder}.
 	^ aBuilder build: windowSpec
