@@ -1,4 +1,4 @@
 unit-tests
 testDocumentHashIsEqual
 
-	self assert: self htmlFormattedDocument hash = self htmlFormattedDocument hash
+	self assert: (RichTextDocument new copy: self htmlFormattedDocument) hash = self htmlFormattedDocument hash
