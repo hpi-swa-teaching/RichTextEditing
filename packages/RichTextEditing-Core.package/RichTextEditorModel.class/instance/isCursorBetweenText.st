@@ -1,4 +1,4 @@
 testing
 isCursorBetweenText
 
-	^ self isIntervalEmpty and: [self isTextEmpty not]
+	^ self isSelectionEmpty and: [self isTextEmpty not]
