@@ -3,7 +3,7 @@ processDocument
 
 	| readStream next|
 
-	readStream := DocumentReadStream on: self document.
+	readStream := RichTextDocumentReadStream on: self document.
 	next := readStream next.
 	[next notNil] whileTrue: [
 		self handleNextEvent: next.

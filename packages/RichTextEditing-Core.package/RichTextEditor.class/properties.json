@@ -1,7 +1,7 @@
 {
 	"category" : "RichTextEditing-Core",
 	"classinstvars" : [
-		 ],
+		"structureKeymap" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "ls 7/25/2019 13:49",
