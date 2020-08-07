@@ -1,4 +1,4 @@
 accessing
-structureKeymap: anObject
+structureKeymap: aString
 
-	structureKeymap := anObject.
+	structureKeymap := aString
