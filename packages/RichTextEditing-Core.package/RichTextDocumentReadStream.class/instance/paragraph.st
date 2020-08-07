@@ -1,6 +1,6 @@
 stop conditions
 paragraph
 
-	^ self currentCharacter = self paragraphCharacter
+	^ self currentCharacter = RichTextEditor paragraphCharacter
 		ifTrue: [{#paragraph}]
 		ifFalse: [nil]

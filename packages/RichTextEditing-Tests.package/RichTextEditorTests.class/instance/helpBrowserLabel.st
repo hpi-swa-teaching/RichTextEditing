@@ -1,4 +1,4 @@
 constants
 helpBrowserLabel
 
-	^ SquidWordHelp bookName , ': '
+	^ RichTextHelp bookName , ': '

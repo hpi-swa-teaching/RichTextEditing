@@ -3,6 +3,6 @@ changeAttributesFor: aBoolean with: targetStructure
 
 	self editor openStructureTypeIn.
 	aBoolean
-		ifTrue: [self addAttribute: targetStructure]
+		ifTrue: [self addTextAttribute: targetStructure]
 		ifFalse: [self removeTextAttribute: targetStructure].
 	self editor closeTypeIn
