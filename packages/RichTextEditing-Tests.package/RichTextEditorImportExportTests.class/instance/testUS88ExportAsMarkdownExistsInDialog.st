@@ -1,4 +1,4 @@
 acceptance-tests
 testUS88ExportAsMarkdownExistsInDialog
 
-	self assert: (self exportOptionExists: RichTextMarkdownExportStrategy)
+	self assert: (self exportVariantExists: RichTextMarkdownExportStrategy)

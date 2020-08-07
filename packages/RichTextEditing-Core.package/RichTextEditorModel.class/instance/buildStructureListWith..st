@@ -4,7 +4,7 @@ buildStructureListWith: aBuilder
 	^ aBuilder pluggableMultiSelectionListSpec new
 		name: 'structureList';
 		model: self;
-		frame: (0 @ 0.075 corner: 0.3 @ 0.8);
+		frame: self structureListFrame;
 		list: #textStructureSymbols;
 		getSelectionList: #getStructureSelectionAt:;
 		setSelectionList: #structureSelectionAt:put:;

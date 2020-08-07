@@ -1,4 +1,4 @@
 initialize-release
 openStructureEditor
 
-	RichTextStructureEditor openWith: self bufferDocument
+	RichTextStructureEditor open: self bufferDocument
