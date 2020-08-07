@@ -10,11 +10,11 @@ menuStructure
 The menu of SquidWord is divided into the following components.
 
 Document
-This contains functionalities regarding the document itself.
+This contains functionalities regarding the document itself. See the Document Menu help page for more details.
 	New - Open a new SquidWord with a new document
-	Save - Save the current document (see Saving and Loading)
-	Save as... - Save with a name (see Saving and Loading)
-	Load - Load a document from image (see Saving and Loading)
+	Save - Save the current document
+	Save as... - Save with a name
+	Load - Load a document from image
 	Import from file - Import text from a file (see Export and Import)
 	Export as... - Export to a specific format (see Export and Import)
 	Inspect document - Open the Squeak inspector on the document object
@@ -29,7 +29,7 @@ This contains functionalities regarding editing the text.
 	
 Help
 Show this help browser!
-]style[(319 9 592 5 289 5 22),f1i,,f1i,,f1i,!' readStream nextChunkText)
+]style[(319 9 567 5 289 5 22),f1i,,f1i,,f1i,!' readStream nextChunkText)
 			key: #menuStructure;
 			shouldStyle: false;
 			yourself

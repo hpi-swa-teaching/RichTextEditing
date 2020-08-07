@@ -15,8 +15,10 @@ Using the "+" and "-" buttons you can create additional structures or remove exi
 
 Using the "Up" and "Down" buttons you can rearrange the structures in the list. Attributes like color of structures at the top of the list take priority over the same attributes with different values lower in the list if multiple structures are applied to the same text. The order of the structures in the main editor is the same as the order in the structure editor and affects the shortcuts for text structures (see "Keyboard Shortcuts").
 
-You can also use a predefined template by choosing one of them in the left column and clicking on Accept Template in the bottom left hand corner. This will remove all current structures from the text that cannot be matched to one from the template.!
-]style[(123 16 968 19 252)f1,,f1,,f1!' readStream nextChunkText)
+Additionally, you can select a new styles template for your text.
+Selecting a template in the list to the left column and then clicking the "Accept Template" button in the bottom left hand corner (and the "Select template" button in the appearing confirmation window) will replace the currently configured structures with the ones that are predifined for that template. The formatting of the current document will be converted, as long as matching structures can be found in the new template.
+Note that, after a template has been selected, changes to the appearing structures won''''t be saved back to the template and are specific to the document you are editing.!
+]style[(123 16 968 19 4 662)f1,,f1,,f1,!' readStream nextChunkText)
 			key: #structureEditor;
 			shouldStyle: false;
 			yourself
