@@ -46,8 +46,5 @@
 		"testUS69LinkGetsPasted" : "kh 6/15/2020 20:13",
 		"testUS69NormalTextDoesNotConvertToClickableLink" : "kh 6/15/2020 20:08",
 		"testUS69PastedLinkConvertsToClickableLink" : "kh 6/15/2020 20:16",
-		"textHasTextAttribute:" : "kh 6/19/2020 17:07",
-		"textHasTextEmphasis:" : "kh 6/15/2020 20:10",
-		"textIsBold" : "kh 6/15/2020 20:04",
 		"textIsLink" : "kh 6/15/2020 20:10",
 		"url" : "kh 6/15/2020 19:25" } }
