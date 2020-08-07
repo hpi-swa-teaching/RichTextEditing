@@ -7,7 +7,7 @@
 	"commentStamp" : "OS 8/6/2020 19:24",
 	"instvars" : [
 		 ],
-	"name" : "DocumentReadStream",
+	"name" : "RichTextDocumentReadStream",
 	"pools" : [
 		 ],
 	"super" : "ReadStream",
