@@ -1,5 +1,5 @@
 unit-tests
-testInitializeCompletionController
+testInitializeCompletionControllerAddsDependent
 
 	| testModel |
 	self enableAutocompletion.
