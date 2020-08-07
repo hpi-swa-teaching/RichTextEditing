@@ -1,5 +1,5 @@
 export
-export: aRichTextDocument on: aFilePath
+export: aRichTextDocument on: aStream
 	"Subclasses overwrite this to specify how a text is exported"
 	
 	^ self subclassResponsibility
