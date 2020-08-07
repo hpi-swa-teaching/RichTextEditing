@@ -1,4 +1,0 @@
-constants
-firstIndex
-
-	^ 1

@@ -1,4 +1,0 @@
-utilities
-enterNothingInSaveDialog
-
-	self enterStringInSaveDialog: ''.

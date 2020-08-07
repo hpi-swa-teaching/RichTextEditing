@@ -1,5 +1,4 @@
 text structures
 textStructureSymbols
 
-	^ self textStructures collect: [:each |
-		each structureIdentifier]
+	^ self textStructures collect: [:each | each structureIdentifier]

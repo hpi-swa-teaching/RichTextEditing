@@ -1,0 +1,4 @@
+utilities
+enterExampleStringOntoTextField
+
+	self enterStringOntoTextField: self exampleString

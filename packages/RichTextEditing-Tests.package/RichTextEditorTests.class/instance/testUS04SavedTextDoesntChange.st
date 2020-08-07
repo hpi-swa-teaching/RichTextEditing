@@ -2,10 +2,10 @@ acceptance-tests
 testUS04SavedTextDoesntChange
 	
 	self editorModel
-		setText: self text;
+		setText: self demoString;
 		saveText.
-	self enterSaveNameInDialog: [self editorModel saveDocumentInSaverWithNamePrompt].
-	self editorModel setText: self anotherText.
+	self enterSaveNameInDialog: [self editorModel saveDocumentWithNamePrompt].
+	self editorModel setText: self exampleString.
 	self loadDocumentFromSaver.
 		
-	self assert: (self instance: self text equals: self editorModel text)
+	self assert: self demoString = self editorModel text asString

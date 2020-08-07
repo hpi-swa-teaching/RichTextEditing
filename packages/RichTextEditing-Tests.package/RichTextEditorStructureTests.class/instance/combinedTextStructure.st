@@ -1,4 +1,4 @@
-utilities
+constants
 combinedTextStructure
 
 	^ RichTextStructure new: #test from:

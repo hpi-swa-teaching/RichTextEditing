@@ -1,4 +1,4 @@
 utilities
 enterStringInSaveDialog: aString
 
-	^ self answer: aString inDialog: [self editorModel saveDocumentInSaverWithNamePrompt]
+	^ self answer: aString inDialog: [self editorModel saveDocumentWithNamePrompt]

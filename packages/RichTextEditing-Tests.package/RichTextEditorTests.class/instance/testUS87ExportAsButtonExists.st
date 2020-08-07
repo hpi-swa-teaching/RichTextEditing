@@ -1,4 +1,4 @@
 acceptance-tests
 testUS87ExportAsButtonExists
 
-	self assert: (self menuItemWithLabelExists: 'Export as ...')
+	self assert: (self menuItemWithLabelExists: self exportAsButtonLabel)

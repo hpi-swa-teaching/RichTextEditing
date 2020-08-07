@@ -2,7 +2,7 @@ acceptance-tests
 testUS23TriangleReappearsWhenEditing
 
 	self 
-		enterStringOntoTextField: 'Start writing text.';
+		enterExampleStringOntoTextField;
 		enterStringInSaveDialog: 'Save name';
-		enterStringOntoTextField: ' Continue to write text.';
+		enterExampleStringOntoTextField;
 		assert: self triangleIsVisible.

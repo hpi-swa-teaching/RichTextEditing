@@ -1,7 +1,7 @@
 utilities
 testRedoStructureWith: aRedoBlock
 
-	self enterStringOntoTextField: self text.
+	self enterExampleStringOntoTextField.
 	self textEditor selectAll.
 	self selectOptionBold.
 	self editorModel undo.

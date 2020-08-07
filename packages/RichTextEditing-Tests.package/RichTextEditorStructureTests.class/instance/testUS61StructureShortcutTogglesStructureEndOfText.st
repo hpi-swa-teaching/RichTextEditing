@@ -2,7 +2,7 @@ acceptance-tests
 testUS61StructureShortcutTogglesStructureEndOfText
 
 	self
-		enterStringOntoTextField: self demoText;
+		enterExampleStringOntoTextField;
 		simulateKeyboardShortcutForStructure1;
 		assert: (self firstStructureIsSelectedInList);
 		simulateKeyboardShortcutForStructure1;

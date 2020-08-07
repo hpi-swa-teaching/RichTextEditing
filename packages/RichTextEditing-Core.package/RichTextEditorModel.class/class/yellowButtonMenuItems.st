@@ -17,6 +17,6 @@ yellowButtonMenuItems
 			{'paste...' translated.					#pasteRecent}.
 			#-.
 			{'save (s)' translated.					#saveText}.
-			{'save as' translated.					#saveDocumentInSaverWithNamePrompt}.
+			{'save as' translated.					#saveDocumentWithNamePrompt}.
 			{'cancel (l)' translated.					#cancel}.
 		}

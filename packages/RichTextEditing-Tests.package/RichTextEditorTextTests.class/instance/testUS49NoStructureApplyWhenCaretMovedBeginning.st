@@ -1,9 +1,4 @@
 acceptance-tests
 testUS49NoStructureApplyWhenCaretMovedBeginning
 	
-	self moveCaretToBeginningOfText;
-		activateHeading;
-		moveCaret;
-		enterStringOntoTextField: self otherText.
-	
-	self deny: self headingIsAddedToWrittenText
+	self testNoStructureApplyWhenCaretMovedWith: [self moveCaretToBeginOfText]

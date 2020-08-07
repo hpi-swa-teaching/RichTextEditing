@@ -2,6 +2,6 @@ acceptance-tests
 testUS07UndoButtonUndoesChanges
 
 	self
-		enterStringOntoTextField: self text;
+		enterExampleStringOntoTextField;
 		clickUndoButton;
 		assert: self editorText = ''

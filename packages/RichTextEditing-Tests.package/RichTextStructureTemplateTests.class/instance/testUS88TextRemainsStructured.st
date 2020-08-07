@@ -1,7 +1,7 @@
 acceptance tests
 testUS88TextRemainsStructured
 
-	self enterStringOntoTextField: 'test'.
+	self enterExampleStringOntoTextField.
 	self textEditor selectAll.
 	self selectOptionBold.
 	self document setNewTemplate: RichTextMarkdownTemplate.

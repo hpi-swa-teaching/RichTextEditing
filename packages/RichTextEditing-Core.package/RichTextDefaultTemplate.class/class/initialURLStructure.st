@@ -3,4 +3,6 @@ initialURLStructure
 			
 	^ RichTextStructure
 		new: #url
-		from: {RichTextStructure autohyperlink. RichTextStructure underlined. RichTextStructure notExtendable}
+		from: {RichTextStructure autohyperlink.
+			RichTextStructure underlined.
+			RichTextStructure notExtendable}

@@ -1,8 +1,6 @@
 acceptance-tests
 testUS57SaveActionWritesIntoTargetDocument
 
-	| testText |
-	testText := 'test text' asText.
-	self enterStringOntoTextField: testText.
+	self enterExampleStringOntoTextField.
 	self editorModel saveText.
-	self assert: (self targetDocumentHasText: testText)
+	self assert: (self targetDocument text asString = self exampleString)

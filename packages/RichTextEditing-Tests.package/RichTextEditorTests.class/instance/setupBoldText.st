@@ -1,6 +1,6 @@
 running
 setupBoldText
 
-	self enterStringOntoTextField: self text.
+	self enterExampleStringOntoTextField.
 	self textEditor selectAll.
 	self selectOptionBold

@@ -1,5 +1,5 @@
 acceptance-tests
 testUS04SaveAsButtonLetsChooseNameAndSavesInImage
 
-	self enterSaveNameInDialog: [self editorModel perform: (self menuActionByLabel: self saveAsButtonLabel)].
+	self enterSaveNameInSaveAs.
 	self assert: (self editorSavesIncludeKey: self saveName)

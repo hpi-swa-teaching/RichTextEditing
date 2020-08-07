@@ -1,4 +1,6 @@
 acceptance-tests
 testUS88ExportAsMarkdown
 
-	self assert: self htmlExampleString equals: self htmlFormattedDocument withExport: RichTextMarkdownExportStrategy
+	self assert: self htmlExampleString
+		equals: self htmlFormattedDocument
+		withExport: RichTextMarkdownExportStrategy

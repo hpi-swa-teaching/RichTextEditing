@@ -3,7 +3,7 @@ testUS87ExportDocumentAsPlainText
 
 	self enterStringOntoTextField: self exampleExportContent.
 	self editorModel saveText.
-	self chooseExportStrategy: RichTextPlainExportStrategy.
-	
-	self assert: self exportedFileExists.
-	self assert: self exportedFileContent equals: self exampleExportContent
+	self
+		chooseExportStrategy: RichTextPlainExportStrategy;
+		assert: self exportedFileExists;
+		assert: self exportedFileContent equals: self exampleExportContent

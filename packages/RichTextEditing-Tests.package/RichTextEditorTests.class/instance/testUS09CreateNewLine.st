@@ -1,7 +1,8 @@
 acceptance-tests
 testUS09CreateNewLine
 
-	self enterStringOntoTextField: 'hallo'.
-	self pressShiftEnter.
-	self assert: self editorModel text equals: ('hallo', String lf) asText
+	self
+		enterExampleStringOntoTextField;
+		pressShiftEnter;
+		assert: self editorModel text equals: (self exampleString, String lf) asText
 	

@@ -1,6 +1,7 @@
 acceptance-tests
 testUS47WhenStructureIsAddedTheTriangleShows
 
-	self deny: self triangleIsVisible.
-	self addStructure.
-	self assert: self triangleIsVisible
+	self
+		deny: self triangleIsVisible;
+		createTestStructure;
+		assert: self triangleIsVisible

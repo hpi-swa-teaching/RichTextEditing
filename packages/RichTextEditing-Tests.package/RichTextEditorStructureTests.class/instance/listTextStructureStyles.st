@@ -1,5 +1,0 @@
-utilities
-listTextStructureStyles
-
-	^ {#indented}
-	

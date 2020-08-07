@@ -1,4 +1,4 @@
 template-choosing
 templateIdentifiers
 
-	^ RichTextStructureTemplate availableTemplates collect: [ : each | each identifier ]
+	^ RichTextStructureTemplate availableTemplates collect: [:each | each identifier]

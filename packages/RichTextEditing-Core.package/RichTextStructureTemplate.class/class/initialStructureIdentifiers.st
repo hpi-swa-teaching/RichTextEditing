@@ -1,4 +1,4 @@
 initial structures
 initialStructureIdentifiers
 
-	^ self textStructures collect: [:each | each structureIdentifier ]
+	^ self textStructures collect: [:each | each structureIdentifier]

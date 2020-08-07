@@ -1,4 +1,4 @@
-utilities
+constants
 middleTextOffset
 
 	^ 8

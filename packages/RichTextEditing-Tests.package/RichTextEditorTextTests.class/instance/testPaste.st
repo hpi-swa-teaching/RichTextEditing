@@ -1,6 +1,6 @@
 unit-tests
 testPaste
 
-	Clipboard clipboardText: self otherText.
+	Clipboard clipboardText: self exampleString.
 	self textEditor paste.
-	self assert: self standardText size + self otherText size = self editorText size
+	self assert: self exampleString size + self exampleString size = self editorText size

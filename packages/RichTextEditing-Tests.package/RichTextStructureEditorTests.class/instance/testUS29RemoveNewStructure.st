@@ -6,4 +6,4 @@ testUS29RemoveNewStructure
 	self editorModel createNewStructure: self newStructureName asSymbol.
 	
 	self enterStructureNameInRemoveDialog: [removeStructureButton click].
-	self assert: (self structureIsNotDisplayed: self newStructureName asSymbol)
+	self deny: (self structureIsDisplayed: self newStructureName asSymbol)

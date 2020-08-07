@@ -5,5 +5,4 @@ openEditMenu
 		{'Undo (z)' . #undo}.
 		{'Redo (Z)' . #redo}.
 		{'Structures' . #openStructureEditor}.
-		{'Template'. #openTemplateChoser}
-	}
+		{'Template'. #openTemplateChoser}}

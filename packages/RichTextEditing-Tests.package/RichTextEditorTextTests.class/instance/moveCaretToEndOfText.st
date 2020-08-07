@@ -2,5 +2,5 @@ utilities
 moveCaretToEndOfText
 	
 	self
-		moveCaretMultipleTimesRight: self editorText size;
+		moveCaretRightBy: self editorText size;
 		caretPosition: self editorText size.

@@ -1,4 +1,0 @@
-utilities
-fontStructureName
-
-	^ 'fontStructure'
