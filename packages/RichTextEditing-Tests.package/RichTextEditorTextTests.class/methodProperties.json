@@ -36,7 +36,7 @@
 		"testUS23TriangleIsStillVisibleWhenSaveDialogIsCancelled" : "AG 6/21/2019 14:16",
 		"testUS23TriangleReappearsWhenEditing" : "AG 6/21/2019 14:33",
 		"testUS23WhenTriangleIsVisibleCtrlSCanBePressedForSaveDialog" : "lh 7/24/2019 16:19",
-		"testUS36StructureIsNotExtendable" : "lh 6/5/2019 22:03",
+		"testUS36StructureIsNotExtendable" : "OS 8/7/2020 13:51",
 		"testUS49ApplySelectedStructureWithoutASelectionToNextTextBeginning" : "JEH 6/14/2020 14:00",
 		"testUS49ApplySelectedStructureWithoutASelectionToNextTextEnd" : "JEH 6/14/2020 13:56",
 		"testUS49ApplySelectedStructureWithoutASelectionToNextTextMiddle" : "MB 7/25/2019 10:33",

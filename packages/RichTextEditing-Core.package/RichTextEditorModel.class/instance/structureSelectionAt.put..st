@@ -5,7 +5,7 @@ structureSelectionAt: anIndex put: aBoolean
 	targetSymbol := self textStructureSymbols at: anIndex ifAbsent: [^self].
 	targetStructure := self textStructures at: anIndex ifAbsent: [^self].
 
-	self isIntervalEmpty
+	self isSelectionEmpty
 		ifTrue: [self changeBuffersFor: aBoolean with: targetSymbol]
 		ifFalse: [self changeAttributesFor: aBoolean with: targetStructure].
 		

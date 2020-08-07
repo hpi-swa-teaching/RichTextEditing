@@ -1,4 +1,4 @@
 utilities
 addAttributeAt: anInteger
 
-	^ self editorText addAttribute: (self editorModel textStructureAt: (self symbolAt: anInteger))
+	^ self editorText addTextAttribute: (self editorModel textStructureAt: (self symbolAt: anInteger))
