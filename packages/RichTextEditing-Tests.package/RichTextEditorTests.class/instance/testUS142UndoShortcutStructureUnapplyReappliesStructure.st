@@ -1,0 +1,4 @@
+acceptance-tests
+testUS142UndoShortcutStructureUnapplyReappliesStructure
+
+	self testUndoStructureUnapplyReappliesStructureWith: [self simulateUndoShortcut]

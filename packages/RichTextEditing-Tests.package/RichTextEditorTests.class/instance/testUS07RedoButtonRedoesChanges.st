@@ -1,12 +1,8 @@
-tests
+acceptance-tests
 testUS07RedoButtonRedoesChanges
 
-	| redoButton text |
-	redoButton := self editorView findByLabel: 'Redo'.
-	text := 'test text'.
-	
-	self enterStringOntoTextField: text.
+	self enterStringOntoTextField: self anotherText.
 	self editorModel undo.
-	redoButton click.
-	
-	self assert: self editorModel text = text
+	self
+		clickRedoButton;
+		assert: self editorModel text equals: self anotherText

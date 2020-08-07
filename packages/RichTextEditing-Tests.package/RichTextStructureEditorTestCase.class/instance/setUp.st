@@ -1,8 +1,8 @@
-resources
+running
 setUp
 
 	super setUp.
 	self
 		richTextEditorMorph: self editorView;
-		wantsToTest: (RichTextStructureEditor openWith: self editorModel bufferDocument);
+		wantsToTest: (RichTextStructureEditor open: self editorModel bufferDocument);
 		structureEditor: self structureEditorView model

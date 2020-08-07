@@ -4,9 +4,9 @@ buildFontButtonWith:  aBuilder
 	^ aBuilder pluggableButtonSpec new
 		name: 'fontButton';
 		model: self;
-		frame: (0.5 @ 0.45 corner: 0.75 @ 0.55);
+		frame: (0 @ 0 corner: 0.5 @ 0.5);
 		label: 'Font';
-		action: #addFont;
+		action: #openFontChooser;
 		yourself
 	
 	

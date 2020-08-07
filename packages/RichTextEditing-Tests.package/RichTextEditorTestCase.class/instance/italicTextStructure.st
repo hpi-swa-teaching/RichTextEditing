@@ -1,0 +1,4 @@
+constants
+italicTextStructure
+	
+	^ TextStructure italic

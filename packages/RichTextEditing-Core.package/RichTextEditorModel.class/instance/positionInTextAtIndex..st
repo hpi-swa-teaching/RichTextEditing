@@ -2,6 +2,8 @@ document information
 positionInTextAtIndex: anIndex
 
 	| lineCounter currentLine positionInLine |
+	
+	self bufferDocument text = '' ifTrue: [^ 1 @ 1].
 
 	lineCounter := 0.
 	currentLine := self displayedLines 

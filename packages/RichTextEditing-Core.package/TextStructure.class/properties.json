@@ -4,13 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "tok 6/8/2020 12:45",
+	"commentStamp" : "kh 6/21/2020 10:08",
 	"instvars" : [
 		"structureIdentifier",
-		"color",
-		"font",
-		"styleSet",
-		"stylesActivated" ],
+		"attributes",
+		"preAddHook" ],
 	"name" : "TextStructure",
 	"pools" : [
 		 ],

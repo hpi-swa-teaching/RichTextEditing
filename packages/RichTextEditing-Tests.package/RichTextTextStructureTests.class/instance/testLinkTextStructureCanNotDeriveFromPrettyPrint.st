@@ -1,0 +1,4 @@
+unit-tests
+testLinkTextStructureCanNotDeriveFromPrettyPrint
+
+	self deny: (self linkTextStructure couldDeriveFromPrettyPrinting)

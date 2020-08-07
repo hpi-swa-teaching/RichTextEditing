@@ -1,0 +1,4 @@
+text coloring
+removeColorFromCurrentStructure
+	
+	self currentStructure resetColor

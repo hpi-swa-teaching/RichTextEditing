@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS13UnitSavesCanBeAddedAndLoaded
 	
 	| saveName text document |

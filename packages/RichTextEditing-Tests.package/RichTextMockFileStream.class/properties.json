@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Tests-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "frc 8/4/2020 14:43",
+	"instvars" : [
+		"result" ],
+	"name" : "RichTextMockFileStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

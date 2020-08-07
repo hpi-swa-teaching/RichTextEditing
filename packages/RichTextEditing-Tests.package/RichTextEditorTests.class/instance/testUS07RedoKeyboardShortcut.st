@@ -1,11 +1,8 @@
-tests
+acceptance-tests
 testUS07RedoKeyboardShortcut
 	
-	| text |
-	text := 'test text'.
-	
-	self enterStringOntoTextField: text.
+	self enterStringOntoTextField: self text.
 	self editorModel undo.
-	self simulateKeyboardEventWithButtons: self ctrlShiftButtonCode andKeyValue: $z asciiValue.
+	self simulateRedoShortcut.
 	
-	self assert: self editorText = text
+	self assert: self editorText = self text

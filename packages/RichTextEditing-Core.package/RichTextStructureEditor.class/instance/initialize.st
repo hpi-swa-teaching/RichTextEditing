@@ -1,7 +1,6 @@
 initialize-release
 initialize
 
-	self
-		styleList: self textStyles;
-		structureList: self textStructures;
-		initializeLoremIpsum
+	self initializeLoremIpsum.
+	self currentStructureSymbol: NullTextStructure new structureIdentifier.
+	self currentTemplateSymbol: RichTextStructureTemplate defaultTemplate identifier

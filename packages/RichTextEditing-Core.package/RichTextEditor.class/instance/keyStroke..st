@@ -5,10 +5,9 @@ keyStroke: aKeyboardEvent
 	returnValue := super keyStroke: aKeyboardEvent.
 	(self isNewCharacter: aKeyboardEvent)
 		ifTrue: [self model applyCurrentStructures].
-	(self isStructureShortcut: aKeyboardEvent) ifFalse: 
-		[self model unbufferStructures].
-	(self isCtrlA: aKeyboardEvent)
+	(self class isCtrlA: aKeyboardEvent)
 		ifTrue: [self selectAll].	
-	self model precedingStructuresChanged.
+	(self isStructureShortcut: aKeyboardEvent) ifFalse: 
+		[self model precedingStructuresChanged].
 	self model updateFooter.
 	^ returnValue

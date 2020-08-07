@@ -1,4 +1,4 @@
-text structure
+testing
 isTextStructure
 
 	 ^ true

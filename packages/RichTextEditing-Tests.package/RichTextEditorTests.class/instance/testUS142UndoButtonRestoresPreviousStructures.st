@@ -1,0 +1,4 @@
+acceptance-tests
+testUS142UndoButtonRestoresPreviousStructures
+
+	self testUndoRestoresPreviousStructuresWith: [self clickUndoButton]

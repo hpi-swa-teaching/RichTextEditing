@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS07UndoButtonExists
 
-	self assert: (self buttonWithLabelExists: 'Undo').
+	self assert: (self menuItemWithLabelExists: self undoButtonLabel)

@@ -1,0 +1,14 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "kh 8/7/2020 09:08",
+	"instvars" : [
+		 ],
+	"name" : "RichTextObjectExportStrategy",
+	"pools" : [
+		 ],
+	"super" : "RichTextExportStrategy",
+	"type" : "normal" }

@@ -1,4 +1,8 @@
 utilities
 combinedTextStructure
 
-	^ TextStructure newWith: #test withStyles: #(#bold #italic #underlined #struckOut) asSet
+	^ TextStructure new: #test from:
+		{TextStructure bold.
+		TextStructure italic.
+		TextStructure underlined.
+		TextStructure struckOut}

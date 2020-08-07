@@ -1,4 +1,4 @@
-as yet unclassified
+text structure
 toggleStructureSelectionAt: anIndex
 
 	| isSelected maxIndex |

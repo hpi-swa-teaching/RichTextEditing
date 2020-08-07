@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS18TextStyleIsSelectedInList
 
 	self enterStringOntoTextField: 'test'.
