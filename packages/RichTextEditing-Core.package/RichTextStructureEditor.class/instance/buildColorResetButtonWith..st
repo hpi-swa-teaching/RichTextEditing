@@ -3,7 +3,7 @@ buildColorResetButtonWith: aBuilder
 
 	^ aBuilder pluggableButtonSpec new
 		model: self;
-		frame: (0.8 @ 0.55 corner: 1 @ 0.65);
+		frame: (0.5 @ 0.5 corner: 1 @ 1);
 		label: 'Reset color';
 		action: #resetColorOfCurrentStructure;
 		yourself

@@ -1,4 +1,4 @@
 initialize-release
 openInEditor
 
-	^ self class editorClass openWith: self
+	^ self class editorClass open: self
