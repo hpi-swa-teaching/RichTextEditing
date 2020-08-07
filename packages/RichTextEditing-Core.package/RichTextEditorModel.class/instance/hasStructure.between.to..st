@@ -1,10 +1,10 @@
-as yet unclassified
+text structure
 hasStructure: aSymbol between: start to: end
 
 	self setTextFromView.
 	
-	^ self bufferDocument
+	^ self bufferDocument class
 		hasStructure: aSymbol
-		forText: self text
+		for: self text
 		from:  start
 		to: end

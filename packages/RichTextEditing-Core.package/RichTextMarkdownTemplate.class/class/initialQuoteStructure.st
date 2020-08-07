@@ -1,6 +1,7 @@
 initial structures
 initialQuoteStructure
 			
-	^ TextStructure
+	^ RichTextStructure
 		new: #quote
-		from: {TextStructure fromColor: (Color veryLightGray). TextStructure listOnLevel: 1}
+		from: {RichTextStructure fromColor: (Color veryLightGray).
+			RichTextStructure listOnLevel: 1}

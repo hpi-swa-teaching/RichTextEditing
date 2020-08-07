@@ -1,9 +1,7 @@
 acceptance-tests
 testUS13UnitSavesCanBeAddedAndLoaded
-	
-	| saveName text document |
-	saveName := 'Testname'.
-	text := 'this is a test' asText.
-	document := RichTextDocument fromText: text withStructures: Set new.
-	self saver addSave: document underName: saveName.
-	self assert: (self saver loadDocumentFromName: saveName) text equals: text
+
+	self saver
+		addSave: (RichTextDocument fromText: (self exampleString asText) withStructures: Set new)
+		underName: 'Testname'.
+	self assert: (self saver loadDocumentFromName: 'Testname') text equals: self exampleString asText

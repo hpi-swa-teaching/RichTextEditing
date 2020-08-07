@@ -1,8 +1,6 @@
 acceptance-tests
 testUS57SaveActionPreservesTargetDocumentIdentity
 
-	| testText |
-	testText := 'test text' asText.
-	self enterStringOntoTextField: testText.
+	self enterExampleStringOntoTextField.
 	self editorModel saveText.
 	self assert: self targetIdentityIsPreserved

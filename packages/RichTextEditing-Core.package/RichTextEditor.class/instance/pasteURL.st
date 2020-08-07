@@ -2,5 +2,5 @@ pasting
 pasteURL
 
 	self
-		replaceSelectionWith: (self makeTextURLFrom: self clipboardText asString);
+		replaceSelectionWith: (self class makeTextURLFrom: self clipboardText asString);
 		selectAt: self pointIndex

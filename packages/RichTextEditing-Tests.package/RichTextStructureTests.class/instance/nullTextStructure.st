@@ -1,0 +1,4 @@
+constants
+nullTextStructure
+
+	^ RichTextNullStructure new

@@ -1,5 +1,5 @@
-resources
+running
 setUp
 
 	super setUp.
-	self setupFile
+	self setupPlainTextFile

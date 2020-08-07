@@ -1,0 +1,4 @@
+acceptance-tests
+testUS142RedoShortcutStructureUnapplyUnappliesStructure
+
+	self testRedoStructureUnapplyUnappliesStructureWith: [self simulateRedoShortcut]

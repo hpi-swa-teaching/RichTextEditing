@@ -1,4 +1,0 @@
-constants
-secondIndex
-
-	^ 2

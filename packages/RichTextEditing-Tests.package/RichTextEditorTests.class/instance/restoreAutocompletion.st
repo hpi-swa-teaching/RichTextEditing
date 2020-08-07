@@ -1,0 +1,4 @@
+utilities
+restoreAutocompletion
+
+	RichTextEditorModel autocompletion: autocompletionPreference

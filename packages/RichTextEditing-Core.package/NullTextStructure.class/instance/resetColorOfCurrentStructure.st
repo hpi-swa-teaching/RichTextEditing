@@ -1,4 +1,0 @@
-color
-resetColorOfCurrentStructure
-
-	self noCurrentStructureWarning

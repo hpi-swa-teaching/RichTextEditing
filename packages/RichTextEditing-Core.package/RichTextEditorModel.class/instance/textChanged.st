@@ -1,7 +1,8 @@
 text structure
 textChanged
 
-	self changed: #text;
+	self
+		changed: #text;
 		unacceptedEdits;
 		fitParagraphs;
 		updateFooter

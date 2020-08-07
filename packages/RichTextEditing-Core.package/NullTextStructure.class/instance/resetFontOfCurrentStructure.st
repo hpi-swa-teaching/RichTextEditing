@@ -1,4 +1,0 @@
-font
-resetFontOfCurrentStructure
-
-	self noCurrentStructureWarning

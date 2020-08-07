@@ -1,6 +1,6 @@
 initial structures
 initialUnderlinedStructure
 			
-	^ TextStructure
+	^ RichTextStructure
 		new: #underlined
-		from: {TextStructure underlined}
+		from: {RichTextStructure underlined}

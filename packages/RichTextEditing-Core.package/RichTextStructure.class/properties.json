@@ -1,0 +1,16 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JEH 8/7/2020 17:27",
+	"instvars" : [
+		"structureIdentifier",
+		"attributes",
+		"preAddHook" ],
+	"name" : "RichTextStructure",
+	"pools" : [
+		 ],
+	"super" : "TextAttribute",
+	"type" : "normal" }

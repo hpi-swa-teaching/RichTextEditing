@@ -1,7 +1,7 @@
 acceptance-tests
 testUS61StructureShortcutTogglesStructureSelectedText
 
-	self enterStringOntoTextField: self demoText.
+	self enterExampleStringOntoTextField.
 	self textEditor selectAll.
 	self
 		simulateKeyboardShortcutForStructure1;

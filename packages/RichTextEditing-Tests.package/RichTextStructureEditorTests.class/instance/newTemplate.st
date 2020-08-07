@@ -1,4 +1,0 @@
-utilities
-newTemplate
-
-	^ RichTextMarkdownTemplate

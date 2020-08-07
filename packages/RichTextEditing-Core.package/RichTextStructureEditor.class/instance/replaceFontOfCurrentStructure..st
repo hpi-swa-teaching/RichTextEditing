@@ -1,4 +1,4 @@
 text font
 replaceFontOfCurrentStructure: aFont
 
-	self currentStructure add: (TextStructure  fromFont: aFont)
+	self currentStructure add: (RichTextStructure  fromFont: aFont)

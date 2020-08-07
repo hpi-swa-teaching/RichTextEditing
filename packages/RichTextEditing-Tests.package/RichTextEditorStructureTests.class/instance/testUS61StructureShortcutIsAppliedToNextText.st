@@ -3,7 +3,7 @@ testUS61StructureShortcutIsAppliedToNextText
 
 	self
 		simulateKeyboardShortcutForStructure1;
-		enterStringOntoTextField: self demoText.
+		enterExampleStringOntoTextField.
 	self textEditor selectAll.
 	self assert: (self firstStructureIsSelectedInList)
 	

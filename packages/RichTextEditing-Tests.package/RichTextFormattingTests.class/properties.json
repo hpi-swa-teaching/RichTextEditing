@@ -10,5 +10,5 @@
 	"name" : "RichTextFormattingTests",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

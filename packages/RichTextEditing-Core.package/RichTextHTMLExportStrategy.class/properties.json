@@ -1,0 +1,20 @@
+{
+	"category" : "RichTextEditing-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JEH 8/7/2020 17:24",
+	"instvars" : [
+		"outputString",
+		"eventHandlingDictionary",
+		"currentStructures",
+		"document",
+		"fileStream",
+		"openingStrings",
+		"closingStrings" ],
+	"name" : "RichTextHTMLExportStrategy",
+	"pools" : [
+		 ],
+	"super" : "RichTextExportStrategy",
+	"type" : "normal" }

@@ -2,12 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"isBeginningOfStructure:" : "OS 7/10/2020 12:17",
+		"isBeginningOfStructure:" : "OS 8/7/2020 09:58",
 		"isEndOfStructure:" : "frc 7/13/2020 13:29",
-		"isParagraph:" : "OS 7/10/2020 12:20",
-		"paragraphCharacter" : "OS 7/10/2020 11:34",
-		"testUS59EndOfStructureAndBeginOfStructureIncludeStructure" : "OS 7/10/2020 12:26",
-		"testUS59NextReturnsNextSectionOfTextAndListOfStopConditions" : "OS 7/10/2020 12:27",
+		"isParagraph:" : "JEH 7/26/2020 18:39",
+		"stopConditionsForExampleText" : "tok 8/7/2020 17:46",
+		"testUS59EndOfStructureAndBeginOfStructureIncludeStructure" : "tok 8/7/2020 17:46",
+		"testUS59NextReturnsNextSectionOfTextAndListOfStopConditions" : "tok 8/7/2020 17:44",
 		"testUS59ReadStreamExists" : "OS 7/10/2020 11:22",
-		"testUS59StopConditionsAreInCorrectOrder" : "OS 7/10/2020 12:22",
-		"textWithAttributes" : "frc 7/13/2020 13:29" } }
+		"testUS59StopConditionsAreInCorrectOrder" : "tok 8/7/2020 17:47" } }

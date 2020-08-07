@@ -1,6 +1,6 @@
 initial structures
 initialLevel1ListStructure
 		
-	^ TextStructure
+	^ RichTextStructure
 		new: #listLevel1
-		from: {TextStructure indentedBy: 1}
+		from: {RichTextStructure indentedBy: 1}

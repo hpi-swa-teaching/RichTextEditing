@@ -1,4 +1,0 @@
-utilities
-leftArrowKey
-
-	^ Character arrowLeft 

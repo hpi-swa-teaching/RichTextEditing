@@ -1,0 +1,4 @@
+constants
+saveAsButtonLabel
+
+	^ 'Save as'
