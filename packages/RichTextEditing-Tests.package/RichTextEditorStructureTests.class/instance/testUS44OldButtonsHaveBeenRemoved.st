@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS44OldButtonsHaveBeenRemoved
 
 	self deny: (self buttonWithLabelExists: 'Add Structure').

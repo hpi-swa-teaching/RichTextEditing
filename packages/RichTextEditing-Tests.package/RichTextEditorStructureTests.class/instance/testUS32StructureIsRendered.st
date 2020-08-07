@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS32StructureIsRendered
 
 	self assert: self textHasNoStyle.

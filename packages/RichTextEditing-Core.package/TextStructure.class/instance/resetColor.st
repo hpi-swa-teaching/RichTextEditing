@@ -1,4 +1,4 @@
 color
 resetColor
-
-	self color: nil
+	
+	self remove: (self class color)

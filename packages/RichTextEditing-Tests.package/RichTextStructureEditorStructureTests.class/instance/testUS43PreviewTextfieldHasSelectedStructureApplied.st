@@ -1,4 +1,4 @@
-tests
+acceptance-tests
 testUS43PreviewTextfieldHasSelectedStructureApplied
 
 	self assert: (self hasNoStructureForText: self previewText).

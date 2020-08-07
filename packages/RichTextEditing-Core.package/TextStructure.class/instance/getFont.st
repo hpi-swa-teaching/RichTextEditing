@@ -1,4 +1,0 @@
-font
-getFont
-
-	^ self font

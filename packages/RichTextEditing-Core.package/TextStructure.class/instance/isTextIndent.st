@@ -1,4 +1,4 @@
 testing
 isTextIndent
 
-	^ self isIndented
+	^ self attributes anySatisfy: [:each | each isTextIndent]

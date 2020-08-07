@@ -2,11 +2,16 @@
 	"class" : {
 		 },
 	"instance" : {
-		"listTextStructure" : "tok 6/12/2020 13:13",
-		"listTextStructureStyles" : "tok 6/12/2020 13:13",
+		"linkTextStructure" : "frc 7/3/2020 19:04",
+		"listTextStructure" : "frc 7/3/2020 18:56",
 		"nullTextStructure" : "tok 6/12/2020 13:12",
-		"testGetFontReturnsFont" : "tok 6/13/2020 11:02",
+		"testAddMultipleTextStructures" : "frc 7/3/2020 20:35",
+		"testExampleStructureIsNotKern" : "frc 7/3/2020 18:50",
+		"testLinkTextStructureCanNotDeriveFromPrettyPrint" : "frc 7/3/2020 19:12",
+		"testLinkTextStructureMayActOnClick" : "frc 7/3/2020 19:05",
+		"testListTextStructureIsNotAlignment" : "frc 7/3/2020 20:36",
+		"testNullTextStructureCantAddAttributes" : "frc 7/30/2020 12:33",
+		"testNullTextStructureCantRemoveAttributes" : "kh 6/21/2020 11:19",
+		"testNullTextStructurestructureIdentifierCanNotBeChanged" : "kh 6/19/2020 17:43",
 		"testNullTextStructurestructureIdentifierIsNull" : "tok 6/13/2020 11:01",
-		"testOriginalColorReturnsColorIfNotNil" : "tok 6/13/2020 11:02",
-		"testOriginalColorReturnsDefaultClassColorIfNil" : "tok 6/13/2020 11:02",
-		"testStyleSetReturnsActiveStyles" : "tok 6/13/2020 11:02" } }
+		"testSerializeExampleStructure" : "frc 7/3/2020 20:45" } }

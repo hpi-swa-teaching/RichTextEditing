@@ -1,0 +1,4 @@
+acceptance-tests
+testUS142UndoStructureUnapplyReappliesStructure
+
+	self testUndoStructureUnapplyReappliesStructureWith: [self editorModel undo]

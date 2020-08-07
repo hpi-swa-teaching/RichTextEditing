@@ -1,10 +1,4 @@
-emphasis
+accessing
 emphasizeScanner: aScanner
-	
-	aScanner addEmphasis: self emphasisCode.
-	self color ifNotNil: [
-		aScanner textColor: self color].
-	self font ifNotNil: [
-		aScanner setActualFont: self font].
-	self isTextIndent ifTrue: [
-		aScanner indentationLevel: self amount]
+
+	self attributes do: [:each | each emphasizeScanner: aScanner]

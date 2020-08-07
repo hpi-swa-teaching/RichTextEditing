@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "lh 7/25/2019 12:05",
 	"instvars" : [
-		"autocompletionPreference" ],
+		"autocompletionPreference",
+		"structureKeymap" ],
 	"name" : "RichTextEditorTests",
 	"pools" : [
 		 ],

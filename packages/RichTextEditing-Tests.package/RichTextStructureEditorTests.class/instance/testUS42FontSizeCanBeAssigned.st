@@ -1,8 +1,8 @@
-tests
+acceptance-tests
 testUS42FontSizeCanBeAssigned
 
 	self 
-		enterStringOntoTextField: 'test';
+		enterStringOntoTextField: self exampleString;
 		addFontStructureToText;
 		setFont: self fontAtlanta11;
 		assert: (self textHasFont: self fontAtlanta11);

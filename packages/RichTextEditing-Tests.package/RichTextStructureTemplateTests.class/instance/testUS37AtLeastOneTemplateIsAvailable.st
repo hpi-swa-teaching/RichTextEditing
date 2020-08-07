@@ -1,0 +1,4 @@
+acceptance tests
+testUS37AtLeastOneTemplateIsAvailable
+
+	self deny: (RichTextStructureTemplate availableTemplates isEmpty)

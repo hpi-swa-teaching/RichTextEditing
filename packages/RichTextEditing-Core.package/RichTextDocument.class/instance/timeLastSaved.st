@@ -1,4 +1,5 @@
 accessing
 timeLastSaved
 
-	^ timeLastSaved
+	 self timestampLastSaved ifNil: [^ nil].
+	^ self timestampLastSaved second

@@ -1,6 +1,6 @@
 text structure
 addExtendableStructures
 
-	(self currentStructures
-		collect: [:each | self symbolToStructure: each]
-		thenSelect: [:each | each isExtendable]) do: [:each | self addAttribute: each]
+	(self selectedStructures
+		collect: [:each | self textStructureAt: each]
+		thenSelect: [:each | each mayBeExtended]) do: [:each | self addTextAttribute: each]

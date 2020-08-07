@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"applyOn:" : "frc 8/7/2020 14:43",
+		"availableTemplates" : "JEH 7/4/2020 11:16",
+		"clearAllTemplatesCachedDictionaries" : "JEH 7/25/2020 18:51",
+		"defaultTemplate" : "JEH 7/4/2020 11:16",
+		"identifier" : "JEH 7/4/2020 11:17",
+		"initialStructureIdentifiers" : "frc 7/15/2020 18:31",
+		"initialTextStructures" : "JEH 7/4/2020 11:17",
+		"selectValidStructures:" : "frc 7/15/2020 18:24",
+		"templateFromIdentifier:" : "JEH 7/4/2020 11:41",
+		"textStructureByIndentifier:" : "JEH 8/3/2020 15:02",
+		"textStructures" : "frc 8/1/2020 13:02",
+		"transformStructure:" : "frc 8/7/2020 14:43",
+		"transformStructuresOn:" : "frc 8/7/2020 14:43",
+		"updateRunArrayOn:with:" : "frc 8/1/2020 12:59" },
+	"instance" : {
+		 } }

@@ -1,8 +1,8 @@
-tests
+acceptance-tests
 testUS58StructureWithHighestPriorityWins
 	
 	self 
-		enterStringOntoTextField: 'test';
+		enterStringOntoTextField: self exampleString;
 		setStructureAt: self firstIndex toColor: Color green;
 		setStructureAt: self secondIndex toColor: Color blue;
 		addAttributeAt: self firstIndex;

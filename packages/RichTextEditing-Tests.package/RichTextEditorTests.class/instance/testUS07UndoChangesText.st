@@ -1,9 +1,7 @@
-tests
+acceptance-tests
 testUS07UndoChangesText
 
-	| text |
-	text := 'test'.
-	self enterStringOntoTextField: text.
+	self enterStringOntoTextField: self text.
 	self editorModel undo.
 	
-	self deny: self editorModel text = text.
+	self deny: self editorModel text = self text

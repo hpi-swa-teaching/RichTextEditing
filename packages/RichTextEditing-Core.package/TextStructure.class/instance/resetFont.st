@@ -1,4 +1,4 @@
 font
 resetFont
 
-	self font: nil
+	self remove: (self class font)
