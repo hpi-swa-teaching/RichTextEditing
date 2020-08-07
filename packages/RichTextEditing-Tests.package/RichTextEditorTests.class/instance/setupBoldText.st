@@ -1,4 +1,4 @@
-resources
+running
 setupBoldText
 
 	self enterStringOntoTextField: self text.
