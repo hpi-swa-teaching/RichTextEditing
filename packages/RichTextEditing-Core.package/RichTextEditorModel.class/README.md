@@ -3,8 +3,8 @@ You can open me with: RichTextEditorModel open.
 
 My instance variables are:
 textView - aView
+footer - aString
 label - aString
-selectedStructures - aSet (structures selected in structure list)
-bufferedStructures - aSet (structures selected in structure list without selected text)
+selectedStructures - aSet (structures selected in structure list for current text selection)
 targetDocument - aRichTextDocument (saved document)
 bufferDocument - aRichTextDocument (not saved --> back to target document)
