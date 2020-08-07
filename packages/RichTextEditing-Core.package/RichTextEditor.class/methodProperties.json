@@ -2,10 +2,10 @@
 	"class" : {
 		"initialize" : "AG 7/25/2019 13:10",
 		"initializeCmdKeyShortcuts" : "OS 5/6/2020 20:40",
-		"initializeShiftCmdKeyShortcuts" : "tok 5/18/2020 10:19",
+		"initializeShiftCmdKeyShortcuts" : "tok 8/7/2020 11:14",
 		"initializeShiftedYellowButtonMenu" : "AG 5/29/2019 18:39",
 		"initializeYellowButtonMenu" : "AG 5/29/2019 18:39",
-		"structureKeymap" : "tok 8/6/2020 18:50",
+		"structureKeymap" : "tok 8/7/2020 11:13",
 		"structureKeymap:" : "frc 8/6/2020 19:39" },
 	"instance" : {
 		"URLRegex" : "kh 6/15/2020 10:42",
@@ -16,7 +16,7 @@
 		"isCtrlA:" : "lh 7/24/2019 16:59",
 		"isNewCharacter:" : "tok 6/13/2020 12:03",
 		"isSpecialCharacter:" : "OS 6/12/2020 12:03",
-		"isStructureShortcut:" : "OS 6/12/2020 12:09",
+		"isStructureShortcut:" : "tok 8/7/2020 11:14",
 		"isValidCharacter:" : "tok 6/13/2020 12:04",
 		"keyStroke:" : "OS 6/12/2020 12:09",
 		"makeTextURLFrom:" : "frc 7/16/2020 14:05",
@@ -28,5 +28,5 @@
 		"specialCharacters" : "tok 6/13/2020 12:14",
 		"storeSelectionInParagraph" : "lh 7/24/2019 21:51",
 		"textSize" : "lh 6/26/2019 22:16",
-		"toggleStructureSelectionAt:" : "tok 5/18/2020 13:40",
+		"toggleStructureSelectionAt:" : "tok 8/7/2020 11:14",
 		"wouldPasteURL" : "kh 6/15/2020 10:42" } }
