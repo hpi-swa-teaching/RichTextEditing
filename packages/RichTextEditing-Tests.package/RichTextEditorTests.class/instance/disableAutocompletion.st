@@ -1,5 +1,5 @@
 utilities
-enableAutocompletion
+disableAutocompletion
 
 	autocompletionPreference := RichTextEditorModel autocompletion.
-	RichTextEditorModel autocompletion: true
+	RichTextEditorModel autocompletion: false
