@@ -1,4 +1,4 @@
 utilities
 isParagraph: aListElement
 
-	^ aListElement = #paragraph
+	^ aListElement first = #paragraph

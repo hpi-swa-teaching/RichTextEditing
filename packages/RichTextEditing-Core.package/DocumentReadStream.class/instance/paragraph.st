@@ -2,5 +2,5 @@ stop conditions
 paragraph
 
 	^ self currentCharacter = self paragraphCharacter
-		ifTrue: [#paragraph]
+		ifTrue: [{#paragraph}]
 		ifFalse: [nil]

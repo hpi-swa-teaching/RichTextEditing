@@ -10,7 +10,6 @@ initialTextStructures
 	self initialHeading2Structure.
 	self initialHeading3Structure.
 	self initialHeading4Structure.
-	self initialFootnoteStructure.
 	self initialLevel1ListStructure.
 	self initialLevel2ListStructure.
 	self initialLevel3ListStructure.

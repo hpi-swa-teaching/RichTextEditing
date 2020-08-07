@@ -1,4 +1,4 @@
 text font
 removeFontFromCurrentStructure
 
-	self currentStructure remove: (TextStructure font)
+	self currentStructure resetFont
