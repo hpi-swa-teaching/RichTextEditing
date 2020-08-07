@@ -3,6 +3,6 @@ getStructureSelectionAt: anIndex
 
 	| structures |
 	
-	self isIntervalNotEmpty ifTrue:[structures := self selectedStructures]
-									ifFalse: [structures := self currentStructures].
+	self isIntervalEmpty ifTrue: [structures := self currentStructures]
+									ifFalse: [structures := self selectedStructures].
 	^ structures includes: (self textStructureSymbols at: anIndex ifAbsent: false)
