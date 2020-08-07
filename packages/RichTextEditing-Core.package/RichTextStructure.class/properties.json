@@ -9,7 +9,7 @@
 		"structureIdentifier",
 		"attributes",
 		"preAddHook" ],
-	"name" : "TextStructure",
+	"name" : "RichTextStructure",
 	"pools" : [
 		 ],
 	"super" : "TextAttribute",

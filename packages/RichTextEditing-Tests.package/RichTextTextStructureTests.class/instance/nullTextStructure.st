@@ -1,4 +1,4 @@
 utilities
 nullTextStructure
 
-	^ NullTextStructure new
+	^ RichTextNullStructure new

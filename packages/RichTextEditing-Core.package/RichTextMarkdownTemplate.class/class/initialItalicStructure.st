@@ -1,4 +1,4 @@
 initial structures
 initialItalicStructure
 
-	^ TextStructure italic
+	^ RichTextStructure italic

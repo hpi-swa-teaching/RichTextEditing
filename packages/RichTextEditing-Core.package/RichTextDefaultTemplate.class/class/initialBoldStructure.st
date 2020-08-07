@@ -1,6 +1,6 @@
 initial structures
 initialBoldStructure
 		
-	^ TextStructure
+	^ RichTextStructure
 		new: #bold
-		from: {TextStructure bold}
+		from: {RichTextStructure bold}

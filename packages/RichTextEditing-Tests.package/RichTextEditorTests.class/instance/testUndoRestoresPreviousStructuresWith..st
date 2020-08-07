@@ -7,4 +7,4 @@ testUndoRestoresPreviousStructuresWith: anUndoBlock
 	self textEditor selectAll.
 	self selectOptionBold.
 	anUndoBlock value.
-	self assert: (self editorText rangeOf: TextStructure bold startingAt: 1) = (1 to: 2)
+	self assert: (self editorText rangeOf: RichTextStructure bold startingAt: 1) = (1 to: 2)
