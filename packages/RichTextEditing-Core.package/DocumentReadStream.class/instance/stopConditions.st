@@ -5,5 +5,5 @@ stopConditions
 		self endOfStructure.
 		self paragraph.
 		self lineBreak.
-		self beginningOfStructure
+		self beginOfStructure
 		} reject: [:each | each isNil]
