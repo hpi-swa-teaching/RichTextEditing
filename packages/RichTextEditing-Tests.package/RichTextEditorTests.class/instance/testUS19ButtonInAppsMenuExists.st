@@ -1,4 +1,5 @@
 acceptance-tests
 testUS19ButtonInAppsMenuExists
-
-	self assert: (self registeredOpenCommandsOfWorldMenuIncludes: self richTextEditorOpenCommand).
+	
+	self assert: (TheWorldMenu registeredOpenCommands
+		includes: self richTextEditorOpenCommand)

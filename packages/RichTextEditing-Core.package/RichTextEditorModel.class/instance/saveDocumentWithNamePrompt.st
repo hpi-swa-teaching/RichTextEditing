@@ -1,5 +1,5 @@
 saving and loading
-saveDocumentInSaverWithNamePrompt
+saveDocumentWithNamePrompt
 
 	| name |
 	name := UIManager default request: 'Save as...'.

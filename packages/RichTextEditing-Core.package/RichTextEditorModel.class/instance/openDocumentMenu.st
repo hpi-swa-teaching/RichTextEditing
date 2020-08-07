@@ -4,7 +4,7 @@ openDocumentMenu
 	^ self openMenuWith: {
 		{'New' . #openNewEditor}.
 		{'Save' . #saveText}.
-		{'Save as' . #saveDocumentInSaverWithNamePrompt}.
+		{'Save as' . #saveDocumentWithNamePrompt}.
 		{'Load' . #loadDocumentFromSaver}.
 		{'Import from File' . #importFileWithDialog}.
 		{'Import from Object File' . #importObjectFileWithDialog}.

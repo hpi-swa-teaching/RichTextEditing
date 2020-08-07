@@ -1,4 +1,0 @@
-utilities
-registeredOpenCommandsOfWorldMenuIncludes: aOpenCommand
-
-	^ TheWorldMenu registeredOpenCommands includes: aOpenCommand

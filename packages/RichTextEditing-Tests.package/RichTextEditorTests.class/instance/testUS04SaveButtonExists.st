@@ -1,4 +1,4 @@
 acceptance-tests
 testUS04SaveButtonExists
 
-	self assert: (self menuItemWithLabelExists: 'Save')
+	self assert: (self menuItemWithLabelExists: self saveButtonLabel)

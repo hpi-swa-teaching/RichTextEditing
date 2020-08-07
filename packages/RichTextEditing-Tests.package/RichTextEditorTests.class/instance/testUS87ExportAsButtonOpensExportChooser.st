@@ -3,7 +3,7 @@ testUS87ExportAsButtonOpensExportChooser
 
 	| notificationName |
 
-	[self editorModel perform: (self menuActionByLabel: 'Export as ...')]
+	[self editorModel perform: (self menuActionByLabel: self exportAsButtonLabel)]
 		on: ProvideAnswerNotification
 		do: [:notification | 
 			notificationName := notification messageText.

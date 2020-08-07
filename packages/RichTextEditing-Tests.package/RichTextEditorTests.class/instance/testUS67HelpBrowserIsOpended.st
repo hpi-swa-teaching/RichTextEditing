@@ -6,5 +6,5 @@ testUS67HelpBrowserIsOpended
 	helpButton :=  self editorView findByLabel: self helpButtonLabel.
 	helpButton click.
 	
-	self assert: ((self windowsWithLabel: self helpBrowserLabel) size > currentHelpEditorNumber).
+	self assert: (self windowsWithLabel: self helpBrowserLabel) size > currentHelpEditorNumber.
 	self closeWindowsWithLabel: self helpBrowserLabel

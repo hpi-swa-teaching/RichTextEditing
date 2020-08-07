@@ -4,7 +4,7 @@ testUS04LoadedTextIsInsertedIntoEditor
 	self editorModel
 		setText: self exampleString;
 		saveText.
-	self enterSaveNameInDialog: [self editorModel saveDocumentInSaverWithNamePrompt].
+	self enterSaveNameInDialog: [self editorModel saveDocumentWithNamePrompt].
 	self editorModel setText: self demoString.
 	self loadDocumentFromSaver.
 	
