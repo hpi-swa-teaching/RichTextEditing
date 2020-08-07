@@ -5,7 +5,7 @@
 		"isBeginningOfStructure:" : "OS 8/7/2020 09:58",
 		"isEndOfStructure:" : "frc 7/13/2020 13:29",
 		"isParagraph:" : "JEH 7/26/2020 18:39",
-		"testUS59EndOfStructureAndBeginOfStructureIncludeStructure" : "OS 8/7/2020 13:22",
-		"testUS59NextReturnsNextSectionOfTextAndListOfStopConditions" : "OS 8/7/2020 13:22",
-		"testUS59ReadStreamExists" : "OS 8/7/2020 13:24",
-		"testUS59StopConditionsAreInCorrectOrder" : "OS 8/7/2020 13:22" } }
+		"testUS59EndOfStructureAndBeginOfStructureIncludeStructure" : "OS 8/7/2020 11:34",
+		"testUS59NextReturnsNextSectionOfTextAndListOfStopConditions" : "OS 8/7/2020 11:34",
+		"testUS59ReadStreamExists" : "OS 8/7/2020 11:30",
+		"testUS59StopConditionsAreInCorrectOrder" : "OS 8/7/2020 11:33" } }
