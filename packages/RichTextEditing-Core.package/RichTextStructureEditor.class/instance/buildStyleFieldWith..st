@@ -5,7 +5,7 @@ buildStyleFieldWith: aBuilder
 		name: 'styleField';
 		model: self;
 		frame: self styleFieldFrame;
-		list: #allStructureIdentifiers;
+		list: #allStyleIdentifiers;
 		getSelectionList: #isActiveStructureAt:;
 		setSelectionList: #structureAt:activate:;
 		yourself

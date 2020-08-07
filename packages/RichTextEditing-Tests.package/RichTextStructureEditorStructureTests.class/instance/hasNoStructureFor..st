@@ -1,5 +1,5 @@
 utilities
-hasNoStructureForText: aText
+hasNoStructureFor: aText
 
 	^ (aText runs copyFrom: 0 to: aText size)
 		allSatisfy: [:attributes | attributes

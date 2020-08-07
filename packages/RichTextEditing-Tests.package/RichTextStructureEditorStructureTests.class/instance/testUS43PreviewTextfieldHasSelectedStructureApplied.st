@@ -1,8 +1,8 @@
 acceptance-tests
 testUS43PreviewTextfieldHasSelectedStructureApplied
 
-	self assert: (self hasNoStructureForText: self previewText).
+	self assert: (self hasNoStructureFor: self previewText).
 	
 	self structureEditor currentStructureSymbol: #bold.
-	self assert: (self hasStructure: #bold forText: self previewText)
+	self assert: (self hasStructure: #bold for: self previewText)
 	

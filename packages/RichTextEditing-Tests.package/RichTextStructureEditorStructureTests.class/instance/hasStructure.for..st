@@ -1,9 +1,9 @@
 utilities
-hasStructure: aSymbol forText: aText
+hasStructure: aSymbol for: aText
 
 	^ self document class
 		hasStructure: aSymbol 
-		forText: aText 
+		for: aText 
 		from: 1 
 		to: aText size
 

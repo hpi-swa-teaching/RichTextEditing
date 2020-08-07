@@ -1,5 +1,5 @@
 utilities
-hasStructure: aSymbol forText: aText from: start to: end
+hasStructure: aSymbol for: aText from: start to: end
 
 	aText isEmpty 
 		ifTrue: [^ false].
