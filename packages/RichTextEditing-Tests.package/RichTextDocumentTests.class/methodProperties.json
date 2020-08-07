@@ -6,6 +6,7 @@
 		"boldStructure" : "kh 6/21/2020 11:10",
 		"boldStructureSymbol" : "kh 6/19/2020 16:37",
 		"editorHasSameTargetAsCurrent:" : "ls 7/3/2019 19:05",
+		"letterA" : "frc 8/7/2020 12:21",
 		"openEditorWithTargetDocument" : "ls 7/3/2019 18:43",
 		"removeStructure:andAddCostumStructure:" : "ls 7/24/2019 17:30",
 		"saveName" : "MB 6/12/2019 18:08",
@@ -18,6 +19,7 @@
 		"targetIdentity" : "ls 7/3/2019 18:14",
 		"targetIdentity:" : "ls 7/3/2019 18:14",
 		"targetIdentityIsPreserved" : "ls 7/3/2019 18:43",
+		"testCharCountWithoutLetterA" : "frc 8/7/2020 12:21",
 		"testDocumentCanOpenEditor" : "frc 6/13/2020 11:10",
 		"testDocumentHashIsEqual" : "frc 8/7/2020 11:54",
 		"testDocumentHashIsNotEqual" : "frc 8/7/2020 11:54",
@@ -31,6 +33,5 @@
 		"testUS63CharCountForText" : "frc 5/25/2020 16:03",
 		"testUS63CharCountInitiallyZero" : "frc 5/19/2020 22:47",
 		"testUS63CharCountWithSpacesForText" : "frc 5/25/2020 16:05",
-		"testUS63CharCountWithoutLetterA" : "frc 5/19/2020 22:47",
 		"testUS63WordCountForText" : "frc 5/25/2020 16:02",
 		"testUS63WordCountInitiallyZero" : "frc 5/19/2020 21:58" } }

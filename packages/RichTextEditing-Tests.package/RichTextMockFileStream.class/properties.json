@@ -6,10 +6,8 @@
 		 ],
 	"commentStamp" : "frc 8/4/2020 14:43",
 	"instvars" : [
-		"richTextEditorMorph",
-		"structureEditor",
 		"result" ],
-	"name" : "RTEMockFileStream",
+	"name" : "RichTextMockFileStream",
 	"pools" : [
 		 ],
 	"super" : "Object",
