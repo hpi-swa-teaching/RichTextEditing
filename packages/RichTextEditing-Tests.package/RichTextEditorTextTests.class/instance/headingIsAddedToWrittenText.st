@@ -1,7 +1,7 @@
 utilities
 headingIsAddedToWrittenText
 
-	self moveCaretToBeginOfText.
+	self moveCaretRightBy: self exampleString size.
 	^ self document class
 		hasStructure: #heading1 
 		forText: self editorText 

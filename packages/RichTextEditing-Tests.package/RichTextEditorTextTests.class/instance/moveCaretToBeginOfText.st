@@ -1,4 +1,6 @@
 utilities
 moveCaretToBeginOfText
 	
-	self moveCaretLeftBy: self exampleString size
+	self
+		moveCaretLeftBy: self editorText size;
+		caretPosition: 1
