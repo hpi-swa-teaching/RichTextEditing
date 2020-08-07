@@ -1,4 +1,4 @@
 constants
 exampleTextStructure
 	
-	^ TextStructure new: #example from: {TextStructure italic . TextStructure bold}
+	^ RichTextStructure new: #example from: {RichTextStructure italic . RichTextStructure bold}

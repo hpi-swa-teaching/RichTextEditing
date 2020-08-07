@@ -4,10 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "kh 6/21/2020 16:41",
+	"commentStamp" : "kh 6/21/2020 10:08",
 	"instvars" : [
-		"mayBeExtended" ],
-	"name" : "TextExtendability",
+		"structureIdentifier",
+		"attributes",
+		"preAddHook" ],
+	"name" : "RichTextStructure",
 	"pools" : [
 		 ],
 	"super" : "TextAttribute",

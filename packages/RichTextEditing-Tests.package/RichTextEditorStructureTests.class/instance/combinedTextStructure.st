@@ -1,8 +1,8 @@
 utilities
 combinedTextStructure
 
-	^ TextStructure new: #test from:
-		{TextStructure bold.
-		TextStructure italic.
-		TextStructure underlined.
-		TextStructure struckOut}
+	^ RichTextStructure new: #test from:
+		{RichTextStructure bold.
+		RichTextStructure italic.
+		RichTextStructure underlined.
+		RichTextStructure struckOut}

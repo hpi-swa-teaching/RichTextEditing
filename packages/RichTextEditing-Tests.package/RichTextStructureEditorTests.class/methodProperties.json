@@ -33,7 +33,7 @@
 		"structureIsDisplayed:" : "ls 6/18/2019 16:27",
 		"structureIsNotDisplayed:" : "AG 6/18/2019 16:00",
 		"tearDown" : "ls 6/12/2019 18:04",
-		"testNewNullTextStructureReturnsNullTextStructure" : "tok 6/13/2020 11:00",
+		"testNewNullTextStructureReturnsNullTextStructure" : "tok 8/7/2020 15:53",
 		"testNoSelectedStructureDoesntAllowColor" : "frc 8/1/2020 12:00",
 		"testNoSelectedStructureDoesntAllowColorReset" : "frc 8/1/2020 10:50",
 		"testNoSelectedStructureDoesntAllowFont" : "frc 7/30/2020 12:31",

@@ -2,8 +2,8 @@ unit-tests
 testAddMultipleTextStructures
 
 	| structure |
-	structure := TextStructure new: #testingStructure.
-	self deny: (structure includes: (TextStructure bold)).
-	structure addAll: {TextStructure bold . TextStructure italic}.
-	self assert: (structure includes: (TextStructure bold)).
-	self assert: (structure includes: (TextStructure italic))
+	structure := RichTextStructure new: #testingStructure.
+	self deny: (structure includes: (RichTextStructure bold)).
+	structure addAll: {RichTextStructure bold . RichTextStructure italic}.
+	self assert: (structure includes: (RichTextStructure bold)).
+	self assert: (structure includes: (RichTextStructure italic))
