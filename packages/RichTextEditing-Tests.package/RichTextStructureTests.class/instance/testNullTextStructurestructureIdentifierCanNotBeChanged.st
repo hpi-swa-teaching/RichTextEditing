@@ -1,7 +1,5 @@
 unit-tests
 testNullTextStructurestructureIdentifierCanNotBeChanged
 
-	| textStructure |
-	textStructure := self nullTextStructure structureIdentifier: #test.
-	
-	self assert: textStructure structureIdentifier equals: #null
+	self assert: (self nullTextStructure structureIdentifier: #test) structureIdentifier
+		equals: #null
