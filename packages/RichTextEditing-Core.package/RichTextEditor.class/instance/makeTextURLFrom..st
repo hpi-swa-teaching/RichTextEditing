@@ -2,6 +2,6 @@ pasting
 makeTextURLFrom: aString
 
 	^ aString asText
-			addTextAttribute: (TextStructure hyperlinkTo: aString);
-			addTextAttribute: (TextEmphasis underlined);
+			addAttribute: (TextStructure hyperlinkTo: aString);
+			addAttribute: (TextEmphasis underlined);
 			yourself

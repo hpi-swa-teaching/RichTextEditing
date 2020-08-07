@@ -1,4 +1,4 @@
-as yet unclassified
+text structure
 precedingStructuresChanged
 
 	self selectedStructures: (self textStructureSymbols select: [:structure |
