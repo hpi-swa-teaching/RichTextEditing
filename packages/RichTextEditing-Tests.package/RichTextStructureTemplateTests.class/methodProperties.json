@@ -4,11 +4,11 @@
 	"instance" : {
 		"expectedMethodSymbolForStructure:" : "JEH 7/9/2020 14:25",
 		"markdownLikeStructure" : "tok 8/7/2020 17:25",
-		"markdownTemplateContainsStructureWithName:" : "tok 8/7/2020 17:26",
+		"markdownTemplateContainsStructureWithName:" : "tok 8/7/2020 20:20",
 		"requiredMarkdownStructures" : "JEH 7/9/2020 14:20",
 		"testUS37AtLeastOneTemplateIsAvailable" : "JEH 7/9/2020 14:13",
 		"testUS37MarkdownTemplateContainsRequiredStructures" : "tok 8/7/2020 17:27",
-		"testUS37MarkdownTemplateExists" : "tok 8/7/2020 17:27",
+		"testUS37MarkdownTemplateExists" : "tok 8/7/2020 20:21",
 		"testUS88CustomStructureIsConvertedOnTemplate" : "tok 8/7/2020 17:28",
 		"testUS88ExampleStructureIsDeletedOnTemplate" : "tok 8/7/2020 17:29",
 		"testUS88TextRemainsStructured" : "tok 8/7/2020 17:30" } }

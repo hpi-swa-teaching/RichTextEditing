@@ -1,5 +1,6 @@
 utilities
 markdownTemplateContainsStructureWithName: aStructureName
 
-	^ RichTextMarkdownTemplate class canUnderstand: (self expectedMethodSymbolForStructure: aStructureName)
+	^ RichTextMarkdownTemplate class canUnderstand:
+			(self expectedMethodSymbolForStructure: aStructureName)
 	
