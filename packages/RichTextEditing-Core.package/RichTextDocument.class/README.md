@@ -8,5 +8,5 @@ My instance variables are:
 name - aString
 text - aText  
 textStructures - anOrderedCollection
-timeLastSaved - aDateAndTime
+timestampLastSaved - aDateAndTime
 

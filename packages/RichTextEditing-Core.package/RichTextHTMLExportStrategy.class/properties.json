@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JEH 8/7/2020 17:24",
 	"instvars" : [
 		"outputString",
 		"eventHandlingDictionary",
