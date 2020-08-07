@@ -1,5 +1,5 @@
 input events
 crWithIndent: aKeyboardEvent
 
-	self addString: self paragraphCharacter asString.
+	self addString: RichTextEditor paragraphCharacter asString.
 	^ false
