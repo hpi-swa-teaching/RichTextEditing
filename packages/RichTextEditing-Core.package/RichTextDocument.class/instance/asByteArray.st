@@ -1,4 +1,4 @@
-accessing
+converting
 asByteArray
 
 	^ self asString asByteArray

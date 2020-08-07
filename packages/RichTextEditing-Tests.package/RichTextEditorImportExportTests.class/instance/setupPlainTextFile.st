@@ -1,4 +1,4 @@
-resources
+running
 setupPlainTextFile
 
 	self createTestFileWithContent: self exampleContent at: self exampleImportFilePath.

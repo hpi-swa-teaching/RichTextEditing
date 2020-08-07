@@ -1,4 +1,4 @@
-resources
+running
 setupFile
 
 	self createTestFileWithContent: self exampleContent at: self exampleImportFilePath.

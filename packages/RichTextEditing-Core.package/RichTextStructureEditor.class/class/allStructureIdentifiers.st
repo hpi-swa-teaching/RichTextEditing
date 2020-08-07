@@ -1,4 +1,4 @@
 constants
 allStructureIdentifiers
 	
-	^ TextStructure allTextStructures collect: [:each | each structureIdentifier]
+	^ TextStructure all collect: [:each | each structureIdentifier]

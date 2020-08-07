@@ -94,7 +94,7 @@
 		"testUS67HelpBrowserIsOpended" : "frc 8/1/2020 11:58",
 		"testUS67HelpButtonExists" : "kh 5/25/2020 22:35",
 		"testUS84ImportFileButtonExists" : "tok 7/8/2020 16:23",
-		"testUS86timeLastSavedIsUpdatedWhenSaving" : "tok 7/20/2020 14:10",
+		"testUS86timeLastSavedIsUpdatedWhenSaving" : "frc 8/7/2020 11:14",
 		"testUS87ExportAsButtonExists" : "tok 7/3/2020 20:15",
 		"testUS87ExportAsButtonOpensExportChooser" : "tok 7/10/2020 12:07",
 		"testUndoRestoresPreviousStructuresWith:" : "tok 8/6/2020 14:51",

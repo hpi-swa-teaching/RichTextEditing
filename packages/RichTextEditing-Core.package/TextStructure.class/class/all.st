@@ -1,5 +1,5 @@
 predefined
-allTextStructures
+all
 
 	^ {self bold.
 	self italic.

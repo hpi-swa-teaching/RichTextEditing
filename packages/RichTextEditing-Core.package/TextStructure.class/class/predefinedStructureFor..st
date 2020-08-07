@@ -1,6 +1,6 @@
 predefined
 predefinedStructureFor: aSymbol
 
-	^ self allTextStructures
+	^ self all
 		detect: [:each | each structureIdentifier = aSymbol]
 		ifNone: [NullTextStructure new]

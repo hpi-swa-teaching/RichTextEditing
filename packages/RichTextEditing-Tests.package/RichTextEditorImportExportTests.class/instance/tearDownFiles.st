@@ -1,4 +1,4 @@
-resources
+running
 tearDownFiles
 
 	self fileDirectory
