@@ -1,4 +1,4 @@
 accessing
-textRuns: anArray
+textRuns: aRunArray
 
-	self text runs: anArray
+	self text runs: aRunArray

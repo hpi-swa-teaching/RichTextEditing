@@ -1,8 +1,6 @@
 document information
 showInfo
 
-	| infoText |
-	infoText := 'Word count: ', self bufferDocument wordcount.
-	infoText := infoText , String crlf, 'Total characters: ', (self bufferDocument charcountExcept: #()).
-	infoText := infoText, String crlf, 'Non-blank characters: ', self bufferDocument charcount.
-	^ self showInfoDialog: infoText
+	^ self showInfoDialog: 'Word count: ', self bufferDocument wordcount asString,
+		String crlf, 'Total characters: ', (self bufferDocument charcountExcept: #()),
+		String crlf, 'Non-blank characters: ', self bufferDocument charcount

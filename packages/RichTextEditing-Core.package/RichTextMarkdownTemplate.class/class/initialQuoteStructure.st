@@ -3,4 +3,5 @@ initialQuoteStructure
 			
 	^ RichTextStructure
 		new: #quote
-		from: {RichTextStructure fromColor: (Color veryLightGray). RichTextStructure listOnLevel: 1}
+		from: {RichTextStructure fromColor: (Color veryLightGray).
+			RichTextStructure listOnLevel: 1}

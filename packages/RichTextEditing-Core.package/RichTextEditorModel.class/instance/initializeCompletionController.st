@@ -2,5 +2,5 @@ initialize-release
 initializeCompletionController
 
 	^ self wantsAutocompletion
-		ifTrue: [self addDependent: self createCompletionController]
-		ifFalse: [nil]
+			ifTrue: [self addDependent: self createCompletionController]
+			ifFalse: [nil]

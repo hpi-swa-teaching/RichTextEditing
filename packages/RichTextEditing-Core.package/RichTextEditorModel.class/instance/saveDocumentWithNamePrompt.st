@@ -3,11 +3,9 @@ saveDocumentWithNamePrompt
 
 	| name |
 	name := UIManager default request: 'Save as...'.
-	name = ''
-		ifFalse: [
-			self saver 
-				addSave: self targetDocument 
+	(name = '') ifFalse: [
+			self saver addSave: self targetDocument 
 				underName: name.
-			self 
+			self
 				setCurrentSave: name;
 				noUnacceptedEdits]

@@ -6,6 +6,6 @@ structureAt: anIndex activate: aBoolean
 	targetTextStructure :=  (RichTextStructure predefinedStructureFor:
 		(self structureIdentifierAt: anIndex)).
 	aBoolean
-		ifTrue: [ target add: targetTextStructure]
-		ifFalse: [ target remove: targetTextStructure].
+		ifTrue: [target add: targetTextStructure]
+		ifFalse: [target remove: targetTextStructure].
 	self updateLoremIpsum

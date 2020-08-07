@@ -2,5 +2,6 @@ accessing
 bufferDocument: aRichTextDocument
 
 	bufferDocument := aRichTextDocument.
-	self textChanged;
+	self
+		textChanged;
 		noUnacceptedEdits
