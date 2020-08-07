@@ -1,4 +1,4 @@
 constants
 allStructureIdentifiers
 	
-	^ RichTextTextStructure all collect: [:each | each structureIdentifier]
+	^ RichTextStructure all collect: [:each | each structureIdentifier]

@@ -1,4 +1,4 @@
 utilities
 listTextStructure
 
-	^ RichTextTextStructure listOnLevel: 1
+	^ RichTextStructure listOnLevel: 1

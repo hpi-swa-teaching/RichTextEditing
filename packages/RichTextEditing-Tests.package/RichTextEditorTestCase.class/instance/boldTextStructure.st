@@ -1,4 +1,4 @@
 constants
 boldTextStructure
 	
-	^ RichTextTextStructure bold
+	^ RichTextStructure bold

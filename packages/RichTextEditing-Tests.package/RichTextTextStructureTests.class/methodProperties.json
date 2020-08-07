@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"linkTextStructure" : "tok 8/7/2020 15:38",
-		"listTextStructure" : "tok 8/7/2020 15:39",
-		"nullTextStructure" : "tok 8/7/2020 15:44",
-		"testAddMultipleTextStructures" : "tok 8/7/2020 15:39",
+		"linkTextStructure" : "tok 8/7/2020 15:53",
+		"listTextStructure" : "tok 8/7/2020 15:53",
+		"nullTextStructure" : "tok 8/7/2020 15:53",
+		"testAddMultipleTextStructures" : "tok 8/7/2020 15:53",
 		"testExampleStructureIsNotKern" : "frc 7/3/2020 18:50",
 		"testLinkTextStructureCanNotDeriveFromPrettyPrint" : "frc 7/3/2020 19:12",
 		"testLinkTextStructureMayActOnClick" : "frc 7/3/2020 19:05",

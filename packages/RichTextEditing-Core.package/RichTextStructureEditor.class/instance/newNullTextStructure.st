@@ -1,4 +1,4 @@
 initialize-release
 newNullTextStructure
 
-	^ RichTextNullTextStructure new
+	^ RichTextNullStructure new

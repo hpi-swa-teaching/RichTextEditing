@@ -1,4 +1,4 @@
 utilities
 boldStructure
 	
-	^ RichTextTextStructure bold
+	^ RichTextStructure bold

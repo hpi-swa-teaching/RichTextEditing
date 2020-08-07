@@ -2,4 +2,4 @@ text structures
 textStructureAt: aSymbol
 
 	^ self textStructures detect: [:each | each structureIdentifier = aSymbol]
-		ifNone: [^ RichTextNullTextStructure new]
+		ifNone: [^ RichTextNullStructure new]

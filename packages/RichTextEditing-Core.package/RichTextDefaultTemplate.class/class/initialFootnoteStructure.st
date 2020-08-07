@@ -1,6 +1,6 @@
 initial structures
 initialFootnoteStructure
 		
-	^ RichTextTextStructure
+	^ RichTextStructure
 		new: #footnote
-		from: {RichTextTextStructure fromFont: (StrikeFont createDejaVuDark: 9)}
+		from: {RichTextStructure fromFont: (StrikeFont createDejaVuDark: 9)}

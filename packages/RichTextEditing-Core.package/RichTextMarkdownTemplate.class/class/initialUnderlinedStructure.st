@@ -1,4 +1,4 @@
 initial structures
 initialUnderlinedStructure
 			
-	^ RichTextTextStructure underlined
+	^ RichTextStructure underlined

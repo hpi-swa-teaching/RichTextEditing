@@ -1,4 +1,4 @@
 text structures
 initializeStructure: aSymbol
 
-	self textStructures add: (RichTextTextStructure new: aSymbol from: self class commonStructures)
+	self textStructures add: (RichTextStructure new: aSymbol from: self class commonStructures)

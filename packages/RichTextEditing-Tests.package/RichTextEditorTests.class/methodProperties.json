@@ -107,7 +107,7 @@
 		"testUS86TimeLastSavedIsUpdatedWhenSaving" : "frc 8/7/2020 13:14",
 		"testUS87ExportAsButtonExists" : "tok 7/3/2020 20:15",
 		"testUS87ExportAsButtonOpensExportChooser" : "tok 7/10/2020 12:07",
-		"testUndoRestoresPreviousStructuresWith:" : "tok 8/7/2020 15:37",
+		"testUndoRestoresPreviousStructuresWith:" : "tok 8/7/2020 15:51",
 		"testUndoStructureUnapplyReappliesStructureWith:" : "tok 8/6/2020 14:51",
 		"testUndoStructureWith:" : "tok 8/6/2020 14:52",
 		"text" : "MB 7/25/2019 11:02",

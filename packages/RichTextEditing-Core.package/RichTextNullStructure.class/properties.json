@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "kh 6/21/2020 16:41",
+	"commentStamp" : "ls 7/25/2019 13:56",
 	"instvars" : [
-		"mayBeExtended" ],
-	"name" : "RichTextTextExtendability",
+		 ],
+	"name" : "RichTextNullStructure",
 	"pools" : [
 		 ],
-	"super" : "TextAttribute",
+	"super" : "RichTextStructure",
 	"type" : "normal" }
