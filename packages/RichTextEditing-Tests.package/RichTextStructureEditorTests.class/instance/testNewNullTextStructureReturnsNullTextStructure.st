@@ -1,4 +1,5 @@
 unit-tests
 testNewNullTextStructureReturnsNullTextStructure
 
-	self assert: self structureEditorView model newNullTextStructure class equals: RichTextNullStructure
+	self assert: self structureEditorView model newNullTextStructure class
+		equals: RichTextNullStructure
