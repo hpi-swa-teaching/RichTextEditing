@@ -10,5 +10,5 @@
 	"name" : "RichTextEditorSaverTests",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "RichTextEditorTestCase",
 	"type" : "normal" }

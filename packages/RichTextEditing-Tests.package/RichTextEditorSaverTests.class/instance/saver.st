@@ -1,4 +1,4 @@
-accessing
+utilities
 saver
 
 	^ RichTextEditorModel saverClass current
