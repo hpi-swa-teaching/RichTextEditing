@@ -1,5 +1,5 @@
 apply
 applyOn: aDocument
 	
-	self transformStructures: aDocument.
+	self transformStructuresOn: aDocument.
 	aDocument setTemplateStructures
