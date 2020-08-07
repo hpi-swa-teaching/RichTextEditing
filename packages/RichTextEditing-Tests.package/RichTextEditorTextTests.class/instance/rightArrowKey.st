@@ -1,4 +1,4 @@
-utilities
+constants
 rightArrowKey
 
 	^ Character arrowRight 

@@ -1,4 +1,4 @@
 utilities
 enterNothingInSaveDialog
 
-	self enterStringInSaveDialog: ''.
+	self enterStringInSaveDialog: ''

@@ -1,6 +1,0 @@
-accessing
-file
-
-	^ file
-
-	

@@ -4,6 +4,6 @@ testUS49NoStructureApplyWhenCaretMovedMid
 	self moveCaretToMidOfText;
 		activateHeading;
 		moveCaret;
-		enterStringOntoTextField: self otherText.
+		enterStringOntoTextField: self exampleString.
 	
 	self deny: self headingIsAddedToWrittenText

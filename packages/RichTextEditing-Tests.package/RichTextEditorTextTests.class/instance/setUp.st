@@ -3,4 +3,4 @@ setUp
 	
 	super setUp.
 	self
-		enterStringOntoTextField: self standardText.
+		enterStringOntoTextField: self exampleString.

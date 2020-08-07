@@ -1,5 +1,4 @@
 utilities
 moveCaretToBeginningOfOtherText
 	
-	self
-		moveCaretMultipleTimesLeft: self otherText size
+	self moveCaretMultipleTimesLeft: self exampleString size

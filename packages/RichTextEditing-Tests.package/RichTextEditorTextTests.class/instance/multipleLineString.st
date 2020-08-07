@@ -1,5 +1,5 @@
 constants
-multipleLineText
+multipleLineString
 
 	^ 'This is a text
 

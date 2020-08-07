@@ -1,4 +1,4 @@
 utilities
-addStructure
+createTestStructure
 
 	self editorModel createNewStructure: #testStructure

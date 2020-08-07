@@ -2,7 +2,7 @@ unit-tests
 testCorrectLineColNumberAtArbitraryPositionInText
 
 	self 
-		enterStringOntoTextField: self multipleLineText;
+		enterStringOntoTextField: self multipleLineString;
 		moveCaretToBeginningOfText;
-		moveCaretMultipleTimesRight: (self standardText size + 22);
+		moveCaretMultipleTimesRight: (self exampleString size + 22);
 		assert: (self editorModel currentPositionInText) = (7@3)

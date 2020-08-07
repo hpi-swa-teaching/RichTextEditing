@@ -2,10 +2,10 @@ acceptance-tests
 testUS04LoadedTextIsInsertedIntoEditor
 
 	self editorModel
-		setText: self text;
+		setText: self exampleString;
 		saveText.
 	self enterSaveNameInDialog: [self editorModel saveDocumentInSaverWithNamePrompt].
-	self editorModel setText: self anotherText.
+	self editorModel setText: self demoString.
 	self loadDocumentFromSaver.
 	
-	self assert: self editorModel text equals: self text
+	self assert: self editorModel text equals: self exampleString

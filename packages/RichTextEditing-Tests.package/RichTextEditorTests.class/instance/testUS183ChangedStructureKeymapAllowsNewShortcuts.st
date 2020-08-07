@@ -3,7 +3,7 @@ testUS183ChangedStructureKeymapAllowsNewShortcuts
 
 	self
 		changeStructureKeymap;
-		enterStringOntoTextField: self text.
+		enterStringOntoTextField: self exampleString.
 	self textEditor selectAll.
 	self
 		simulateKeyboardShortcutForStructure1;
