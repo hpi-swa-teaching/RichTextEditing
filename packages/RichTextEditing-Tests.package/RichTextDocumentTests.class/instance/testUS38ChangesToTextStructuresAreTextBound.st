@@ -1,5 +1,5 @@
 acceptance-tests
-testUS38changesToTextStructuresAreTextBound
+testUS38ChangesToTextStructuresAreTextBound
 
 	self 
 		removeStructure: self boldStructureSymbol andAddCostumStructure: self structureSymbol;

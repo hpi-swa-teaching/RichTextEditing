@@ -1,4 +1,4 @@
 acceptance-tests
-testUS04loadButtonExists
+testUS04LoadButtonExists
 
 	self assert: (self menuItemWithLabelExists: 'Load')

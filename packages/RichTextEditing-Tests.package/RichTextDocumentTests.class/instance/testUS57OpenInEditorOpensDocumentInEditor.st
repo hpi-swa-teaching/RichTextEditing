@@ -1,5 +1,5 @@
 acceptance-tests
-testUS57openInEditorOpensDocumentInEditor
+testUS57OpenInEditorOpensDocumentInEditor
 
 	| newEditor |
 	newEditor := self openEditorWithTargetDocument.

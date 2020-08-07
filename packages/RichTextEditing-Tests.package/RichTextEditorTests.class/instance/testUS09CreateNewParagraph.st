@@ -1,5 +1,5 @@
 acceptance-tests
-testUS09createNewParagraph
+testUS09CreateNewParagraph
 
 	self enterStringOntoTextField: 'hallo'.
 	self pressEnter.

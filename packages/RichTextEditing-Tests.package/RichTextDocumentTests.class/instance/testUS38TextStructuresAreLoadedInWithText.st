@@ -1,5 +1,5 @@
 acceptance-tests
-testUS38textStructuresAreLoadedInWithText
+testUS38TextStructuresAreLoadedInWithText
 
 	self 
 		removeStructure: self boldStructureSymbol andAddCostumStructure: self structureSymbol;

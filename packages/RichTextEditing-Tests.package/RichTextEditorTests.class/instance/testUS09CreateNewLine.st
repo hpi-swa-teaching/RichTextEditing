@@ -1,5 +1,5 @@
 acceptance-tests
-testUS09createNewLine
+testUS09CreateNewLine
 
 	self enterStringOntoTextField: 'hallo'.
 	self pressShiftEnter.

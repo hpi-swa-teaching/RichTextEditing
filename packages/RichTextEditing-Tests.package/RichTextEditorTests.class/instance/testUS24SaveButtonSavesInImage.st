@@ -1,5 +1,5 @@
 acceptance-tests
-testUS24saveButtonSavesInImage
+testUS24SaveButtonSavesInImage
 
 	self enterSaveNameInDialog: [self editorModel perform: (self menuActionByLabel: 'Save as')].
 	self doMenuActionByLabel:  'Save'.

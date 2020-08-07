@@ -1,5 +1,5 @@
 acceptance-tests
-testUS86timeLastSavedIsUpdatedWhenSaving
+testUS86TimeLastSavedIsUpdatedWhenSaving
 
 	| before after documentSaveTime |
 	before := Time current asSeconds.
