@@ -1,4 +1,4 @@
 color
 resetColor
 	
-	self remove: (TextStructure color)
+	self remove: (self class color)

@@ -2,6 +2,7 @@
 	"class" : {
 		"boldStructureEnclosingStrings" : "JEH 8/3/2020 14:36",
 		"codeStructureEnclosingStrings" : "JEH 8/3/2020 14:37",
+		"event:contains:" : "frc 8/7/2020 11:23",
 		"export:on:" : "frc 8/4/2020 14:26",
 		"fileEnding" : "JEH 7/26/2020 16:10",
 		"heading1StructureEnclosingStrings" : "JEH 8/3/2020 14:37",
@@ -16,6 +17,7 @@
 		"listMiddleString" : "frc 8/1/2020 13:30",
 		"paragraphStructureEnclosingStrings" : "JEH 8/3/2020 14:38",
 		"quoteStructureEnclosingStrings" : "JEH 8/3/2020 14:39",
+		"removeLastCharFrom:" : "frc 8/7/2020 11:24",
 		"template" : "frc 8/1/2020 13:13",
 		"underlinedStructureEnclosingStrings" : "JEH 8/3/2020 14:39",
 		"urlStructureEnclosingStrings" : "JEH 8/3/2020 14:39" },
@@ -27,7 +29,6 @@
 		"document" : "frc 7/30/2020 08:43",
 		"document:" : "frc 7/30/2020 08:43",
 		"endString" : "JEH 7/26/2020 17:39",
-		"event:contains:" : "JEH 7/26/2020 17:23",
 		"eventHandlingDictionary" : "frc 7/30/2020 08:43",
 		"export:on:" : "frc 8/4/2020 14:27",
 		"fileStream" : "frc 7/30/2020 08:43",
@@ -51,8 +52,7 @@
 		"putClosingStrings" : "JEH 7/26/2020 16:27",
 		"putOpeningStrings" : "JEH 7/26/2020 16:27",
 		"putSpecialStrings:with:" : "JEH 8/3/2020 14:53",
-		"putTextForEvent:" : "frc 8/1/2020 13:07",
-		"removeLastCharFrom:" : "frc 8/1/2020 13:07",
+		"putTextForEvent:" : "frc 8/7/2020 11:24",
 		"removeStructuresFromActive:" : "frc 8/1/2020 13:07",
 		"saveFile" : "JEH 7/26/2020 17:36",
 		"startString" : "JEH 7/26/2020 16:16" } }

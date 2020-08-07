@@ -1,4 +1,4 @@
-pasting
+utilities
 makeTextURLFrom: aString
 
 	^ aString asText

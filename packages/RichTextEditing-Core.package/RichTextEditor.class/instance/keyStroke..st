@@ -7,7 +7,7 @@ keyStroke: aKeyboardEvent
 		ifTrue: [self model applyCurrentStructures].
 	(self isStructureShortcut: aKeyboardEvent) ifFalse: 
 		[self model unbufferStructures].
-	(self isCtrlA: aKeyboardEvent)
+	(self class isCtrlA: aKeyboardEvent)
 		ifTrue: [self selectAll].	
 	self model precedingStructuresChanged.
 	self model updateFooter.

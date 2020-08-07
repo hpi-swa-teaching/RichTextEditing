@@ -1,4 +1,4 @@
-text structures
+utilities
 hasStructure: aSymbol forText: aText from: start to: end
 
 	aText isEmpty 
