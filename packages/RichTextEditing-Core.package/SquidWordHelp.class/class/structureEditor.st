@@ -17,8 +17,8 @@ Using the "Up" and "Down" buttons you can rearrange the structures in the list. 
 
 Additionally, you can select a new styles template for your text.
 Selecting a template in the list to the left column and then clicking the "Accept Template" button in the bottom left hand corner (and the "Select template" button in the appearing confirmation window) will replace the currently configured structures with the ones that are predifined for that template. The formatting of the current document will be converted, as long as matching structures can be found in the new template.
-Note that, after a template has been selected, changes to the appearing structures won''''t be saved back to the template and are specific to the document you are editing.!
-]style[(123 16 968 19 4 662)f1,,f1,,f1,!' readStream nextChunkText)
+Note that, after a template has been selected, changes to the appearing structures won''t be saved back to the template and are specific to the document you are editing.!
+]style[(123 16 968 19 4 661)f1,,f1,,f1,!' readStream nextChunkText)
 			key: #structureEditor;
 			shouldStyle: false;
 			yourself
