@@ -5,4 +5,5 @@ structureSectionFrame
 		leftFraction: 0;
 		rightFraction: 0.3;
 		topFraction: 0;
-		bottomFraction: 1
+		bottomFraction: 1;
+		yourself

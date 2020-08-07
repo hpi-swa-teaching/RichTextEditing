@@ -5,4 +5,5 @@ stylePanelFrame
 		leftFraction: 0.6;
 		rightFraction: 1;
 		topFraction: 0;
-		bottomFraction: 1
+		bottomFraction: 1;
+		yourself

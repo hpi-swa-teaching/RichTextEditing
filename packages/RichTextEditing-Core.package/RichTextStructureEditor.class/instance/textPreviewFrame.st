@@ -5,4 +5,5 @@ textPreviewFrame
 		leftFraction: 0;
 		rightFraction: 1;
 		topFraction: 0.5 offset: self styleButtonPanelFrame bottomOffset;
-		bottomFraction: 1
+		bottomFraction: 1;
+		yourself

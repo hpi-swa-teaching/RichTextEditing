@@ -5,4 +5,5 @@ templatePanelFrame
 		leftFraction: 0;
 		rightFraction: 0.2;
 		topFraction: 0;
-		bottomFraction: 1
+		bottomFraction: 1;
+		yourself
