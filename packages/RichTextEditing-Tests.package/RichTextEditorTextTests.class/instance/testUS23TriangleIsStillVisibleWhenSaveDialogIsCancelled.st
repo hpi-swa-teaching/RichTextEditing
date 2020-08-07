@@ -3,5 +3,5 @@ testUS23TriangleIsStillVisibleWhenSaveDialogIsCancelled
 
 	self 
 		enterExampleStringOntoTextField;
-		enterNothingInSaveDialog;
+		enterStringInSaveDialog: '';
 		assert: self triangleIsVisible.

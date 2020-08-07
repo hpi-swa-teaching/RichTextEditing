@@ -1,4 +1,0 @@
-constants
-rightArrowKey
-
-	^ Character arrowRight 

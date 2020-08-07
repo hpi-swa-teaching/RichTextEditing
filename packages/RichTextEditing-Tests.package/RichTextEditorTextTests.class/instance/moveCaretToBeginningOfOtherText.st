@@ -1,4 +1,0 @@
-utilities
-moveCaretToBeginningOfOtherText
-	
-	self moveCaretMultipleTimesLeft: self exampleString size

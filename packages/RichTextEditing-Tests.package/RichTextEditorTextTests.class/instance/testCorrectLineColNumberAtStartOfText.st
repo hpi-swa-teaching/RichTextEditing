@@ -3,5 +3,5 @@ testCorrectLineColNumberAtStartOfText
 
 	self 
 		enterStringOntoTextField: self multipleLineString;
-		moveCaretToBeginningOfText;
+		moveCaretToBeginOfText;
 		assert: (self editorModel currentPositionInText) = (1@1)

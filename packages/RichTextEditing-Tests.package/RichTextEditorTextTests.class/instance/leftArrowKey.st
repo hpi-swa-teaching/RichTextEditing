@@ -1,4 +1,0 @@
-constants
-leftArrowKey
-
-	^ Character arrowLeft 
