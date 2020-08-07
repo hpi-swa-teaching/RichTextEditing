@@ -1,4 +1,4 @@
 text structures
 setNewTemplate: aRichTextTemplateClass
 
-	aRichTextTemplateClass applyOnDocument: self
+	aRichTextTemplateClass applyOn: self
